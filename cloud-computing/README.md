@@ -19,7 +19,6 @@ This repository is organized to make it easy for you to find the answers and sol
 4. **Review the Answers:**
    - Open the relevant week-XX.md file to review the answers for that week. The answers are structured to help you understand and complete your assignments.
 
-
 By following these steps, you'll be able to easily find and utilize the assignment answers and solutions for the NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing course. We hope this resource helps you with your studies!
 
 ---
