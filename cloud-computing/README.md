@@ -1,29 +1,26 @@
-# NPTEL cloud computing Assignment Answers and Solutions
+# NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing Assignment Answers and Solutions
 
-Are you looking for NPTEL cloud computing Assignment Answers? This repository will help you find your answers and solutions for the cloud computing course. We provide comprehensive and accurate solutions to assist you with your assignments.
+Are you looking for NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing Assignment Answers? This repository provides comprehensive solutions and answers for the  $args[1].ToUpper() loud $args[1].ToUpper() omputing course. Here, you'll find detailed explanations and solutions to help you complete your assignments efficiently.
 
-## How to Use This Repo to Access NPTEL cloud computing Assignment Answers and Solutions
+## How to Use This Repo to See NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing Assignment Answers and Solutions
 
-1. **Browse Course Folders:**
-- Each course is organized into its respective folder, named after the course (e.g., Cloud-Computing).
+This repository is organized to make it easy for you to find the answers and solutions for each week's assignments. Follow these steps to navigate and use this repo effectively:
 
-2. **Navigate to Weekly Assignments:**
-- Inside each course folder, you will find sub-folders for each week, named as week-01, week-02, etc.
+1. **Access the Repository:**
+   - Visit the [NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing Assignment Answers GitHub repository](https://github.com/progiez/nptel-assignment-answers).
 
-3. **View Assignment Answers:**
-- Open the relevant week-XX.md file within the weeks folder to access the assignment answers and solutions for that specific week.
+2. **Navigate to the Course Folder:**
+   - Find the folder named **$formattedCourseName**. This folder contains all the weekly assignments for the course.
 
-4. **Use the Content:**
-- The answers and solutions are provided to guide you in completing your assignments. Make sure to adapt and understand the solutions according to your course requirements.
+3. **Select the Week:**
+   - Inside the course folder, you'll see files named week-01.md, week-02.md, and so on up to week-12.md.
+   - Click on the file corresponding to the week you are interested in. Each file contains detailed answers and solutions for that particular week's assignments.
 
-5. **Update and Contribute:**
-- If you have improvements or corrections, you can submit a pull request with your changes. This helps keep the repository up-to-date and accurate.
+4. **Review the Answers:**
+   - Open the relevant week-XX.md file to review the answers for that week. The answers are structured to help you understand and complete your assignments.
 
-### Additional Instructions
-- Ensure you are viewing the correct week folder and the corresponding week-XX.md file for the answers.
-- Review the content and verify against your assignment questions for accuracy.
-- Use the README.md files in each course folder for general instructions and an overview of the course content.
 
-### Contact
-For any questions or further assistance, please ask freely .
+By following these steps, you'll be able to easily find and utilize the assignment answers and solutions for the NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing course. We hope this resource helps you with your studies!
 
+---
+*Note: This repository is intended for educational purposes only. Please use the provided answers as a guide to better understand the course material.*
