@@ -1,6 +1,6 @@
 # NPTEL Assignment Answers 2024 with Solutions (July-Dec) 
 
-Welcome to the NPTEL Assignment Answers and Solutions repository! This repository contains comprehensive answers and solutions for various NPTEL courses. 
+Welcome to the NPTEL Assignment Answers 2024 repository! This repository contains comprehensive answers and solutions for various NPTEL courses. 
 
 ## How to Use This Repo to See NPTEL Assignment Answers and Solutions 2024
 
