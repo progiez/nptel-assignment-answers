@@ -1,13 +1,13 @@
-# NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing Assignment Answers and Solutions
+# NPTEL Cloud Computing Assignment Answers and Solutions
 
-Are you looking for NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing Assignment Answers? This repository provides comprehensive solutions and answers for the  $args[1].ToUpper() loud $args[1].ToUpper() omputing course. Here, you'll find detailed explanations and solutions to help you complete your assignments efficiently.
+Are you looking for NPTEL Cloud Computing Assignment Answers? This repository provides comprehensive solutions and answers for the Cloud Computing course. Here, you'll find detailed explanations and solutions to help you complete your assignments efficiently.
 
-## How to Use This Repo to See NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing Assignment Answers and Solutions
+## How to Use This Repo to See NPTEL Cloud Computing Assignment Answers and Solutions
 
 This repository is organized to make it easy for you to find the answers and solutions for each week's assignments. Follow these steps to navigate and use this repo effectively:
 
 1. **Access the Repository:**
-   - Visit the [NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing Assignment Answers GitHub repository](https://github.com/progiez/nptel-assignment-answers).
+   - Visit the [NPTEL Assignment Answers GitHub repository](https://github.com/progiez/nptel-assignment-answers).
 
 2. **Navigate to the Course Folder:**
    - Find the folder named **$formattedCourseName**. This folder contains all the weekly assignments for the course.
@@ -19,7 +19,7 @@ This repository is organized to make it easy for you to find the answers and sol
 4. **Review the Answers:**
    - Open the relevant week-XX.md file to review the answers for that week. The answers are structured to help you understand and complete your assignments.
 
-By following these steps, you'll be able to easily find and utilize the assignment answers and solutions for the NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing course. We hope this resource helps you with your studies!
+By following these steps, you'll be able to easily find and utilize the assignment answers and solutions for the NPTEL Cloud Computing course. We hope this resource helps you with your studies!
 
 ---
 *Note: This repository is intended for educational purposes only. Please use the provided answers as a guide to better understand the course material.*

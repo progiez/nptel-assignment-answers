@@ -1,3 +1,3 @@
-# NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing Week 12 Assignment Answers
+# NPTEL Cloud Computing Week 12 Assignment Answers
 
-Are you looking for NPTEL  $args[1].ToUpper() loud $args[1].ToUpper() omputing Week 12 Assignment Answers? This repository will help you find your answers and solutions for Week 12 of the  $args[1].ToUpper() loud $args[1].ToUpper() omputing course. We provide detailed solutions to help you complete your assignments efficiently.
+Are you looking for NPTEL Cloud Computing Week 12 Assignment Answers? This repository will help you find your answers and solutions for Week 12 of the Cloud Computing course. We provide detailed solutions to help you complete your assignments efficiently.
