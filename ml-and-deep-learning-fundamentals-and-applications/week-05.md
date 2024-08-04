@@ -1,0 +1,3 @@
+# NPTEL ML And Deep Learning Fundamentals And Applications Week 05 Assignment Answers
+
+Are you looking for NPTEL ML And Deep Learning Fundamentals And Applications Week 05 Assignment Answers? This repository will help you find your answers and solutions for Week 05 of the ML And Deep Learning Fundamentals And Applications course. We provide detailed solutions to help you complete your assignments efficiently.
