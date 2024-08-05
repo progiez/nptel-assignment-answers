@@ -1,3 +1,374 @@
 # NPTEL Programming In Java Week 02 Assignment Answers
 
 Are you looking for NPTEL Programming In Java Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Programming In Java course. We provide detailed solutions to help you complete your assignments efficiently.
+
+![Programming in Java Nptel Week 2 Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*05hNRJouYrI1XNRrtP0OrA.jpeg)
+
+Programming in Java Nptel Week 2 Assignment Answers (July-Dec 2024)
+
+
+# Programming in Java Nptel Week 2 Assignment Answers (July-Dec 2024)<a id="19fc"></a>
+
+**Q1.**Which of the following is the correct way to declare a class in Java?\
+a. public class MyClass {}\
+b. class MyClass\[] {}\
+c. public MyClass class {}\
+d. MyClass public class {}
+
+**Answer: a. public class MyClass {}**
+
+**Q2.**What is the purpose of a constructor in a class?\
+a. To destroy objects of the class\
+b. To create static methods\
+c. To implement inheritance\
+d. To initialize objects of the class
+
+**Answer: d. To initialize objects of the class**
+
+**For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
+
+**These are Programming in Java Nptel Week 2 Assignment Answers**
+
+Q3.Which keyword is used in Java to refer to the current object?\
+a. that\
+b. self\
+c. current\
+d. this
+
+**Answer: d. this**
+
+**Q4.Consider the following code snippet. What will be the output?**\
+a. 0\
+b. 10\
+c. Compilation error\
+d. Runtime error
+
+[**_**Answer: Click here to see answer**_**](https://progiez.com/programming-in-java-nptel-week-2-assignment-answers)
+
+**For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
+
+**These are Programming in Java Nptel Week 2 Assignment Answers**
+
+**Q5.**Which of the following demonstrates constructor overloading in Java?\
+a. Defining multiple constructors in a class with different parameter lists\
+b. Defining multiple methods in a class with the same name\
+c. Defining a constructor in a subclass\
+d. Using the super keyword
+
+[**_**Answer: Click here to see answer**_**](https://progiez.com/programming-in-java-nptel-week-2-assignment-answers)
+
+**Q6.** What is the purpose of the this keyword in the context of avoiding name space collision?\
+a. To call another constructor in the same class\
+b. To refer to the current object\
+c. To differentiate between instance variables and parameters with the same name\
+d. To import another class
+
+[**_**Answer: Click here to see answer**_**](https://progiez.com/programming-in-java-nptel-week-2-assignment-answers)
+
+**For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
+
+**These are Programming in Java Nptel Week 2 Assignment Answers**
+
+**Q7.** Which of the following is the correct signature of the main method in Java?\
+a. public void main(String\[] args)\
+b. public static void main(String\[] args)\
+c. public static void main()\
+d. public main(String\[] args)
+
+[**_**Answer: Click here to see answer**_**](https://progiez.com/programming-in-java-nptel-week-2-assignment-answers)
+
+**Q8.** Which class is used in Java to take runtime data input from the user?\
+a. BufferReader\
+b. UserInputStreamReader\
+c. Scanner\
+d. DataInputStreamReader
+
+[**_**Answer: Click here to see answer**_**](https://progiez.com/programming-in-java-nptel-week-2-assignment-answers)
+
+**For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
+
+**These are Programming in Java Nptel Week 2 Assignment Answers**
+
+**Q9.** What is the output of the following Java code snippet? (\n in output is to be assumed to be the new line character)
+
+a. Hello World\nNumber: 10\
+b. Hello WorldNumber: 10\
+c. Hello \nWorld\nNumber: 10\
+d. Hello World\nNumber: 10\n
+
+[**_**Answer: Click here to see answer**_**](https://progiez.com/programming-in-java-nptel-week-2-assignment-answers)
+
+**Q10.** How do you read a line of text from the console using the Scanner class in Java?\
+a. scanner.readLine()\
+b. scanner.nextLine()\
+c. scanner.getLine()\
+d. scanner.fetchLine()
+
+[**_**Answer: Click here to see answer**_**](https://progiez.com/programming-in-java-nptel-week-2-assignment-answers)
+
+**For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
+
+**These are Programming in Java Nptel Week 2 Assignment Answers**
+
+All Weeks of Programming In Java: [Click Here](https://progiez.com/nptel-assignment-answers/nptel-programming-in-java-assignment-answers)
+
+For answers to additional Nptel courses, please refer to this link: [NPTEL Assignment Answers](https://progiez.com/nptel-assignment-answers)
+
+**Programming in Java Nptel Week 2 Assignment Answers (Jan-Apr 2024**)
+
+**Course name: Programming In Java**
+
+**Course Link:** [**Click Here**](https://onlinecourses.nptel.ac.in/noc24_cs43/preview)
+
+**For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
+
+These are NPTEL Programming In Java Week 2 Assignment Answers
+
+Q1. In Java programming an object can take many forms. This feature is called **\_\_\_\_\_\_\_**.\
+a. Abstraction\
+b. Polymorphism\
+c. Encapsulation\
+d. Inheritance
+
+**Answer: b. Polymorphism**
+
+**Q2. Which of the following is a valid declaration of an object of class, say NPTEL?**\
+a. NPTEL obj = new NPTEL();\
+b. NPTEL obj = new NPTEL;\
+c. obj = new NPTEL();\
+d. new NPTEL obj;
+
+**Answer: a. NPTEL obj = new NPTEL();**
+
+**Q3. A default constructor\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.**\
+a. has no arguments\
+b. has no return type\
+c. has one argument but no return type\
+d. has two arguments
+
+**Answer: a. has no arguments**
+
+**For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
+
+**These are NPTEL Programming In Java Week 2 Assignment Answers**
+
+**Q4. A top-level class may have which one of the following access modifiers?**\
+a. package\
+b. private\
+c. protected\
+d. public
+
+**Answer: d. public**
+
+**Q5. Integer in Java is a\an \_\_\_\_\_\_\_\_\_\_.**\
+a. Adapter class\
+b. Inner class\
+c. Not a class\
+d. Wrapper class
+
+**Answer: d. Wrapper class**
+
+**Q6. What is true about the new operator?**\
+a. returns a pointer to a variable\
+b. creates a variable called new\
+c. obtains memory for a new variable\
+d. tells how much memory is available
+
+**Answer: c. obtains memory for a new variable**
+
+**For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
+
+**These are NPTEL Programming In Java Week 2 Assignment Answers**
+
+**Q7. Which one is not supported by OOP?**\
+a. Abstraction\
+b. Polymorphism\
+c. Encapsulation\
+d. Global variables
+
+**Answer: d. Global variables**
+
+**Q8. Which of the following modifiers can be used to disallow a method from being overridden?**\
+a. final\
+b. transient\
+c. volatile\
+d. static
+
+**Answer: a. final**
+
+**Q9. Consider the following code segment\
+Identify the line number(s) where there is/are error(s) in the above code.**\
+a. 1\
+b. 2\
+c. 3\
+d. 4 and 5
+
+**Answer: b. 2**
+
+**Q10. Which of the following is TRUE about print() and println() methods?**\
+a. print() prints in a single line only and multiple lines cannot be printed in any way.\
+b. println() prints and then appends a line break.\
+c. println() prints in a single line only and multiple lines cannot be printed.\
+d. print() prints and then appends a line break.
+
+**Answer: b. println() prints and then appends a line break.**
+
+**For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
+
+**These are NPTEL Programming In Java Week 2 Assignment Answers**
+
+More Weeks of Programming In Java: [Click here](https://progiez.com/nptel-leadership-and-team-effectiveness-assignment-1)
+
+More Nptel Courses: <https://progiez.com/nptel-assignment-answers>
+
+**Programming in Java Nptel Week 2 Assignment Answers (July-Dec 2023**)
+
+**Course Name: Programming In Java**
+
+**Course Link:** [**Click Here**](https://onlinecourses.nptel.ac.in/noc23_cs74/course)
+
+**These are NPTEL Programming In Java Week 2 Assignment 2 Answers**
+
+Programming Assignment
+
+**Question 1\
+Complete the code segment to call the method print() of class Student first and then call print() method of class School.**
+
+**Solution:**
+
+    Student student = new Student();
+        
+        student.print();
+        
+        School school = new School();
+        
+        school.print();
+
+**Question 2\
+Complete the code segment _**to call the method**_ print() _**of class given class Printer to print the following.**_\
+— — — — — — — — — — –\
+Hi! I am class STUDENT\
+Hi! I class SCHOOL.\
+— — — — — — — — — — –**
+
+**Solution:**
+
+    Printer p = new Printer();
+        
+        p.print("Hi! I am class STUDENT");
+        p.print();
+
+**These are NPTEL Programming In Java Week 2 Assignment Answers**
+
+**Question 3\
+Complete the code segment to call print() method of class Question by creating a method named ‘studentMethod()’.**
+
+**Solution:**
+
+    void studentMethod(){
+        
+        print(this);
+        }
+
+**Question 4\
+Complete the code segment to call default constructor first and then any other constructor in the class.**
+
+**Solution:**
+
+    class Answer{
+    	
+    	Answer(){
+    		System.out.println("You got nothing.");
+    	}
+    	
+    	Answer(int marks, String type){
+    	
+    		this();
+    	
+    		System.out.print("You got "+marks+" for an "+ type);
+    	}
+    }
+
+**These are NPTEL Programming In Java Week 2 Assignment Answers**
+
+**Question 5\
+Complete the code segment to debug / complete the program which is intended to print ‘NPTEL JAVA’.**
+
+**Solution:**
+
+    String nptel,space,java;
+    	
+    	nptel="NPTEL";
+    	space=" ";
+    	java="JAVA";
+
+**These are NPTEL Programming In Java Week 2 Assignment Answers**
+
+More Weeks of Programming In Java: [Click here](https://progiez.com/nptel-assignment-answers/nptel-programming-in-java-assignment-answers)
+
+More Nptel Courses: [Click here](https://progiez.com/nptel-assignment-answers)
+
+
+# Programming in Java Nptel Week 2 Assignment Answers (Jan-Apr 2023)<a id="4733"></a>
+
+**Course Name: Programming in Java**
+
+Course Link: [Click Here](https://onlinecourses.nptel.ac.in/noc23_cs49/course)
+
+**These are NPTEL Programming In Java Week 2 Assignment 2 Answers**
+
+**Week 3:** [**Click Here**](https://progiez.com/nptel-programming-in-java-week-3-assignment-3-answers)
+
+**Q1. Following is a program given for this question.\
+What will be the output of the above program?**\
+a. 22221010\
+b. 12222101\
+c. 22101010\
+d. 22221012
+
+**Answer: a. 22221010**
+
+**Q2. When an array is passed to a method, what value does the method receive?**\
+a. Reference of the array.\
+b. Copy of the array.\
+c. First element in the array.\
+d. Length of the array.
+
+**Answer: a. Reference of the array.**
+
+**These are NPTEL Programming In Java Week 2 Assignment Answers**
+
+**Q3. Following is a program given for this question.\
+What will be the output of the above program?**\
+a. 28\
+b. -29\
+c. 30\
+d. -31
+
+**Answer: c. 30**
+
+**Q4. How many bits are needed for float and double in Java, respectively?**\
+a. 32 and 64\
+b. 32 and 32\
+c. 64 and 64\
+d. 64 and 32
+
+**Answer: a. 32 and 64**
+
+**These are NPTEL Programming In Java Week 2 Assignment Answers**
+
+**Q5. Which of the following is a valid automatic type conversion in Java?**\
+a. short to byte\
+b. float to long\
+c. int to short\
+d. int to long
+
+**Answer: d. int to long**
+
+**Q6. Consider the following program and identify the output.**\
+a. 5\
+b. 10\
+c. 50\
+d. Compilation error
+
+**Answer: d. Compilation error**
