@@ -20,16 +20,6 @@ If you're here to find answers for specific NPTEL courses, follow these steps:
 
 By following these steps, you can easily locate and use the assignment answers and solutions for the NPTEL courses provided in this repository. We hope this resource assists you in your studies!
 
-# Welcome to the NPTEL Assignment Answers Wiki! 📚
-
-Wikis provide a place in your repository to lay out the roadmap of your project, show the current status, and document software better, together.
-
-## About This Repository
-
-The **NPTEL Assignment Answers** repository is a collection of solutions and answers for various NPTEL online courses. Whether you're looking for help with assignments, seeking detailed solutions, or just want to explore course content, this repository is your go-to resource! 🎓
-
-
-
 ## List of Courses
 
 Here's a list of courses currently available in this repository:
