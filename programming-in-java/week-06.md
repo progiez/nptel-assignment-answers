@@ -1,11 +1,9 @@
 # NPTEL Programming In Java Week 06 Assignment Answers
 
 Are you looking for NPTEL Programming In Java Week 06 Assignment Answers? This repository will help you find your answers and solutions for Week 06 of the Programming In Java course. We provide detailed solutions to help you complete your assignments efficiently.
+![Programming in Java Nptel Week 6 Assignment Answers](https://progiez.com/wp-content/uploads/2024/09/Programming-In-Java-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-1024x576.webp "Programming in Java Nptel Week 6 Assignment Answers 1")<figcaption class="wp-element-caption">Programming in Java Nptel Week 6 Assignment Answers</figcaption>
 
 
-Programming in Java Nptel Week 6 Assignment Answers
-Programming in Java Nptel Week 6 Assignment Answers
-Programming in Java Nptel Week 6 Assignment Answers (July-Dec 2024)
 1. What is the output of the following program?
 
 a. “Hello World”
