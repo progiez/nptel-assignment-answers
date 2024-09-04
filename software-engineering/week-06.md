@@ -1,3 +1,185 @@
 # NPTEL Software Engineering Week 06 Assignment Answers
 
 Are you looking for NPTEL Software Engineering Week 06 Assignment Answers? This repository will help you find your answers and solutions for Week 06 of the Software Engineering course. We provide detailed solutions to help you complete your assignments efficiently.
+
+
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="576" src="https://progiez.com/wp-content/uploads/2024/09/Software-Testing-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-1024x576.webp" alt="Software Engineering Nptel Week 6 Assignment Answers" class="wp-image-13429" title="Software Engineering Nptel Week 6 Assignment Answers 1" srcset="https://progiez.com/wp-content/uploads/2024/09/Software-Testing-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-1024x576.webp 1024w, https://progiez.com/wp-content/uploads/2024/09/Software-Testing-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-300x169.webp 300w, https://progiez.com/wp-content/uploads/2024/09/Software-Testing-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-768x432.webp 768w, https://progiez.com/wp-content/uploads/2024/09/Software-Testing-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Software Engineering Nptel Week 6 Assignment Answers</figcaption></figure>
+
+## **<mark class="has-inline-color has-vivid-red-color"><span class="stk-highlight">Software Engineering Nptel Week 6 Assignment Answers</span></mark> (July-Dec 2024)**
+
+* * *
+
+**Q1.**A data flow diagram represents which one of the following?  
+a. The conditions based on which data items may be processed  
+b. The order in which different activities are carried out  
+c. The transformation of data through processing stations  
+d. The order in which various functions of a program are invoked  
+e. Interaction among different modules of a program
+
+**Answer: c. The transformation of data through processing stations**
+
+* * *
+
+**Q2.**For a given programming problem, a DFD (data Flow Diagram) model depicts which of the  
+following?
+
+a. Flow of data
+
+b. Flow of control
+
+c. Flow of decisions
+
+d. Flow of atomic conditions
+
+e. Sequence of interaction among processes
+
+f .Interaction among modules
+
+**Answer:** [Click here to view Answers](https://progiez.com/software-engineering-nptel-week-6-assignment-answers)
+
+* * *
+
+**<mark class="has-inline-color has-vivid-red-color">For answers or latest updates join our telegram channel:<span> </span><a href="https://telegram.me/nptel_assignments" target="_blank" rel="noreferrer noopener">Click here to join</a></mark>**
+
+**<mark class="has-inline-color has-vivid-red-color"><mark class="has-inline-color has-vivid-red-color">These are Software Engineering Nptel Week 6 Assignment Answers</mark></mark>**
+
+* * *
+
+**Q3**.Which of the following statements are not true of a data flow diagram (DFD) model?  
+a. Itis a hierarchical diagram.  
+b. It represents code structure  
+c. It does not represent decisions and control flows.  
+d. It represents decomposition of functions and data into finer forms.  
+e. It represents the sequence in which the different processes are invoked
+
+**Answer:** [Click here to view Answers](https://progiez.com/software-engineering-nptel-week-6-assignment-answers)
+
+* * *
+
+**Q4. **In a procedural design approach, during the detailed design stage, which of the following is  
+undertaken?
+
+a. Module structure is designed
+
+b. Data flow representation is developed
+
+¢. Data structures and algorithms for the individual modules are designed
+
+d. Structure chart is developed
+
+e. Module call relationships are designed
+
+f. Module interactions are designed
+
+**Answer:** [Click here to view Answers](https://progiez.com/software-engineering-nptel-week-6-assignment-answers)
+
+* * *
+
+**<mark class="has-inline-color has-vivid-red-color">For answers or latest updates join our telegram channel:<span> </span><a href="https://telegram.me/nptel_assignments" target="_blank" rel="noreferrer noopener">Click here to join</a></mark>**
+
+**<mark class="has-inline-color has-vivid-red-color"><mark class="has-inline-color has-vivid-red-color">These are Software Engineering Nptel Week 6 Assignment Answers</mark></mark>**
+
+* * *
+
+**Q5.**Which one of the following is true of a function-oriented design approach?  
+a. Top-down  
+b. Bottom-up  
+c. Mixed-in  
+d. Bottom-out  
+e. Bottom-up at system level and top-down at module level
+
+**Answer:** [Click here to view Answers](https://progiez.com/software-engineering-nptel-week-6-assignment-answers)
+
+* * *
+
+**Q6.**A context diagram should not represent which of the following?  
+a. External entities.  
+b. Module Interactions  
+c. Data input to the system by the external entities,  
+d. Output data generated by the system.  
+e. Module structure
+
+**Answer:** [Click here to view Answers](https://progiez.com/software-engineering-nptel-week-6-assignment-answers)
+
+* * *
+
+**<mark class="has-inline-color has-vivid-red-color">For answers or latest updates join our telegram channel:<span> </span><a href="https://telegram.me/nptel_assignments" target="_blank" rel="noreferrer noopener">Click here to join</a></mark>**
+
+**<mark class="has-inline-color has-vivid-red-color"><mark class="has-inline-color has-vivid-red-color">These are Software Engineering Nptel Week 6 Assignment Answers</mark></mark>**
+
+* * *
+
+**Q7.**a. External entities are appearing at the context level  
+b. Input/Output occurring at the context level  
+c. Data item name missing on a data flow arrow  
+d. A data store appearing at the context level  
+e. Solid arrows have been used in place of dashed arrows  
+f. Name of one entity is missing
+
+**Answer:** [Click here to view Answers](https://progiez.com/software-engineering-nptel-week-6-assignment-answers)
+
+* * *
+
+**Q8. **Which of the following information are not present in a structure chart model of a software  
+system?
+
+a. Various modules making up the system,
+
+b. Module call structure
+
+c. Parameters passed among different modules
+
+d. Data structures and algorithms of the modules
+
+e. How the data is transformed by the functions
+
+**Answer:** [Click here to view Answers](https://progiez.com/software-engineering-nptel-week-6-assignment-answers)
+
+* * *
+
+**<mark class="has-inline-color has-vivid-red-color">For answers or latest updates join our telegram channel:<span> </span><a href="https://telegram.me/nptel_assignments" target="_blank" rel="noreferrer noopener">Click here to join</a></mark>**
+
+**<mark class="has-inline-color has-vivid-red-color"><mark class="has-inline-color has-vivid-red-color">These are Software Engineering Nptel Week 6 Assignment Answers</mark></mark>**
+
+* * *
+
+**Q9.**What is wrong with the following DFD?  
+a. Unbalanced
+
+b. Presence of synchronous data flow  
+c. Presence of asynchronous data flow  
+d. Data flow arrows are not numbered  
+e. Presence of control information
+
+**Answer:** [Click here to view Answers](https://progiez.com/software-engineering-nptel-week-6-assignment-answers)
+
+* * *
+
+**Q10**.‘Which of the following can be said about the following DFD (data flow diagram)?
+
+a. The bubble Display number processes numbers at the same rate as the bubble  
+Read-numbers
+
+b. The bubble Validate numbers processes numbers at the same rate as the  
+bubble Read-numbers
+
+c. The bubble Display number processes numbers at a different rate as  
+compared to the bubble Read-numbers
+
+d. The bubble Validate number processes numbers at a different rate as  
+compared to the bubble Read-numbers
+
+e. The rate at which the bubble Display numbers processes numbers is the as  
+the rate at which Validate numbers processes numbers.
+
+**Answer:** [Click here to view Answers](https://progiez.com/software-engineering-nptel-week-6-assignment-answers)
+
+* * *
+
+**<mark class="has-inline-color has-vivid-red-color">For answers or latest updates join our telegram channel:<span> </span><a href="https://telegram.me/nptel_assignments" target="_blank" rel="noreferrer noopener">Click here to join</a></mark>**
+
+**<mark class="has-inline-color has-vivid-red-color"><mark class="has-inline-color has-vivid-red-color">These are Software Engineering Nptel Week 6 Assignment Answers</mark></mark>**
+
+All Weeks of Software Engineering: [Click here](https://progiez.com/nptel-assignment-answers/software-testing)
+
+For answers to additional Nptel courses, please refer to this link: [NPTEL Assignmen](https://progiez.com/nptel-assignment-answers)
