@@ -24,7 +24,7 @@ b. Numpy
 c. Pandas  
 d. Matplotlib
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
@@ -39,7 +39,7 @@ b. Parallel Programming
 c. Socket Programming   
 d. None of these 
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
@@ -49,7 +49,7 @@ b. Rule placement and Controller placement
 c. Bothaandb  
 d. Neither a nor b
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
@@ -61,7 +61,7 @@ d. Neither a nor b
 a. True  
 b. False
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
@@ -71,7 +71,7 @@ b. Filtering
 ¢. Neither a no rb   
 d. Both a and b 
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
@@ -93,7 +93,7 @@ d. Neither a nor b
 a. True  
 b. False
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
@@ -105,7 +105,7 @@ b. False
 a. True  
 b. False
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
@@ -115,7 +115,7 @@ b. All
 c. Half  
 d. Some
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
@@ -127,7 +127,7 @@ d. Some
 a. Yes  
 b. No
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
@@ -135,7 +135,7 @@ b. No
 a Yes   
 b. No
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
@@ -149,7 +149,7 @@ b. Northbound IDs
 c. Both a and b  
  d. Neither a nor b
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
@@ -159,7 +159,7 @@ b. 50/sec
 ¢. Neither a nor b  
 d. Both a and b
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
@@ -171,7 +171,7 @@ d. Both a and b
 a. True  
 b. False
 
-**Answer:** [Click here to view Answers](https://progiez.com/programming-in-modern-c-week-7-assignment-answers)
+**Answer:** [Click here to view Answers](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
 
 * * *
 
