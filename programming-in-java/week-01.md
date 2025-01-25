@@ -4,6 +4,100 @@ Are you looking for NPTEL Programming In Java Week 01 Assignment Answers? This r
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*0SYmYxMwq3DgxFgkH5-UkQ.jpeg)
 
+Course Link: Click Here
+
+Programming in Java Nptel Week 1 Assignment Answers (Jan-Apr 2025)
+Que. 1) Which of the following is true?:
+a) Java uses only interpreter.
+b) Java uses only compiler.
+c) Java uses both interpreter and compiler.
+d) None of the above.
+
+View Answer
+
+Que. 2) A Java file with extension ‘class’ contains:
+a) Java source code
+b) HTML tags
+c) Java Byte code
+d) A program file written in Java programming language
+
+View Answer
+
+Que. 3) Which of the following is not an object-oriented programming paradigm?:
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Dynamic memory allocation
+
+View Answer
+
+Que. 4) Java is a platform-independent programming language because:
+a) It compiles an intermediate code targeting a virtual machine, which can be interpreted by an interpreter for a given OS.
+b) The Java compiler translates the source code directly into the machine-level language.
+c) It follows the concept of “write once and compile everywhere”.
+d) It is written almost similar to the English language.
+
+View Answer
+
+Que. 5) Which of the following is not a Language Processor?:
+a) Assembler
+b) Compiler
+c) Interpreter
+d) Fortran
+
+View Answer
+
+Que. 6) A platform is the hardware or software environment in which a program runs. Which of the following is/are Java platform component(s)?:
+a) HTML
+b) Java Virtual Machine
+c) JavaScript
+d) Hotlava
+
+See also  Programming In Java | Week 2
+View Answer
+
+Que. 7) What is the correct sequence of steps to execute a Java program?:
+a) Run → Edit → Compile
+b) Edit → Run → Compile
+c) Compile → Edit → Run
+d) Edit → Compile → Run
+
+View Answer
+
+These are Programming in Java Nptel Week 1 Assignment Answers
+
+Que. 8) What is the primary difference between javac and java commands?:
+a) javac is used to edit Java code, while java runs Java programs.
+b) javac compiles Java source code to bytecode, while java executes the bytecode on the JVM.
+c) javac executes Java programs, while java is used for compilation.
+d) Both are used for compiling Java programs.
+
+View Answer
+
+Que. 9) Which of the following is not a feature of Java?:
+a) Platform Independence
+b) Object-Oriented Programming
+c) Supports Explicit Pointers
+d) Supports Polymorphism
+
+View Answer
+
+Que. 10) What is the output of the following code?
+
+class NPTEL {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+a) Hello, World!
+b) HelloWorld!
+c) Compilation Error
+d) Runtime Error
+
+View Answer
+
+***
+
 NPTEL Programming in Java Week 1 Assignment Answers and Solutions for the 2024 session
 
 **Session: JULY-AUG 2024**
