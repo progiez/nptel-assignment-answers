@@ -4,6 +4,134 @@ Are you looking for NPTEL Software Testing Week 01 Assignment Answers? This repo
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*lOCp6Tj6P1Vi-rAAAMQBAg.jpeg)
 
+## _Software Testing Week 1 Assignment 1 Nptel Answers (Jan-Apl 2025)_
+
+**Course Link: [**Click Here**](https://examform.nptel.ac.in/2025_01/exam_form/dashboard)**
+
+***
+
+**1. Which of the following statements describe a failure of a software?**
+
+- **A)** A programmer misunderstood a part of the specification.
+- **B)** A user notices that the results produced do not match with what it should be.
+- **C)** An expression in C code uses the operator – by oversight in place of `+`.
+- **D)** A program crashes when a tester enters a valid input.
+- **E)** A reviewer reports that he/she has found a defect in the code.
+
+**[**View Answer**](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)**
+
+***
+
+**2. About half the effort of development of a typical software is spent on testing. But, testing typically requires only 10% of the development time. Which one of the following explains this apparent anomaly?**
+
+- **A)** A team has too many coders as compared to testers.
+- **B)** Testing permits many parallel activities.
+- **C)** A team has too many designers as compared to coders.
+- **D)** Testers are more proficient as compared to other developers.
+- **E)** Managers force testers to overtime.
+
+**[**View Answer**](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)**
+
+***
+
+**3. Which of the following are true concerning verification in the context of waterfall-based development?**
+
+- **A)** Carried out by the testers.
+- **B)** Carried out by the developers.
+- **C)** Involves both static and dynamic activities.
+- **D)** Involves only static activities.
+- **E)** Involves only dynamic activities.
+
+**[**View Answer**](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)**
+
+***
+
+**4. Which one of the following statements is true concerning unit testing?**
+
+- **A)** Carried out by the developers.
+- **B)** Involves testing the system as a whole.
+- **C)** Often carried out by a separate testing team.
+- **D)** Carried out by the customers.
+- **E)** Concerns validation of system functions.
+
+**[**View Answer**](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)**
+
+***
+
+**5. Which of the following statements are not implied by the pesticide paradox?**
+
+- **A)** A software can be tested by repeated application of a testing methodology.
+- **B)** A software should be tested by successive application of a wide range of testing methodologies.
+- **C)** The best testing methodology should be used towards the end of the testing phase.
+- **D)** A software should be tested by deploying the best among all the testing methodologies.
+- **E)** Any testing methodology is effective only for certain types of errors.
+
+[****See also**  **Software Testing | Week 1****](https://progiez.com/nptel-software-testing-week-1-assignment-1-answers)
+
+**[**View Answer**](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)**
+
+***
+
+**6. Which one of the following is true concerning integration testing?**
+
+- **A)** Carried out by the developers.
+- **B)** Involves testing the system as a whole.
+- **C)** Often carried out by a separate testing team.
+- **D)** Carried out by the customers.
+- **E)** Concerns validation of system functions.
+
+**[**View Answer**](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)**
+
+***
+
+**7. What is the purpose of a smoke test?**
+
+- **A)** Check sanity of the developed system.
+- **B)** Carry out a final round of testing of the software after black-box and white-box tests are over.
+- **C)** Carry out performance testing.
+- **D)** Carry out monkey testing.
+- **E)** Try multiple test cases concurrently to “singe” the system.
+
+**[**View Answer**](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)**
+
+***
+
+**8. Which of the following should NOT normally be an objective of a test team?**
+
+- **A)** To find faults in the software.
+- **B)** To assess whether the software is ready for release.
+- **C)** To crash the software by using negative test cases.
+- **D)** To demonstrate that the software doesn’t work.
+- **E)** To prove that the software is correct.
+
+**[**View Answer**](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)**
+
+***
+
+**9. Which one of the following activities is a validation activity?**
+
+- **A)** Design inspection.
+- **B)** Acceptance testing.
+- **C)** Code inspection.
+- **D)** Simulation.
+- **E)** Unit testing.
+
+**[**View Answer**](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)**
+
+***
+
+**10. Which of the following are not true of the V model?**
+
+- **A)** During requirements specification phase, system test cases are designed.
+- **B)** During design phase, integration test cases are designed.
+- **C)** During coding phase, unit test cases are designed.
+- **D)** During design phase, unit test cases are designed.
+- **E)** During requirements specification phase, integration test cases are designed.
+
+**[**View Answer**](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)**
+
+***
+
 Software Testing Week 1 Assignment 1 Nptel Answers
 
 **Course name: Software Testing**
