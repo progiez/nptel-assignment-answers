@@ -4,6 +4,117 @@ Are you looking for NPTEL Introduction To Industry 4.0 And Industrial IIoT Week 
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*3DmOoKEBCNsJUwDSPM1diQ.jpeg)
 
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs43/course)**
+
+
+## _NPTEL Introduction to Industry 4 Assignment 1 Week 1_ _(__Jan-Apr 2025__)_
+
+***
+
+**Que. 1) Fill in the blank space designated by the question mark:**
+
+![image 4](https://progiez.com/wp-content/uploads/2024/07/image-4.png "Introduction to Industry 4.0 and Industrial Internet of Things | Week 1 2")
+
+a) Snubber\
+b) Repeater\
+c) Processor\
+d) Amplifier
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**Que. 2) What is the maximum data rate of Z-Wave communication technology?**\
+a) 100 kbps\
+b) 250 kbps\
+c) 500 kbps\
+d) 1 Mbps
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**Que. 3) Which device converts electromagnetic energy into electricity and vice versa?**\
+a) Speaker\
+b) Antenna\
+c) Microphone\
+d) Strain gauge
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**Que. 4) What does ‘Range’ indicate in a sensor?**\
+a) The correctness of the output\
+b) The smallest change in input that can be detected\
+c) The difference between the standard value and the value produced by the sensor\
+d) The highest and the lowest value of the physical quantity within which the sensor can actually sense
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**Que. 5) Which coding scheme is used by the IEEE 802.15.4 standard for transmitting information?**\
+a) CSS\
+b) THSS\
+c) OFDM\
+d) PSSS
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**Que. 6) What is the standard transmission range of IEEE 802.15.4?**\
+a) 10 m to 75 m\
+b) 1 m to 5 m\
+c) 15 cm to 60 cm\
+d) 1 cm to 10 km
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**Que. 7) Which low-power radio communication technology was designed as a simpler and cheaper alternative to Zigbee for small to medium-range connectivity?**\
+a) Bluetooth\
+b) Z-Wave\
+c) RFID\
+d) NFC
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**Que. 8) Which organization has developed the ISA 100.11a standard?**\
+a) Instrument Society of America\
+b) International Society of Automation\
+c) International Studies Association\
+d) International Solar Alliance
+
+[****See also**  **Introduction To Industry 4.0 And Industrial Internet Of Things | Week 12****](https://progiez.com/nptel-introduction-to-industry-4-assignment-12-answers)
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**Que. 9) What communication modes are supported between two NFC devices?**\
+a) Broadcast-Multicast\
+b) Master-Slave\
+c) Active-Active or Active-Passive\
+d) All of these
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**Que. 10) Which of the following is/are the drawbacks of proprietary non-IP-based solutions?**\
+a) Limited flexibility to end users\
+b) Interoperability\
+c) Limited last-mile connectivity\
+d) All of these
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+*** 
 Introduction To Industry 4.0 And Industrial Internet Of Things Answers
 
 **Session: JUL — DEC 2024**
