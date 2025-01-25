@@ -66,7 +66,6 @@ Are you looking for NPTEL Software Testing Week 01 Assignment Answers? This repo
 - **D)** A software should be tested by deploying the best among all the testing methodologies.
 - **E)** Any testing methodology is effective only for certain types of errors.
 
-[****See also**  **Software Testing | Week 1****](https://progiez.com/nptel-software-testing-week-1-assignment-1-answers)
 
 **[**View Answer**](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)**
 
