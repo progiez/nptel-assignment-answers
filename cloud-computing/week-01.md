@@ -12,6 +12,108 @@ Are you looking for NPTEL Cloud Computing Week 01 Assignment Answers? This repos
 
 
 ## These are Cloud Computing Week 1 Assignment 1 Nptel Answers<a id="a9aa"></a>
+## Cloud Computing Week 1 Assignment 1 Nptel Answers (Jan-Apr 2025)
+
+***
+
+**Que. 1) Which of the following fall(s) under the “essential characteristics” of cloud computing?**\
+a) Resource Pooling\
+b) Measured Service\
+c) Rapid Elasticity\
+d) Latency
+
+Answer: Updating soon (in progress)
+
+***
+
+**Que. 2) “Google Slide” is an example of:**\
+a) PaaS\
+b) IaaS\
+c) SaaS\
+d) FaaS
+
+**[**View Answers**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que. 3) Which of the following are public cloud platform(s)?**\
+a) Windows Server Hyper-V\
+b) Google Cloud Interconnect\
+c) Amazon Virtual Private Cloud\
+d) Microsoft Azure
+
+**[**View Answers**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que. 4) VM technology allows multiple virtual machines to run on a single physical system.**\
+a) True\
+b) False
+
+**[**View Answers**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que. 5) Which one of the following is/are disadvantage(s) of cloud computing?**\
+a) Resource pooling\
+b) It requires an always-on Internet connection.\
+c) Ubiquitous\
+d) On-demand payment policy
+
+**[**View Answers**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que. 6) For less data-intensive applications, horizontal scale-out elasticity is the ideal solution.**\
+a) True\
+b) False
+
+**[**View Answers**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que. 7) The combination of Service-Oriented Infrastructure and Cloud Computing realizes:**\
+a) FTP\
+b) SNTP\
+c) XaaS\
+d) IaaS
+
+**[**View Answers**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que. 8) What is/are the main requirement(s) of a Cloud Service Provider (CSP)?**\
+a) Increase agility\
+b) Increase cost\
+c) Increase productivity\
+d) Decrease cost
+
+**[**View Answers**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que. 9) PaaS (Platform as a Service) brings the benefits:**\
+(i) Creation of software\
+(ii) Integration of web services and databases\
+a) Only (i)\
+b) Only (ii)\
+c) Both (i) and (ii)\
+d) Neither (i) nor (ii)
+
+[****See also**  **Cloud Computing Nptel Week 4 Assignment Answers****](https://progiez.com/cloud-computing-nptel-week-4-assignment-answers)
+
+**[**View Answers**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que. 10) \_\_\_\_\_\_\_\_\_\_ is a distributed computer system that consists of a collection of interconnected stand-alone computers working together as an integrated computing resource.**\
+a) Grid\
+b) Cluster\
+c) Cloud\
+d) Node
+
+**[**View Answers**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
 
 Q1.Which of the following fall(s) under the “essential characteristics” of cloud computing?\
 A. Resource Pooling\
