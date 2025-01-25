@@ -8,6 +8,160 @@ Introduction To Internet Of Things Week 1 Nptel Answers
 
 **Course Name: Introduction To Internet Of Things**
 
+## Introduction to Internet of Things Week 1 Nptel Answers (Jan – Apr 2025)
+
+Course link: [Click here](https://onlinecourses.nptel.ac.in/noc25_cs44/course)
+
+***
+
+**Que. 1) IoT stands for \_\_\_\_\_\_\_\_\_\_\_\_.**\
+a) Internet of Tasks\
+b) Internet of Tuples\
+c) Internet of Things\
+d) None of these
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 2) Which of the following technologies have unified and has resulted in the evolution of IoT?**\
+a) High-power embedded systems\
+b) Super Computing\
+c) Engine Technology\
+d) None of these
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 3) Which of the following are the enablers of IoT?**\
+a) RFID\
+b) Nanotechnology\
+c) Sensors\
+d) All of these
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 4) Which of the following is NOT a function of an IoT LAN?**\
+a) Long-range communication, global\
+b) Worldwide connections\
+c) Both (a) and (b)\
+d) Neither (a) Nor (b)
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 5) State whether the following statement is True or False.\
+Statement: The integration of existing devices, smart devices, and constrained nodes in a singular framework is one of the reasons for the address crunch in IoT.**\
+a) True\
+b) False
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 6) State True or False.\
+Statement: “In Multi-homing, a node/network is connected to a single network for improved reliability.”**\
+a) True\
+b) False
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 7) Which of the following is/are the approach/approaches for multi-homing?**\
+a) Proxy-based approach\
+b) Gateway-based approach\
+c) Both (a) and (b)\
+d) None of these
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 8) IPv6 uses \_\_\_\_\_\_\_\_\_\_\_\_ notation for its representation.**\
+a) Hexadecimal\
+b) Binary\
+c) Decimal\
+d) None of these
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 9) State True or False.\
+The parameters sensed by a sensor may be sent to the cloud for further processing.**\
+a) False\
+b) True
+
+[****See also**  **Introduction To Internet Of Things Week 7 Nptel Answers****](https://progiez.com/introduction-to-internet-of-things-week-7-nptel-answers)
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 10) The IPv6 notation uses \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ number of bits to represent an address.**\
+a) 64\
+b) 128\
+c) Both (a) and (b)\
+d) Neither (a) nor (b)
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 11) A sensor is –**\
+a) Only sensitive to the measured property\
+b) Insensitive to any other property that what the sensor is made to sense\
+c) Both (a) and (b)\
+d) None of these
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 12) We classify sensors based on –**\
+a) Output\
+b) Data type\
+c) Both (a) and (b)\
+d) None of these
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 13) Which of the following is a correct statement?**\
+a) Controlling AC loads using low DC signals\
+b) Relays are electromechanical\
+c) Relays are actuators\
+d) All of these
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 14) Based on the output, sensors are classified as \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.**\
+a) Analog\
+b) Digital\
+c) Both (a) and (b)\
+d) Neither (a) nor (b)
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+
+***
+
+**Que. 15) Soft actuators are –**\
+a) Polymer-based\
+b) Mechanical\
+c) Electromechanical\
+d) None of these
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)**
+***
+
 **Course Link:** [**Click Here**](https://onlinecourses.nptel.ac.in/noc24_cs115/)
 
 These are Introduction To Internet Of Things Week 1 Nptel Answers
