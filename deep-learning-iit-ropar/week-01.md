@@ -4,6 +4,127 @@ Are you looking for NPTEL Deep Learning IIT Ropar Week 01 Assignment Answers? Th
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*QDWTnjcXhVrF7tiwqND6RA.jpeg)
 
+## Deep Learning IIT Ropar Week 1 Nptel Assignment Answers (Jan-Apr 2025)
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs21/course)**
+
+***
+
+**Que. 1) The points GGG and CCC will be classified as?**
+
+a) (C, 0), (G, 0)\
+b) (C, 0), (G, 1)\
+c) (C, 1), (G, 1)\
+d) (C, 1), (G, 0)
+
+[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que. 2) The statement that “there exists more than one decision line that could separate these data points with zero error” is:**
+
+a) True\
+b) False
+
+[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que. 3) Suppose that we multiply the weight vector www by −1-1−1. Then the same points GGG and CCC will be classified as?**
+
+a) (C, 0), (G, 0)\
+b) (C, 0), (G, 1)\
+c) (C, 1), (G, 1)\
+d) (C, 1), (G, 0)
+
+[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que. 4) Which of the following can be achieved using the perceptron algorithm in machine learning?**
+
+a) Grouping similar data points into clusters, such as organizing customers based on purchasing behavior.\
+b) Solving optimization problems, such as finding the maximum profit in a business scenario.\
+c) Classifying data, such as determining whether an email is spam or not.\
+d) Finding the shortest path in a graph, such as determining the quickest route between two cities.
+
+[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que. 5) Assume that the elements in www are initialized to zero and the perceptron learning algorithm is used to update the weights www. If the learning algorithm runs for long enough iterations, then:**
+
+a) The algorithm never converges\
+b) The algorithm converges (i.e., no further weight updates) after some iterations\
+c) The classification error remains greater than zero\
+d) The classification error becomes zero eventually
+
+[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que. 6) We know that the decision boundary learned by the perceptron is a line in R2\mathbb{R}^2R2. Suppose the input vector x∈R4x \in \mathbb{R}^4x∈R4, then the perceptron decision boundary will divide the whole R4\mathbb{R}^4R4 space into how many regions?**
+
+a) It depends on whether the data points are linearly separable or not.\
+b) 3\
+c) 4\
+d) 2\
+e) 5
+
+[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que. 7) Choose the correct input-output pair for the given MP Neuron.**f(x)={1if x1+x2+x3<20otherwisef(x) = \begin{cases} 1 & \text{if } x\_1 + x\_2 + x\_3 < 2 \\\ 0 & \text{otherwise} \end{cases} f(x)={10​if x1​+x2​+x3​<2otherwise​
+
+- y=1y = 1y=1 for (x1,x2,x3)=(0,0,0)(x\_1, x\_2, x\_3) = (0, 0, 0)(x1​,x2​,x3​)=(0,0,0)
+- y=0y = 0y=0 for (x1,x2,x3)=(0,0,1)(x\_1, x\_2, x\_3) = (0, 0, 1)(x1​,x2​,x3​)=(0,0,1)
+- y=1y = 1y=1 for (x1,x2,x3)=(1,0,0)(x\_1, x\_2, x\_3) = (1, 0, 0)(x1​,x2​,x3​)=(1,0,0)
+- y=1y = 1y=1 for (x1,x2,x3)=(1,1,1)(x\_1, x\_2, x\_3) = (1, 1, 1)(x1​,x2​,x3​)=(1,1,1)
+- y=0y = 0y=0 for (x1,x2,x3)=(1,0,1)(x\_1, x\_2, x\_3) = (1, 0, 1)(x1​,x2​,x3​)=(1,0,1)
+
+[****See also**  **Deep Learning | Week 10****](https://progiez.com/nptel-deep-learning-week-10-assignment-10-answers)
+
+[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que. 8) Suppose that the perceptron model is used to classify the data points. The weights www are initialized to w=\[1,1]w = \[1, 1]w=\[1,1], and the rule y=1y = 1y=1 if wTx>0w^T x > 0wTx>0 (otherwise y=0y = 0y=0) is used for classification. How many times will the weight vector www get updated during the entire training process?**
+
+a) 0\
+b) 1\
+c) 2\
+d) Not possible to determine
+
+[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que. 9) Which of the following threshold values of MP neuron implements the AND Boolean function? Assume that the number of inputs to the neuron is 3, and the neuron does not have any inhibitory inputs.**
+
+a) 1\
+b) 2\
+c) 3\
+d) 4\
+e) 5
+
+[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que. 10) Consider points shown in the picture. The vector w=\[−1,1]w = \[-1, 1]w=\[−1,1]. As per this weight vector, the perceptron algorithm will predict which classes for the data points x1x\_1x1​ and x2x\_2x2​:**
+
+x1=−1x\_1 = -1×1​=−1\
+x1=1x\_1 = 1×1​=1\
+x2=−1x\_2 = -1×2​=−1\
+x2=1x\_2 = 1×2​=1
+
+- y=1y = 1y=1 for x1x\_1x1​
+- y=0y = 0y=0 for x2x\_2x2​
+
+[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+
 Deep Learning — IIT Ropar | Nptel Week 1 Assignment Answers 2024
 
 **Session: JULY — DEC 2024**
