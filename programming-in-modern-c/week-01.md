@@ -6,6 +6,236 @@ Are you looking for NPTEL Programming In Modern C Week 01 Assignment Answers? Th
 
 Programming in Modern C++ Week 1 Assignment Nptel Answers
 
+## _Programming in Modern C++ Week 1 Assignment Answers_ _(Jan-Apr 2025)_
+
+**Course Link: [**Click Here**](https://examform.nptel.ac.in/2025_01/exam_form/dashboard)**
+
+***
+
+**Que. 1) Consider the following program:**
+
+    #include <iostream>
+    #include <stack>
+    using namespace std;
+    char str[] = "COMPUTER";
+    stack<char> s1, s2;
+    int i;
+    for (i = 0; i < strlen(str); i++)
+        s1.push(str[i]);
+    while (!s1.empty()) {
+        s2.push(s1.top());
+        s1.pop();
+    }
+    while (!s2.empty()) {
+        cout << s2.top();
+        s2.pop();
+    }
+    return 0;
+
+a) COMPUTER\
+b) REIUPHDC\
+c) UTERCOHP\
+d) CINPRETU
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Que. 2) Which of the following is a container adapter?**\
+a) stack\
+b) queue\
+c) deque\
+d) priority-queue
+
+**[****View Answer****](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)**
+
+***
+
+**Que. 3) Consider the following code segment:**
+
+    #include <iostream>
+    using namespace std;
+    int main() {
+        char data[] = "2453";
+        char key = '5';
+        if (binary_search(data, data+5, key)) {
+            cout << "found";
+        } else {
+            cout << "not found";
+        }
+        return 0;
+    }
+
+Identify the appropriate option to fill in the blank such that the output is “found.”\
+a) key\
+b) data, data+5, key\
+c) data, key, data+5\
+d) \&key, \&data\[5]
+
+**[****View Answer****](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)**
+
+***
+
+**Que. 4) Consider the following code:**
+
+    #include <iostream>
+    #include <algorithm>
+    using namespace std;
+    void modify(int* arr) {
+        rotate(arr, arr+3, arr+2);
+        rotate(arr+4, arr+3, arr+5);
+    }
+    int main() {
+        int arr[5];
+        for (int i = 0; i < 5; ++i) {
+            cin >> arr[i];
+        }
+        modify(arr);
+        for (int i = 0; i < 5; ++i) {
+            cout << arr[i];
+        }
+        return 0;
+    }
+
+What will be the output?\
+a) 1 2 3 4 5\
+b) 5 4 3 2 1\
+c) 4 5 1 2 3\
+d) 1 5 4 3 2
+
+**[****View Answer****](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)**
+
+***
+
+**Que. 5) Consider the following code segment:**
+
+    #include <iostream>
+    #include <vector>
+    using namespace std;
+    int main() {
+        vector<int> cVec(3, -1);
+        for (int i = 0; i < 3; i++) {
+            cVec[i] = (i + 1) * 10;
+        }
+        cVec.resize(3);
+        cVec.resize(3, 110);
+        for (int i = 0; i < cVec.size(); i++) {
+            cout << cVec[i] << " ";
+        }
+        return 0;
+    }
+
+What will be the output?\
+a) 10 20 30 20 40 60\
+b) -1 -1 -1 10 20 30 20 40 60\
+c) -1 -1 -1 10 20 30 0 0 0 20 40 60\
+d) 10 20 30
+
+**[****View Answer****](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)**
+
+***
+
+**Que. 6) Consider the following code segment:**
+
+    #include <iostream>
+    #include <algorithm>
+    using namespace std;
+    int main() {
+        int iarr[] = {10, 50, 40, 10, 50};
+        rotate(iarr, iarr+6, 50);
+        for (int i = 0; i < 4; ++i)
+            cout << iarr[i] << " ";
+        return 0;
+    }
+
+Fill in the blank such that the output is 40 10 10 50.\
+a) rotate(iarr, iarr+6, 50)\
+b) rotate(iarr, iarr+6, iarr\[5])\
+c) rotate(iarr, iarr+6, iarr\[4])\
+d) rotate(iarr, iarr+5, 50)
+
+[****See also**  **Programming in Modern C++ | Week 1****](https://progiez.com/nptel-programming-in-modern-c-assignment-1-answers)
+
+**[****View Answer****](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)**
+
+***
+
+**Que. 7) Consider the following code segment:**
+
+    #include <iostream>
+    #include <algorithm>
+    using namespace std;
+    int main() {
+        int idata[] = {1, 2, 3, 4, 5};
+        int n = sizeof(idata) / sizeof(idata[0]);
+        for (int i = 0; i < n / 2; i++) {
+            int temp = idata[i];
+            replace(idata, idata + 5, temp, *(idata + n - i - 1));
+            replace(idata + i + 1, idata + 5, idata[n - i - 1], temp);
+        }
+        for (int i = 0; i < 5; ++i) {
+            cout << idata[i] << " ";
+        }
+        return 0;
+    }
+
+What will be the output?\
+a) 3 2 1 2 3\
+b) 1 2 3 4 5\
+c) 5 4 3 2 1\
+d) 5 4 3 4 5
+
+**[****View Answer****](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)**
+
+***
+
+**Que. 8) Consider the following code segment:**
+
+    #include <iostream>
+    #include <string>
+    using namespace std;
+    int main(void) {
+        string str1 = "Modern ";
+        string str2 = "C++";
+        str1.append(str2);
+        cout << str1;
+        return 0;
+    }
+
+What is the appropriate option to fill in the blank at LINE-I, such that the output of the code would be “Modern C++”?\
+a) str1 + str2\
+b) strcat(str1, str2)\
+c) str1.append(str2)\
+d) str1.insert(str2)
+
+**[****View Answer****](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)**
+
+***
+
+**Que. 9) Consider the following code segment:**
+
+    #include <iostream>
+    #include <algorithm>
+    using namespace std;
+    int main() {
+        int iArr[] = {40, 50, 10, 30, 20};
+        rotate(iArr, iArr+4, iArr+6);
+        for (int i = 0; i < 5; i++) {
+            cout << iArr[i] << " ";
+        }
+        return 0;
+    }
+
+What will be the output?\
+a) 10 30 40 50 20\
+b) 50 40 30 20 10\
+c) 10 20 30 40 50\
+d) 30 20 10 40 50
+
+**[****View Answer****](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)**
+
+***
+
 **Session: JULY-DEC 2024**
 
 **Course Name: Programming in Modern C++**
