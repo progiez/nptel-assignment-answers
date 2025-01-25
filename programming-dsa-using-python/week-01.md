@@ -4,6 +4,70 @@ Are you looking for NPTEL Programming DSA Using Python Week 01 Assignment Answer
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*WOuAAdBeckuNfed6P_iKOQ.jpeg)
 
+## Programming Data Structures and Algorithms using Python Week 1 (Jan-Apr 2025)
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs59/course)**
+
+***
+
+**Que. 1) What is the value of `f(8538)` for the function below?**
+
+    def f(x):
+        d = 0
+        y = 1
+        while y <= x:
+            d = d + 1
+            y = y * 3
+        return d
+
+**[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)**
+
+***
+
+**Que. 2) What is `h(61) - h(60)`, given the definition of `h` below?**
+
+    def h(n):
+        s = 0
+        for i in range(1, n + 1):
+            if n % i > 0:
+                s = s + 1
+        return s
+
+**[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)**
+
+***
+
+**Que. 3) For what integer value `n` would `g(87, n)` return 12?**
+
+    def g(m, n):
+        res = 0
+        while m >= n:
+            res = res + 1
+            m = m - n
+        return res
+
+**[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)**
+
+***
+
+**Que. 4) Consider the following function `mys`:**
+
+    def mys(m):
+        if m == 1:
+            return 1
+        else:
+            return m * mys(m - 1)
+
+**Which of the following is correct, assuming we always pass an integer argument to `mys`?**\
+A) The function always terminates with `mys(n)` = factorial of `n`\
+B) The function always terminates with `mys(n)` = `1 + 2 + ... + n`\
+C) The function terminates for non-negative `n` with `mys(n)` = factorial of `n`\
+D) The function terminates for positive `n` with `mys(n)` = factorial of `n`
+
+**[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)**
+
+***
+
 Programming Data Structures and Algorithms using Python Week 1 Nptel Assignment Answers
 
 **Course Link:** [**Click Here**](https://onlinecourses.nptel.ac.in/noc24_cs68/unit?unit=18\&assessment=146)
