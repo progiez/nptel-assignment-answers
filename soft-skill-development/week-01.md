@@ -4,6 +4,187 @@ Are you looking for NPTEL Soft Skill Development Week 01 Assignment Answers? Thi
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*B-yRqp4_MeO_hopxDWkR-g.jpeg)
 
+## _Soft Skill Development Week 1 Nptel Assignment Answers (Jan-Apl 2025)_
+
+**Course Link: [**Click Here**](https://examform.nptel.ac.in/2025_01/exam_form/dashboard)**
+
+***
+
+**1. Deep listening can foster which of the following outcomes?**
+
+- **A)** Increased dominance in conversations by controlling the dialogue.
+- **B)** Improved ability to decode verbal and non-verbal cues.
+- **(a)** Both A and B are correct
+- **(b)** Both A and B are wrong
+- **(c)** A is correct, but B is wrong
+- **(d)** B is correct, but A is wrong
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**2. Filtering out parts of conversations does NOT help in which of the following?**
+
+- **(a)** Building genuine connections based on mutual understanding.
+- **(b)** Maintaining focus on the primary topic of discussion.
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**3. An emblem is a type of nonverbal communication where a gesture carries a specific meaning that is culturally defined and can often replace spoken words.**
+
+- **(a)** True
+- **(b)** False
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**4. Active listening is used for:**
+
+- **(a)** Preparing counterarguments during a conversation.
+- **(b)** Encouraging open and meaningful dialogue.
+- **(c)** Gaining control over the conversation flow.
+- **(d)** All of the above
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**5. Overt communication is NOT helpful when:**
+
+- **A.** It leads to excessive bluntness, causing interpersonal strain.
+- **B.** It overshadows subtle cues and nonverbal signals.
+- **C.** It fosters transparency and minimizes misunderstandings.
+- **(a)** A and B only
+- **(b)** A and C only
+- **(c)** B and C only
+- **(d)** All of the above
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**6. When you’re not given an opening to speak in a formal group setting, you can:**
+
+- **(a)** Wait for a pause.
+- **(b)** Give nonverbal signals that you want to speak.
+- **(c)** Speak up firmly.
+- **(d)** All of the above
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**7. When you are lying, you are manipulating your:**
+
+- **(a)** Gestures and postures.
+- **(b)** Friends.
+- **(c)** Family.
+- **(d)** All of the above
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**8. Emotions are often triggered by non-linguistic factors such as facial expressions, body language, and paralinguistic elements, which can alter the meaning of spoken language. Additionally, sensory stimuli such as sight, sound, and touch are mediated by both cognitive interpretation and physiological reactions. This indicates that emotional responses are influenced by both:**
+
+- **(a)** Cognitive, physiological.
+- **(b)** Cognitive, psychological.
+- **(c)** Linguistic, non-linguistic.
+- **(d)** Physiological, environmental.
+
+[****See also**  **Soft Skill Development Week 6 Nptel Assignment Answers****](https://progiez.com/soft-skill-development-week-6-nptel-assignment-answers)
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**9. Can aggression have any use in group discussions?**
+
+- **(a)** Yes, it can be used to dominate the discussion and impose opinions.
+- **(b)** Yes, it can help establish boundaries or push urgent actions in high-stakes situations.
+- **(c)** No, it always disrupts communication and damages group dynamics.
+- **(d)** No, it only serves to undermine authority and suppress participation.
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**10. Consider the following two statements:**
+
+- **A.** Imperfect communication can lead to unintended meanings because language is inherently ambiguous and influenced by context.
+- **B.** Unintended meanings in communication always arise from the receiver’s inability to understand the sender’s message.
+- **(a)** Both A and B are correct.
+- **(b)** Both A and B are wrong.
+- **(c)** A is correct, but B is wrong.
+- **(d)** B is correct, but A is wrong.
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**11. \_\_\_\_\_\_\_\_\_\_ is key to comprehensive listening.**
+
+- **(a)** Evaluating arguments.
+- **(b)** Interpreting meaning.
+- **(c)** Showing empathy.
+- **(d)** Giving feedback.
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**12. Power bias in the classroom is reflected by which of the following?**
+
+- **A.** Seating arrangement.
+- **B.** Curriculum.
+- **C.** Participatory learning environment.
+- **(a)** A, B, and C are true.
+- **(b)** Only A and B are true.
+- **(c)** Only A and C are true.
+- **(d)** Only A is true.
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**13. In a one-sided conversation at a personal level, it is important to have patience while delegating an \_\_\_\_\_\_\_\_\_\_ topic to apparently \_\_\_\_\_\_\_\_\_\_ ones.**
+
+- **(a)** Important, unimportant.
+- **(b)** Sensitive, insensitive.
+- **(c)** Unimportant, important.
+- **(d)** Insensitive, sensitive.
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**14. In formal group discussions, non-verbal gestures can be used to:**
+
+- **(a)** Intervene and redirect the conversation.
+- **(b)** Show dissent.
+- **(c)** Listen.
+- **(d)** All of the above.
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**15. Consider the following statements:**
+
+- **A.** In a group discussion, ethical considerations should guide the way participants present their arguments and interact with others.
+- **B.** It is acceptable to use misleading information in a group discussion if it strengthens your argument.
+- **(a)** Both A and B are correct.
+- **(b)** Both A and B are wrong.
+- **(c)** A is correct, but B is wrong.
+- **(d)** B is correct, but A is wrong.
+
+[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
 Soft Skill Development Week 1 Assignment Nptel Answer
 
 
