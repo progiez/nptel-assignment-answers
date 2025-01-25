@@ -2,16 +2,12 @@
 
 Are you looking for NPTEL Cloud Computing Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the Cloud Computing course. We provide detailed solutions to help you complete your assignments efficiently.
 
-**Session: JULY-DEC 2024**
 
 **Course name: Cloud Computing**
-
-**Course Link:** [**Click Here**](https://onlinecourses.nptel.ac.in/noc24_cs118/)
 
 **For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
 
 
-## These are Cloud Computing Week 1 Assignment 1 Nptel Answers<a id="a9aa"></a>
 ## Cloud Computing Week 1 Assignment 1 Nptel Answers (Jan-Apr 2025)
 
 ***
@@ -22,7 +18,7 @@ b) Measured Service\
 c) Rapid Elasticity\
 d) Latency
 
-Answer: Updating soon (in progress)
+**[**View Answers**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
 
 ***
 
@@ -114,6 +110,8 @@ d) Node
 
 **[**View Answers**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
 
+**Session: JULY-DEC 2024**
+**Course Link:** [**Click Here**](https://onlinecourses.nptel.ac.in/noc24_cs118/)
 
 Q1.Which of the following fall(s) under the “essential characteristics” of cloud computing?\
 A. Resource Pooling\
