@@ -4,7 +4,7 @@ Are you looking for NPTEL Soft Skill Development Week 01 Assignment Answers? Thi
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*B-yRqp4_MeO_hopxDWkR-g.jpeg)
 
-## _Soft Skill Development Week 1 Nptel Assignment Answers (Jan-Apl 2025)_
+## _Soft Skill Development Week 1 Nptel Assignment Answers (Jan-Apr 2025)_
 
 **Course Link: [**Click Here**](https://examform.nptel.ac.in/2025_01/exam_form/dashboard)**
 
