@@ -4,8 +4,6 @@ Are you looking for NPTEL Programming DSA Using Python Week 02 Assignment Answer
 
 ![Programming DSA using Python Nptel Week 2 Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*lL1-zbnQj7XE2wkc188x4w.jpeg)
 
-![Programming, DSA using Python Week 2 Assignment Answers](https://progiez.com/wp-content/uploads/2024/08/Programming-Data-Structures-and-Algorithms-using-Python-Nptel-Week-2-Assignment-Answer-and-solution-Swayam-Platform-image-1024x576.webp "Programming DSA using Python Nptel Week 2 Assignment Answers 1")
-
 Programming DSA using Python Week 2 Assignment Answers
 
 ***
