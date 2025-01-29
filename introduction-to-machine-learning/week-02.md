@@ -3,6 +3,118 @@
 Are you looking for NPTEL Introduction To Machine Learning Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Introduction To Machine Learning course. We provide detailed solutions to help you complete your assignments efficiently.
 
 ![Introduction to Machine Learning Nptel Week 2 Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*nh2U8GRaYnyFlaeRQVDh6g.jpeg)
+## _Introduction to Machine Learning Nptel Week 2 Answers (Jan-Apr 2025)_
+
+***
+
+**1) In a linear regression model y = 90 + β1×1 + β2×2 + … + βpxp, what is the purpose of adding an intercept term 90?**\
+Options:\
+\[a] To increase the model’s complexity.\
+\[b] To account for the effect of independent variables.\
+\[c] To adjust for the baseline level of the dependent variable when all predictors are zero.\
+\[d] To ensure the coefficients of the model are unbiased.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**2) Which of the following is true about the cost function (objective function) used in linear regression?**\
+Options:\
+\[a] It is non-convex.\
+\[b] It is always minimized at θ = 0.\
+\[c] It measures the sum of squared differences between predicted and actual values.\
+\[d] It assumes the dependent variable is categorical.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**3) Which of these would most likely indicate that Lasso regression is a better choice than Ridge regression?**\
+Options:\
+\[a] All features are equally important.\
+\[b] Features are highly correlated.\
+\[c] Most features have small but non-zero impact.\
+\[d] Only a few features are truly relevant.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**4) Which of the following conditions must hold for the least squares estimator in linear regression to be unbiased?**\
+Options:\
+\[a] The independent variables must be normally distributed.\
+\[b] The relationship between predictors and the response must be non-linear.\
+\[c] The errors must have a mean of zero.\
+\[d] The sample size must be larger than the number of predictors.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**5) When performing linear regression, which of the following is most likely to cause overfitting?**\
+Options:\
+\[a] Adding too many regularization terms.\
+\[b] Including irrelevant predictors in the model.\
+\[c] Increasing the sample size.\
+\[d] Using a smaller design matrix.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**6) You have trained a complex regression model on a dataset. To reduce its complexity you decide to apply Ridge regression, using a regularization parameter λ. How does the relationship between bias and variance change as λ becomes very large?**\
+Options:\
+\[a] Bias is low, variance is high.\
+\[b] Bias is high, variance is low.\
+\[c] Bias is high, variance is high.\
+\[d] Bias is low, variance is low.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**7) Given a training dataset of 10,000 instances, with each input instance having 12 dimensions and each output instance having 3 dimensions, the dimensions of the design matrix used in applying linear regression to this data is**\
+Options:\
+\[a] 10,000 x 12\
+\[b] 10,000 x 13\
+\[c] 10,000 x 12\
+\[d] 10,000 x 15
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**8) The linear regression model y = β0 + β1×1 + … + βpxp is to be fitted to a set of N training data points having P attributes each. Let X be an N x (p + 1) matrix of input values (augmented by 1’s), Y be an N x 1 vector of target values, and β be a (p + 1) x 1 vector of parameter values (β0, β1, … , βp). If the sum of squared error is minimized for obtaining the optimal regression model, which of the following equation holds?**\
+Options:\
+\[a] X^TX = X^TY\
+\[b] X^TX = XY\
+\[c] X^TX = Y\
+\[d] X^TX = X^TY
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**9) Which of the following scenarios is most appropriate for using Partial Least Squares (PLS) regression instead of ordinary least squares (OLS)?**\
+Options:\
+\[a] When the predictors are uncorrelated and the number of samples is much larger than the number of predictors.\
+\[b] When there is significant multicollinearity among predictors or the number of predictors exceeds the number of samples.\
+\[c] When the response variable is categorical and the predictors are highly non-linear.\
+\[d] When the primary goal is to interpret the relationship between predictors and response, rather than prediction accuracy.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**10) Consider forward selection, backward selection, and best subset selection with respect to the same dataset. Which of the following is true?**\
+Options:\
+\[a] Best subset selection can be computationally more expensive than forward selection.\
+\[b] Forward selection and backward selection always lead to the same result.\
+\[c] Best subset selection can be computationally less expensive than backward selection.\
+\[d] Best subset selection and forward selection are computationally equally expensive.\
+\[e] Both (b) and (d).
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
 
 Introduction to Machine Learning Nptel Week 2 Answers (July-Dec 2024)
 
