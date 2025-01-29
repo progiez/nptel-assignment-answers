@@ -3,6 +3,187 @@
 Are you looking for NPTEL Programming In Modern C Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Programming In Modern C course. We provide detailed solutions to help you complete your assignments efficiently.
 
 ![Programming in Modern C++ Week 2 Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*JUAJ-dpuw49liEDXhXE-VA.jpeg)
+**1) Consider the following function prototypes of function add().**
+
+![image 20](https://progiez.com/wp-content/uploads/2024/08/image-20.png "Programming in Modern C++ Week 2 Assignment Answers 3")
+
+Which of the following sets consists of all valid prototypes of function add()?
+
+![image 21](https://progiez.com/wp-content/uploads/2024/08/image-21.png "Programming in Modern C++ Week 2 Assignment Answers 4")
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**2) Consider the following function prototypes of function add().**
+
+![image 22](https://progiez.com/wp-content/uploads/2024/08/image-22.png "Programming in Modern C++ Week 2 Assignment Answers 5")
+
+Which of the above pairs of the prototypes is ambiguous and illegal as per the rule of function overloading?
+
+![image 23](https://progiez.com/wp-content/uploads/2024/08/image-23.png "Programming in Modern C++ Week 2 Assignment Answers 6")
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**3) Consider the following code segment.**
+
+What will be the output/error?
+
+    #include <iostream>
+    using namespace std;
+
+    int add(int n1) { return n1; }
+    int add(int n1, int n2) { return n1 + n2; }
+    double add(double d1) { return d1; }
+    int add(int n1, int n2, double n3) { return n1 + n2 + n3; }
+
+    int main() {
+        int r = add(10, 20);
+        cout << r << endl;
+        return 0;
+    }
+
+A) 30\
+B) 130\
+C) 300\
+D) Compilation Error: call of overloaded `add(int, int)` is ambiguous
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**4) Consider the following code segment.**
+
+What will be the output?
+
+    #include <iostream>
+    using namespace std;
+
+    #define DOUBLE(x) (2 * x)
+    inline int TRIPLE(int x) { return 3 * x; }
+
+    int main() {
+        cout << DOUBLE(10 + 10) << endl;
+        cout << TRIPLE(10 + 10) << endl;
+        return 0;
+    }
+
+A) 40 60\
+B) 30 60\
+C) 30 40\
+D) 20 30
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**5) Consider the following code segment.**
+
+Choose the correct option to fill in the blank at LINE—I such that the output is `11 11 20 20`.
+
+    #include <iostream>
+    using namespace std;
+
+    int& incr(int i) {
+        return ++i;
+    }
+
+    int main() {
+        int x = 10, y = 20;
+        int& z = incr(x);
+        cout << x << " " << z;
+        incr(x);
+        cout << x << " " << z;
+        return 0;
+    }
+
+A) `int incr(int i)`\
+B) `int incr(int& i)`\
+C) `int& incr(const int& i)`\
+D) `int& incr(int& i)`
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**6) Consider the following code segment.**
+
+What will be the output?
+
+    using namespace std;
+
+    #define CL 10 + 1
+    const int C2 = 10;
+
+    int main() {
+        int nl, n2;
+        nl = CL * 100 * C2;
+        n2 = C2 * 100 * CL;
+        cout << nl << " " << n2;
+        return 0;
+    }
+
+A) 1110 11001\
+B) 1011 1011\
+C) 12100 12100\
+D) 11001 1110
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**7) Consider the following code segment.**
+
+What will be the output?
+
+    #include <iostream>
+    using namespace std;
+
+    int main() {
+        int i = 21;
+        int* ptr = &i;
+        cout << *ptr << " " << i;
+        return 0;
+    }
+
+A) 21 32\
+B) 32 32\
+C) 21 44\
+D) 44 44
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**8) Consider the following code segment.**
+
+![image 24](https://progiez.com/wp-content/uploads/2024/08/image-24.png "Programming in Modern C++ Week 2 Assignment Answers 7")
+
+**Identify the correct statement(s) to fill in the blank at LINE—I such that the output is X.**
+
+A) const char\* cp\
+B) char\* const cp\
+C) char const\* cp\
+D) const char\* const cp
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**9) Consider the following statement in C.**
+
+![image 25](https://progiez.com/wp-content/uploads/2024/08/image-25.png "Programming in Modern C++ Week 2 Assignment Answers 8")
+
+Among the given options below, identify the equivalent statement/s (perform the same task).
+
+A) `int* new int(5);`\
+B) `int* new int[5];`\
+C) `int* new int t operator new(sizeof(int) * 5);`\
+D) `int* (int*) operator new(sizeof(int))[5];`
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
 
 Programming in Modern C++ Week 2 Assignment Answers (July-Dec 2024)
 
