@@ -3,6 +3,147 @@
 Are you looking for NPTEL Programming In Java Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Programming In Java course. We provide detailed solutions to help you complete your assignments efficiently.
 
 ![Programming in Java Nptel Week 2 Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*05hNRJouYrI1XNRrtP0OrA.jpeg)
+## _Programming in Java Nptel Week 2 Assignment Answers (Jan-Apr 2025)_
+
+***
+
+1. **Consider the following object declaration statement:**\
+   `Scanner = new Scanner(System.in);`\
+   What does `System.in` stand for in the above declaration?\
+   a. Any file storing data\
+   b. Refers to the standard input stream, which is typically the keyboard by default\
+   c. Reference to scanner as an input device\
+   d. It is a mouse as an input device
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+2. **What will be the output of the following Java program?**
+
+<!---->
+
+    public class VarPrint {
+        int x;
+        static int y = 20;
+        public static void main(String[] args) {
+            VarPrint t1 = new VarPrint();
+            t1.x = 88;
+            int z1 = t1.x + t1.y;
+            VarPrint t2 = new VarPrint();
+            System.out.println(t2.x + " " + z1);
+        }
+    }
+
+a. 30 99 178\
+b. 30 88 129\
+c. 30 99 187\
+d. 88 99 178
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+3. **What will be the output of the following Java program?**
+
+<!---->
+
+    public class ArgumenTest {
+        public static void main(String[] args) {
+            Test t = new Test();
+            t.start();
+        }
+
+        static class Test {
+            int a, b;
+            void start() {
+                System.out.print(a + b);
+                System.out.print(" ");
+                System.out.print(foo() + a);
+                System.out.println(a + b + foo());
+            }
+            String foo() {
+                return " foo";
+            }
+        }
+    }
+
+a. 97 7 foo 34 34foo\
+b. 83 9 45 foo 45 9foo\
+c. 72 34 34 foo 34 34foo\
+d. 97 foo 7 7foo
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+4. **What is encapsulation in object-oriented programming?**\
+   a. Hiding implementation details and exposing only functionality\
+   b. The process of creating multiple objects in a program\
+   c. Writing multiple methods in a single class\
+   d. Using the `this` keyword to reference an object
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+5. **Which of the following is true about constructors in a class?**\
+   a. Constructors must have a return type\
+   b. Constructors are used to initialize objects\
+   c. A class can have only one constructor\
+   d. Constructors cannot be overloaded
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+6. **What does the `this` keyword in Java help to achieve?**\
+   a. Avoiding namespace collision between instance variables and method parameters\
+   b. Overloading methods in a class\
+   c. Accessing private methods in another class\
+   d. Creating multiple objects in a program
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+7. **What is the correct signature of the main method in Java?**\
+   a. `public void main(String args[])`\
+   b. `public static void main(String args[])`\
+   c. `void main(String args[])`\
+   d. `public static void main()`
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+8. **Which of the following is used to take runtime input in Java?**\
+   a. BufferedReader\
+   b. Scanner\
+   c. DataInputStream\
+   d. All of the above
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+9. **Which method is used to format output in Java?**\
+   a. `print()`\
+   b. `println()`\
+   c. `printf()`\
+   d. `format()`
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+10. **Which Java class is primarily used to read input from the console?**\
+    a. Scanner\
+    b. BufferedReader\
+    c. Console\
+    d. DataInputStream
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
 
 Programming in Java Nptel Week 2 Assignment Answers (July-Dec 2024)
 
