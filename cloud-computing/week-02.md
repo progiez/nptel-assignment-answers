@@ -4,36 +4,238 @@ Are you looking for NPTEL Cloud Computing Week 02 Assignment Answers? This repos
 
 ![Cloud Computing Week 2 NPTEL Assignment Answers for 2024](https://miro.medium.com/v2/resize:fit:875/1*JsxWQWJkSlRTdWausnHEbg.jpeg)
 
-Cloud Computing Week 2 Assignment Nptel Answers 2024
+## _Cloud Computing Week 2 Assignment 2 Nptel Answers ( Jan-Apr 2025 )_
 
-Cloud computing is a scalable services consumption and delivery platform that provides on-demand computing service for shared pool of resources, namely servers, storage, networking, software, database, applications etc., over the Internet. It is a model for enabling ubiquitous, on-demand access to a shared pool of configurable computing resources, which can be rapidly provisioned and released with minimal management effort. This course will introduce various aspects of cloud computing, including fundamentals, management issues, security challenges and future research trends. This will help students (both UG and PG levels) and researchers to use and explore the cloud computing platforms.
+***
+
+1. **The public cloud has a risk of multi-tenancy:**\
+   A. True\
+   B. False
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+2. **Ubuntu Enterprise Cloud (UEC) is an example of:**\
+   A. Private cloud\
+   B. Public cloud\
+   C. Hybrid cloud\
+   D. Community Cloud
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+3. **Organization should consider: (i) Network Dependency and (ii) Risks from multi-tenancy while thinking of deploying an outsourced private cloud.**\
+   A. Only (i)\
+   B. Only (ii)\
+   C. Both (i) and (ii)\
+   D. None of (i) and (ii)
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+4. **Which of the following is/are XML parser API(s)?**\
+   A. XaaS (Anything as a Service)\
+   B. DOM (Document Object Model)\
+   C. CLI (Command Line Interface)\
+   D. SLA (Service Level Agreement)
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+5. **What is/are the main difference(s) between virtualization and dual boot?**\
+   A. No difference between dual boot and virtualization\
+   B. In virtualization, operating systems are not isolated from each other, but not in dual boot\
+   C. In a dual boot, both operating systems run simultaneously, but not in virtualization\
+   D. In virtualization, both operating systems run simultaneously, but not in dual boot
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+6. **In virtualization, a virtual machine monitor is also called:**\
+   A. Hypervisor\
+   B. Short-term Scheduler\
+   C. Analyzer\
+   D. Parser
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+7. **Speed and flexibility are the two disadvantages of hardware-assisted virtualization:**\
+   A. True\
+   B. False
+
+[****See also**  **Cloud Computing Nptel Week 9 Assignment Answers****](https://progiez.com/cloud-computing-nptel-week-9-assignment-answers)
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+8. **The following problems are addressed through Web services:**\
+   A. Firewall\
+   B. Interoperability\
+   C. Complexity\
+   D. Speed
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+9. **A web service can be discovered using:**\
+   A. SMS\
+   B. HTTP\
+   C. SMTP\
+   D. UDDI
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+10. **Service-Oriented Architecture (SOA) consists of relationships between:**\
+    A. Two entities (a service provider and a requestor)\
+    B. Two entities (a service provider and a broker)\
+    C. Three entities (a service provider, a service requestor, and a broker)\
+    D. Three entities (a service provider, a service requestor, and a hypervisor)
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
 
 
-# Course layout<a id="0dbc"></a>
+## _Cloud Computing Week 2 Assignment 2 Nptel Answers (JULY-DEC 2024)_
 
-**Week 1:** Introduction to Cloud Computing
+***
 
-**Week 2:** Cloud Computing Architecture
+**Q1.Service-Oriented Architecture (SOA) possess:**\
+a) A service provider, service requestor and service broker\
+b) A service provider and service requestor\
+c) A service requestor and service broker\
+d) Only a service broker
 
-**Week 3:** Service Management in Cloud Computing
+**Answer: a) A service provider, service requestor and service broker**
 
-**Week 4:** Data Management in Cloud Computing
+***
 
-**Week 5:** Resource Management in Cloud
+**Q2. XML is designed to describe _**\_**_.**\
+a) pricing\
+b) SLA\
+c) data\
+d) service
 
-**Week 6:** Cloud Security
+**Answer: c) data**
 
-**Week 7:** Open Source and Commercial Clouds, Cloud Simulator
+***
 
-**Week 8:** Research trend in Cloud Computing, Fog Computing
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
 
-**Week 9:** VM Resource Allocation, Management and Monitoring
+**_**These are **Cloud Computing** Week 2 Assignment 2 Nptel Answers**_**
 
-**Week 10:** Cloud-Fog-Edge enabled Analytics
+***
 
-**Week 11:** Serverless Computing and FaaS Model
+**Q3.SOAP (Simple Object Access Protocol) does not restrict the endpoint implementation technology choices. SOAP is a platform-neutral choice.**\
+a) True\
+b) False
 
-**Week 12:** Case Studies and Recent Advancements
+**Answer: a) True**
+
+***
+
+**Q4.A Cyber‐Physical Cloud Computing (CPCC) architectural framework is a _**_**\_\_environment that can rapidly build, modify and provision cyber‐physical systems composed of a set of\_\_\_\_**_**_ based sensor, processing, control, and data services.**\
+a) system, cloud computing\
+b) cloud computing, system\
+c) system, edge computing\
+d) edge, system computing
+
+**Answer: a) system, cloud computing**
+
+***
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+[****See also**  **Cloud Computing | Week 11****](https://progiez.com/nptel-cloud-computing-week-11-assignment-11-answers)
+
+**_**These are **Cloud Computing** Week 2 Assignment 2 Nptel Answers**_**
+
+***
+
+**Q5.Network Virtualization is a _**\_**_ environment that allows _**\_**_ service providers to dynamically compose \_\_\_\_\_\_\_\_\_\_\_\_virtual networks.**\
+a) networking, single, single\
+b) physical, single, multiple\
+c) networking, multiple, single\
+d) networking, multiple, multiple
+
+**Answer: d) networking, multiple, multiple**
+
+***
+
+**Q6.Customized wearable devices for collecting health parameters are the best examples of**\
+a) IoHT\
+b) Fog device\
+c) Fog-Cloud interfaced.\
+d) Cloud-Fog-Edge-IoHT
+
+**Answer:d) Cloud-Fog-Edge-IoHT**
+
+***
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+**_**These are **Cloud Computing** Week 2 Assignment 2 Nptel Answers**_**
+
+***
+
+**Q7.Dew Computing is a paradigm where on-premises computers provide functionality that is _**\_**_ of cloud services and is also collaborative with cloud services**\
+a) dependant\
+b) independent\
+c) partial dependant\
+d) none of these
+
+**Answer: b) independent**
+
+***
+
+**Q8.SOAP uses \_\_ as transport protocol**\
+a) UDDI\
+b) SLA\
+c) HTTP\
+d) XML
+
+**Answer:c) HTTP**
+
+***
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+**_**These are **Cloud Computing** Week 2 Assignment 2 Nptel Answers**_**
+
+***
+
+**Q9.Virtual Machine Monitor is also known as**\
+a) Cluster Manager\
+b) Virtual Machine Handler\
+c) Virtual Machine Manager\
+d) Hypervisor
+
+**Answer**:**d) Hypervisor**
+
+***
+
+**Q10.Which of the following is/are XML parser API(s)?**\
+a) XaaS (Anything as a Model)\
+b) SAX (Simple API to XML)\
+c) CLI (Command Line Interface)\
+d) DOM (Document Object Model)
+
+**Answer: b) SAX (Simple API to XML)\
+d) DOM (Document Object Model)**
+
+****
+
 
 **Course Link:** [**Click Here**](https://onlinecourses.nptel.ac.in/noc24_cs118/unit?unit=18\&assessment=218)
 
