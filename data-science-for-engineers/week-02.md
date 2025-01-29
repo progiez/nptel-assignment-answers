@@ -3,6 +3,111 @@
 Are you looking for NPTEL Data Science For Engineers Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Data Science For Engineers course. We provide detailed solutions to help you complete your assignments efficiently.
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*sv57SO0ysLOC19jHrpd_tw.jpeg)
+## _NPTEL Data Science for Engineers Assignment 2 Answers ( Jan-Apr 2025)_
+
+***
+
+![image 6](https://progiez.com/wp-content/uploads/2024/01/image-6.png "Data Science for Engineers | Week 2 1")
+
+A) Yes\
+B) No
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+1.
+
+***
+
+2. **Does the set, S={(1,1),(1,2)}S = \\{ (1, 1), (1, 2) \\}, span R2\mathbb{R}^2?**\
+   A) Yes\
+   B) No
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+![image 7](https://progiez.com/wp-content/uploads/2024/01/image-7.png "Data Science for Engineers | Week 2 2")
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+4. **Find the conditions on aa and bb for which the system has no solution.**
+
+![image 8](https://progiez.com/wp-content/uploads/2024/01/image-8.png "Data Science for Engineers | Week 2 3")
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+5. **Find the conditions on aa and bb for which the system has a unique solution.**
+
+![image 9](https://progiez.com/wp-content/uploads/2024/01/image-9.png "Data Science for Engineers | Week 2 4")
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+6. **Find the conditions on aa and bb for which the system has infinite solutions.**
+
+![image 10](https://progiez.com/wp-content/uploads/2024/01/image-10.png "Data Science for Engineers | Week 2 5")
+
+![image 11](https://progiez.com/wp-content/uploads/2024/01/image-11-1024x155.png "Data Science for Engineers | Week 2 6")
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+7. **Identify the number of free variables from the following row echelon matrix.**\
+   A) 0\
+   B) 1\
+   C) 2\
+   D) 3
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+8. **Which among the following is correct for the system Ac=bAc = b?**\
+   A) It has infinite number of solutions.\
+   B) It has a unique solution.\
+   C) It has no solution.
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+![image 12](https://progiez.com/wp-content/uploads/2024/01/image-12.png "Data Science for Engineers | Week 2 7")
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+10. **Which among the following is true for the determinant of a matrix?**\
+    A) The determinant of a diagonal matrix is the product of its diagonal entries.\
+    B) If one row of a matrix is a scalar multiple of another, the determinant is 1.\
+    C) If one row of a matrix is a scalar multiple of another, the determinant is 0.\
+    D) The determinant of a permutation matrix can only be 1.
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+![image 13](https://progiez.com/wp-content/uploads/2024/01/image-13.png "Data Science for Engineers | Week 2 8")
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+![image 14](https://progiez.com/wp-content/uploads/2024/01/image-14.png "Data Science for Engineers | Week 2 9")
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+![image 15](https://progiez.com/wp-content/uploads/2024/01/image-15.png "Data Science for Engineers | Week 2 10")
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
 
 Nptel Data Science for Engineers Week 2 Assignment Answers
 
