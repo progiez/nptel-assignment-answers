@@ -3,6 +3,126 @@
 Are you looking for NPTEL Software Testing Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Software Testing course. We provide detailed solutions to help you complete your assignments efficiently.
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*WgIWET7k7gn7AK_nT5f9Tw.jpeg)
+## _Software Testing NPTEL Week 2 Assignment Answers ( Jan-Apr 2025 )_
+
+***
+
+**1. Which one of the following is an implicit assumption made in equivalence class testing?**\
+A. A program behaves in similar ways to every input value belonging to an equivalence class.\
+B. Different equivalence classes of a program contain similar bugs.\
+C. Different equivalence classes of a program contain dissimilar bugs.\
+D. Equivalence classes define the behaviorally similar components of a program.\
+E. Equivalence classes define the behaviorally similar code segments of a program.
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**2. At least how many test cases are needed for weak equivalence class testing of the function compute-interest-rate(amount, months)?**\
+A. 3\
+B. 6\
+C. 9\
+D. 12\
+E. 15
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**3. For the function compute-interest-rate, at least how many test cases are needed for strong equivalence testing?**\
+A. 3\
+B. 6\
+C. 9\
+D. 12\
+E. 15
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**4. What would be the branch coverage achieved for the code snippet below with inputs i=5, j=6, k=7?**
+
+    if (i > j)  
+      if (i > k) max = i;  
+      else max = k;  
+    else  
+      if (j > k) max = j;  
+      else max = k;  
+
+A. 33.3%\
+B. 40.0%\
+C. 66.6%\
+D. 100%\
+E. None of the above
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**5. What would be the basic condition coverage achieved for the same code snippet with inputs i=5, j=6, k=7?**\
+A. 20%\
+B. 33.3%\
+C. 40.0%\
+D. 66.6%\
+E. 100%
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**6. Which of the following are white-box testing techniques?**\
+A. Statement coverage\
+B. Cause-effect graphing\
+C. MCDC (Modified Condition/Decision Coverage)\
+D. Pair-wise testing\
+E. Mutation testing\
+F. Data flow testing
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**7. At least how many test cases are needed for equivalence class testing of the function solver (which solves a quadratic equation ax² + bx + c = 0) considering only valid equivalence classes?**\
+A. 1\
+B. 2\
+C. 3\
+D. 4\
+E. 5
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**8. How many test cases are needed for decision table testing of the compute-grade function (which computes a student’s grade based on attendance and marks)?**\
+A. 6\
+B. 8\
+C. 10\
+D. 12\
+E. 7
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**9. If a user interface has two checkboxes, at least how many test cases are required to achieve pair-wise coverage?**\
+A. 3\
+B. 4\
+C. 5\
+D. 6\
+E. 7
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**10. How many equivalence classes can the valid set of input values be divided into for the find-intersection function (which computes the point of intersection of two straight lines y=mx+cy = mx + c)?**\
+A. 1\
+B. 2\
+C. 3\
+D. 4\
+E. 5
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
 
 Software Testing NPTEL Week 2 Assignment Answers ( JULY-DEC 2024 )
 
