@@ -3,6 +3,168 @@
 Are you looking for NPTEL Python For Data Science Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Python For Data Science course. We provide detailed solutions to help you complete your assignments efficiently.
 
 ![Python for Data Science Nptel Week 2 Assignment Answers (JULY-DEC 2024)](https://miro.medium.com/v2/resize:fit:875/1*Nq1P8NZDOAsm_ySIWaSHsw.jpeg)
+## _Python for Data Science Nptel Week 2 Assignment Answers (Jan-Aprl 2025)_
+
+**1) Which of the following objects does not support indexing?**\
+Options:\
+\[a] tuple\
+\[b] list\
+\[c] dictionary\
+\[d] set
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**2) How can you concatenate the strings “data” and “science” with a hyphen (-) between them?**\
+Options:\
+\[a] `"data".join("science")`\
+\[b] `".join(["data", "science"])`\
+\[c] `"data" + "science"`\
+\[d] None of the above
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**3) What will be the output of the following code snippet?**
+
+    import numpy as np
+    c = np.dot(a, b)
+    print(c)
+
+Options:\
+\[a] \[5, 12]\
+\[b] \[21, 32]\
+\[c] \[\[19, 22], \[43, 50]]\
+\[d] \[35, 56]
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**4) What will be the output of the following code snippet?**
+
+    import numpy as np
+    a = np.arange(10)
+    b = 10
+    print(a)
+
+Options:\
+\[a] \[1, 10, 9]\
+\[b] \[10, 8, 9]\
+\[c] \[0, 10, 9]\
+\[d] \[10, 2, 3, 4, 5, 6, 7, 8, 9]
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**5) What is the output of the following code?**
+
+    for i in range(len(s)):
+        print(i)
+
+Options:\
+\[a] Will throw an error: Set objects are not iterable.\
+\[b] Will print the indices of the set.\
+\[c] Will print the elements of the set.\
+\[d] Will run indefinitely.
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**6) What will be the output of the following code snippet?**
+
+    A = {1, 2, 3}
+    B = {3, 4, 5}
+    print(A | B)
+
+Options:\
+\[a] {27.5}\
+\[b] {1, 2, 3, 4, 5}\
+\[c] {1, 2, 3}\
+\[d] {4, 5}
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**7) Given the tuples `tl = (1, 2, "tuple", 4)` and `t2 = (5, 6, 7)`, which of the following will not give any error after execution?**\
+Options:\
+\[a] `tl.append(5)`\
+\[b] `list(t2)`\
+\[c] `tl + t2`\
+\[d] `(tl, t2)`
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**8) Given the dictionary `d = {1: "Python", 2: [1, 2]}`, which of the following will not give an error after execution?**\
+Options:\
+\[a] `d[2].append(4)`\
+\[b] `d[1] = 1`\
+\[c] `d["one"] = 1`\
+\[d] `None of the above`
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**9) Which of the following data types is immutable?**\
+Options:\
+\[a] list\
+\[b] set\
+\[c] tuple\
+\[d] dictionary
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**10) Given the dictionary `student = {"name": "Jane", "age": 26, "courses": ["Math", "Science"]}`, which of the following will return the phone number?**\
+Options:\
+\[a] `student['phone']`\
+\[b] `student['phone'] = '123-456'`\
+\[c] `student['phone']`\
+\[d] None of the above
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**11) What is the output of the following code?**
+
+    name = "Mahesh"
+    for i in name:
+        t.append(i.capitalize())
+    print(t)
+
+Options:\
+\[a] `["M", "A", "H", "E", "S", "H"]`\
+\[b] `["Mahesh"]`\
+\[c] `["Mahesh".capitalize()]`\
+\[d] None of the above
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**12) What will be the output of the following code snippet?**
+
+    import numpy as np
+    a = np.array([range(i, i+4) for i in range(3)])
+    print(a)
+
+Options:\
+\[a] `[[0, 1, 2, 3], [1, 2, 3, 4], [2, 3, 4, 5]]`\
+\[b] `[[3, 4, 5, 6], [5, 6, 7, 8]]`\
+\[c] `[[0, 1, 2, 3], [1, 2, 3, 4], [2, 3, 4, 5]]`\
+\[d] None of the above
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
 
 Python for Data Science Nptel Week 2 Assignment Answers (JULY-DEC 2024)
 
