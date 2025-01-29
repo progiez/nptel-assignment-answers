@@ -3,6 +3,124 @@
 Are you looking for NPTEL Database Management System Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Database Management System course. We provide detailed solutions to help you complete your assignments efficiently.
 
 ![Nptel Database Management System Assignment 2 Answers](https://miro.medium.com/v2/resize:fit:875/1*nw-gOvlsQ1d6ph1xPn-prQ.jpeg)
+## _Nptel Database Management System Assignment 2 Answers( Jan-Apr 2025)_
+
+***
+
+1. **What is the correct SQL query to update the Quantity values in the OrderDetails table where the current values are greater than 2?**
+
+- a) MODIFY OrderDetails where Quantity>2;
+- b) UPDATE OrderDetails set Quantity=Quantity-1 where Quantity>2;
+- c) UPDATE OrderDetails where Quantity>2;
+- d) ALTER OrderDetails set Quantity=Quantity-1 where Quantity>2;
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+2. **What is the output of the following SQL query for a bookstore system?**
+
+<!---->
+
+    SELECT Category, SUM(Quantity) FROM OrderDetails, BookDetails WHERE OrderDetails.BookID = BookDetails.BookID GROUP BY Category;
+
+- a) Fiction: 5, Science: 7
+- b) Fiction: 6, Science: 7
+- c) Fiction: 9, Science: 7
+- d) Fiction: 5, Science: 6\
+  [View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+3. **What is the correct SQL statement to create a VIEW for retrieving Name and Price of all products in the ‘Electronics’ category from the ProductDetails table?**
+
+- a) Create Electronics\_Products AS SELECT Name, Price FROM ProductDetails WHERE Category = ‘Electronics’;
+- b) Create view Electronics\_Products AS SELECT Name, Price FROM ProductDetails WHERE Category = ‘Electronics’;
+- c) Create view Electronics\_Products ON ProductDetails SELECT Name, Price WHERE Category = ‘Electronics’;
+- d) Create view Electronics\_Products TO ProductDetails SELECT Name, Price WHERE Category = ‘Electronics’;\
+  \
+  [View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+4. **Which of the following options will be present in the output of the SQL query for the DriverDetails table?**
+
+<!---->
+
+    SELECT Location FROM DriverDetails WHERE Location LIKE 'B%' AND Location LIKE 'B%';
+
+- a) Bangalore
+- b) Bhopal
+- c) Pune
+- d) Hyderabad\
+  \
+  [View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+5. **Which relational algebra operation will generate the given output?**
+
+- a) OrderDetails NATURAL JOIN ProductDetails
+- b) OrderDetails LEFT OUTER JOIN ProductDetails
+- c) OrderDetails RIGHT OUTER JOIN ProductDetails
+- d) OrderDetails EQUI JOIN ProductDetails ON OrderDetails.ProductID = ProductDetails.ProductID\
+  \
+  [View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+6. **Which of the following statements is incorrect?**
+
+- a) The INSERT command is used to remove/modify rows in a relation.
+- b) The UPDATE command is used to modify data (values in rows) of a relation.
+- c) The DELETE command is used to remove all data from a relation.
+- d) The DELETE command is used to remove a relation entirely.\
+  \
+  [View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+[****See also**  **Data Base Management System | Week 8****](https://progiez.com/data-base-management-system-week-8-assignment-answers)
+
+***
+
+7. **What will be the output of the following SQL query on the DriverDetails table?**
+
+![image 17](https://progiez.com/wp-content/uploads/2024/08/image-17.png "Nptel Database Management System Assignment 2 Answers 2")
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+8. **What will be the output of the following SQL query on the DriverDetails table?**
+
+![image 16](https://progiez.com/wp-content/uploads/2024/08/image-16.png "Nptel Database Management System Assignment 2 Answers 3")
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+9. **What will be the output of the following SQL query on the DriverDetails table?**
+
+<!---->
+
+    SELECT * FROM DriverDetails WHERE City IN ('New York', 'Chicago');
+
+- a) DriverID: D001, D003, D004, D006, D007
+- b) DriverID: D002, D005
+- c) DriverID: D001, D002, D003
+- d) DriverID: D005, D008
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+10. **What is the correct SQL statement to find the DriverID, Name, and City of drivers with an Age between 25 and 35?**
+
+- a) SELECT DriverID, Name, City FROM DriverDetails WHERE Age AS (26, 35);
+- b) SELECT DriverID, Name, City FROM DriverDetails WHERE Age IN (25, 35);
+- c) SELECT DriverID, Name, City FROM DriverDetails WHERE Age BETWEEN 25 AND 35;
+- d) SELECT DriverID, Name, City FROM DriverDetails WHERE Age BETWEEN (25, 35);
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
 
 Nptel Database Management System Assignment 2 Answers
 
