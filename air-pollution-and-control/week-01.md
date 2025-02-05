@@ -53,9 +53,7 @@ Select the correct combination:
 - 1, 2
 - 1, 4
 
-<!---->
-
-    View Answer
+**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**
 
 ***
 
@@ -146,7 +144,7 @@ Select the correct combination:
 
 [****See also**  **Air Pollution and Control Week 2 Nptel Quiz Answers****](https://progiez.com/air-pollution-and-control-week-2-nptel-quiz-answers)
 
-**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**
+**[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)****
 
 ***
 
