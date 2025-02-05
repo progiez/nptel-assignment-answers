@@ -64,9 +64,7 @@ Select the correct combination:
 - By making them harmless
 - By increasing their density
 
-<!---->
-
-    View Answer
+**[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)****
 
 ***
 
@@ -77,9 +75,7 @@ Select the correct combination:
 - Vegetation
 - Natural gas
 
-<!---->
-
-    View Answer
+****[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)******
 
 ***
 
@@ -90,9 +86,9 @@ Select the correct combination:
 - Chemical reactions in the soil
 - Evaporation of water vapor
 
-<!---->
+[****See also**  **Air Pollution and Control Week 2 Nptel Quiz Answers****](https://progiez.com/air-pollution-and-control-week-2-nptel-quiz-answers)
 
-    View Answer
+**[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)****
 
 ***
 
@@ -103,9 +99,7 @@ Select the correct combination:
 - Dark spots and lesions on the skin
 - Throat irritation
 
-<!---->
-
-    View Answer
+****[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)******
 
 ***
 
@@ -116,9 +110,7 @@ Select the correct combination:
 - Ammonia (NH₃)
 - Mercury
 
-<!---->
-
-    View Answer
+****[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)******
 
 ***
 
@@ -129,9 +121,7 @@ Select the correct combination:
 - Ozone layer depletion
 - Acid rain
 
-<!---->
-
-    View Answer
+****[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)******
 
 ***
 
@@ -142,8 +132,6 @@ Select the correct combination:
 - Weak cohesion
 - Weak adhesion
 
-[****See also**  **Air Pollution and Control Week 2 Nptel Quiz Answers****](https://progiez.com/air-pollution-and-control-week-2-nptel-quiz-answers)
-
 **[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)****
 
 ***
@@ -153,3 +141,4 @@ Air Pollution and Control Week 1 Nptel Quiz Answers
 **_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**[](https://progiez.com/ethical-hacking-nptel-week-5-assignment-answers)
 
 For answers to others Nptel courses, please refer to this link: [NPTEL Assignment](https://progiez.com/nptel-assignment-answers)
+
