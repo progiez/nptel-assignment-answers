@@ -64,7 +64,7 @@ Select the correct combination:
 - By making them harmless
 - By increasing their density
 
-**[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)****
+**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**
 
 ***
 
@@ -75,7 +75,7 @@ Select the correct combination:
 - Vegetation
 - Natural gas
 
-****[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)******
+**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**
 
 ***
 
@@ -88,7 +88,7 @@ Select the correct combination:
 
 [****See also**  **Air Pollution and Control Week 2 Nptel Quiz Answers****](https://progiez.com/air-pollution-and-control-week-2-nptel-quiz-answers)
 
-**[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)****
+**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**
 
 ***
 
@@ -99,7 +99,7 @@ Select the correct combination:
 - Dark spots and lesions on the skin
 - Throat irritation
 
-****[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)******
+**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**
 
 ***
 
@@ -110,7 +110,7 @@ Select the correct combination:
 - Ammonia (NH₃)
 - Mercury
 
-****[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)******
+**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**
 
 ***
 
@@ -121,7 +121,7 @@ Select the correct combination:
 - Ozone layer depletion
 - Acid rain
 
-****[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)******
+**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**
 
 ***
 
@@ -132,7 +132,7 @@ Select the correct combination:
 - Weak cohesion
 - Weak adhesion
 
-**[********](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)****
+**[**View Answer**](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)**
 
 ***
 
