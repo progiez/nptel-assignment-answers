@@ -1,6 +1,6 @@
-# NPTEL Programming In Modern C Week 03 Assignment Answers
+# NPTEL Programming In Modern C++ Week 03 Assignment Answers
 
-Are you looking for NPTEL Programming In Modern C Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Programming In Modern C course. We provide detailed solutions to help you complete your assignments efficiently.
+Are you looking for NPTEL Programming In Modern C++ Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Programming In Modern C course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
 ![Programming in Modern C++ Week 3 Assignment Answers (July-Dec 2025)](https://miro.medium.com/v2/resize:fit:875/1*gwxfui9an54R5hLJGT5B-A.jpeg)
