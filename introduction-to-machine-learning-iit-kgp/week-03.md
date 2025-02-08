@@ -2,7 +2,6 @@
 
 Are you looking for NPTEL Introduction To Machine Learning IIT KGP Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Introduction To Machine Learning IIT KGP course. We provide detailed solutions to help you complete your assignments efficiently.
 
-(https://miro.medium.com/v2/resize:fit:875/1*B3u5o95LJrTH3Rv_b6znnA.jpeg)
 
 ## _Introduction to Machine Learning Nptel Week 3 Answers (Jan-Apr 2025)_
 
