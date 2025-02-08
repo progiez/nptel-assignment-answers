@@ -2,6 +2,10 @@
 
 Are you looking for NPTEL AI in Marketing Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the AI in Marketing course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## AI in Marketing Nptel Week 3 Assignment Answers (Jan-Apr 2025)
+
+***
+
 **Que. 1)** What is the primary distinction between “strategy for AI” and “strategy with AI”?
 
 A) Strategy for AI is a substitute for strategy with AI in corporate planning.\
@@ -9,7 +13,7 @@ B) Strategy for AI addresses the operational role of AI, while strategy with AI 
 C) Strategy for AI focuses on technical implementation, while strategy with AI emphasizes market differentiation.\
 D) Strategy for AI and strategy with AI are synonymous concepts.
 
-    View Answer
+[View Answer](https://my.progiez.com/courses/ai-in-marketing-nptel-assignment-answers/)
 
 ***
 
@@ -20,7 +24,7 @@ B) Modular transformation\
 C) Incremental transformation\
 D) Architectural transformation
 
-    View Answer
+[View Answer](https://my.progiez.com/courses/ai-in-marketing-nptel-assignment-answers/)
 
 ***
 
@@ -31,7 +35,7 @@ B) Thinking AI\
 C) Adaptive AI\
 D) Mechanical AI
 
-    View Answer
+[View Answer](https://my.progiez.com/courses/ai-in-marketing-nptel-assignment-answers/)
 
 ***
 
@@ -42,7 +46,7 @@ B) Personalization\
 C) Micro-segmentation\
 D) Dynamic clustering
 
-    View Answer
+[View Answer](https://my.progiez.com/courses/ai-in-marketing-nptel-assignment-answers/)
 
 ***
 
@@ -53,20 +57,20 @@ B) By predicting emotional responses to price changes\
 C) By calculating real-time price adjustments using Bayesian inference\
 D) By providing pre-set static price suggestions
 
-    View Answer
+[****See also**  **AI in Marketing Nptel Week 1 Assignment Answers****](https://progiez.com/ai-in-marketing-nptel-week-1-assignment-answers)
+
+[View Answer](https://my.progiez.com/courses/ai-in-marketing-nptel-assignment-answers/)
 
 ***
 
 **Que. 6)** Which AI-powered strategy allows brands to avoid surplus inventory by producing only what customers commit to buying?
-
-[****See also**  **AI in Marketing Nptel Week 1 Assignment Answers****](https://progiez.com/ai-in-marketing-nptel-week-1-assignment-answers)
 
 A) Dynamic Inventory Management\
 B) Just-in-Time Production\
 C) Demand-Driven Mass Customization\
 D) Predictive Manufacturing
 
-    View Answer
+[View Answer](https://my.progiez.com/courses/ai-in-marketing-nptel-assignment-answers/)
 
 ***
 
@@ -77,7 +81,7 @@ B) By facilitating personalized customer engagement during delivery\
 C) By automating routine tasks like packaging and inventory management\
 D) By integrating customer preferences into delivery schedules
 
-    View Answer
+[View Answer](https://my.progiez.com/courses/ai-in-marketing-nptel-assignment-answers/)
 
 ***
 
@@ -88,7 +92,7 @@ B) Mechanical AI\
 C) Adaptive AI\
 D) Feeling AI
 
-    View Answer
+[View Answer](https://my.progiez.com/courses/ai-in-marketing-nptel-assignment-answers/)
 
 ***
 
@@ -99,7 +103,7 @@ B) Thinking AI and unsupervised machine learning\
 C) Feeling AI and sentiment analysis\
 D) Mechanical AI and algorithmic market research
 
-    View Answer
+[View Answer](https://my.progiez.com/courses/ai-in-marketing-nptel-assignment-answers/)
 
 ***
 
@@ -110,4 +114,4 @@ B) Analyzes competitors’ market share data\
 C) Predicts market trends and consumer preferences\
 D) Analyzes customer sentiments, preferences, and emotional data
 
-    View Answer
+[View Answer](https://my.progiez.com/courses/ai-in-marketing-nptel-assignment-answers/)
