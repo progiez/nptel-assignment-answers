@@ -3,7 +3,166 @@
 Are you looking for NPTEL Introduction To Industry 4.0 And Industrial IIoT Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Introduction To Industry 4.0 And Industrial IIoT course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
-![Introduction to Industry 4 and Industrial IoT Week 3 Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*px0olF6qs6lXY0AhXzcoSw.jpeg)
+![Introduction to Industry 4 and Industrial IoT Week 3 Assignment Answers (July-Dec 2025)](https://miro.medium.com/v2/resize:fit:875/1*px0olF6qs6lXY0AhXzcoSw.jpeg)
+
+## _Introduction to Industry 4 and Industrial IoT Week 3 Assignment Answers _(Jan-Apr 2025)
+
+***
+
+**1) What is the main difference between Embedded Systems and Cyber-Physical Systems (CPS)?**\
+a) Embedded systems are standalone devices, whereas CPS are networked systems.\
+b) CPS have limited resources, while embedded systems are not resource constrained.\
+c) Main issues of Embedded Systems are timing and concurrency, while the main issues of CPS are real-time response and reliability.\
+d) CPS lack physical components, while embedded systems include them.
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**2) What does “reactive computation” in CPS signify?**\
+a) Systems with zero response time\
+b) Interaction with the environment in an ongoing manner\
+c) Predefined computation processes\
+d) Complete isolation from physical feedback
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**3) Fill in the blanks.**
+
+\_In healthcare applications, CPS is used for \_\_\_\_\_\_\_\_\__._
+
+a) Image-guided surgery and therapy\
+b) Manual monitoring of vitals\
+c) Static hospital management systems\
+d) Front desk management
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**4) Which programming language developed in 1958 aided the evolution of Artificial Intelligence?**\
+a) Python\
+b) Lisp\
+c) Java\
+d) Prolog
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**5) Which level in the “5C Architecture” ensures the gathering of precise status information of machines?**\
+a) Conversion\
+b) Cognition\
+c) Cyber\
+d) Configuration
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**6) Fill in the blanks.**
+
+\_Intelligent sensors are capable of \_\_\_\_\_\_\_\_\_\_\_\__._
+
+a) Only sensing data\
+b) Processing sensed data and managing external sensors/devices\
+c) Limited communication\
+d) Basic analog-to-digital conversion
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**7) What are the five phases of the product lifecycle as per PLM in Industry 4.0?**\
+a) Visualize, Explain, Perceive, Support, Retire\
+b) Research, Design, Marketing, Distribution, Recycling\
+c) Ideation, Manufacturing, Expansion, Customer Feedback, Upgradation\
+d) Requirement Analysis, Development, Testing, Deployment, Maintenance
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**8) How many steps are there in the PLM solution approach in Industry 4.0?**\
+a) 8\
+b) 9\
+c) 10\
+d) 12
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**9) Which of the following is not a key component of an AR Device?**\
+a) Sensors\
+b) Cameras\
+c) Projection Screen\
+d) Remote Control
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**10) Which of the following statements is incorrect?**\
+a) Deep Learning is a subset of Machine Learning\
+b) Deep Learning is a subset of Artificial Intelligence\
+c) Machine Learning is a superset of Artificial Intelligence\
+d) Artificial Intelligence is a superset of Machine Learning
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**11) Which of the following is NOT a challenge of AI in IIoT?**\
+a) Connecting devices\
+b) Understanding data\
+c) Training AI models\
+d) Lack of available data
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**12) What is the primary purpose of data preprocessing in Big Data analytics?**\
+a) To store data without modification\
+b) To remove noises and redundancies before analysis\
+c) To generate fake data for testing purposes\
+d) To visualize trends before collection
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**13) What type of analytics is used to predict future trends based on historical data patterns?**\
+a) Descriptive Analytics\
+b) Diagnostic Analytics\
+c) Predictive Analytics\
+d) Prescriptive Analytics
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**14) Which of the following is not one of the primary constraints of mobile CPS?**\
+a) Stability of the network\
+b) Power requirement\
+c) Security\
+d) Design aesthetics
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
+***
+
+**15) What are the components of the 5C architecture for CPS?**\
+a) Connection, Conversion, Cyber, Cognition, Configuration\
+b) Creation, Controlling, Continuation, Convergence, Compatibility\
+c) Calculation, Catalysis, Convergence, Convenience, Cognizance\
+d) None of these
+
+**[**View Answer**](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)**
+
 
 Introduction to Industry 4 and Industrial IoT Week 3 Assignment Answers (July-Dec 2024)
 
