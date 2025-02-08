@@ -3,118 +3,144 @@
 Are you looking for NPTEL Introduction To Internet Of Things Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Introduction To Internet Of Things course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
-![Introduction To Internet Of Things Week 3 Nptel Answers (July-Dec 2025)](https://miro.medium.com/v2/resize:fit:875/1*-QYZQcby0ZM1lADdDdPjSQ.jpeg)
+## _Introduction To Internet Of Things Week 3 Nptel Answers _(Jan-Apr 2025)
 
-Introduction To Internet Of Things Week 3 Nptel Answers (Jan-Apr 2025)
-State True or False – “WirelessHART is the latest release of Highway Addressable Remote Transducer protocol.”
-a. True
-b. False
-View Answer
+***
 
-State True or False – “Wired HART has a network layer.”
-a. True
-b. False
-View Answer
+1. **State True or False – “WirelessHART is the latest release of Highway Addressable Remote Transducer protocol.”**\
+   a. True\
+   b. False
 
-State True or False – “WirelessHART physical layer is derived from 802.15.2 protocol.”
-a. False
-b. True
-View Answer
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
 
-WirelessHART operates only in: _______GHz ISM band.
-a. 3.7
-b. 4.8
-c. 4.8
-d. 2.4
-View Answer
+***
 
-HART standard was developed from:
-a. Amplified
-b. Diminished
-c. Isolated
-d. Networked smart field devices
-View Answer
+2. **State True or False – “Wired HART has a network layer.”**\
+   a. True\
+   b. False
 
-Main difference between wired and unwired versions is in the physical, data link, and:
-a. Data link
-b. Network
-c. Transport
-d. None of these
-View Answer
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
 
-State True or False – “Collision-free and deterministic communication is achieved in HART’s data link layer.”
-a. True
-b. False
-View Answer
+***
 
-Channel hopping is incorporated in which layer of HART?
-a. Data link layer
-b. Physical layer
-c. Application layer
-d. Transport layer
-View Answer
+3. **State True or False – “WirelessHART physical layer is derived from 802.15.2 protocol.”**\
+   a. False\
+   b. True
 
-State True or False – “The HART application layer is responsible for extracting commands from a message, executing it, and generating responses.”
-a. True
-b. False
-View Answer
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
 
-NFC is designed for use by devices within_______to each other.
-a. Anywhere on the globe
-b. A small building
-c. Both (a) and (b)
-d. None of these
-View Answer
+***
 
-Passive NFC devices_____________ information which is _____________ by other devices.
-a. Contain, read
-b. Read, contain
-c. Contain, contain
-d. None of these
-View Answer
+4. **WirelessHART operates only in:** \_\_\_\_\_\_\_**GHz ISM band**.\
+   a. 3.7\
+   b. 4.8\
+   c. 4.8\
+   d. 2.4
 
-State True or False – “NFC devices work on the principle of magnetic induction.”
-a. True
-b. False
-View Answer
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
 
-Bluetooth technology is based on___________.
-a. HART
-b. ZigBee
-c. All of these
-d. None of these
-View Answer
+***
 
-State True or False – “The Link Manager Protocol in Bluetooth manages only establishment and authentication.”
-a. True
-b. False
-View Answer
+5. **HART standard was developed from:**\
+   a. Amplified\
+   b. Diminished\
+   c. Isolated\
+   d. Networked smart field devices
 
-Zigbee commonly uses which data rate?
-a. 260 bps
-b. 260 kbps
-c. 260 Mbps
-d. None of these
-View Answer
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
 
-Introduction To Internet Of Things Week 3 Nptel Answers (July-Dec 2024)
+***
 
+6. **Main difference between wired and unwired versions is in the physical, data link, and:**\
+   a. Data link\
+   b. Network\
+   c. Transport\
+   d. None of these
 
-# Introduction To Internet Of Things Week 3 Nptel Answers (July-Dec 2024)<a id="4e8a"></a>
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
 
-**Q1.**State True or False.\
-Statement: “Wireless HART is the latest release of Highway Addressable Remote Transducer protocol.”\
-a. True\
-b. False
+***
 
-**Answer: b. Data**
+7. **State True or False – “Collision-free and deterministic communication is achieved in HART’s data link layer.”**\
+   a. True\
+   b. False
 
-**Q2**.State True or False.\
-Statement: “Wired HART does not have a network layer.”\
-a. True\
-b. False
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
 
-**Answer: b. Publish-Subscribe**
+***
+
+8. **Channel hopping is incorporated in which layer of HART?**\
+   a. Data link layer\
+   b. Physical layer\
+   c. Application layer\
+   d. Transport layer
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+9. **State True or False – “The HART application layer is responsible for extracting commands from a message, executing it, and generating responses.”**\
+   a. True\
+   b. False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+10. **NFC is designed for use by devices within**\_\_\_\_\_\_\_**to each other.**\
+    a. Anywhere on the globe\
+    b. A small building\
+    c. Both (a) and (b)\
+    d. None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+11. **Passive NFC devices**\_\_\_\_\_\_\_\_\_\_\_\_\_ **information which is \_\_\_\_\_\_\_\_\_\_\_\_\_ by other devices.**\
+    a. Contain, read\
+    b. Read, contain\
+    c. Contain, contain\
+    d. None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+12. **State True or False – “NFC devices work on the principle of magnetic induction.”**\
+    a. True\
+    b. False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+13. **Bluetooth technology is based on**\_\_\_\_\_\_\_\_\_\_\_.\
+    a. HART\
+    b. ZigBee\
+    c. All of these\
+    d. None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+14. **State True or False – “The Link Manager Protocol in Bluetooth manages only establishment and authentication.”**\
+    a. True\
+    b. False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+15. **Zigbee commonly uses which data rate?**\
+    a. 260 bps\
+    b. 260 kbps\
+    c. 260 Mbps\
+    d. None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
 
 **For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
 
