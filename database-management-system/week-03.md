@@ -5,6 +5,113 @@ Are you looking for NPTEL Database Management System Week 03 Assignment Answers?
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*Rop1_CfqNhdowD4mlyT4yg.jpeg)
 
+## _Nptel Database Management System Assignment 3 Answers (Jan-Apr 2025)_
+
+***
+
+**1)** 1. An organization, collecting car renters’ information, considers the following relations:\
+Renter (Renter \_ID, Contact)\
+Renting (Renter\_ID, Car Number)\
+Car (Car Number, Model).\
+What will the following relational algebra expression return to the organization?\
+II<sub>Contact</sub> (Renter) – II<sub>Contact</sub> (Renter X Renting)\
+a) The Contacts of those Renters who are Renting at most one Car at that instance.\
+b) The Contacts of those Renters who are Renting every Car at that instance.\
+c) The Contacts of those Renters who are Renting at least one Car at that instance.\
+d) The Contacts of those Renters who are not Renting any Car at that instance.
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**2) Which ER notation represents the entity Species correctly?**\
+a) Species (ID, Name, Generic, Specific, Tags)\
+b) Species (ID, Name, Generic, Specific, (Tags))\
+c) Species (ID, Name, Generic, Specific, Tags())\
+d) Species (ID, Name, Generic, Specific, Tags)
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**3)**
+
+![image 28](https://progiez.com/wp-content/uploads/2024/08/image-28.png "Database Management System Nptel Assignment 3 Answers 2")
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**4) Which of the following is X in this expression?**\
+Temp-India − ((Temp-India ∪ Temp-France) − (Temp-India ∩ Temp-France))\
+a) Temp-India\
+b) Temp-France\
+c) Temp-India ∪ Temp-France\
+d) Temp-India ∩ Temp-France
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**5)**
+
+![image 29](https://progiez.com/wp-content/uploads/2024/08/image-29.png "Database Management System Nptel Assignment 3 Answers 3")
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**6) Which relational algebra expression generates names of those Owners who own two or more CakeShops?**
+
+![image 30](https://progiez.com/wp-content/uploads/2024/08/image-30.png "Database Management System Nptel Assignment 3 Answers 4")
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**7)**
+
+![image 31](https://progiez.com/wp-content/uploads/2024/08/image-31.png "Database Management System Nptel Assignment 3 Answers 5")
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**8) In a printing company, a Book is printed by multiple Employees and an Employee prints multiple Books. The Books are identified by their unique Title. A Book also has an Edition and multiple values of the attribute Author. An Employee has a unique ID. Assuming there is a Prints relation between Book and Employee, what will be the correct schema for Prints and Book?**\
+a) Prints (Title, ID), Book (Title, Edition, Author)\
+b) Prints (ID), Book (Title, Edition), Book-author (Title, Author)\
+c) Prints (Title, ID), Book (Title, Edition), Book-author (Title, Author)\
+d) Prints (Title, ID), Book (Title, Edition), Book-author (Title, Author)
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**9)**
+
+![image 32](https://progiez.com/wp-content/uploads/2024/08/image-32.png "Database Management System Nptel Assignment 3 Answers 6")
+
+**Which is an alternate ER notation for Owner in the Entity Relationship Diagram?**\
+a)\
+b)\
+c)\
+d)
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**10) Which of the following is/are not true in the Entity Relationship Diagram?**\
+a) NewCar and OldCar are Overlapping specializations of Car.\
+b) Participation of Car in Owns is total.\
+c) Age is a composite attribute of Owner.\
+d) DOB is a component attribute of Address.
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+
+
+
 Nptel Database Management System Assignment 3 Answers (July-Dec 2024)
 
 
