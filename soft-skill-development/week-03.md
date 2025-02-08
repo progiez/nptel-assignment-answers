@@ -3,7 +3,168 @@
 Are you looking for NPTEL Soft Skill Development Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Soft Skill Development course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
-![Soft Skill Development Week 3 Nptel Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*k-Vp0sxrxvBKaDyalVxpMA.jpeg)
+![Soft Skill Development Week 3 Nptel Assignment Answers (July-Dec 2025)](https://miro.medium.com/v2/resize:fit:875/1*k-Vp0sxrxvBKaDyalVxpMA.jpeg)
+
+## _Soft Skill Development Week 3 Nptel Assignment Answers (Jan-Apr 2025)_
+
+***
+
+**1) Which of the following statements about micro-expressions is most accurate?**\
+(a) Micro-expressions are always consciously controlled and can be easily faked with practice.\
+(b) They last between 5 to 10 seconds and reflect a person’s long-term emotional state.\
+(c) They are involuntary facial expressions that typically last less than half a second.\
+(d) They occur only when a person is lying or trying to deceive someone.
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**2) In an image, the distinction between background and foreground is always fixed and cannot be altered.**\
+(a) True\
+(b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**3) Which statement best reflects the role of non-verbal communication in face-to-face interactions?**\
+(a) It often conveys meaning more effectively than words.\
+(b) It is secondary to verbal communication.\
+(c) It is only significant in professional settings.\
+(d) It rarely influences how messages are received.
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**4) How does harmony contribute to musical communication?**\
+(a) It is purely structural.\
+(b) It replaces melody.\
+(c) It has no impact.\
+(d) It enhances emotional depth.
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**5) Consider the following statements.**\
+A: Eye contact always conveys confidence and honesty, regardless of cultural context.\
+B: Tone of voice can change the meaning of the same spoken words.
+
+(a) Both A and B are correct\
+(b) A is correct but B is wrong\
+(c) B is correct but A is wrong\
+(d) Both A and B are wrong
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**6) Curiosity primarily affects:**\
+(a) Eyebrows and forehead\
+(b) Mouth and jaw\
+(c) Both upper and lower face\
+(d) None of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**7) The difference between timbre and frequency gets reflected through:**\
+(a) Beats per minute (BPM)\
+(b) Amplitude\
+(c) The pitch of the sound\
+(d) None of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**8) Which of the following emotions is most commonly associated with erratic rhythm?**\
+(a) Joy\
+(b) Anger\
+(c) Calmness\
+(d) Sadness
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**9) Gestalt psychology emphasizes the study of individual components of consciousness rather than the whole.**\
+(a) True\
+(b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**10) Which of the following best describes scanning bias?**\
+(a) The tendency to seek out information that confirms pre-existing beliefs.\
+(b) The mental discomfort experienced when holding conflicting beliefs.\
+(c) The tendency to focus on certain aspects of information while ignoring others.\
+(d) The over-reliance on the first piece of information encountered.
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**11) Consider the following sentences.**\
+A: Our perception of size can be influenced by the context in which an object is seen.\
+B: Gestalt principles explain how we perceive groups of objects as unified wholes.
+
+(a) Both A and B are correct\
+(b) A is correct but B is wrong\
+(c) B is correct but A is wrong\
+(d) Both A and B are wrong
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**12) Consider the following statements.**\
+A: Surprise is typically expressed through widened eyes and raised eyebrows.\
+B: Micro-expressions can be consciously controlled with sufficient training.
+
+(a) Both A and B are correct\
+(b) A is correct but B is wrong\
+(c) B is correct but A is wrong\
+(d) Both A and B are wrong
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**13) Which of the following is LEAST easily represented visually?**\
+(a) Music\
+(b) Emotions\
+(c) Physical objects\
+(d) Spatial relationships
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**14) Consider the following statements:**\
+A: Visualization shapes our perception and understanding of reality rather than just representing it.\
+B: Digital images and physical images exist in completely separate domains with no overlap in meaning.
+
+(a) Both A and B are true\
+(b) Both A and B are false\
+(c) Only B is true\
+(d) Only A is true
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**15) Who introduced the concept of proxemics to quantify the human use of space and its relationship to social interaction?**\
+(a) Edward T. Hall\
+(b) Daniel Goleman\
+(c) Bruno Latour\
+(d) Allan Pease
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
 
 Soft Skill Development Week 3 Nptel Assignment Answers (July-Dec 2024)
 
