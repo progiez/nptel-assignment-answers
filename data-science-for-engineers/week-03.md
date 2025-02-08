@@ -2,6 +2,108 @@
 
 Are you looking for NPTEL Data Science For Engineers Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Data Science For Engineers course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## _Nptel Data Science for Engineers Assignment 3 Answers (Jan-Apr 2025)_
+
+***
+
+**1) Sumit wants to contact one of his friends, but he remembers only the first 9 of the 10 digits of the contact number. He is sure that the last digit of the contact number is an odd number. He selects an odd number randomly. If the random variable X denotes the last digit of the contact number, then calculate Var(X).**\
+A) 5\
+B) 8\
+C) 33\
+D) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**2) Suppose X \~ Normal(μ, 4). For n = 20 iid samples of X, the observed sample mean is 5.2. What conclusion would a z-test reach if the null hypothesis assumes μ = 5 (against an alternative hypothesis μ ≠ 5) at a significance level of α = 0.05?**\
+A) Accept H₀\
+B) Reject H₀
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**3)A box contains 8 items, out of which 2 are defective. A sample of 5 items is to be selected randomly (without replacement) from the box. If the random variable X represents the number of defective items in a selection of 5 items, then find E(X). (Enter the answer correct to 2 decimal places)**
+
+A) 1.25\
+B) 5\
+C) 0.4\
+D) 1.3
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**4) Suppose X \~ Normal(μ, 9). For n = 100 iid samples of X, the observed sample mean is 11.8. What conclusion would a z-test reach if the null hypothesis assumes μ = 10.5 (against an alternative hypothesis μ ≠ 10.5)?**\
+A) Accept H₀ at a significance level of 0.10\
+B) Reject H₀ at a significance level of 0.10\
+C) Accept H₀ at a significance level of 0.05\
+D) Reject H₀ at a significance level of 0.05
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**5) Let X and Y be two independent random variables with Var(X) = 9 and Var(Y) = 3. Find Var(4X − 2Y + 6).**\
+A) 100\
+B) 140\
+C) 156\
+D) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**6) The covariance between two random variables X and Y is −3.749, and their variances are given by 3 and 5. Compute the correlation coefficient.**\
+A) -0.854\
+B) 0.561\
+C) -0.068\
+D) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**7) When will you reject the null hypothesis?**\
+A) p-value greater than α\
+B) p-value less than α\
+C) p-value equal to α\
+D) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**8) A sample of N observations is independently drawn from a normal distribution. The sample variance follows:**\
+A) Normal distribution\
+B) Chi-square with N degrees of freedom\
+C) Chi-square with N − 1 degrees of freedom\
+D) t-distribution with N − 1 degrees of freedom
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**9) A car manufacturer purchases car batteries from two different suppliers. Supplier X provides 55% of the batteries, and supplier Y provides the rest. 5% of all batteries from supplier X are defective, and 4% of all batteries from supplier Y are defective. You select a battery from the bulk, and you found it to be defective. What is the probability that it is from Supplier X?**\
+A) 0.0455\
+B) 0.455\
+C) 0.604\
+D) 0.018
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**10) Which one of the following is the best measure of central tendency for categorical data?**\
+A) Mean\
+B) Median\
+C) Mode\
+D) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+
 
 ![Nptel Data Science for Engineers Assignment 3 Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*qjQiTtkddBw0UyoU5ruXTw.jpeg)
 
