@@ -3,7 +3,179 @@
 Are you looking for NPTEL Problem Solving Through Programming In C Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Problem Solving Through Programming In C course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
-![Problem Solving Through Programming In C Week 3 Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*Lj8poyR-0G7eqbC3-LXCvQ.jpeg)
+![Problem Solving Through Programming In C Week 3 Answers (July-Dec 2025)](https://miro.medium.com/v2/resize:fit:875/1*Lj8poyR-0G7eqbC3-LXCvQ.jpeg)
+
+## _Problem Solving Through Programming In C Week 3 Answers (Jan-Apr 2025)_
+
+***
+
+**1) The precedence of arithmetic operators is (from highest to lowest):**
+
+a) `% , * , / , + , -`\
+b) `% , + , / , % , -`\
+c) `+ , - , % , * , /`\
+d) `% , + , - , *` ,` /`
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**2) What is the output of the following program? (% indicates modulo operation, which results in the remainder of a division operation)**
+
+    #include <stdio.h>
+    int main() {
+        float i = 3.0;
+        int k = i % 2;
+        return 0;
+    }
+
+a) -1\
+b) `1`\
+c) 0\
+d) Compilation error
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**3) Find the output of the following C code. (% indicates modulo operation, which results in the remainder of a division operation)**
+
+    #include<stdio.h>
+    int main() {
+        int a = 10, b = 3, c = 2, d = 4, result;
+        result = a + a * -b / c % d + c * d;
+        printf("%d", result);
+        return 0;
+    }
+
+a) `-42`\
+b) `24`\
+c) `15`\
+d) `-34`
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**4) What is the output of the following C code?**
+
+    #include <stdio.h>
+    int main() {
+        int b = 8;
+        printf("%d\n", b);
+        return 0;
+    }
+
+a) 0\
+b) 3\
+c) `4`\
+d) Compilation error
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**5) What will be the output?**
+
+    #include <stdio.h>
+    int main() {
+        int a = 1, b = 2, c = 3;
+        if (c > b > a)
+            printf("TRUE");
+        else
+            printf("FALSE");
+        return 0;
+    }
+
+a) `TRUE`\
+b) `FALSE`\
+c) `Syntax Error`\
+d) `Compilation Error`
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**6) Find the output of the following C code:**
+
+    #include <stdio.h>
+    int main() {
+        int x = 1;
+        if ((3 > 5) || (x &= 0))
+            printf("IITKGP");
+        else
+            printf("IITM");
+        return 0;
+    }
+
+a) `IITKGP`\
+b) `IITD and IITM`\
+c) `IITKGP and IITM`\
+d) `IITM`
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**7) What will be the output?**
+
+    #include <stdio.h>
+    int main() {
+        int x = 2;
+        if (x = 1)
+            printf("TRUE");
+        else
+            printf("FALSE");
+        return 0;
+    }
+
+a) `TRUE`\
+b) `FALSE`\
+c) `Compilation Error`\
+d) `Compiler Dependent`
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**8) Which of the following statements is correct?**
+
+a) Operator precedence determines which operator is performed first in an expression with more than one operator with different precedence. Associativity is used when two operators of the same precedence appear in an expression.\
+b) Operator associativity determines which operator is performed first in an expression with more than one operator with different associativity. Precedence is used when two operators of the same precedence appear in an expression.\
+c) Operator precedence and associativity are the same.\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**9) Which of the following methods are accepted for assignment?**
+
+a) `8 = x = y = z`\
+b) `x = 8 = y = z`\
+c) `x = y = z = 8`\
+d) None
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**10) What will be the output?**
+
+    #include<stdio.h>
+    int main() {
+        int x = 9 < 5 + 3;
+        printf("%d", x);
+        return 0;
+    }
+
+a) `0`\
+b) `1`\
+c) 7\
+d) Compilation error
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
 
 Problem Solving Through Programming In C Week 3 Answers (July-Dec 2024)
 
