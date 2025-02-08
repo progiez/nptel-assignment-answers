@@ -5,6 +5,145 @@ Are you looking for NPTEL The Joy Of Computation Using Python Week 03 Assignment
 
 ![The Joy of Computing Using Python NPTEL week 3 Answers](https://miro.medium.com/v2/resize:fit:875/1*qaJJxmgJLO7AckA8r5Z2Sw.jpeg)
 
+## _The Joy of Computing Using Python NPTEL week 3 Answers (Jan-Apr 2025)_
+
+***
+
+**1) Which of the following is/are false statement(s)?**
+
+a) Lists are fixed in size; they cannot store more than 1024 values.\
+b) One can access elements in a list using non-numeric indices.\
+c) Iterating over lists is possible in Python.\
+d) We need to specify the required size of a list while creating a new list variable.
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**2) In the below code:**
+
+    for i in range(n):
+        l1 = []
+        for j in range(i):
+            l1.append(j)
+        for k in l1:
+            a.append(p)
+    for l in a:
+        print(k)
+
+For what value of n does the program print 10?
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**3) From the previous question, for what values of nn is the number 25 appended to list aa?**
+
+a) 25\
+b) 24\
+c) 35\
+d) 32
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**4) What does the following code perform?**
+
+    def mystery(container):
+        result = []
+        for i in range(len(container)):
+            result.append(container[i])
+        else:
+            result.append(container[1])
+        return result
+
+a) It converts any input list into a new list which is filled with some numbers that are always in increasing order.\
+b) It converts any input list into a new list such that at even indices, the value is a multiple of an even number and at odd indices, the value is either even or a negative number.\
+c) It converts any input list into a new list such that at odd indices, the value is always an even number and at even indices, the value is negative.\
+d) It converts any input list into a new list, which follows no pattern.
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**5) From the previous question, if the option:**
+
+_“It converts any input list into a new list such that at even indices, the value is a multiple of an even number and at odd indices, the value is either even or a negative number.”_
+
+is incorrect, can you make changes to the code so that this option is always true for any input?
+
+a) No, it is not possible to make such changes.\
+b) No, the option is already correct.\
+c) Yes, we can make changes.
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**6) If `file.txt` exists, does the following code successfully run?**
+
+    with open("file.txt", "r") as f:
+        data = f.read()
+    print(data)
+
+a) Yes\
+b) No
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**7) Which of the following are examples of Social Computing?**
+
+a) ChatGPT\
+b) Wikipedia\
+c) Quora\
+d) Twitch
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**8) What does the following code print for n=2560n = 2560?**
+
+    n = 2560
+    while n:
+        a.append(n % 10)
+        n //= 10
+    a.sort()
+    for i in a:
+        if b:
+            print("PYTHON IS FUN")
+        else:
+            print("PYTHON IS BORING")
+
+a) PYTHON IS BORING\
+b) PYTHON IS FUN
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**9) From the previous question, is `a.sort()` responsible for printing either of the two possible sentences?**
+
+a) Yes, and the code may print “PYTHON IS FUN”.\
+b) No, it is purely dependent on variable nn.\
+c) No, it is not dependent on `a.sort()`, and the code will never print “PYTHON IS FUN”.
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**10) What does the code in question 8 calculate?**
+
+Can you determine the values of kk and bb if: n=245326785456×103359n = 245326785456 \times 103359
+
+If the values of kk and bb are different, enter 0; else, enter the value of kk.
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+
 The Joy of Computing Using Python NPTEL week 3 Answers
 
 
