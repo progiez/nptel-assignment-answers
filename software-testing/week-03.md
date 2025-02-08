@@ -5,6 +5,143 @@ Are you looking for NPTEL Software Testing Week 03 Assignment Answers? This repo
 
 ![Software Testing NPTEL Week 3 Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*QgIciCusY_xaDsPl8b_JRQ.jpeg)
 
+## _Software Testing NPTEL Week 3 Assignment Answers ( Jan-Apr 2025 )_
+
+***
+
+**1) Which one of the following correlates well with the testing difficulty of a program?**\
+a) Number of statements in the program\
+b) Number of decision statements in the program\
+c) Complexity of the arithmetic expressions used in the program\
+d) Time complexity of the program\
+e) Number of looping statements present in the program\
+f) Number of arithmetic operators used in the program
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**2) If two code segments have Cyclomatic complexities of N1 and N2 respectively, what will be the Cyclomatic complexity of the juxtaposition of the two code segments?**\
+a) N1 + N2\
+b) N1 + N2 + 1\
+c) N1 + N2 – 1\
+d) N1 + N2 + 2\
+e) N1 \* N2
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**3) Which one of the following is a fault-based testing technique?**\
+a) Pairwise testing\
+b) Dataflow testing\
+c) Path testing\
+d) Mutation testing\
+e) Boundary value testing
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**4) Which of the following subsumption relations among white-box test coverage criteria are incorrect?**\
+a) Multiple condition coverage subsumes decision coverage\
+b) Basic condition coverage subsumes decision coverage\
+c) Basic condition coverage subsumes statement coverage\
+d) Path coverage subsumes MC/DC\
+e) Modified Condition/Decision Coverage (MC/DC) subsumes basic condition coverage
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**5) Which of the following are NOT true of white box code coverage?**\
+a) Code coverage increases as more and more test cases are designed and exercised.\
+b) 100% path coverage is achieved when all the test cases have been exercised.\
+c) 100% faults in a program are detected when full path coverage is achieved.\
+d) Test completion criteria are often specified in terms of code coverage criteria.\
+e) As the code coverage increases, the number of test case failures increases.
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**6) Consider the following code snippet. What would be the path coverage achieved for a test case with the input values i=5?**
+
+    if (i) then
+      if (i > k) then max = i;
+      else max = k;
+    else if (j) max = j;
+    else max = k;
+
+a)20%
+
+b)25%
+
+c)40%
+
+d)66.6%
+
+e)100%
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**7) If MC/DC coverage has been achieved on a unit under test, which of the following test coverages are implicitly implied?**\
+a) Basis path coverage\
+b) Decision coverage\
+c) Multiple condition coverage\
+d) Condition/decision coverage\
+e) Data flow coverage
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**8) Which of the following mutants are considered as equivalent mutants?**\
+a) Mutants which arise from the same change\
+b) Mutants which do not cause failure with the same set of test cases\
+c) Mutants which cause failure for the same set of test cases\
+d) Mutants which are obtained from the application of the same mutation operator\
+e) Mutants which cannot be killed by any test case
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**9) At least how many test cases are required to achieve MC/DC coverage of the following code segment?**
+
+    if (Y < 100) or x: x = 1;
+
+a) 1\
+b) 2\
+c) 3\
+d) 4\
+e) 5
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**10) What is the McCabe’s Cyclomatic complexity for the following code segment?**
+
+    int partition(int arr[], int l, int r) {
+      int x = arr[l], i = (l - 1), t;
+      for (int j = l; j < r; j++) {
+        if (arr[j] < x)
+          // some logic here
+      }
+    }
+
+a) 2\
+b) 3\
+c) 4\
+d) 5\
+e) 6
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+
 Software Testing NPTEL Week 3 Assignment Answers
 
 
