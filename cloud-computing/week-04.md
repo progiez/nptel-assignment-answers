@@ -5,6 +5,300 @@ Are you looking for NPTEL Cloud Computing Week 04 Assignment Answers? This repos
 
 ![Cloud Computing Nptel Week 4 Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*fg9Si1JaGzb38ZMOTmKeFQ.jpeg)
 
+## _Cloud Computing Nptel Week 4 Assignment Answers_ (Jan-Apr 2025)
+
+Course link: [**Click here**](https://onlinecourses.nptel.ac.in/noc25_cs12/preview)
+
+***
+
+Q1. In Google Cloud Platform (GCP), Cloud Datastore provides flexible object storage with global edge caching.
+
+(a) TRUE\
+(b) FALSE
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+Q2. Match the following:
+
+**A.** Cinder, OpenStack → **1.** MySQL or NoSQL databases.\
+**B.** Google APIs → **2.** Google’s fully managed, petabyte-scale, low-cost analytics data warehouse to find meaningful insights.\
+**C.** Cloud SQL → **3.** Integrate Google’s services into the application.\
+**4.** Manages block storage in OpenStack.
+
+(a) A-4, B-3, C-1\
+(b) A-1, B-3, C-2\
+(c) A-2, B-4, C-1\
+(d) A-1, B-3, C-2
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+Q3. **Statement 1:** Azure supports public cloud platform.\
+**Statement 2:** Azure App Service plan defines security.
+
+(a) Statement 1 is True and Statement 2 is False\
+(b) Statement 1 is False and Statement 2 is True\
+(c) Both are True\
+(d) Both are False
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+Q4. Which of the following components of OpenStack is responsible for providing persistent block storage to running instances?
+
+(a) Nova\
+(b) Cinder\
+(c) Swift\
+(d) None of the above
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+Q5. Which of the following is/are App services provided by Google Cloud Platform?
+
+(a) BigQuery\
+(b) Google App Engine\
+(c) Cloud Endpoints\
+(d) Cloud SQL
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+Q6. In OpenStack, when a VM is terminated, which of the following memory resources are freed?
+
+(a) Ephemeral storage\
+(b) Persistent storage\
+(c) RAM\
+(d) Block storage
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+Q7. Google Cloud Endpoints helps to:
+
+(a) Migrate the web app to Google Cloud Platform.\
+(b) Scale up the app according to the demand/service requests.\
+(c) Provide flexible object storage with global edge caching.\
+(d) Integrate Google’s services into the application.
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+Q8. The Azure App plan has a scale count of \_\_\_ instances.
+
+(a) 1 to 50\
+(b) 1 to 20\
+(c) 1 to 10\
+(d) 1 to 100
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+Q9. Match the following columns regarding OpenStack:
+
+**A.** Ephemeral storage → **1.** Cinder\
+**B.** Block storage → **2.** Nova\
+**C.** Object storage → **3.** Swift
+
+(a) A-1, B-2, C-3\
+(b) A-2, B-3, C-1\
+(c) A-3, B-1, C-2\
+(d) A-2, B-1, C-3
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+Q10. In GCP, “gcloud app browse” can be used to start the local development server for the application.
+
+(a) TRUE\
+(b) FALSE
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+
+## _Cloud Computing Nptel Week 4 Assignment Answers_ (July-Dec 2024)
+
+***
+
+**Q1.**SQL Azure is a cloud-based relational database service that is based on:\
+(a) Oracle\
+(b) SQL Server\
+(c) MySQL\
+(d) None
+
+**Answer: (b) SQL Server**
+
+***
+
+**Q2.** Microsoft Azure provides\
+(a) SaaS\
+(b) PaaS\
+(c) IaaS\
+(d) None
+
+**Answer:** (a) SaaS\
+(b) PaaS\
+(c) IaaS
+
+***
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+***
+
+**Q3.** Azure App Service plan defines\
+(a) Region\
+(b) Instance size\
+(c) Scale count\
+(d) None
+
+**Answer:** (a) Region\
+(b) Instance size\
+(c) Scale count
+
+***
+
+**Q4.**The OpenStack component – Glance monitors and meters the OpenStack cloud for billing, benchmarking.\
+State True of False.\
+a) True\
+b) False
+
+**Answer: b) False**
+
+***
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+***
+
+**Q5.**GCP: Choose the correct option(s)\
+a) To run your web-application, you need to configure only the Google Storage bucket\
+b) “gcloud app deploy app.yaml” the command can be used to deploy your app to app-engine\
+c) After launching your application to app-engine anyone can view the app at http\://\[YOUR\_PROJECT\_ID].appspot.com\
+d) “gcloud app browse” – can be used to start the local development server for the application
+
+[****See also**  **Cloud Computing Nptel Week 8 Assignment Answers****](https://progiez.com/cloud-computing-nptel-week-8-assignment-answers)
+
+**Answer: b) “gcloud app deploy app.yaml” the command can be used to deploy your app to app-engine\
+c) After launching your application to app-engine anyone can view the app at http\://\[YOUR\_PROJECT\_ID].appspot.com**
+
+***
+
+**Q6.**In OpenStack, the different components of Nova (e.g. scheduler, Compute, api etc.) communicates via:\
+(a) Message Queues\
+(b) Neutron\
+(c) Conductor\
+(d) Swift
+
+**Answer: (a) Message Queues**
+
+***
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+***
+
+**Q7.**In OpenStack, **_**\_\_**_** is a system for managing networks and IP addresses.\
+(a) Nova\
+(b) Keystone\
+(c) Neutron\
+(d) None of these
+
+**Answer: (c) Neutron**
+
+***
+
+**Q8**Cloud DataStore in GCP is a NoSQL document database built for automatic scaling, high performance, and ease of application development\
+a) True\
+b) False
+
+**Answer:a) True**
+
+***
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+***
+
+**Q9.**GCP: Which one is/are correct statement(s)?\
+a) You can reuse the project ID only after you delete the previous project in GCP\
+b) A CNAME alias is a DNS record that lets you use a URL from your own domain to access resources, such as a bucket and objects, in Cloud Storage using your custom domain URL\
+c) “Multi-Regional” Storage class is used for the bucket to stream videoes and host hot web content accessed frequently around the world\
+d) “Nearline” Storage class is used for the bucket to store data accessed frequently in one part of the world
+
+**Answer**:**a) You can reuse the project ID only after you delete the previous project in GCP\
+b) A CNAME alias is a DNS record that lets you use a URL from your own domain to access resources, such as a bucket and objects, in Cloud Storage using your custom domain URL\
+c) “Multi-Regional” Storage class is used for the bucket to stream videoes and host hot web content accessed frequently around the world**
+
+***
+
+**Q10.**OpenStack: Which IP use is preferred for transferring data to a VM from
+
+    (i) Another VM in the same cloud
+    (ii) One organization's network-
+
+(a) i. Floating IP, ii. Private IP\
+(b) i. Private IP, ii. Floating IP\
+(c) Floating IP in both cases\
+(d) Private IP in both cases
+
+**Answer:(b) i. Private IP, ii. Floating IP**
+
+***
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+Cloud Computing NPTEL All weeks: [Click Here](https://progiez.com/nptel-assignment-answers/python-for-data-science)
+
+For answers to additional Nptel courses, please refer to this link: [NPTEL Assignment Answers](https://progiez.com/nptel-assignment-answers)
+
+***
+
+
+## Cloud Computing Nptel Week 4 Assignment Answers (JAN-APR 2024)
+
+**Course Name: Cloud Computing**
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc24_cs17/preview)**
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+**_****_****_****These are Cloud Computing Nptel Week 4 Assignment Answers****_****_****_**
+
+***
+
+Q1. Which of the following statement(s) is/are FALSE for Microsoft Azure Resource Group?\
+(a) It is a logical container\
+(b) It manages Azure resources\
+(c) It deploys web apps, databases, and storage accounts\
+(d) It is a physical container
+
+**Answer: (d) It is a physical container**
+
+***
+
+**Q2. Statement 1: Azure supports public cloud platforms.\
+Statement 2: Azure App Service plan defines security.**\
+(a) Statement 1 is TRUE, Statement 2 is FALSE\
+(b) Statement 2 is TRUE, Statement 1 is FALSE\
+(c) Both statements are TRUE\
+(d) Both statements are FALSE
+
+**Answer: (a) Statement 1 is TRUE, Statement 2 is FALSE**
+
+
 Cloud Computing Nptel Week 4 Assignment Answers (July-Dec 2024)
 
 
