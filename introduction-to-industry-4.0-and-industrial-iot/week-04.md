@@ -5,6 +5,176 @@ Are you looking for NPTEL Introduction To Industry 4.0 And Industrial IIoT Week 
 
 ![Introduction to Industry 4 and Industrial IoT Week 4 Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*5LU5erDCCZe9O2jM4NWJnw.jpeg)
 
+## _Introduction to Industry 4 and Industrial IoT Week 4 Assignment Answers _(Jan-Apr 2025)
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs43/preview)**
+
+***
+
+**Q1.** What is the primary purpose of SCADA in industrial applications?
+
+a) Control and monitoring of physical processes\
+b) Designing sensors for manufacturing\
+c) Manual intervention in industrial processes\
+d) Eliminating all automation
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q2.** What is the function of WSANs in industrial processes?
+
+a) Manual sensor installation\
+b) Integration of sensors and actuators with wireless networks\
+c) Replacing traditional data systems\
+d) Eliminating automated controls
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q3.** What does cybersecurity primarily aim to protect?
+
+a) Physical security\
+b) Internet-connected systems, including hardware, software, and data\
+c) Standalone software applications\
+d) Manual data handling systems
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q4.** Which industrial sector benefits from advanced analytics using the Industrial Internet?
+
+a) Healthcare\
+b) Oil and Gas\
+c) Rail Transportation\
+d) All of these
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q5.** Cyber Physical systems comprise which of the following layers?
+
+a) Control Layer, Cognitive Layer, Cyber Layer, Conversion Layer, and Connection Layer\
+b) Sensing Layer, Edge Computing Layer, Cloud Layer, Decision-Making Layer, and Execution Layer\
+c) Detection Layer, Data Processing Layer, Connectivity Layer, Automation Layer, and User Interaction Layer\
+d) Edge Computing Layer, Automation Layer, Detection Layer, Decision-Making Layer, and Device Layer
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q6.** Which of the following is not a differentiator between IIoT and Automation?
+
+a) Ubiquitous sensing\
+b) Advanced analytics\
+c) IT tools and methodologies\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q7.** In the context of Cybersecurity for Industry 4.0, what does SDCMA stand for?
+
+a) Secure Data and Cloud Management Architecture\
+b) Secure Data and Cloud Management Architecture\
+c) Software-Defined Cloud Manufacturing Architecture\
+d) Smart Digital Cloud Monitoring Algorithm
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q8.** According to GE, \_\_\_\_\_\_\_\_\_\_\_\_ can be defined as “the association of the global industrial system with low-cost sensing, interconnectivity through internet, high-level computing and analytics.”
+
+a) Industrial Internet\
+b) Internet of Things\
+c) M2M Communication\
+d) SCADA
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q9.** What are the three key elements of the Industrial Internet?
+
+a) Connected Devices, Ubiquitous Sensing, and Cloud Computing\
+b) Intelligent Machines, Advanced Analytics, and People at work\
+c) 5G Networks, Quantum Computing, and Virtual Reality\
+d) Autonomous Robots, Blockchain, and Cloud Gaming
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q10.** What is Multisensing?
+
+a) Ability to sense multiple parameters at a single sensor node\
+b) Using multiple sensors to measure a single parameter\
+c) A network of distributed sensors communicating wirelessly\
+d) Ability to process sensor data using artificial intelligence
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q11.** Which of the following is not an advantage of WSANs?
+
+a) Preinstalled infrastructure\
+b) Network self-organization\
+c) Easy sensor & Actuator deployment\
+d) Does not require any power source to operate
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q12.** Which of the following is a major challenge for industrial processes in Industry 4.0?
+
+a) Decreasing demand for automation\
+b) Unlimited availability of skilled workers\
+c) Constrained workforce and resource utilization\
+d) Reduced need for supply chain management
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q13.** What is a key benefit of an autonomous pull economy in Industrial Process 4.0?
+
+a) High waste generation\
+b) Complete manual supervision\
+c) End-to-end automation facility\
+d) Lack of updated demand information
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q14.** Which of the following represents the basic components of a SCADA system?
+
+a) Programmable Logic Controllers (PLC) and Remote Terminal Units (RTU)\
+b) Supervisory System\
+c) Communication Infrastructure\
+d) All of the above
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Q15.** According to IEEE 1451 standards, how is a smart sensor defined?
+
+a) Sensor with limited memory and no communication capabilities\
+b) Sensor with small memory and standardized physical connection to enable communication with the processor and data network\
+c) A basic sensor without processing or networking capabilities\
+d) Sensor that only works in standalone mode without network integration
+
+[View Answer](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+
 Introduction to Industry 4 and Industrial IoT Week 4 Assignment Answers (July-Dec 2024)
 
 
