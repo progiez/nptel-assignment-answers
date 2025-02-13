@@ -5,6 +5,218 @@ Are you looking for NPTEL Soft Skill Development Week 04 Assignment Answers? Thi
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*0qj2ukf4CIysTPPZ52nvRw.jpeg)
 
+## Soft Skill Development Week 4 Nptel Assignment Answers (Jan-Apr 2025)
+
+***
+
+Q1. Relationships influence our behaviour, goals, and attitudes.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q2. Kinesics is a verbal type of communication strategy used for conflict management.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q3. A command group is created by the organization to accomplish specific goals within an unspecified time frame.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q4. In general, a dramatic increase or decrease in self-disclosure in a relationship reflects:
+
+a) some significant changes in the relationship\
+b) that the relationship has stabilized\
+c) that the relationship is over\
+d) nothing, since it is common in all relationships
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q5. In which stage of group development in the Tuckman model, groups are marked by a more serious concern about task performance, and do the dyads/triads begin to open up and seek out other members in the group?
+
+a) Forming\
+b) Norming\
+c) Adjourning\
+d) Storming
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q6. In Fisher’s Model of Group Progression, in which stage does the group recognize that it is reaching consensus and explicitly consolidate that consensus to complete the task?
+
+a) Orientation\
+b) Reinforcement\
+c) Emergence\
+d) Conflict
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q7. Which of the following are the characteristics of a group?
+
+a) Formal social structure\
+b) Unconventional goals\
+c) Competitiveness\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q8. Which of the following groups consists of people who work together to achieve a common task?
+
+a) Command groups\
+b) Functional groups\
+c) Interest groups\
+d) Task groups
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q9. The study of \_\_\_\_\_\_ helps us recognize the formation of a group and states how the group should be organized, led, and promoted.
+
+a) Group behavior\
+b) Effective communication\
+c) Group dynamics\
+d) Group formation
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q10. Which of the following is correct?
+
+a) Large-scale networks are examples of macro-level social networking\
+b) Social networking is a recent phenomenon. It did not exist in ancient times\
+c) To improve networking, one should make friends with everybody online\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q11. Sukanya has many friends from her college. She and her friends regularly share information regarding class notes, test papers, syllabus, etc., on WhatsApp. They also share their personal and group photos on WhatsApp. Which level of networking is this?
+
+a) Meso Level\
+b) Macro Level\
+c) Micro Level\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q12. \_\_\_\_\_\_ is an expressed struggle between at least two interdependent parties who perceive incompatible goals, scarce rewards, and interference from the other party in achieving their goals.
+
+a) Conflict\
+b) Power\
+c) Communication\
+d) Group dynamics
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q13. Identify the stages in the formation of a relationship.
+
+I. Acquaintance\
+II. Groundbreaking\
+III. Rapport building\
+IV. Exploration
+
+a) Only I & IV are correct\
+b) Only II & III are correct\
+c) Only I, II & III are correct\
+d) All I, II, III & IV are correct
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q14. Read the following case carefully:
+
+Mohit is 21 years old and working in the corporate sector. He has many contacts on Facebook, although he does not know most of them because whoever sends a ‘friend request’ to him, he accepts, and when he finds automated friend suggestions by Facebook, he sends friend requests to them too. In this way, he has a huge number of contacts online, and the list is increasing daily. He spends 2 hours daily on Facebook writing status updates, uploading his photos, and posting various kinds of things. However, he seldom reads others’ posts or does follow-ups.
+
+Now choose the most appropriate option:
+
+a) Mohit has very good online social networking skills\
+b) Mohit has awful online social networking skills\
+c) Mohit’s online social networking skills need to be improved\
+d) Mohit’s long list of contacts indicates that he knows very well how to make friends and maintain friendships on social networks
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q15. In which stage of forming relationships should efforts be made to determine and fulfill the mutual needs between two persons?
+
+a) Negotiation\
+b) Identification\
+c) Awareness\
+d) Exploration
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+
+## Soft Skill Development Week 4 Nptel Assignment Answers (July-Dec 2024)
+
+***
+
+**1. Networking skills on social media do not involve making new friends.**\
+A) True\
+B) False
+
+**Answer:** **B) False**
+
+***
+
+**2. Relationships cannot influence our behaviour, goals, and attitudes.**\
+A) True\
+B) False
+
+**Answer:B) False**
+
+***
+
+**3. Kinesics is a type of _****_**\_\_**_****_ communication strategy used for conflict management.**\
+A) Nonverbal\
+B) Verbal
+
+**Answer: A) Nonverbal**
+
+***
+
+These are Soft Skill Development Week 4 Nptel Assignment Answers
+
+***
+
+**4. _****_**\_\_\_\_**_****_ is a conflict which occurs between two or more members of the same group or team.**\
+A) Intergroup conflict\
+B) Intragroup conflict\
+C) International conflict\
+D) None of the above
+
+**Answer:** **B) Intragroup conflict**
+
+
 Soft Skill Development Week 4 Nptel Assignment Answers (July-Dec 2024)
 
 
