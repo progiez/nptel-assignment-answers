@@ -3,7 +3,7 @@
 Are you looking for NPTEL Deep Learning IIT Ropar Week 04 Assignment Answers? This repository will help you find your answers and solutions for Week 04 of the Deep Learning IIT Ropar course. We provide detailed solutions to help you complete your assignments efficiently.
 
 ![Deep Learning IIT Ropar Week 4 Nptel Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*NTYlJ8gtc0t655nIrEnP9A.jpeg)
-## _Deep Learning IIT Ropar Week 4 Nptel Assignment Answers__ (Jan- Apr 202__5)_
+## Deep Learning IIT Ropar Week 4 Nptel Assignment Answers (Jan-Apr 2025)
 
 ***
 
