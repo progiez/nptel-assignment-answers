@@ -5,6 +5,335 @@ Are you looking for NPTEL Software Testing Week 04 Assignment Answers? This repo
 
 ![Software Testing NPTEL Week 4 Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*Si-EHtgUNRfdr7N0O6TFVg.jpeg)
 
+## Software Testing NPTEL Week 4 Assignment Answers (Jan-Apr 2025)
+
+***
+
+Q1. Suppose an untested program was determined to contain **1000 bugs**. Three different testing techniques were applied to test the code. Each testing technique is effective in detecting **40% of the bugs** that exist before the concerned testing technique is applied. While fixing a bug detected by using a test strategy, there is a **50% chance of creating a new bug**. How many bugs would exist in the code after the three testing and bug-fix cycles have been carried out?
+
+a) 270\
+b) 328\
+c) 432\
+d) 512\
+e) 1024
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+Q2. Which of the following is the main purpose of the **integration strategy** for integration testing?
+
+a) To ensure that all small modules are tested adequately\
+b) To ensure that the system interfaces to other systems and networks are tested\
+c) To specify which modules to combine when and how many at once\
+d) To ensure that the integration testing can be performed by a small team\
+e) To specify how the software should be divided into modules
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+Q3. Which one of the following statements best describes **regression testing**?
+
+a) Regression testing is essentially the same as acceptance testing.\
+b) Regression testing helps to determine if code modifications have removed the reported bugs.\
+c) Regression testing is performed to check if code changes have not introduced defects in the correctly working parts of the code.\
+d) Regression test cases are designed to check if the changes to the code have resulted in fixing the bugs reported in a bug list.
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+Q4. Which of the following statements **BEST** describes **performance testing**?
+
+a) The process of testing a fully integrated system to verify that it meets its specified functional requirements.\
+b) The process of testing to determine the compliance of a system to coding standards.\
+c) Testing without reference to the internal structure of a system.\
+d) Testing system attributes, such as usability, reliability, and maintainability.\
+e) Testing whether different modules interface well among themselves.
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+Q5. Regression testing needs to be carried out at which of the following levels of testing?
+
+a) Unit\
+b) Integration\
+c) System\
+d) At all levels, i.e., at unit, integration, as well as system testing level
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+Q6. Non-functional requirements are tested at which of the following levels of testing?
+
+a) Unit testing\
+b) Integration testing\
+c) Alpha testing\
+d) Acceptance testing\
+e) Both unit and integration testing
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+Q7. Suppose class B is inherited from class A. Assume that unit testing of the class A has been successfully completed. While conducting unit testing of class B, which of its methods need to be tested?
+
+a) Only the methods newly defined in B\
+b) Only the methods inherited from A\
+c) Only the methods that are inherited from A but are redefined in B\
+d) Only the methods inherited from A and the methods redefined in B\
+e) All the methods of B
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+Q8. An e-commerce application has been designed to cater to 200 active users at any point in time. The e-commerce application was tested to check whether the maximum response time for client requests is less than 20 seconds when there are **200 active users**. Which one of the following types of tests was conducted on the e-commerce application?
+
+a) Volume test\
+b) Stress test\
+c) Load test\
+d) Usability test\
+e) Configuration test
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+Q9. An e-commerce application has been designed to cater to 200 active users at any point in time. The e-commerce application was tested to check whether the maximum response time for client requests is less than 20 seconds when there are **300 active users**. Which one of the following types of tests was conducted on the e-commerce application?
+
+a) Volume test\
+b) Stress test\
+c) Load test\
+d) Usability test\
+e) Configuration test
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+Q10. Mutation testing is most effective for which one of the following types of bugs?
+
+a) Algorithmic errors\
+b) Programming errors\
+c) Design errors\
+d) Requirements errors\
+e) Performance bugs
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+Q11. Which of the following statements are true of **bottom-up integration testing**?
+
+a) Drivers have to be written.\
+b) Neither stubs nor drivers have to be written.\
+c) The number of integration steps is more than in big-bang testing.\
+d) Stubs have to be written.\
+e) Both stubs and drivers have to be written.
+
+[View Answer](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+
+## Software Testing NPTEL Week 4 Assignment Answers (July-Dec 2024)
+
+**1. If a particular method A in a class sends a message using an exclusive buffer to a method B in another class, which type of interface does this constitute?**
+
+A) Class interface.\
+B) Buffer interface.\
+C) Message passing interface.\
+D) Shared interface.
+
+[****See also**  **Software Testing | Week 3****](https://progiez.com/nptel-software-testing-week-3-assignment-3-answers)
+
+**Answer: C) Message passing interface.**
+
+***
+
+**2. In a call graph that represents all the function or method calls, what does edge coverage achieve?**
+
+A) Edge coverage tests for executing every call at least once.\
+B) Edge coverage tests for executing all the paths that contain calls at least once.\
+C) Edge coverage tests for sending data on call interfaces.\
+D) Edge coverage tests for calling every function or method in any order.
+
+**Answer: A) Edge coverage tests for executing every call at least once.**
+
+***
+
+**3. Which of the following best defines a coupling du-path?**
+
+A) A coupling du-path is from a coupled definition of a variable to the corresponding use.\
+B) A coupling du-path is from the last definition of a variable to the first use of the same variable.\
+C) A coupling du-path is from a definition of a variable to its use such that there is no definition in between.\
+D) A coupling du-path is from a last definition of a variable to any use across a call interface.
+
+**Answer:D) A coupling du-path is from a last definition of a variable to any use across a call interface.**
+
+***
+
+**4. State true or false: While testing for data flow in call interfaces, we need not consider only the last definition and the first use of a particular variable.**
+
+A) True.\
+B) False.
+
+**Answer: A) True.**
+
+***
+
+**5. While testing for sequencing constraints on specifications using graphs, what kind of test paths are typically used?**
+
+A) Test paths are defined to satisfy the sequencing constraints.\
+B) Test paths are defined to violate the sequencing constraints.\
+C) Test paths are dependent on the kind of sequencing constraints, might satisfy them or violate them.\
+D) Test paths are the sequencing constraints themselves.
+
+**Answer: A) Test paths are defined to satisfy the sequencing constraints.**
+
+***
+
+**These are Software Testing NPTEL Week 4 Assignment Answers**
+
+***
+
+**6. Consider a finite state machine that models the behaviour of a bounded queue data structure that is used in a piece of code. What do the states of the machine represent?**
+
+A) The states of the finite state machine represent the operations supported by the queue data structure.\
+B) The states of the finite state machine represent the contents of the queue, one state for every cell in the queue.\
+C) It is not possible to represent a bounded queue data structure using a finite state machine.\
+D) The states of the finite state machine represent the contents of the queue, one state when the queue is empty, one state when the queue has only one element, and so on, one state when the queue is full.
+
+**Answer: D) The states of the finite state machine represent the contents of the queue, one state when the queue is empty, one state when the queue has only one element, and so on, one state when the queue is full.**
+
+***
+
+**7. State yes or no: Does the sequence of two consecutive invocations of the write() method violate any of the above sequencing constraints?**
+
+A) Yes.\
+B) No.
+
+**Answer: B) No.**
+
+***
+
+**8. State yes or no: Does the path that has two consecutive invocations of the read() method violate any of the above sequencing constraints?**
+
+A) Yes.\
+B) No.
+
+**Answer: B) No.**
+
+***
+
+**9. Identify a path that violates one of the above sequencing constraints from the paths given below.**
+
+A) Path: open(), read(), write(), write(), close().\
+B) Path: open(), suspend(), read(), close().\
+C) Path: open(), read(), read(), close().\
+D) Path: open(), read(), read(), write(), close().
+
+**Answer: B) Path: open(), suspend(), read(), close().**
+
+**These are Software Testing NPTEL Week 4 Assignment Answers**
+
+***
+
+**10. Does the edge from open() to suspend(), representing the suspension of an open operation, violate any of the sequencing constraints given above?**
+
+A) Yes.\
+B) No.
+
+**Answer: B) No.**
+
+***
+
+All Weeks of Software Testing: [Click here](https://progiez.com/nptel-assignment-answers/software-testing)
+
+For answers to additional Nptel courses, please refer to this link: [NPTEL Assignment Answers](https://progiez.com/nptel-assignment-answers)
+
+***
+
+
+## Software Testing NPTEL Week 4 Assignment Answers (Jan-Apr 2024)
+
+**Course name: Software Testing**
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc24_cs47/preview)**
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+**These are Software Testing NPTEL Week 4 Assignment Answers**
+
+***
+
+Q1. Which of the following statements concerning mutation testing is correct?\
+a. Mutation testing is used to test if a program has bugs\
+b. Mutation testing is used to test if it is possible to mutate the program\
+c. Mutation testing is used to test if the test suite is adequate\
+d. Mutation testing is used to count the number of mutants of the program\
+e. Mutation testing is used to test whether the performance of the software is satisfactory
+
+**Answer: c. Mutation testing is used to test if the test suite is adequate**
+
+***
+
+**Q2. Which of the following mutants are considered as equivalent mutants?**\
+a. Mutants which arise from identical changes made to the program\
+b. Mutants which arise from similar changes made to the program\
+c. Mutants which fail with the same set test cases\
+d. Mutants pass the same set of test cases\
+e. Mutants which are detected by all the test cases\
+f. Mutants which cannot be killed by any test case
+
+**Answer: f. Mutants which cannot be killed by any test case**
+
+[****See also**  **Software Testing NPTEL Week 6 Assignment Answers****](https://progiez.com/software-testing-nptel-week-6-assignment-answers)
+
+***
+
+**Q3. Which of the following are not true of mutation testing technique?**\
+a. Hard to automate mutant generation\
+b. Mutant generation is computationally expensive\
+C. Presence of equivalent mutants make it difficult to automate the entire mutation testing process\
+d. A very large number of mutants can be generated.\
+e. Mutation testing is very effective for eliminating simple programming errors
+
+**Answer: a, b**
+
+***
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+**These are Software Testing NPTEL Week 4 Assignment Answers**
+
+***
+
+**Q4. In the context of mutation testing, suppose in your program you replace the instruction y=2\*x by y=x+x, to create a mutant. Which one of the following kinds of mutant would you create?**\
+a. Trivial mutant\
+b. Transparent mutant\
+c. Stillborn mutant\
+d. Equivalent mutant\
+e. Erroneous mutant
+
+**Answer: d. Equivalent mutant**
+
+***
+
+**Q5. Which of the following statements about alpha testing are NOT true?**\
+a. Alpha testing is often performed by an independent test team.\
+b. Alpha test cases usually comprise performance tests only.\
+c. Alpha test cases consist primarily of white-box test cases\
+d. Faults found during alpha testing are much more expensive to fix than those found during unit and integration testing.\
+e. End-users are often asked to perform alpha testing.
+
+**Answer: b, e**
+
+
 Software Testing NPTEL Week 4 Assignment Answers (July-Dec 2024)
 
 
