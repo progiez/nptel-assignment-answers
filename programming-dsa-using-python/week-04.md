@@ -5,6 +5,130 @@ Are you looking for NPTEL Programming DSA Using Python Week 04 Assignment Answer
 
 ![Programming DSA using Python Week 4 Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*tP4NyxEZKtH0uzyo9w0B2Q.jpeg)
 
+## _Programming DSA using Python Week 4 Assignment Answers (Jan-Apr 2025)_
+
+Q1. Consider the following Python function:
+
+    def mystery(l):
+        if (l == []):
+            return(l)
+        else:
+            mid = len(l)//2
+            if (len(l) % 2 == 0):
+                return l[mid-1:mid+1] + mystery(l[:mid-1] + l[mid+1:])
+            else:
+                return l[mid:mid+1] + mystery(l[:mid] + l[mid+1:])
+
+What does `mystery([22,14,19,65,82,55])` return?
+
+👉 **[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)**
+
+***
+
+Q2. What is the value of `triples` after the following assignment?
+
+    triples = [ (x,y,z) for x in range(1,4) for y in range(2,5) for z in range(5,8) if x+y > z ]
+
+👉 **[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)**
+
+***
+
+Q3. Consider the following dictionary:
+
+    marks = {
+        "Quizzes": {"Mahesh": [3,5,7,8], "Suresh": [9,4,8,8], "Uma": [9,9,7,6]},
+        "Exams": {"Mahesh": [37], "Uma": [36]}
+    }
+
+Which of the following statements does **not** generate an error?
+
+    marks["Exams"]["Suresh"].extend([44])
+    marks["Exams"]["Suresh"] = [44]
+    marks["Exams"]["Suresh"].append(44)
+    marks["Exams"]["Suresh"][0:] = [44]
+
+👉 **[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)**
+
+***
+
+Q4. Assume that `inventory` has been initialized as an empty dictionary:
+
+    inventory = {}
+
+Which of the following generates an error?
+
+    inventory["Amul"] = ["Mystic Mocha", 55]
+    inventory["Amul, Mystic Mocha"] = 55
+    inventory[["Amul", "Mystic Mocha"]] = 55  # (Possible Error)
+    inventory[("Amul", "Mystic Mocha")] = 55
+
+👉 **[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)**
+
+***
+
+
+## _Programming DSA using Python Week 4 Assignment Answers (July-Dec 2024)_
+
+***
+
+Q1Consider the following Python function.
+
+def mystery(l):\
+if l == \[]:\
+return(l)\
+else:\
+return(mystery(l\[1:])+l\[:1])
+
+What does mystery(\[22,14,19,65,82,55]) return?
+
+**Answer: \[55,82,65,19,14,22]**
+
+***
+
+**Q2.**What is the value of pairs after the following assignment?\
+pairs = \[ (x,y) for x in range(4,1,-1) for y in range(5,1,-1) if (x+y)%3 == 0 ]
+
+**Answer: \[(4,5),(4,2),(3,3),(2,4)]**
+
+***
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+**_**These are Programming DSA using Python Week 4 Assignment Answers**_**
+
+***
+
+**Q3.** Consider the following dictionary.\
+wickets = {“Tests”:{“Bumrah”:\[3,5,2,3],”Shami”:\[4,4,1,0],”Ashwin”:\[2,1,7,4]},”ODI”:{“Bumrah”:\[2,0],”Shami”:\[1,2]}}\
+Which of the following statements does not generate an error?\
+wickets\[“ODI”]\[“Ashwin”]\[0:] = \[4,4]\
+wickets\[“ODI”]\[“Ashwin”].extend(\[4,4])\
+wickets\[“ODI”]\[“Ashwin”] = \[4,4]\
+wickets\[“ODI”]\[“Ashwin”] = wickets\[“ODI”]\[“Ashwin”] + \[4,4]
+
+**Answer: wickets\[“ODI”]\[“Ashwin”] = \[4,4]**
+
+***
+
+**Q4.** Assume that hundreds has been initialized as an empty dictionary:\
+hundreds = {}\
+Which of the following generates an error?\
+hundreds\[“Tendulkar, international”] = 100\
+hundreds\[“Tendulkar”] = {“international”:100}\
+hundreds\[(“Tendulkar”,”international”)] = 100\
+hundreds\[\[“Tendulkar”,”international”]] = 100
+
+**Answer: hundreds\[\[“Tendulkar”,”international”]] = 100**
+
+***
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+**_**These are Programming DSA using Python Week 4 Assignment Answers**_**
+
+Programming, Data Structures and Algorithms using Python NPTEL All weeks: [Click Here](https://progiez.com/nptel-assignment-answers/programming-data-structure-and-algorithms-using-python)
+
+
 Programming DSA using Python Week 4 Assignment Answers (July-Dec 2024)
 
 
