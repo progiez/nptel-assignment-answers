@@ -5,6 +5,229 @@ Are you looking for NPTEL Problem Solving Through Programming In C Week 04 Assig
 
 ![Problem Solving Through Programming In C Week 4 Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*EckvivVbE0tEOS-aEzICGQ.jpeg)
 
+## _Problem Solving Through Programming In C Week 4 Answers _(Jan-Apr 2025)
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs56/preview)**
+
+***
+
+Q1. The control/conditional statements used in C is/are
+
+a) if-else statements\
+b) switch statements\
+c) Both (a) and (b)\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+Q2. What is the output of the following C code?
+
+    #include <stdio.h>
+    int main() {
+        int x = 1;
+        if (x == 0)
+            if (x >= 0)
+                printf("x=0\n");
+            else
+                printf("x=1\n");
+        return 0;
+    }
+
+a) x=0\
+b) x=1\
+c) Depends on compiler\
+d) No output
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+Q3. Compute the printed value of `i` in the C program below:
+
+    #include <stdio.h>
+    int main() {
+        int i = 2;
+        i++;
+        printf("%d", i);
+        return 0;
+    }
+
+a) 2\
+b) 3\
+c) 5\
+d) Compiler error
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+Q4. When multiple conditions are used in a single `if` statement, the testing of those conditions is done:
+
+a) From Right to Left\
+b) From Left to Right\
+c) Randomly\
+d) None
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+Q5. What is the purpose of the given program?
+
+    #include <stdio.h>
+    int main() {
+        int n, x = 0, y;
+        printf("Enter an integer: ");
+        scanf("%d", &n);
+        while (n != 0) {
+            y = n % 10;
+            x = x - y;
+            n = n / 10;
+        }
+        printf("Output is = %d", x);
+        return 0;
+    }
+
+a) Sum of the digits of a number\
+b) Negative sum of the digits of a number\
+c) Reverse of a number\
+d) The same number is printed
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+Q6. What is the use of `while` in a program?
+
+a) False statement\
+b) Infinite loop\
+c) Terminating the loop\
+d) Never executed loop
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+Q7. What will be the values of `a, b, c` after execution of the following?
+
+    int a = 5, b = 7, c = 1;
+    c /= ++a * b;
+
+a) a = 5, b = 6, c = 2\
+b) a = 5, b = 7, c = 1\
+c) a = 6, b = 6, c = 2\
+d) a = 5, b = 7, c = ?
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+Q8. What will be printed when the following C code is executed?
+
+    #include <stdio.h>
+    int main() {
+        if ('A' < 'a')
+            printf("NPTEL");
+        else
+            printf("PROGRAMMING");
+        return 0;
+    }
+
+a) NPTEL\
+b) PROGRAMMING\
+c) No output\
+d) Compiler error as `A` and `a` are not declared as character variables
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+Q9. In a `switch` statement in C, which of the following data types is not accepted?
+
+a) int\
+b) char\
+c) long\
+d) enum
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+Q10. What will be the output of the following program?
+
+    #include <stdio.h>
+    int main() {
+        int x = 1;
+        switch (x) {
+            case 1: printf("Choice is 1 \n");
+            default: printf("Choice other than 1");
+        }
+        return 0;
+    }
+
+a) Choice is 1\
+b) Choice other than 1\
+c) Both (a) and (b)\
+d) Syntax error
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+
+## _Problem Solving Through Programming In C Week 4 Answers _(July-Dec 2024)
+
+***
+
+**Q1.**The control/conditional statements used in C is/are\
+a) if-else statements\
+b) switch statements\
+c) Both (a) and (b)\
+d) None of the above
+
+**Answer:c) Both (a) and (b)**
+
+***
+
+Q2.What is the output of the following C code?
+
+a) x=1\
+b) x=0\
+c) Depends on compiler\
+d) No print statements
+
+**Answer:d) No print statements**
+
+***
+
+**_**For answers or latest updates join our telegram channel: [**Click here to join**](https://telegram.me/nptel_assignments)**_**
+
+_**_**These are Problem Solving Through Programming In C Week 4 Answers**_**_
+
+***
+
+**Q3.**Compute the printed value of i of the C program given below
+
+a) 2\
+b) 3\
+c) 4\
+d) Compiler error
+
+**Answer: a) 2**
+
+***
+
+**Q4.**f multiple conditions are used in a single if statement then the testing of those conditions are done\
+a) From Right to Left\
+b) From Left to Right\
+c) Randomly\
+d) None
+
+**Answer:b) From Left to Right**
+
+
 Problem Solving Through Programming In C Week 4 Answers (July-Dec 2024)
 
 
