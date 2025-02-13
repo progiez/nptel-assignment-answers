@@ -5,6 +5,101 @@ Are you looking for NPTEL Introduction To Machine Learning Week 04 Assignment An
 
 ![Introduction to Machine Learning Nptel Week 4 Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*wnVpJMHAyOdLYrwJUQ_4bg.jpeg)
 
+## _Introduction to Machine Learning Nptel Week 4 Answers_ (Jan-Apr 2025)
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs46/preview)**
+
+***
+
+**Q1.** The Perceptron Learning Algorithm can always converge to a solution if the dataset is linearly separable.
+
+a) True\
+b) False\
+c) Depends on learning rate\
+d) Depends on initial weights
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Q2.** Consider the 1-dimensional dataset:
+
+State true or false: The dataset becomes linearly separable after using basis expansion with the following basis function ϕ(x) = \[1 x²]
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Q3.** For a binary classification problem with the hinge loss function max(0,1−y(w⋅x)), which of the following statements is correct?
+
+a) The loss is zero only when the prediction is exactly equal to the true label\
+b) The loss is zero when the prediction is correct and the margin is at least 1\
+c) The loss is always positive\
+d) The loss increases linearly with the distance from the decision boundary regardless of classification
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Q4.** For a dataset with n points in d dimensions, what is the maximum number of support vectors possible in a hard-margin SVM?
+
+a) 2\
+b) d\
+c) n/2\
+d) n
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Q5.** In the context of soft-margin SVM, what happens to the number of support vectors as the parameter C increases?
+
+a) Generally increases\
+b) Generally decreases\
+c) Remains constant\
+d) Changes unpredictably
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Q6.** Which of these is not a support vector when using a Support Vector Classifier with a polynomial kernel (degree = 3, C = 1, gamma = 0.1)?
+
+a) 2\
+b) 1\
+c) 9\
+d) 10
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Q7.** Train a Linear perceptron classifier on the modified Iris dataset. Use only the first two features for your model and report the best classification accuracy for L1 and L2 penalty terms.
+
+a) 0.91, 0.64\
+b) 0.88, 0.71\
+c) 0.71, 0.65\
+d) 0.78, 0.64
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Q8.** Train an SVM classifier on the modified Iris dataset. Use only the first three features. Try different hyperparameters with RBF kernel, gamma = 0.5, one-vs-rest classifier, no feature normalization. Try C = 0.01, 1, 10. Report the best classification accuracy.
+
+a) 0.98\
+b) 0.88\
+c) 0.99\
+d) 0.92
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+
 Introduction to Machine Learning Nptel Week 4 Answers (July-Dec 2024)
 
 
