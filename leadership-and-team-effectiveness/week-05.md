@@ -4,8 +4,6 @@ Are you looking for NPTEL Leadership and Team Effectiveness Week 05 Assignment A
 
 ## Nptel Leadership and Team Effectiveness Assignment 5 Week Answers (Jan-Apr 2025)
 
-## Nptel Leadership and Team Effectiveness Assignment 5 Week Answers (Jan-Apr 2025)
-
 Q1. What are the four key components of authentic leadership?
 
 a) Transparency, Self-awareness, Balanced processing, Internalized moral perspective\
