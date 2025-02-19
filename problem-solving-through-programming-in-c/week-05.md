@@ -5,7 +5,143 @@ Are you looking for NPTEL Problem Solving Through Programming In C Week 05 Assig
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*XzSw_OpDXFDjFCLtqEfcTA.jpeg)
 
-Problem Solving Through Programming In C Week 5 Answers (July-Dec 2024)
+Problem Solving Through Programming In C Week 5 Answers
+## _Problem Solving Through Programming In C Week 5 Answers _(Jan-Apr 2025)
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs56/preview)**
+
+***
+
+Q1. In C language, three-way transfer of control is possible using:
+
+a) Ternary operator\
+b) Unary operator\
+c) Logical operator\
+d) None of the above are true
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+Q2. The loop in which the statements within the loop are executed at least once is called:
+
+a) for\
+b) do-while\
+c) while\
+d) goto
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+Q3. What will be the output?
+
+    #include <stdio.h>
+    int main()
+    {
+        float k = 0;
+        for (k = 0.5; k < 3; k + 4)
+            printf("I love C\n");
+        return 0;
+    }
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+Q4. What is the output of the following code?
+
+    #include <stdio.h>
+    int main()
+    {
+        int i = 1;
+        do
+        {
+            printf("while vs do-while\n");
+        } while (i = 1);
+        printf("Out of loop");
+        return 0;
+    }
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+Q5. Find the output of the following C program:
+
+    #include <stdio.h>
+    int main()
+    {
+        int i = 0;
+        if (i = 0)
+        {
+            i = i + 1;
+            break;
+        }
+        printf("%d", i);
+        return 0;
+    }
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+Q6. What is the output of the following C program?
+
+    #include <stdio.h>
+    int main()
+    {
+        int a = 0, i, b;
+        for (i = 0; i <= 2; i += 0.5)
+        {
+            a++;
+            continue;
+        }
+        printf("%d", a);
+        return 0;
+    }
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+Q7. What will be the output?
+
+    #include <stdio.h>
+    int main()
+    {
+        int i = 0;
+        for (;;)
+        {
+            if (i == 10)
+                break;
+            printf("%d ", ++i);
+        }
+        return 0;
+    }
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+Q8. What is the output of the following C code?
+
+    #include <stdio.h>
+    int main()
+    {
+        int a = 1;
+        if (a)
+            printf("True\n");
+        if (!a)
+            printf("False\n");
+        return 0;
+    }
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+Q9. What is the output of the below C program?
+
+    #include <stdio.h>
+    int main()
+    {
+        short int k = 1, j = 1;
+        while (k <= 4 || j <= 3)
+        {
+            k = k + 2;
+            j++;
+        }
+        printf("%d, %d", k, j);
+        return 0;
+    }
+
+[View Answer](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
 
 
 # Problem Solving Through Programming In C Week 5 Answers (July-Dec 2024)
