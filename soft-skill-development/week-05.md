@@ -5,6 +5,180 @@ Are you looking for NPTEL Soft Skill Development Week 05 Assignment Answers? Thi
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*TxODieUc009KLeGbKMNZAQ.jpeg)
 
+## Soft Skill Development Week 5 Nptel Assignment Answers (Jan-Apr 2025)
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_hs72/course)**
+
+***
+
+Q1. Can learning and cultivating spiritual practices enhance one’s Emotional Intelligence?
+
+a) Yes\
+b) No
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q2. When a change is initiated in an organization, it leads to a state of equilibrium.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q3. The whole essence of emotional management is understanding one’s own emotions and others’ to deal with the situation. This statement is:
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q4. Which part of the Limbic system is responsible for the formation of emotional pathways?
+
+a) Amygdala\
+b) Hypothalamus\
+c) Hippocampus\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q5. Which of the following factors has an impact on empathy of a person?
+
+a) Age\
+b) Gender\
+c) Mindfulness practice\
+d) All of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q6. Selective perception takes place in a communication cycle wherein the receiver in the communication process selectively sees and hears elements of communication based on experience, background, and other personal characteristics.
+
+a) Sender’s\
+b) Receiver’s own\
+c) Situational\
+d) Psychological
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q7. Refreezing is a stage which characterizes:
+
+a) Attempting to create a new state of affairs\
+b) Incorporating the changes, creating and maintaining a new organisational system\
+c) Recognizing the need for change\
+d) All of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q8. Which of the following is an example of intrapersonal communication?
+
+a) Talking on the telephone\
+b) Day-dreaming\
+c) Interacting on social media\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q9. What is the basic feature of intrapersonal communication?
+
+a) Self-concept\
+b) Expectation\
+c) Persuasion\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q10. Which of the following is not a component of EI at work?
+
+a) Self-awareness\
+b) Self-regulation\
+c) Motivation\
+d) Sympathy
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q11. When a company fails to implement the pay hike, the HR manager, based on his experience, devises a new formula for the turnaround. This example fits with which of the components of Emotional Intelligence?
+
+a) Self-awareness\
+b) Self-regulation\
+c) Motivation\
+d) Social-Skill
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q12. The ability to control or redirect disruptive impulses and moods is called:
+
+a) Self-regulation\
+b) Motivation\
+c) Empathy\
+d) Self-reliance
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q13. Which of the following statements is INCORRECT?
+
+a) Empathy decreases prosocial behaviors.\
+b) Empathy is the act of experiencing others’ conditions from their perspectives, whereas sympathy is the act of understanding others’ conditions from our perspectives.\
+c) Empathy is related to the triggering of mirror neurons in the human brain.\
+d) Empathy is the opposite of an individualistic approach.
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q14. What are the external factors that can influence organizational change?
+
+A) Political\
+B) Environmental\
+C) Economic\
+D) Technological
+
+a) Only A is true\
+b) Both B and C are true\
+c) Both A and D are true\
+d) All A, B, C, and D are true
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Q15. Understanding others is one of the five key elements of empathy as identified by Daniel Goleman. Which of the following components is/are part of understanding others?
+
+A) Listening skills\
+B) Motivating others\
+C) Non-verbal communication\
+D) Conflict resolution
+
+a) Only C and D are correct.\
+b) Only A and B are correct.\
+c) Only B, C, and D are correct.\
+d) Only A and C are correct.
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+
 Soft Skill Development Week 5 Nptel Assignment Answers (JULY — DEC 2024)
 
 
