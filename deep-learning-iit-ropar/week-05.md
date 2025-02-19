@@ -5,6 +5,98 @@ Are you looking for NPTEL Deep Learning IIT Ropar Week 05 Assignment Answers? Th
 
 ![Deep Learning IIT Ropar Week 5 Nptel Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*JhKEf16bzrAqSwXJU9Lb5w.jpeg)
 
+## Deep Learning IIT Ropar Week 5 Nptel Assignment Answers (Jan-Apr 2025)
+
+***
+
+1. **Which of the following is the most appropriate description of the method used in PCA to achieve dimensionality reduction?**\
+   A. PCA achieves this by discarding a random subset of features in the dataset\
+   B. PCA achieves this by selecting those features in the dataset along which the variance of the dataset is maximised\
+   C. PCA achieves this by retaining the features in the dataset along which the variance of the dataset is minimised\
+   D. PCA achieves this by looking for those directions in the feature space along which the variance of the dataset is maximised\
+   [View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+2. **What is/are the limitations of PCA?**\
+   A. It can only identify linear relationships in the data.\
+   B. It can be sensitive to outliers in the data.\
+   C. It is computationally less efficient than autoencoders\
+   D. It can only reduce the dimensionality of a dataset by a fixed amount.\
+   [View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+3. **The following are possible numbers of linearly independent eigenvectors for a 7×7 matrix. Choose the incorrect option.**\
+   A. 1\
+   B. 3\
+   C. 9\
+   D. 5\
+   E. 8\
+   [View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+4. **Find the singular values of the following matrix: \[−43−6−8]**\
+   A. σ1 = 10, σ2 = 5\
+   B. σ1 = 1, σ2 = 0\
+   C. σ1 = 100, σ2 = 25\
+   D. σ1 = σ2 = 0\
+   [View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+[****See also**  **Introduction to Operating Systems Nptel Week 5 Answers****](https://progiez.com/introduction-to-operating-systems-nptel-week-5-answers)
+
+***
+
+5. **PCA is performed on a mean-centred dataset in R³. If the first principal component is 16√(1, −1, 2), which of the following could be the second principal component?**\
+   A. (1, −1, 2)\
+   B. (0, 0, 0)\
+   C. 15√(0, 1, 2)\
+   D. 12√(−1, −1, 0)\
+   [View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+6. **What is the mean of the given data points x1, x2, x3?**\
+   A. \[11]\
+   B. \[1.67]\
+   C. \[2]\
+   D. \[0.33]\
+   [View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+7. **The covariance matrix C = 1/n Σ (x − x̄)(x − x̄)T is given by: (x̄ is mean of the data points)**\
+   A. \[8.66 −7.33; −7.33 8.66]\
+   B. \[2.88 −2.44; −2.44 2.88]\
+   C. \[0.22 −0.22; −0.22 0.22]\
+   D. \[5.33 −5.33; −0.33 0.33]\
+   [View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+8. **The maximum eigenvalue of the covariance matrix C is:**\
+   A. 1\
+   B. 5.33\
+   C. 0.44\
+   D. 0.5\
+   [View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+9. **The eigenvector corresponding to the maximum eigenvalue of the given matrix C is:**\
+   A. \[1, 1]\
+   B. \[−1, 1]\
+   C. \[0.670]\
+   D. \[−1.481]\
+   [View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+10. **Given that A is a 2×2 matrix, what is the determinant of A, if its eigenvalues are 6 and 7?**\
+    [View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+
 Deep Learning IIT Ropar Week 5 Nptel Assignment Answers (July-Dec 2024)
 
 
