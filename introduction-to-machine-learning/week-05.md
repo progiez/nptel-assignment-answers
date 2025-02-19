@@ -5,6 +5,129 @@ Are you looking for NPTEL Introduction To Machine Learning Week 05 Assignment An
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*UxOJzYOIjcHxUSLId0OQTQ.jpeg)
 
+## Introduction to Machine Learning Nptel Week 5 Answers (Jan-Apr 2025)
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs46/preview)**
+
+***
+
+Q1. Consider a feedforward neural network that performs regression on a pp-dimensional input to produce a scalar output. It has mm hidden layers and each of these layers has kk hidden units. What is the total number of trainable parameters in the network? Ignore the bias terms.
+
+a) pk+mk2+kpk + mk^2 + k\
+b) pk+(m−1)k2+kpk + (m−1)k^2 + k\
+c) p2+(m−1)pk+kp^2 + (m−1)pk + k\
+d) p2+(m−1)pk+k2p^2 + (m−1)pk + k^2
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Q2. Consider a neural network layer defined as y=ReLU(Wx)y = \text{ReLU}(Wx).\
+Here, x∈Rpx \in \mathbb{R}^p is the input, y∈Rdy \in \mathbb{R}^d is the output, and W∈Rd×pW \in \mathbb{R}^{d \times p} is the parameter matrix. The ReLU activation ReLU(z):=max⁡(0,z)\text{ReLU}(z) := \max(0, z) is applied element-wise to WxWx.
+
+Find ∂yi∂Wij\frac{\partial y\_i}{\partial W\_{ij}}, where i=1,..,di=1,..,d and j=1,…,pj=1,…,p.\
+In the following options, I(condition)I(\text{condition}) is an indicator function that returns 1 if the condition is true and 0 if it is false.
+
+a) I(∑k=1pWikxk≤0)xiI(\sum\_{k=1}^{p} W\_{ik} x\_k \leq 0) x\_i\
+b) I(∑k=1pWikxk>0)xjI(\sum\_{k=1}^{p} W\_{ik} x\_k > 0) x\_j\
+c) I(∑k=1pWikxk>0)WijxjI(\sum\_{k=1}^{p} W\_{ik} x\_k > 0) W\_{ij} x\_j\
+d) I(∑k=1pWikxk≤0)WijxjI(\sum\_{k=1}^{p} W\_{ik} x\_k \leq 0) W\_{ij} x\_j
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Q3. Consider a two-layered neural network y=σ(W(B)σ(W(A)x))y = \sigma(W^{(B)}\sigma(W^{(A)}x)).\
+Let h=σ(W(A)x)h = \sigma(W^{(A)}x) denote the hidden layer representation. W(A)W^{(A)} and W(B)W^{(B)} are arbitrary weights. Which of the following statements is/are true?
+
+a) ∇h(y)\nabla\_h(y) depends on W(A)W^{(A)}\
+b) ∇W(A)(y)\nabla\_{W^{(A)}}(y) depends on W(B)W^{(B)}\
+c) ∇W(A)(h)\nabla\_{W^{(A)}}(h) depends on W(B)W^{(B)}\
+d) ∇W(B)(y)\nabla\_{W^{(B)}}(y) depends on W(A)W^{(A)}
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Q4. Which of the following statements about the initialization of neural network weights is/are true for a network that uses the sigmoid activation function?
+
+a) Two different initializations of the same network could converge to different minima\
+b) For a given initialization, gradient descent will converge to the same minima irrespective of the learning rate\
+c) Initializing all weights to the same constant value leads to undesirable results\
+d) Initializing all weights to very large values leads to undesirable results
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Q5. Consider the following statements about the derivatives of the sigmoid (σ(x)=11+e−x)(\sigma(x) = \frac{1}{1+e^{-x}}) and tanh (tanh⁡(x)=ex−e−xex+e−x)(\tanh(x) = \frac{e^x – e^{-x}}{e^x + e^{-x}}) activation functions. Which of these statements is/are correct?
+
+a) σ′(x)=σ(x)(1−σ(x))\sigma'(x) = \sigma(x)(1 – \sigma(x))\
+b) 0<σ′(x)≤140 < \sigma'(x) \leq \frac{1}{4}\
+c) tanh⁡′(x)=12(1−(tanh⁡(x))2)\tanh'(x) = \frac{1}{2} (1 – (\tanh(x))^2)\
+d) 0\<tanh⁡′(x)≤10 < \tanh'(x) \leq 1
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Q6. A geometric distribution is defined by the p.m.f. f(x;p)=(1−p)(x−1)pf(x;p) = (1-p)^{(x-1)} p for x=1,2,….x = 1,2,….\
+Given the samples \[4, 5, 6, 5, 4, 3] drawn from this distribution, find the MLE of pp.
+
+a) 0.111\
+b) 0.222\
+c) 0.333\
+d) 0.444
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Q7. Consider a Bernoulli distribution with p=0.7p=0.7 (true value of the parameter). We draw samples from this distribution and compute an MAP estimate of pp by assuming a prior distribution over pp. Let N(μ,σ2)N(\mu, \sigma^2) denote a Gaussian distribution with mean μ\mu and variance σ2\sigma^2. Distributions are normalized as needed. Which of the following statements is/are true?
+
+a) If the prior is N(0.6,0.1)N(0.6,0.1), we will likely require fewer samples for converging to the true value than if the prior is N(0.4,0.1)N(0.4,0.1)\
+b) If the prior is N(0.4,0.1)N(0.4,0.1), we will likely require fewer samples for converging to the true value than if the prior is N(0.6,0.1)N(0.6,0.1)\
+c) With a prior of N(0.1,0.001)N(0.1,0.001), the estimate will never converge to the true value, regardless of the number of samples used\
+d) With a prior of U(0,0.5)U(0,0.5) (i.e., uniform distribution between 0 and 0.5), the estimate will never converge to the true value, regardless of the number of samples used
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Q8. Which of the following statements about parameter estimation techniques is/are true?
+
+a) To obtain a distribution over the predicted values for a new data point, we need to compute an integral over the parameter space\
+b) The MAP estimate of the parameter gives a point prediction for a new data point\
+c) The MLE of a parameter gives a distribution of predicted values for a new data point\
+d) We need a point estimate of the parameter to compute a distribution of the predicted values for a new data point
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Q9. In a classification setting, it is common to minimize the discrete cross-entropy loss given by\
+HCE(p,q)=−∑ipilog⁡qiH\_{CE}(p,q) = -\sum\_i p\_i \log q\_i\
+where pip\_i and qiq\_i are the true and predicted distributions (pi∈{0,1}p\_i \in \\{0,1\\} depending on the label). Which of the following statements about minimizing the cross-entropy loss is/are true?
+
+a) Minimizing HCE(p,q)H\_{CE}(p,q) is equivalent to minimizing the (self) entropy H(q)H(q)\
+b) Minimizing HCE(p,q)H\_{CE}(p,q) is equivalent to minimizing HCE(q,p)H\_{CE}(q,p)\
+c) Minimizing HCE(p,q)H\_{CE}(p,q) is equivalent to minimizing the KL divergence DKL(p∣∣q)D\_{KL}(p||q)\
+d) Minimizing HCE(p,q)H\_{CE}(p,q) is equivalent to minimizing the KL divergence DKL(q∣∣p)D\_{KL}(q||p)
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Q10. Which of the following statements about activation functions is/are NOT true?
+
+a) Non-linearity of activation functions is not a necessary criterion when designing very deep neural networks\
+b) Saturating non-linear activation functions (derivative → 0 as x→±∞x \to \pm \infty) avoid the vanishing gradients problem\
+c) Using the ReLU activation function avoids all problems arising due to gradients being too small\
+d) The dead neurons problem in ReLU networks can be fixed using a leaky ReLU activation function
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+
 Introduction to Machine Learning Nptel Week 5 Answers (July-Dec 2024)
 
 
