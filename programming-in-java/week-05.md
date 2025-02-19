@@ -4,7 +4,200 @@ Are you looking for NPTEL Programming In Java Week 05 Assignment Answers? This r
 
 
 
-![Programming in Java Nptel Week 5 Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*71lwMentUDWh1BZHWbM4MA.jpeg)
+![Programming in Java Nptel Week 5 Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*71lwMentUDWh1BZHWbM4MA.jpeg)
+
+## Programming in Java Nptel Week 5 Assignment Answers (Jan-Apr 2025)
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs57/preview)**
+
+***
+
+Q1. Which of the following statement(s) is/are true about `finally` in Java?
+
+I. The `finally` block is executed regardless of whether an exception is thrown or not.\
+II. A `finally` block can exist without a `catch` block.\
+III. The `finally` block will not execute if `System.exit()` is called in the `try` block.\
+IV. A `finally` block can have a `return` statement, but it is not recommended to use.
+
+a) I and II\
+b) II and III\
+c) I, III, and II\
+d) I, II, III, and IV
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+Q2. What will be the output of the following Java program?
+
+    interface A {
+        int x = 10;
+        void display();
+    }
+    class B implements A {
+        public void display() {
+            System.out.println("Value of x: " + x);
+        }
+    }
+    public class Main {
+        public static void main(String[] args) {
+            B obj = new B();
+            obj.display();
+        }
+    }
+
+a) Value of x: 10\
+b) Value of x: 0\
+c) Compilation Error\
+d) Runtime Error
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+Q3. What will be the output of the following program?
+
+    class NPTEL {
+        public static void main(String[] args) {
+            try {
+                int a = 5;
+                int b = 0;
+                System.out.println(a / b);
+            } catch (ArithmeticException e) {
+                System.out.print("Error ");
+            } finally {
+                System.out.print("Complete");
+            }
+        }
+    }
+
+a) 5 Complete\
+b) Error Complete\
+c) Runtime Error\
+d) Compilation Error
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+Q4. Which of the following is TRUE regarding abstract classes and interfaces in Java?
+
+I. Abstract classes can contain constructors, but interfaces cannot.\
+II. Interfaces support multiple inheritance, but abstract classes do not.\
+III. Abstract classes can have both abstract and concrete methods, whereas interfaces only had abstract methods before Java 8.
+
+a) I, II, and III\
+b) II only\
+c) I and II only\
+d) II and III only
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+Q5. Which of the following is a checked exception in Java?
+
+a) `NullPointerException`\
+b) `ArrayIndexOutOfBoundsException`\
+c) `IOException`\
+d) `ArithmeticException`
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+Q6. Which keyword is NOT used by Java during exception handling?
+
+a) `try`\
+b) `catch`\
+c) `final`\
+d) `finally`
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+Q7. What is the purpose of the `throws` keyword in Java?
+
+a) To declare exceptions that a method can throw\
+b) To throw an exception immediately\
+c) To catch an exception\
+d) It is not a keyword in Java
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+Q8. Which of the following is TRUE about interfaces in Java?
+
+a) Interfaces should always be defined as `final`\
+b) Interfaces can be instantiated directly.\
+c) Interfaces can extend multiple interfaces.\
+d) Interfaces cannot have any method signatures.
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+Q9. What will be the output of the following code?
+
+    interface Demo {
+        void display();
+    }
+    class Test implements Demo {
+        public void display() {
+            System.out.println("Hello, NPTEL!");
+        }
+    }
+    public class Main {
+        public static void main(String[] args) {
+            Test obj = new Test();
+            obj.display();
+        }
+    }
+
+a) Hello, NPTEL!\
+b) Compilation Error\
+c) Runtime Error\
+d) No Output
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+Q10. What will be the output of the following Java program?
+
+    interface Calculator {
+        void calculate(int value);
+    }
+    class Square implements Calculator {
+        int result;
+        public void calculate(int value) {
+            result = value * value;
+            System.out.print("Square: " + result + " ");
+        }
+    }
+    class Cube extends Square {
+        public void calculate(int value) {
+            result = value * value * value;
+            super.calculate(value);
+            System.out.print("Cube: " + result + " ");
+        }
+    }
+    public class Main {
+        public static void main(String[] args) {
+            Calculator obj = new Cube();
+            obj.calculate(3);
+        }
+    }
+
+a) Square: 9 Cube: 9\
+b) Cube: 27 Square: 9\
+c) Square: 9 Square: 27 Cube: 27\
+d) Square: 9 Cube: 27 Square: 27
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
 
 Programming in Java Nptel Week 5 Assignment Answers (July-Dec 2024)
 
