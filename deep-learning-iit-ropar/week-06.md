@@ -5,6 +5,112 @@ Are you looking for NPTEL Deep Learning IIT Ropar Week 06 Assignment Answers? Th
 
 <figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="576" src="https://progiez.com/wp-content/uploads/2024/08/Deep-Learning-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-1-1024x576.webp" alt="Deep Learning IIT Ropar Week 6 Nptel Assignment Answers
  img" class="wp-image-13379" title="Deep Learning IIT Ropar Week 6 Nptel Answers 1" srcset="https://progiez.com/wp-content/uploads/2024/08/Deep-Learning-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-1-1024x576.webp 1024w, https://progiez.com/wp-content/uploads/2024/08/Deep-Learning-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-1-300x169.webp 300w, https://progiez.com/wp-content/uploads/2024/08/Deep-Learning-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-1-768x432.webp 768w, https://progiez.com/wp-content/uploads/2024/08/Deep-Learning-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-1.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Deep Learning IIT Ropar Week 6 Nptel Assignment Answers</figcaption></figure>
+
+## Deep Learning IIT Ropar Week 6 Nptel Assignment Answers (Jan-Apr 2025)
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs21/course)**
+
+***
+
+1. **What is/are the primary advantages of Autoencoders over PCA?**\
+   a. Autoencoders are less prone to overfitting than PCA.\
+   b. Autoencoders are faster and more efficient than PCA.\
+   c. Autoencoders require fewer input data than PCA.\
+   d. Autoencoders can capture nonlinear relationships in the input data.
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+2. **Which of the following is a potential advantage of using an overcomplete autoencoder?**\
+   a. Reduction of the risk of overfitting\
+   b. Faster training time\
+   c. Ability to learn more complex and nonlinear representations\
+   d. To compress the input data
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+3. **We are given an autoencoder A. The average activation value of neurons in this network is 0.015. The given autoencoder is:**\
+   a. Contractive autoencoder\
+   b. Sparse autoencoder\
+   c. Overcomplete neural network\
+   d. Denoising autoencoder
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+4. **Suppose we build a neural network for a 5-class classification task. Suppose for a single training example, the true label is \[0 1 0 0 1] while the predictions by the neural network are \[0.4 0.25 0.2 0.1 0.6]. What would be the value of cross-entropy loss for this example? (Answer up to two decimal places, Use base 2 for log-related calculations)**
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+5. **If an under-complete autoencoder has an input layer with a dimension of 5, what could be the possible dimension of the hidden layer?**\
+   a. 5\
+   b. 4\
+   c. 2\
+   d. 0\
+   e. 6
+
+[****See also**  **Nptel Data Science for Engineers Assignment 6 Answers****](https://progiez.com/nptel-data-science-for-engineers-assignment-6-answers)
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+6. **Which of the following networks represents an autoencoder?**
+
+a.\
+b.\
+c.\
+d.
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+7. **What is the primary reason for adding corruption to the input data in a denoising autoencoder?**\
+   a. To increase the complexity of the model.\
+   b. To improve the model’s ability to generalize to unseen data.\
+   c. To reduce the size of the training dataset.\
+   d. To increase the training time.
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+8. **Suppose for one data point we have features x₁, x₂, x₃, x₄, x₅ as −4, 6, 2.8, 0, 17.3. Then, which of the following function should we use on the output layer (decoder)?**\
+   a. Linear\
+   b. Logistic\
+   c. Relu\
+   d. Tanh
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+9. **Which of the following statements about overfitting in overcomplete autoencoders is true?**\
+   a. Reconstruction error is very high while training\
+   b. Reconstruction error is very low while training\
+   c. Network fails to learn good representations of input\
+   d. Network learns good representations of input
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+10. **What is the purpose of a decoder in an autoencoder?**\
+    a. To reconstruct the input data\
+    b. To generate new data\
+    c. To compress the input data\
+    d. To extract features from the input data
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+ 
 ## Deep Learning IIT Ropar Week 6 Nptel Assignment Answers (July-Dec 2024)
 
 * * *
