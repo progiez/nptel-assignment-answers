@@ -5,6 +5,100 @@ Are you looking for NPTEL Introduction To Machine Learning Week 06 Assignment An
 
 <figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="576" src="https://progiez.com/wp-content/uploads/2024/08/Introduction-To-Machine-Learning-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-1024x576.webp" alt="Introduction to Machine Learning Nptel Week 6 Answers" class="wp-image-13375" title="Introduction to Machine Learning Nptel Week 6 Answers 1" srcset="https://progiez.com/wp-content/uploads/2024/08/Introduction-To-Machine-Learning-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-1024x576.webp 1024w, https://progiez.com/wp-content/uploads/2024/08/Introduction-To-Machine-Learning-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-300x169.webp 300w, https://progiez.com/wp-content/uploads/2024/08/Introduction-To-Machine-Learning-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-768x432.webp 768w, https://progiez.com/wp-content/uploads/2024/08/Introduction-To-Machine-Learning-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Introduction to Machine Learning Nptel Week<span> </span></strong>6<span> </span><strong>Answers</strong></figcaption></figure>
 
+**1) Statement: Decision Tree is an unsupervised learning algorithm.\
+Reason: The splitting criterion uses only the features of the data to calculate their respective measures.**
+
+a) Statement is True. Reason is True.\
+b) Statement is True. Reason is False.\
+c) Statement is False. Reason is True.\
+d) Statement is False. Reason is False.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**2) Increasing the pruning strength in a decision tree by reducing the maximum depth:**
+
+a) Will always result in improved validation accuracy.\
+b) Will lead to more overfitting.\
+c) Might lead to underfitting if set too aggressively.\
+d) Will have no impact on the tree’s performance.\
+e) Will eliminate the need for validation data.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**3) What is a common indicator of overfitting in a decision tree?**
+
+a) The training accuracy is high while the validation accuracy is low.\
+b) The tree is shallow.\
+c) The tree has only a few leaf nodes.\
+d) The tree’s depth matches the number of attributes in the dataset.\
+e) The tree’s predictions are consistently biased.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**4) Consider the following statements:\
+Statement 1: Decision Trees are linear non-parametric models.\
+Statement 2: A decision tree may be used to explain the complex function learned by a neural network.**
+
+a) Both the statements are True.\
+b) Statement 1 is True, but Statement 2 is False.\
+c) Statement 1 is False, but Statement 2 is True.\
+d) Both the statements are False.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**5) Entropy for a 50-50 split between two classes is:**
+
+a) 0\
+b) 0.5\
+c) 1\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**6) Consider a dataset with only one attribute (categorical). Suppose there are 10 unordered values in this attribute. How many possible combinations are needed to find the best split-point for building the decision tree classifier?**
+
+a) 1024\
+b) 511\
+c) 1023\
+d) 512
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**7) What is the initial entropy of Malignant?**
+
+a) 0.543\
+b) 0.9798\
+c) 0.8732\
+d) 1
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**8) For the same dataset, what is the info gain of Vaccination?**
+
+a) 0.4763\
+b) 0.2102\
+c) 0.1134\
+d) 0.9355
+
+[****See also**  **All About NPTEL****](https://progiez.com/nptel)
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+
 ## **Introduction to Machine Learning Nptel Week 6 Answers (July-Dec 2024)**
 
 * * *
