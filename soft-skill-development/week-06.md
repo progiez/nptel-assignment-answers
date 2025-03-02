@@ -4,6 +4,116 @@ Are you looking for NPTEL Soft Skill Development Week 06 Assignment Answers? Thi
 
 <figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="576" src="https://progiez.com/wp-content/uploads/2024/08/Soft-Skills-Development-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-1024x576.webp" alt="These are Soft Skill Development Week 6 Nptel Assignment Answers" class="wp-image-13359" title="Soft Skill Development Week 6 Nptel Assignment Answers 1" srcset="https://progiez.com/wp-content/uploads/2024/08/Soft-Skills-Development-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-1024x576.webp 1024w, https://progiez.com/wp-content/uploads/2024/08/Soft-Skills-Development-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-300x169.webp 300w, https://progiez.com/wp-content/uploads/2024/08/Soft-Skills-Development-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image-768x432.webp 768w, https://progiez.com/wp-content/uploads/2024/08/Soft-Skills-Development-Nptel-Week-6-Assignment-Answer-and-solution-Swayam-Platform-image.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Soft Skill Development Week 6 Nptel Assignment Answers</figcaption></figure>
 
+## Soft Skill Development Week 6 Nptel Assignment Answers (Jan-Apr 2025)
+
+Que. 1 The frontal lobe of the human brain is most active during creative thinking.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 2 The six thinking hats approach was forwarded by Edward De Bono.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 3 Is there a need for continuous innovations for the sustainability and profitability of organizations?
+
+a) Yes\
+b) No
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 4 Semantic intuition was developed by Schaude in the year:
+
+a) 1979\
+b) 1978\
+c) 1987\
+d) 1897
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 5 Which of the following is not a component of creativity?
+
+a) Novelty\
+b) Negotiation\
+c) Originality\
+d) Usefulness
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 6 Which lobe is involved in skills for algebraic mathematical tasks and calculations?
+
+a) Left parietal lobe\
+b) Fronto-parietal lobe\
+c) Temporal lobe\
+d) Temporo-occipital lobe
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 7 Which of the following is not a component of the creative thinking process?
+
+a) Incubation\
+b) Illumination\
+c) Preparation\
+d) Execution
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 8 In which technique of idea generation no one is allowed to judge or question any idea until the idea generation process is completed?
+
+a) Slip card writing\
+b) Nominal group\
+c) Brainstorming\
+d) Face-to-face interacting group
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 9 The socialization process facilitates us to use which part of the brain frequently?
+
+a) Right hemisphere\
+b) Left hemisphere\
+c) Both hemispheres\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 10 Which of the following methods are for generating creative ideas?
+
+A) Trial and error\
+B) Means-end analysis\
+C) Analogies\
+D) Schema
+
+a) Only A is correct\
+b) Only A and B are correct\
+c) Only A, B, and C are correct\
+d) A, B, C, and D are correct
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+
 ## **Soft Skill Development Week 6 Nptel Assignment Answers** (**JULY – DEC 2024**)
 
 * * *
