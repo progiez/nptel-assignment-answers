@@ -6,6 +6,110 @@ Are you looking for NPTEL The Joy Of Computation Using Python Week 07 Assignment
 
 <figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="576" src="https://progiez.com/wp-content/uploads/2024/09/The-Joy-of-Computing-Using-Python-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-1-1024x576.webp" alt="The Joy of Computing Using Python NPTEL Week 7 Answers (July-Dec 2024)
 " class="wp-image-13552" title="The Joy of Computing Using Python NPTEL Week 7 Answers 1" srcset="https://progiez.com/wp-content/uploads/2024/09/The-Joy-of-Computing-Using-Python-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-1-1024x576.webp 1024w, https://progiez.com/wp-content/uploads/2024/09/The-Joy-of-Computing-Using-Python-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-1-300x169.webp 300w, https://progiez.com/wp-content/uploads/2024/09/The-Joy-of-Computing-Using-Python-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-1-768x432.webp 768w, https://progiez.com/wp-content/uploads/2024/09/The-Joy-of-Computing-Using-Python-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-1.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>The Joy of Computing Using Python NPTEL Week 7 Answers</strong></figcaption></figure>
+
+## The Joy of Computing Using Python NPTEL Week 7 Answers (Jan-Apr 2025)
+
+***
+
+1. **What will be the output of the following code?**\
+   a) 2\
+   b) 3\
+   c) 4\
+   d) Error
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+2. **What is the spiral order traversal of the given matrix?**\
+   a) 1, 2, 3, 7, 11, 10, 9, 5, 6\
+   b) 1, 2, 3, 5, 6, 7, 9, 10, 11\
+   c) 1, 5, 9, 10, 11, 7, 3, 2, 6\
+   d) 1, 5, 9, 2, 6, 10, 3, 7, 11
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+3. **What type of triangle is drawn by the given code?**\
+   a) Scalar triangle\
+   b) Right angle triangle\
+   c) Equilateral triangle\
+   d) Isosceles triangle
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+4. **Which of the following programs will draw a hexagon?**\
+   a)\
+   b)\
+   c)\
+   d)
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+5. **What will be the output of the following code?**\
+   a) {1: “one”, 1.0: “float one”, True: “boolean one”}\
+   b) {1: “boolean one”}\
+   c) {1: “one”, 1.0: “float one”}\
+   d) {1.0: “float one”, True: “boolean one”}
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+6. **What is the output of the following code?**\
+   a)\
+   b)\
+   c)\
+   d)
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+7. **Which turtle command is equivalent to lifting up a pen?**\
+   a) penlift()\
+   b) penup()\
+   c) uppen()\
+   d) penremove()
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+8. **Why do we use functions?**\
+   a) To improve readability.\
+   b) To reuse code blocks.\
+   c) For the ease of code debugging.\
+   d) All of the above.
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+9. **Which library is used to import images?**\
+   a) PIL\
+   b) Imageview\
+   c) IMG\
+   d) image
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+10. **In Snakes and Ladders, what can be the ways to track ladders and snakes?**\
+    a) Maintain a dictionary with snake or ladder number blocks as keys.\
+    b) Using the if condition to check on every number.\
+    c) Both A and B.\
+    d) Both A and B.
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+
 ## **The Joy of Computing Using Python NPTEL Week 7 Answers (July-Dec 2024)**
 
 * * *
