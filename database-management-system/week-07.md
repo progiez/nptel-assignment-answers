@@ -5,6 +5,109 @@ Are you looking for NPTEL Database Management System Week 07 Assignment Answers?
 
 <figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="576" src="https://progiez.com/wp-content/uploads/2024/09/Data-Base-Management-System-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-1024x576.webp" alt="Nptel Database Management System Assignment 7 Answers" class="wp-image-13642" title="Nptel Database Management System Assignment 7 Answers 1" srcset="https://progiez.com/wp-content/uploads/2024/09/Data-Base-Management-System-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-1024x576.webp 1024w, https://progiez.com/wp-content/uploads/2024/09/Data-Base-Management-System-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-300x169.webp 300w, https://progiez.com/wp-content/uploads/2024/09/Data-Base-Management-System-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-768x432.webp 768w, https://progiez.com/wp-content/uploads/2024/09/Data-Base-Management-System-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Nptel Database Management System Assignment 7 Answers</figcaption></figure>
 
+## Nptel Database Management System Assignment 7 Answers (Jan-Apr 2025)
+
+***
+
+1. **Consider the following lock compatibility matrix where S denotes a shared lock and X denotes an exclusive lock:**\
+   a) A transaction holding an S lock on a data item allows other transactions to acquire an S lock but not an X lock on the same data item.\
+   b) A transaction holding an S lock on a data item allows other transactions to acquire an X lock on the same data item.\
+   c) A transaction holding an X lock on a data item allows other transactions to acquire another X lock on the same data item.\
+   d) A transaction holding an X lock on a data item prevents other transactions from acquiring an S lock on the same data item.
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+2. **Consider the following schedule S involving five transactions Tl, T2, Tg, T4, and T5: Choose the correct option for the above transaction schedule.**\
+   a) The schedule is neither conflict serializable nor view serializable.\
+   b) The schedule is both conflict serializable and view serializable.\
+   c) The schedule is only view serializable.\
+   d) The schedule is only conflict serializable.
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+3. **Identify the incorrect option(s) regarding the order of execution of all transactions in the above schedule S.**\
+   a) T1+T4+T5+T2+T3\
+   b) T1+T2+T3+T4+T5\
+   c)T1+T2+T4+T5+T3\
+   d)T1+T4+T3+T5+T2
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+4. **Identify the possible number of conflict serializable schedules of the above schedule S.**\
+   a)1\
+   b)2\
+   c)3\
+   d)5
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+5. **Which of the following is TRUE about the schedule S?**\
+   a) S is serializable both as Tl, T2 and T2, Tl.\
+   b) S is not serializable neither as Tl, T2 nor T2, Tl.\
+   c) S is serializable only as Tl, T2.\
+   d) S is serializable only as T2, Tl.
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+6. **Consider the following schedule S.**\
+   a)1\
+   b)2\
+   c)4\
+   d)6
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+7. **Which of the following statement is (are) true?**\
+   a) T2 follows the rigorous two-phase locking protocol, but T1 follows the strict two-phase locking protocol only.\
+   b) T1 follows the rigorous two-phase locking protocol, but T2 follows the strict two-phase locking protocol only.\
+   c) Both T1 and T2 follow the strict two-phase locking protocol.\
+   d) Both T1 and T2 follow the rigorous two-phase locking protocol.
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+8. **Choose the correct options for the above schedule.**\
+   a) The schedule is only recoverable schedule.\
+   b) The schedule is only cascadeless schedule.\
+   c) The schedule is recoverable schedule and cascadeless schedule both.\
+   d) The schedule is neither recoverable nor cascadeless schedule.
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+9. **Identify the correct statement(s) based on the above schedule S.**\
+   a) If T2 fails (aborts), only T1 will be rolled back, while T3 will remain unaffected.\
+   b) If T2 fails (aborts), only T3 will be rolled back, while T1 will remain unaffected.\
+   c) If T2 fails (aborts), no other transaction will be rolled back.\
+   d) If T2 fails (aborts), both transactions T1 and T3 must also be rolled back.
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+10. **Which of the following statement(s) is (are) correct in respect of Wait-Die Deadlock Prevention Scheme?**\
+    a) Transaction T1 will rollback.\
+    b) Transaction T3 will wait for T2 to release the data item.\
+    c) Transaction T1 will wait for T2 to release the data item and Transaction T3 will rollback.\
+    d) Both transactions T1 and T3 will rollback.
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+
 ## **Nptel Database Management System Assignment 7 Answers (July-Dec 2024)**
 
 * * *
