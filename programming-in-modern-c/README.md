@@ -1,4 +1,4 @@
-# NPTEL Programming In Modern C Assignment Answers and Solutions
+# NPTEL Programming In Modern C++ Assignment Answers and Solutions
 
 Are you looking for NPTEL Programming In Modern C Assignment Answers? This repository provides comprehensive solutions and answers for the Programming In Modern C course. Here, you'll find detailed explanations and solutions to help you complete your assignments efficiently.
 
