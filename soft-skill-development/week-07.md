@@ -5,6 +5,109 @@ Are you looking for NPTEL Soft Skill Development Week 07 Assignment Answers? Thi
 
 <figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="576" src="https://progiez.com/wp-content/uploads/2024/09/Soft-Skills-Development-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-1024x576.webp" alt="Soft Skills Nptel Week 7 Assignment Answers" class="wp-image-13556" title="Soft Skills Nptel Week 7 Assignment Answers 1" srcset="https://progiez.com/wp-content/uploads/2024/09/Soft-Skills-Development-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-1024x576.webp 1024w, https://progiez.com/wp-content/uploads/2024/09/Soft-Skills-Development-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-300x169.webp 300w, https://progiez.com/wp-content/uploads/2024/09/Soft-Skills-Development-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image-768x432.webp 768w, https://progiez.com/wp-content/uploads/2024/09/Soft-Skills-Development-Nptel-Week-7-Assignment-Answer-and-solution-Swayam-Platform-image.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Soft Skills Nptel Week 7 Assignment Answers</strong></figcaption></figure>
 
+## Soft Skill Development Week 7 Nptel Assignment Answers (Jan-Apr 2025)
+
+***
+
+Que. 1 Negotiation is an interactive communication process that takes place whenever we want something from someone else or another person wants something from us.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 2 The Cognitive Response Model argues that persuasion is not caused directly by messages: we are only persuaded if we have thoughts that agree with the message.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 3 Self-actualization needs are the higher-order needs that occupy the top of the pyramid in Maslow’s theory.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 4 Motivation relates to the force, stimulus, or influence that guides people to do the things they do.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 5 A task leader makes sure the group reaches a conclusion at the end of its allotted meeting time, summarizes the discussion of the meeting, and sets the agenda for the next meeting.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 6 \_\_\_\_\_\_\_\_\_\_ is the most powerful motivational factor used by leaders to increase the motivation of the employees.
+
+a) Involvement\
+b) Appreciation\
+c) Good relationship\
+d) Awareness of personal situations
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 7 Which of the following characteristics determine the leadership style of a socio-emotional leader?
+
+a) Allows everyone to get a turn in the discussion\
+b) Manages people’s face and handles their feelings\
+c) Keeps the personal relationships between group members\
+d) All of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 8 In which of the following negotiating styles do individuals easily give the other person concessions in hope of strengthening their relationships but tend to neglect their own needs in favor of helping the other person?
+
+a) Avoider negotiating style\
+b) Accommodator negotiating style\
+c) Compromiser negotiating style\
+d) Problem solver negotiating style
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 9 Indians are passionate about Bollywood movies and emotionally attached to stars. The youth of India loves to buy products endorsed by famous stars. Ads like that of a cold drink that boosts up energy and makes actors perform crazy stunts are examples of:
+
+a) Ethos\
+b) Logos\
+c) Pathos\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que. 10 We often come across many advertisements that read “Offer valid for a limited period.” Which principle of persuasion is used in the ads?
+
+a) Commitment and consistency\
+b) Liking\
+c) Authority\
+d) Scarcity
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+
 ## **Soft Skills Nptel Week 7 Assignment Answers (July-Dec 2024)**
 
 * * *
