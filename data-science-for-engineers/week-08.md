@@ -3,6 +3,97 @@
 Are you looking for NPTEL Data Science For Engineers Week 08 Assignment Answers? This repository will help you find your answers and solutions for Week 08 of the Data Science For Engineers course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
+## Nptel Data Science for Engineers Assignment 8 Answers (Jan-Apr 2025)
+
+***
+
+**1) According to the built model, the within-cluster sum of squares for each cluster is \_\_\_\_\_\_\_\_\_\_ (the order of values in each option could be different):-**
+
+a) 8.316061 11.952463 16.212213 19.922437\
+b) 7.453059 12.158682 13.212213 21.158766\
+c) 8.316061 13.952463 15.212213 19.922437\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**2) According to the built model, the size of each cluster is \_\_\_\_\_\_\_ (the order of values in each option could be different):-**
+
+a) 13 13 7 14\
+b) 11 18 25 24\
+c) 8 13 16 13\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**3) The Between Cluster Sum-of-Squares (BCSS) value of the built K-means model is \_\_\_\_\_\_\_ (Choose the appropriate range)**
+
+a) 100 – 200\
+b) 200 – 300\
+c) 300 – 350\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**4) The Total Sum-of-Squares value of the built k-means model is \_\_\_\_\_\_ (Choose the appropriate range)**
+
+a) 100 – 200\
+b) 200 – 300\
+c) 300 – 350\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**5) Which of the statements is INCORRECT about the KNN algorithm?**
+
+a) KNN works ONLY for binary classification problems\
+b) If k=1, then the algorithm is simply called the nearest neighbour algorithm\
+c) The number of neighbours (K) will influence classification output\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**6) K-means clustering algorithm clusters the data points based on:-**
+
+a) Dependent and independent variables\
+b) The eigenvalues\
+c) Distance between the points and a cluster centre\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**7) The method/metric which is NOT useful to determine the optimal number of clusters in unsupervised clustering algorithms is:**
+
+a) Scatter plot\
+b) Elbow method\
+c) Dendrogram\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**8) The unsupervised learning algorithm that aims to partition n observations into k clusters, where each observation belongs to the cluster with the nearest centroid, is:**
+
+a) Hierarchical clustering\
+b) K-means clustering\
+c) KNN\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+
 
 ## **Nptel Data Science for Engineers Assignment 8 Answers (July-Dec 2024)**
 
