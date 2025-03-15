@@ -2,6 +2,116 @@
 
 Are you looking for NPTEL Deep Learning IIT Ropar Week 08 Assignment Answers? This repository will help you find your answers and solutions for Week 08 of the Deep Learning IIT Ropar course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Deep Learning IIT Ropar Week 8 Nptel Assignment Answers (Jan-Apr 2025)
+
+***
+
+**1. What are the challenges associated with using the Tanh(x) activation function?**
+
+a. It is not zero centered\
+b. Computationally expensive\
+c. Non-differentiable at 0\
+d. Saturation
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**2. Which of the following problems makes training a neural network harder while using sigmoid as the activation function?**
+
+a. Not-continuous at 0\
+b. Not-differentiable at 0\
+c. Saturation\
+d. Computationally expensive
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**3. Consider the Exponential ReLU (ELU) activation function, defined as:**
+
+f(x)={x,a(ex−1),x>0;x≤0}f(x) = \\{x, a(e^x -1), x > 0; x \leq 0\\}
+
+where a≠0a \neq 0. Which of the following statements is true?
+
+a. The function is discontinuous at x=0\
+b. The function is non-differentiable at x=0\
+c. Exponential ReLU can produce negative values\
+d. Exponential ReLU is computationally less expensive than ReLU
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**4. We have observed that the sigmoid neuron has become saturated. What might be the possible output values at this neuron?**
+
+a. 0.0666\
+b. 0.589\
+c. 0.9734\
+d. 0.498\
+e. 1
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**5. What is the gradient of the sigmoid function at saturation?**
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**6. Which of the following are common issues caused by saturating neurons in deep networks?**
+
+a. Vanishing gradients\
+b. Slow convergence during training\
+c. Overfitting\
+d. Increased model complexity
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**7. Given a neuron initialized with weights w1=0.9w\_1 = 0.9, w2=1.7w\_2 = 1.7, and inputs x1=0.4x\_1 = 0.4, x2=−0.7x\_2 = -0.7, calculate the output of a ReLU neuron.**
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**8. Which of the following is incorrect with respect to the batch normalization process in neural networks?**
+
+a. We normalize the output produced at each layer before feeding it into the next layer\
+b. Batch normalization leads to a better initialization of weights\
+c. Backpropagation can be used after batch normalization\
+d. Variance and mean are not learnable parameters
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**9. Which of the following is an advantage of unsupervised pre-training in deep learning?**
+
+a. It helps in reducing overfitting\
+b. Pre-trained models converge faster\
+c. It requires fewer computational resources\
+d. It improves the accuracy of the model
+
+[****See also**  **Deep Learning Week 5 Nptel Assignment Answers****](https://progiez.com/nptel-deep-learning-week-5-assignment-5-answers)
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**10. How can you tell if your network is suffering from the Dead ReLU problem?**
+
+a. The loss function is not decreasing during training\
+b. A large number of neurons have zero output\
+c. The accuracy of the network is not improving\
+d. The network is overfitting to the training data
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+
 ## Deep Learning IIT Ropar Week 8 Nptel Assignment Answers (July-Dec 2024)
 
 * * *
