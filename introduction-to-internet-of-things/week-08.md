@@ -2,6 +2,110 @@
 
 Are you looking for NPTEL Introduction To Internet Of Things Week 08 Assignment Answers? This repository will help you find your answers and solutions for Week 08 of the Introduction To Internet Of Things course. We provide detailed solutions to help you complete your assignments efficiently.
 
+Introduction To Internet Of Things Week 8 Nptel Answers (Jan-Apr 2025)
+What is Sensor Openflow?
+a. A traditional routing protocol
+b. A queue management protocol
+c. An SDN protocol tailored for IoT devices
+d. A physical connectivity protocol
+
+View Answer
+With respect to Mobi-Flow, how does Mobi-Flow fare in comparison to Conventional networking in terms of message overhead?
+a. Mobi-Flow > Conventional
+b. Mobi-Flow < Conventional
+c. Mobi-Flow = Conventional
+d. None of the given
+
+View Answer
+Virtual Machines came before Cloud Computing.
+a. True
+b. False
+
+View Answer
+Private cloud services cannot provide Software-as-a-Service (SaaS).
+a. True
+b. False
+
+View Answer
+Which among the following is a solution for mobility-aware flow rule placement in SDIoT?
+a. Mobility-Flow
+b. Mobile-Flow
+c. Mobi-Flow
+d. M-Flow
+
+View Answer
+An organization A wants to deploy a cloud infrastructure, whereby it wants to push majority of the data to a cloud whose servers can be situated anywhere within the globe, but it wants certain private data to be pushed only to cloud servers that are present on-premise and are accessible by only authenticated members of the organization. In this context which among the following deployment model should be used?
+a. Private Cloud
+b. Public Cloud
+c. Hybrid Cloud
+d. Any of these
+
+View Answer
+Which among the following is the most on-premise cloud deployment model?
+a. Private Cloud
+b. Public cloud
+c. IaaS
+d. PaaS
+
+View Answer
+Which of the following type of client requires constant communication/connection with the cloud server?
+a. Thin client
+b. Thick client
+c. Both thin and thick clients
+d. None of these
+
+View Answer
+What does ‘CIA’ in cloud data security stand for?
+a. Confidentiality, Integrity, Availability
+b. Confidentiality, Inheritance, Automation
+c. Congestion, Integrity, Authentication
+d. Criticality, Integrity, Accountability
+
+View Answer
+When you are accessing Spotify online for listening to music from your browser without specifically installing them, which among the following cloud service models is the most appropriate one that you are using.
+a. SaaS
+b. PaaS
+c. IaaS
+d. DaaS
+
+View Answer
+With respect to Cloud Computing security, which of the following are necessary
+a. Network Level Security but not Host Level Security
+b. Application Level Security but not Host Level Security
+c. Host Level Security but not Network Level Security
+d. All of Network, Host and Application Level Security.
+
+View Answer
+Data security and client authentication is an issue in which of the following cloud service models?
+a. SaaS
+b. SaaS and PaaS
+c. IaaS
+d. All of them
+
+View Answer
+What is the role of a Hypervisor (most probable answer)?
+a. To facilitate installation of a router
+b. To provide a platform for executing virtual machines
+c. To facilitate sensor fabrication
+d. To communicate between switches themselves.
+
+View Answer
+Which of the following is a limitation of SaaS?
+a. Remote software execution
+b. Platform independence
+c. Centralized control
+d. None of these.
+
+View Answer
+Fill in the blank. __ means independent of device or location.
+a. Scalable
+b. Reliability
+c. Agile
+d. Ubiquitous
+
+View Answer
+
+
 ## **<mark class="has-inline-color has-vivid-red-color"><span class="stk-highlight">Introduction To Internet Of Things Week 8 Nptel Answers<span> </span></span></mark>(July-Dec 2024)**
 
 * * *
