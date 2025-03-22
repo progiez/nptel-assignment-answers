@@ -2,121 +2,132 @@
 
 Are you looking for NPTEL Deep Learning Assignment Answers Week 09 Assignment Answers? This repository will help you find your answers and solutions for Week 09 of the Deep Learning Assignment Answers course. We provide detailed solutions to help you complete your assignments efficiently.
 
-## Deep Learning IIT Ropar Week 9 Nptel Assignment Answers (Jan-Apr 2025)
+## _NPTEL Deep Learning Week 9 Assignment 9 Answers_ _(Jan-Apr 2025)_
 
-**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs21/course)**
-
-***
-
-**1) What is the disadvantage of using Hierarchical Softmax?**
-
-a) It requires more memory to store the binary tree\
-b) It is slower than computing the softmax function directly\
-c) It is less accurate than computing the softmax function directly\
-d) It is more prone to overfitting than computing the softmax function directly
-
-[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+**Course Link:** [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_ee16/course)
 
 ***
 
-**2) Consider the following corpus: “AI driven user experience optimization. Perception of AI decision making speed. Intelligent interface adaptation system. AI system engineering for enhanced processing efficiency.” What is the size of the vocabulary of the above corpus?**
+**1) What can be a possible consequence of choosing a very small learning rate?**
 
-a) 18\
-b) 20\
-c) 22\
-d) 19
+a. Slow convergence\
+b. Overshooting minima\
+c. Oscillations around the minima\
+d. All of the above
 
-[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
-
-***
-
-**3) We add incorrect pairs into our corpus to maximize the probability of words that occur in the same context and minimize the probability of words that occur in different contexts. This technique is called:**
-
-a) Negative sampling\
-b) Hierarchical softmax\
-c) Contrastive estimation\
-d) Glove representations
-
-[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
 
 ***
 
-_**Deep Learning IIT Ropar Week 9 Nptel Assignment Answers**_
+**2) The following is the equation of update vector for momentum optimizer. Which of the following is true for y?**
+
+Ve=yVe−1+nV1V\_e = yV\_{e-1} + nV\_1
+
+a. y is the momentum term which indicates acceleration\
+b. y is the step size\
+c. y is the first order moment\
+d. y is the second order moment
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
 
 ***
 
-**4) Let X be the co-occurrence matrix such that the (i,j)-th entry of X captures the PMI between the i-th and j-th word in the corpus. Every row of X corresponds to the representation of the i-th word in the corpus. Suppose each row of X is normalized (i.e., the L2 norm of each row is 1), then the (i,j)-th entry of XXT captures the:**
+**3) Which of the following is true about momentum optimizer?**
 
-[****See also**  **Deep Learning IIT Ropar Week 4 Nptel Answers****](https://progiez.com/deep-learning-iit-ropar-week-4-nptel-assignment-answers)
+a. It helps accelerating Stochastic Gradient Descent in the right direction\
+b. It helps prevent unwanted oscillations\
+c. It helps to know the direction of the next step with knowledge of the previous step\
+d. All of the above
 
-a) PMI between word i and word j\
-b) Euclidean distance between word i and word j\
-c) Probability that word i\
-d) Cosine similarity between word i
-
-[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
 
 ***
 
-**5) Suppose that we use the continuous bag of words (CBOW) model to find vector representations of words. Suppose further that we use a context window of size 3 (that is, given the 3 context words, predict the target word P(wt|(wi,wj,wk))). The size of word vectors (vector representation of words) is chosen to be 100, and the vocabulary contains 20,000 words. The input to the network is the one-hot encoding (also called 1-of-V encoding) of word(s). How many parameters (weights), excluding bias, are there in Wword? Enter the answer in thousands. For example, if your answer is 50,000, then just enter 50.**
-
-[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+_NPTEL Deep Learning Week 9 Assignment 9 Answers_
 
 ***
 
-_**Deep Learning IIT Ropar Week 9 Nptel Assignment Answers**_
+**4) Let J(θ) be the cost function. Let the gradient descent update rule for θ be, θ₁ = θ – αVθ. What is the correct expression of Vθ? α is the learning rate.**
+
+a. ∂J(θ)∂θ\frac{\partial J(\theta)}{\partial \theta}\
+b. α∂J(θ)∂θ\alpha \frac{\partial J(\theta)}{\partial \theta}\
+c. ∂J(θ)∂θα\frac{\partial J(\theta)}{\partial \theta} \alpha\
+d. None of the above
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
 
 ***
 
-**6) You are given the one-hot representation of two words below: GEMINI = \[1, 0, 0, 0, 1], CLAUDE = \[0, 0, 0, 1, 0]. What is the Euclidean distance between GEMINI and CLAUDE?**
+**5) A given cost function is of the form J(θ)=θ2−6θ+6J(\theta) = \theta^2 – 6\theta + 6. What is the weight update rule for gradient descent optimization at step t+1? Consider α to be the learning rate.**
 
-[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+[****See also**  **Deep Learning | Week 10****](https://progiez.com/nptel-deep-learning-week-10-assignment-10-answers)
 
-***
+a. θt+1=θt−α(2θ−1)\theta\_{t+1} = \theta\_t – \alpha(2\theta -1)\
+b. θt+1=θt+α(2θ)\theta\_{t+1} = \theta\_t + \alpha(2\theta)\
+c. θt+1=θt−α(12θ−6+6)\theta\_{t+1} = \theta\_t – \alpha(12\theta -6 + 6)\
+d. θt+1=θt−α(2θ+1)\theta\_{t+1} = \theta\_t – \alpha(2\theta +1)
 
-**7) Let count(w,c) be the number of times the words w and c appear together in the corpus (i.e., occur within a window of a few words around each other). Further, let count(w) and count(c) be the total number of times the word w and c appear in the corpus respectively, and let N be the total number of words in the corpus. The PMI between w and c is then given by:**
-
-a) log(count(w,c) \* count(w) / (N \* count(c)))\
-b) log(count(w,c) \* count(c) / (N \* count(w)))\
-c) log(count(w,c) \* N / (count(w) \* count(c)))
-
-[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
 
 ***
 
-**8) Consider a skip-gram model trained using hierarchical softmax for analyzing scientific literature. We observe that the word embeddings for ‘Neuron’ and ‘Brain’ are highly similar. Similarly, the embeddings for ‘Synapse’ and ‘Brain’ also show high similarity. Which of the following statements can be inferred?**
+**6) If the first few iterations of gradient descent cause the function J(θ₀, θ₁) to increase rather than decrease, then what could be the most likely cause for this?**
 
-[****See also**  **Deep Learning IIT Ropar Week 1 Nptel Assignment Answers****](https://progiez.com/deep-learning-iit-ropar-week-1-nptel-assignment-answers)
+a. We have set the learning rate to too large a value\
+b. We have set the learning rate to zero\
+c. We have set the learning rate to a very small value\
+d. Learning rate is gradually decreased by a constant value after every epoch
 
-a) ‘Neuron’ and ‘Brain’ frequently appear in similar contexts\
-b) The model’s learned representations will indicate a high similarity between ‘Neuron’ and ‘Synapse’\
-c) The model’s learned representations will not show a high similarity between ‘Neuron’ and ‘Synapse’\
-d) According to the model’s learned representations, ‘Neuron’ and ‘Brain’ have a low cosine similarity
-
-[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
 
 ***
 
-_**Deep Learning IIT Ropar Week 9 Nptel Assignment Answers**_
+**7) For a function J(θ₀, θ₁), if θ₀ and θ₁ are initialized at a global minimum, then what should be the values of θ₀ and θ₁ after a single iteration of gradient descent?**
+
+a. θ0\theta\_0 and θ1\theta\_1 will update as per gradient descent rule\
+b. θ0\theta\_0 and θ1\theta\_1 will remain the same\
+c. Depends on the values of θ0\theta\_0 and θ1\theta\_1\
+d. Depends on the learning rate
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
 
 ***
 
-**9) Suppose we are learning the representations of words using Glove representations. If we observe that the cosine similarity between two representations vi and vj for words ‘i’ and ‘j’ is very high, which of the following statements is true? (parameter bi = 0.02 and bj = 0.07)**
+**8) What can be one of the practical problems of exploding gradient?**
 
-a) Xij = 0.04\
-b) Xij = 0.17\
-c) Xij = 0\
-d) Xij = 0.95
+a. Too large update of weight values leading to an unstable network\
+b. Too small update of weight values inhibiting the network to learn\
+c. Too large update of weight values leading to faster convergence\
+d. Too small update of weight values leading to slower convergence
 
-[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
 
 ***
 
-**10) Which of the following is an advantage of using the skip-gram method over the bag-of-words approach?**
+**9) What are the steps for using a gradient descent algorithm?**
 
-a) The skip-gram method is faster to train\
-b) The skip-gram method performs better on rare words\
-c) The bag-of-words approach is more accurate\
-d) The bag-of-words approach is better for short texts
+1. Calculate the error between the actual value and the predicted value
+2. Update the weights and biases using the gradient descent formula
+3. Pass an input through the network and get values from the output layer
+4. Initialize weights and biases of the network with random values
+5. Calculate the gradient value corresponding to each weight and bias
 
-[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+[****See also**  **Deep Learning IIT Ropar Week 6 Nptel Answers****](https://progiez.com/deep-learning-iit-ropar-week-6-nptel-assignment-answers)
+
+a. 1, 5, 2, 3, 4\
+b. 5, 1, 3, 2\
+c. 3, 2, 1, 5, 4\
+d. 4, 3, 1, 5, 2
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
+
+***
+
+**10) You run gradient descent for 15 iterations with learning rate α = 0.3 and compute error after each iteration. You find that the value of error decreases very slowly. Based on this, which of the following conclusions seems most plausible?**
+
+a. Rather than using the current value of α, use a larger value of α\
+b. Rather than using the current value of α, use a smaller value of α\
+c. Keep α = 0.3\
+d. None of the above
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
