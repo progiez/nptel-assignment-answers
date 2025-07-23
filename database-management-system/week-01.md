@@ -2,6 +2,215 @@
 
 Are you looking for NPTEL Database Management System Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the Database Management System course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Data Base Management System Nptel Assignment 1 Answers (July-Dec 2025)
+
+***
+
+**Question 1.** Which level of abstraction describes how data is physically stored in the database?\
+a) Physical level\
+b) Logical level\
+c) View level\
+d) Abstraction level
+
+[View Answers](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 2.** Consider the following SQL statement(s):
+
+S1:
+
+    CREATE TABLE orders (
+    order_id NUMBER PRIMARY KEY,
+    product_id NUMBER,
+    quantity NUMBER,
+    order_date DATE
+    );
+
+S2:
+
+    INSERT INTO orders(order_id, product_id, quantity, order_date) 
+    VALUES (1001, 45, 3, '15-JUN-2024');
+
+Identify the correct statement.\
+a) S1 is a Data Definition (DDL) Query, and S2 is a Data Manipulation (DML) Query.\
+b) Both S1 and S2 are Data Definition (DDL) Queries.\
+c) S1 is a Data Control Query (DCL), and S2 is a Data Definition (DDL) Query.\
+d) Both S1 and S2 are Data Manipulation (DML) Queries.
+
+[View Answers](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 3.** Identify the correct statement(s) about database schemas and instances.\
+a) Student(roll no, name, dept) represents a database instance.\
+b) (101, ‘John’, ‘CS’) is an example of a relation schema.\
+c) Course(course\_id, title) defines a logical schema.\
+d) (‘CS101’, ‘Databases’) is an instance of a physical schema.
+
+[View Answers](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 4.** Consider the following international university admissions data:
+
+| University                       | Year | CourseCode | StudentName | Country     | Year |
+| -------------------------------- | ---- | ---------- | ----------- | ----------- | ---- |
+| University of Delhi              | 2023 | CS101      | Riva Sharma | India       | 2023 |
+| ETH Zurich                       | 2022 | PH202      | Noah Miller | Switzerland | 2022 |
+| University of Delhi              | 2023 | ME105      | Arjun Patel | India       | 2023 |
+| National University of Singapore | 2024 | EE110      | Li Wei      | Singapore   | 2024 |
+| ETH Zurich                       | 2023 | CS101      | Riya Sharma | Switzerland | 2023 |
+
+Identify the valid primary key for the relation `university_admissions` from the given instance.\
+a) university and country\
+b) student\_id and admission\_year\
+c) university and student\_id\
+d) student name and admission\_year
+
+[View Answers](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 5.** Consider the following relations:\
+`Employee(eid, ename, salary); Department (did, eid)`
+
+Consider the following relational algebra expressions:\
+RA1: π employees. salary, ename (Employee ⋈ Department)\
+RA2: π employees. salary, ename (Employee × Department)
+
+Which of the following is correct?\
+a) RA1 ⊂ RA2\
+b) RA2 ⊂ RA1\
+c) RA1 = RA2\
+d) RA1 ≠ RA2
+
+[View Answers](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 6.** Consider the relational schema `StudentGrades (StudentID, CourseCode, Grade, Semester)`.\
+If the following tuple exists in an instance of `StudentGrades`:
+
+(TT, CS, PN, TE)
+
+Which of the following tuples can NOT be inserted into `StudentGrades`?\
+a)\
+b)\
+c)\
+d)
+
+[View Answers](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 7.** Consider the following table:
+
+| RiverName     | Length | Country |
+| ------------- | ------ | ------- |
+| Ganges        | 2626   | India   |
+| Yangtze       | 6300   | China   |
+| Nile          | 6650   | Egypt   |
+| Mississippi   | 3738   | USA     |
+| Volga         | 3645   | Russia  |
+| Danube        | 2636   | Germany |
+| Sao Francisco | 2014   | Brazil  |
+
+Identify the correct operation(s) which produces the following output from the above relation:
+
+[****See also**  **Data Analytics with Python Nptel Week 1 Assignment Answers****](https://progiez.com/data-analytics-with-python-nptel-week-1-quiz-answers)
+
+\| RiverName | Length | Country |
+
+a) σ (Country = ‘Brazil’) ∨ (Length = 6500) (RiverDetails)\
+b) σ (Country = ‘Brazil’) ∧ (Length = 6500) (RiverDetails)\
+c) σ (Length > 5000) (RiverDetails)\
+d) σ (Country = ‘Egypt’) ∨ (Country = ‘Brazil’) (RiverDetails)
+
+[View Answers](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 8.** Consider the following tables:
+
+**RiverDetails1:**
+
+| RiverName     | Length | Country |
+| ------------- | ------ | ------- |
+| Mississippi   | 3738   | USA     |
+| Volga         | 3645   | Russia  |
+| Danube        | 2626   | Germany |
+| Sao Francisco | 2614   | Brazil  |
+
+**RiverDetails2:**
+
+| RiverName | Length | Country |
+| --------- | ------ | ------- |
+| Ganges    | 2626   | India   |
+| Yangtze   | 6300   | China   |
+| Amazon    | 6676   | Brazil  |
+| Nile      | 6650   | Egypt   |
+| Volga     | 3645   | Russia  |
+
+Identify the correct operation(s) which will produce the following output:
+
+| RiverName | Length | Country |
+| --------- | ------ | ------- |
+| Ganges    | 2626   | India   |
+| Volga     | 3645   | Russia  |
+
+a) RiverDetails2 − RiverDetails1\
+b) RiverDetails1 − RiverDetails2\
+c) (RiverDetails2 − RiverDetails1) ∪ (RiverDetails1 − RiverDetails2)\
+d) (RiverDetails1 ∪ RiverDetails2) ∩ (RiverDetails1 ∩ RiverDetails2)
+
+[View Answers](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 9.** Which of the following can be a candidate key for the following instance?
+
+| RiverName     | Length | Country |
+| ------------- | ------ | ------- |
+| Ganges        | 2626   | India   |
+| Yangtze       | 6300   | China   |
+| Amazon        | 6675   | Brazil  |
+| Nile          | 6650   | Egypt   |
+| Volga         | 3645   | Russia  |
+| Danube        | 2626   | Germany |
+| Sao Francisco | 2014   | Brazil  |
+| Parana        | 2014   | Brazil  |
+
+a) {Country}\
+b) {Length}\
+c) {RiverName}\
+d) {Country, Length}
+
+[View Answers](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 10.** Consider the following table:
+
+| RiverName     | Length | Country |
+| ------------- | ------ | ------- |
+| Yangtze       | 6300   | China   |
+| Amazon        | 6675   | Brazil  |
+| Mississippi   | 3734   | USA     |
+| Volga         | 3645   | Russia  |
+| Danube        | 2626   | Germany |
+| Sao Francisco | 2914   | Brazil  |
+| Parana        | 2014   | Brazil  |
+
+Which relational algebra operation extracts only river names and their lengths?\
+a) σ Length > 3000 (RiverDetails)\
+b) π RiverName, Length (RiverDetails)\
+c) RiverDetails × RiverDetails\
+d) RiverDetails ▷ Country = ‘Brazil’ RiverDetails
+
+[View Answers](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+
 ## Data Base Management System Nptel Assignment 1 Answers (Jan-Apr 2025)
 
 **Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc24_cs75/preview)**
