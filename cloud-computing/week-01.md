@@ -7,6 +7,106 @@ Are you looking for NPTEL Cloud Computing Week 01 Assignment Answers? This repos
 
 **For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
 
+## Cloud Computing Nptel Week 1 Assignment Answers (July-Dec 2025)
+
+***
+
+**Que.1 Which of the following does not fall(s) under the typical “essential characteristics” of cloud computing?**\
+A) Resource Pooling\
+B) Measured Service\
+C) Rapid Elasticity\
+D) Latency
+
+**[**View Answer**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que.2 “Google Does” app is an example of**\
+A) PaaS\
+B) IaaS\
+C) SaaS\
+D) FaaS
+
+**[**View Answer**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que.3 Which of the following is/are public cloud platform(s)?**\
+A) Windows Server Hyper-V\
+B) Google Cloud Interconnect\
+C) Amazon Virtual Private Cloud\
+D) Microsoft Azure
+
+**[**View Answer**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que.4 VM technology allows multiple virtual machines to run on a single physical system or on a cluster of physical system.**\
+A) True\
+B) False
+
+**[**View Answer**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que.5 A distributed system is typically preferred when the task is: i) Data-intensive; ii) Computing-intensive**\
+A) Only (i)\
+B) Only (ii)\
+C) Both (i) and (ii)\
+D) Neither (i) nor (ii)
+
+**[**View Answer**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que.6 For less data-intensive applications, horizontal scale-out elasticity is the ideal solution.**\
+A) True\
+B) False
+
+**[**View Answer**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que.7 The combination of Service-Oriented Architecture and Cloud Computing realizes to:**\
+A) FTP\
+B) SNTP\
+C) XaaS\
+D) FaaS
+
+**[**View Answer**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que.8 What is/are the typical requirement(s) of a Cloud Service Provider (CSP)?**\
+A) Increase agility\
+B) Increase cost\
+C) Increase productivity\
+D) Decrease cost
+
+**[**View Answer**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que.9 PaaS (Platform as a Service) brings the benefits: (i) Creation of software (ii) Integration of web services and databases. Select correct option(s):**\
+A) Only (i)\
+B) Only (ii)\
+C) Both (i) and (ii)\
+D) Neither (i) nor (ii)
+
+[****See also**  **Introduction To Machine Learning IIT-KGP Week 1 Answers****](https://progiez.com/introduction-to-machine-learning-iit-kgp-week-1-answers)
+
+**[**View Answer**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
+***
+
+**Que.10 A \_\_\_\_\_\_ is a distributed computer system that consists of a collection of interconnected stand-alone computers working together as an integrated computing resource.**\
+A) Grid\
+B) Cluster\
+C) Cloud\
+D) Node
+
+**[**View Answer**](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)**
+
 
 ## Cloud Computing Week 1 Assignment 1 Nptel Answers (Jan-Apr 2025)
 
