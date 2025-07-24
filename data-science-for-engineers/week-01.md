@@ -2,6 +2,140 @@
 
 Are you looking for NPTEL Data Science For Engineers Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the Data Science For Engineers course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Nptel Data Science for Engineers Assignment 1 Answers (July-Dec 2025)
+
+***
+
+**Que.1 Which of the following variable names are INVALID in R?**\
+A) 1\_variable\
+B) variable\_1\
+C) \_variable\
+D) variable@
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**Que.2 The function `ls()` in R will**\
+A) Set a new working directory path\
+B) List all objects in our working environment\
+C) Display the path to our working directory\
+D) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**Que.3 Which of the following command is used to access the value “Shyam”?**\
+A) print(patient\_list\[3]\[2])\
+B) print(patient\_list\[\[3]]\[1])\
+C) print(patient\_list\[\[3]]\[2])\
+D) print(patient\_list\[\[2]]\[2])
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**Que.4 What does the following R code produce?**\
+A) “apple”\
+B) “banana”\
+C) “cherry”\
+D) Error
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**Que.5 What is the output of following code?**\
+A) double\
+B) integer\
+C) list\
+D) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**Que.6 State whether the given statement is True or False.\
+The library reshape2 is based around two key functions named melt and cast.**\
+A) True\
+B) False
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**Que.7 What does the following R code return?**\
+A) 5, 10, 15, 20\
+B) 15, 20\
+C) 10, 15, 20\
+D) Error
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**Que.8 What is the output of the following R code?**\
+A) 1, 2, 3\
+B) 0, 1, 2\
+C) 1, 2, 3, 4\
+D) Error
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**Que.9 Choose the correct command to add a column named `student_dept` to the dataframe `student_data`.**\
+A) student\_datastudent\_dept = c(“Commerce”, “Biology”, “English”, “Tamil”)\
+B) student\_data\[“student\_dept”] = c(“Commerce”, “Biology”, “English”, “Tamil”)\
+C) student\_dept = student\_data\[c(“Commerce”, “Biology”, “English”, “Tamil”)]\
+D) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**Que.10 Choose the correct command to access the element “Tamil” in the dataframe `student_data`.**\
+A) student\_data\[\[4]]\
+B) student\_data\[\[4]]\[3]\
+C) student\_data\[\[3]]\[4]\
+D) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**Que.11 The command to check if a value is of numeric data type is \_\_\_\_\_\_.**\
+A) typeof()\
+B) is.numeric()\
+C) as.numeric()\
+D) None of the above
+
+[****See also**  **Introduction to Operating Systems Nptel Week 1 Answers****](https://progiez.com/introduction-to-operating-systems-nptel-week-1-answers)
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**Que.12 What will the following R code return?**\
+A) 6\
+B) 5\
+C) 9\
+D) Error
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+***
+
+**Que.13 What is the result of the following R code?**\
+A) \[1] 8 10 12 \n\[2] 14 16 18\
+B) \[1] \[2] \[3] \n\[1] 8 12 16 \n\[2] 10 14 18\
+C) \[1] 8 9 10 11 12 13\
+D) Error
+
+**[**View Answer**](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)**
+
+
 ## Nptel Data Science for Engineers Assignment 1 Answers (Jan-Apr 2025)
 
 Course link: [Click here](https://onlinecourses.nptel.ac.in/noc25_cs20/course)
