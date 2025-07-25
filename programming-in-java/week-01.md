@@ -2,9 +2,139 @@
 
 Are you looking for NPTEL Programming In Java Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the Programming In Java course. We provide detailed solutions to help you complete your assignments efficiently.
 
-![](https://miro.medium.com/v2/resize:fit:875/1*0SYmYxMwq3DgxFgkH5-UkQ.jpeg)
 
 **Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs57/course)**
+
+
+## Programming in Java Nptel Week 1 Assignment Answers (July-Dec 2025)
+
+***
+
+**Que.1 Which of the following is true?**\
+A) Java uses only interpreter.\
+B) Java uses only compiler.\
+C) Java uses both interpreter and compiler.\
+D) None of the above.
+
+**[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)**
+
+***
+
+**Que.2 A Java file with extension ‘.class’ contains**\
+A) Java source code\
+B) HTML tags\
+C) Java Byte code\
+D) A program file written in Java programming language
+
+**[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)**
+
+***
+
+**Que.3 Which of the following is not an object-oriented programming paradigm?**\
+A) Encapsulation\
+B) Inheritance\
+C) Polymorphism\
+D) Dynamic memory allocation
+
+**[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)**
+
+***
+
+**Que.4 What will be the output of the following Java code?**
+
+    class increment {
+        public static void main(string args{]) {
+        }
+    }
+
+A) 32\
+B) 33\
+C) 24\
+D) 25
+
+**[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)**
+
+***
+
+**Que.5 What is the correct sequence of steps to execute a Java program?**
+
+1. Compile the Program: Use the javac command to compile the code into bytecode.
+2. Edit the Program: Write the code in a text editor or IDE.
+3. Run the Program: Use the java command to execute the bytecode.
+
+A) Run > Edit > Compile\
+B) Edit > Run > Compile\
+C) Compile > Edit > Run\
+D) Edit > Compile > Run
+
+**[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)**
+
+***
+
+**Que.6 Consider the following code.**
+
+    class NPTEL {
+        public static void main(string[] args) {
+            ystem.out.println("Hello, World!");
+        }
+    }
+
+What is the output of the above code?\
+A) Hello, World!\
+B) HelloWorld!\
+C) Compilation Error\
+D) Runtime Error
+
+**[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)**
+
+***
+
+**Que.7 What is the primary focus of Java programming?**\
+A) Low-level optimizations\
+B) Hardware-specific operations\
+C) Platform independence\
+D) Assembly language programming
+
+**[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)**
+
+***
+
+**Que.8 Which of the following programming principles is a key aspect of Java?**\
+A) Code obfuscation\
+B) Platform dependence\
+C) Object-oriented programming\
+D) Global variables
+
+[****See also**  **Programming In Java | Week 1****](https://progiez.com/nptel-programming-in-java-week-1-assignment-1-answers)
+
+**[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)**
+
+***
+
+**Que.9 What is the primary purpose of the Java Virtual Machine (JVM) in the Java programming language?**\
+A) Code optimization\
+B) Platform independence\
+C) Memory management\
+D) Hardware-specific operations
+
+**[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)**
+
+***
+
+**Que.10 Consider the following program.**
+
+    public static void main(string[] args) {
+        int x = 5;
+        x *= (2 + 8);
+    }
+
+What is the output of the above code?\
+A) 50\
+B) 10\
+C) Compiler error\
+D) 5
+
+**[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)**
 
 
 ## Programming in Java Nptel Week 1 Assignment Answers (Jan-Apr 2025)
