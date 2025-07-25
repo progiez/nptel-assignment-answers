@@ -2,6 +2,111 @@
 
 Are you looking for NPTEL Cyber Security and Privacy Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the Cyber Security and Privacy course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Cyber Security and Privacy Week 1 Nptel Answers (July-Dec 2025)
+
+***
+
+**Que.1 How do spear-phishing attacks differ from general phishing attacks?**\
+A) They use only phone calls as a medium\
+B) They are randomly sent to thousands of people\
+C) They target specific individuals with personalized messages\
+D) They do not involve malware at all
+
+**[**View Answer**](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)**
+
+***
+
+**Que.2 What does ransomware typically do to a victim’s files?**\
+A) Deletes them permanently\
+B) Encrypts them to prevent access\
+C) Transfers them to another device\
+D) Makes them publicly available online
+
+****[**View Answer**](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)****
+
+***
+
+**Que.3 Which of the following are examples of systems protected under Critical Infrastructure Protection (CIP)?**\
+A) Gaming consoles and home Wi-Fi routers\
+B) SCADA systems, Industrial Control Systems (ICS), and operational technology\
+C) Social media networks and entertainment apps\
+D) Educational platforms and student databases
+
+****[**View Answer**](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)****
+
+***
+
+**Que.4 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ is the protection of information assets that use, store, or transmit information through the application of policy, education, and technology.**\
+A) Network Security\
+B) Operations Security\
+C) Communications Security\
+D) Information Security
+
+****[**View Answer**](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)****
+
+***
+
+**Que.5 \_\_\_\_\_\_\_ is the property of information that describes how data is whole, complete, and uncorrupted.**\
+A) Integrity\
+B) Availability\
+C) Confidentiality\
+D) Accuracy
+
+****[**View Answer**](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)****
+
+***
+
+**Que.6 To protect the confidentiality of information, which of the following measures can be taken:**\
+A) Information classification\
+B) Secure document storage\
+C) Application of general security policies\
+D) All the above
+
+[****See also**  **Cyber Security and Privacy Week 4 Nptel Answers 2024****](https://progiez.com/cyber-security-and-privacy-week-4-nptel-answers)
+
+****[**View Answer**](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)****
+
+***
+
+**Que.7 In the context of cybersecurity, how can technology act as a source of threat?**\
+A) It includes tools that can attack other networks\
+B) It increases internet traffic for organizations\
+C) It automates routine business operations\
+D) Through software that prevents users from sharing information
+
+****[**View Answer**](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)****
+
+***
+
+**Que.8 True or False: Information Security is not a process, but a product or a technology.**\
+A) True\
+B) False
+
+****[**View Answer**](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)****
+
+***
+
+**Que.9 \_\_\_\_\_\_\_\_\_\_\_ is a manipulation technique that exploits human error to gain private information, access, or valuables.**\
+A) Session Hijacking\
+B) Salting\
+C) Social Engineering\
+D) Smurf Attack
+
+****[**View Answer**](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)****
+
+***
+
+**Que.10 Which of the following scenarios represents a breach involving protected health information (PHI)?**\
+A) Sharing a patient’s prescription history along with their name\
+B) Forwarding anonymous health statistics to a research team\
+C) Posting a hospital’s general policy on patient intake\
+D) Transmitting appointment schedules without personal details
+
+****[**View Answer**](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)****
+
+
+
+
 **Session: JUL-DEC 2024**
 
 **Course name: Cyber Security and Privacy**
