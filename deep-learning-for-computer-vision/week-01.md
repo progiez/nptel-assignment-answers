@@ -6,6 +6,64 @@ Are you looking for NPTEL Deep Learning For Computer Vision Week 01 Assignment A
 
 Deep Learning For Computer Vision Week 1 Nptel Answers
 
+## Deep Learning For Computer Vision Week 1 Nptel Answers (July-Dec 2025)
+
+**Question 1.** **Which of the following options correctly provides the standard deviation of row-wise means and the row-wise means themselves?**\
+a) 1.23, \[3.875, 8.375, 13.575]\
+b) 3.45, \[3.375, 8.875, 13.375]\
+c) 4.08, \[3.375, 8.375, 13.375]\
+d) 4.24, \[3.875, 8.875, 13.875]
+
+[View Answer](https://my.progiez.com/courses/deep-learning-for-computer-vision-nptel-answers/)
+
+***
+
+**Question 2.** **Which of the following pairs represents the largest eigenvalue and its corresponding eigenvector?**\
+a) Eigenvalue: 0.78568026, Eigenvector: ⎡−0.75578934, 0.52065737, −0.39711255⎤\
+b) Eigenvalue: 3.53918887, Eigenvector: ⎡0.63178128, 0.73923874, −0.23319198⎤\
+c) Eigenvalue: 4.67513087, Eigenvector: ⎡−0.17214786, 0.42713229, 0.88765034⎤\
+d) Eigenvalue: 4.67513087, Eigenvector: ⎡−0.75578934, 0.52065737, −0.39711255⎤
+
+[View Answer](https://my.progiez.com/courses/deep-learning-for-computer-vision-nptel-answers/)
+
+***
+
+**Question 3.** **Which of the following is the sum of the elements in the modified list obtained after applying the function?**\
+a) 1.03\
+b) 1.00\
+c) 1.50\
+d) 3.02
+
+[View Answer](https://my.progiez.com/courses/deep-learning-for-computer-vision-nptel-answers/)
+
+***
+
+**Question 4.** **Now, which of the following is the GBR representation of the RGB image ‘golden retriever.jpg’ in programming question 1?**\
+a) a\
+b) b\
+c) c\
+d) d
+
+[View Answer](https://my.progiez.com/courses/deep-learning-for-computer-vision-nptel-answers/)
+
+***
+
+**Question 5.** **The shape of the ‘human mitosis’ image after applying a 5 × 5 mean filter is:**\
+a) (512,512)\
+b) (510,510)\
+c) (508,508)\
+d) (507,507)
+
+[View Answer](https://my.progiez.com/courses/deep-learning-for-computer-vision-nptel-answers/)
+
+***
+
+**Question 6.** **The median value of the ‘human mitosis’ image before and after applying the 5 × 5 mean filter is \_\_\_\_\_ and \_\_\_\_\_\_ respectively.**\
+_(Fill in the blanks)_
+
+[View Answer](https://my.progiez.com/courses/deep-learning-for-computer-vision-nptel-answers/)
+
+
 **Course Name: Deep Learning for Computer Vision**
 
 **Course Link:** [**Click Here**](https://onlinecourses.nptel.ac.in/noc24_cs89/unit?unit=18\&assessment=258)
