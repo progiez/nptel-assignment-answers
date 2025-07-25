@@ -6,6 +6,321 @@ Are you looking for NPTEL Social Networks Assignment Answers Week 01 Assignment 
 
 Nptel Social Networks Week 1 Assignment Answers
 
+## _Nptel Social Networks Week 1 Assignment Answers_ _(July-Dec 2025)_
+
+**Question 1.** **Which property of the peripheral nodes likely contributed to rapid spread?**\
+a) High degree within their own group\
+b) Strong ties within small clusters\
+c) Weak ties across different clusters\
+d) Low betweenness centrality
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 2.** **What characteristics of the network made it suitable for analyzing information spread?**\
+a) Modeled using directed graphs\
+b) Edges represent real communication events\
+c) Nodes change over time\
+d) Network captures tie strength and type
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 3.** **Why did the officials’ initial assumption (news spreads from hubs) fail?**\
+a) Central nodes had no social media\
+b) Strong ties inhibit new information\
+c) Peripheral nodes had more information\
+d) Central nodes avoided communication
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 4.** **Which measures could help identify the key spreaders?**\
+a) Closeness centrality\
+b) Eigenvector centrality\
+c) Degree centrality only\
+d) Betweenness centrality
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 5.** **If the network is very sparse but has a few long bridges, what does this imply?**\
+a) Faster diffusion through hubs\
+b) Delayed spread due to cluster boundaries\
+c) High modularity\
+d) Opportunity for rapid cross-cluster spread
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+These are Nptel Social Networks Week 1 Assignment Answers
+
+***
+
+**Question 6.** **How could the government improve its warning system using network insight?**\
+a) Send alerts only to cluster heads\
+b) Use peripheral weak-tie nodes to seed warnings\
+c) Improve communication with high-betweenness nodes\
+d) Track frequency of communication instead of just structure
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 7.** **What causes a low-quality course to be ranked high in PageRank?**\
+a) It has many incoming links from highly ranked courses\
+b) It has a high out-degree\
+c) It is recently added\
+d) It has the longest video lectures
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 8.** **Which factors could help adjust the PageRank algorithm to improve fairness?**\
+a) Penalize nodes with too many incoming links\
+b) Use personalization vectors for user preferences\
+c) Include course ratings and completions\
+d) Apply damping factor to avoid cycles
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 9.** **If a course has no outbound links, how is it treated in classic PageRank?**\
+a) It’s ignored\
+b) Its rank is distributed uniformly across the graph\
+c) It becomes a sink and absorbs rank\
+d) Its rank is set to zero
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+These are Nptel Social Networks Week 1 Assignment Answers
+
+***
+
+**Question 10.** **Which of the following indicate a biased ranking system?**\
+a) Popular but poorly rated courses at the top\
+b) Recently added quality content ranked last\
+c) Many courses with equal PageRank values\
+d) Unlinked courses getting high rank
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 11.** **What does the damping factor in PageRank model?**\
+a) Probability of teleporting to any node\
+b) Likelihood of increasing edge weights\
+c) Quality of content on the node\
+d) Number of outgoing links from a node
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 12.** **To improve niche course visibility, the platform could:**\
+a) Add links from top courses to niche ones\
+b) Give every node the same initial rank\
+c) Modify PageRank using relevance scores\
+d) Increase random jump probability to niche areas
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 13.** **In a social network, which topology supports efficient local search?**\
+a) Random network\
+b) Regular grid\
+c) Small-world network\
+d) Fully connected graph
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 14.** **What features reduce average search path length in networks?**\
+a) High clustering\
+b) Long-range shortcuts\
+c) Low average degree\
+d) Nodes with high degree variation
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 15.** **Why do regular grids perform poorly for local search?**\
+a) Too many links\
+b) Lack of randomness\
+c) Clusters are not isolated\
+d) Degrees are too high
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+These are Nptel Social Networks Week 1 Assignment Answers
+
+***
+
+**Question 16.** **Which heuristics can improve local search?**\
+a) Greedy search using geographic distance\
+b) Forwarding to neighbor with most connections\
+c) Random forwarding\
+d) Forwarding to neighbor closer to target in metadata
+
+[****See also**  **Problem Solving Through Programming In C Nptel Week 1 Assignment Answers****](https://progiez.com/problem-solving-through-programming-in-c-week-1-answers)
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 17.** **What does failure of search in some cases suggest about the network?**\
+a) Nodes are disconnected\
+b) Too many strong ties\
+c) High modularity with few bridges\
+d) Degree distribution is uniform
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+These are Nptel Social Networks Week 1 Assignment Answers
+
+***
+
+**Question 18.** **What strategies could the app use to improve matching success?**\
+a) Add random links between distant users\
+b) Use known frequent paths from history\
+c) Remove users with low activity\
+d) Cluster users and allow intra-cluster hops
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 19.** **Which principle is the algorithm likely using?**\
+a) Link locality\
+b) Homophily and triadic closure\
+c) Preferential attachment\
+d) Degree centrality
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 20.** **What features commonly improve link prediction?**\
+a) Number of mutual friends\
+b) Jaccard similarity\
+c) Network diameter\
+d) Common interactions
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 21.** **If two users have many common neighbors but don’t connect, what might be the reason?**\
+a) Algorithm missed triadic closure\
+b) Lack of profile similarity or activity\
+c) Network diameter is too high\
+d) Too many clusters
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 22.** **Which scenarios likely indicate false positives in prediction?**\
+a) Many shared neighbors but no shared activity\
+b) Same hometown, never interacted\
+c) Friends from different cliques\
+d) Two people liking each other’s posts regularly
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+These are Nptel Social Networks Week 1 Assignment Answers
+
+***
+
+**Question 23.** **What does high clustering coefficient suggest?**\
+a) Dense triads, good for link prediction\
+b) Sparsely connected components\
+c) Nodes with high betweenness\
+d) Degree is evenly distributed
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 24.** **What else can improve prediction accuracy?**\
+a) Using temporal patterns of interaction\
+b) Including profile text similarity\
+c) Ignoring mutual friends\
+d) Using machine learning on node features
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 25.** **Which of the following best explains why Set B outperforms Set A in reach?**\
+a) Betweenness centrality captures influencers who bridge communities\
+b) High degree nodes are always less active\
+c) Random selection is statistically better\
+d) The cascade model favors random walks
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 26.** **What factors should the startup consider when choosing seed nodes to maximize reach?**\
+a) Community bridging potential\
+b) Total number of followers\
+c) Follower engagement rate\
+d) Position in the network structure
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 27.** **In the Independent Cascade model, what happens if a node fails to influence a neighbor?**\
+a) It retries in the next round\
+b) The neighbor is permanently immune\
+c) It can try again if another neighbor influences it\
+d) The chance of influence increases next time
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 28.** **Which of the following are limitations of using only degree centrality to select influencers?**\
+a) Ignores clustering\
+b) Doesn’t account for overlapping audiences\
+c) Assumes uniform influence probability\
+d) Always targets nodes on the periphery
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+These are Nptel Social Networks Week 1 Assignment Answers
+
+***
+
+**Question 29.** **Suppose an influencer with low degree but high betweenness is selected. Their value lies in:**\
+a) Posting at fixed times\
+b) Creating echo chambers\
+c) Connecting otherwise distant groups\
+d) Having more followers than others
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 30.** **The startup notices influencers form tight-knit clusters. To maximize diffusion, they should:**\
+a) Choose influencers all from one dense cluster\
+b) Pick seed nodes from different clusters\
+c) Maximize follower overlap among seeds\
+d) Avoid seeding in isolated nodes
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+
 
 ## _Nptel Social Networks Week 1 Assignment Answers_ _(Jan-Apr 2025)_
 
