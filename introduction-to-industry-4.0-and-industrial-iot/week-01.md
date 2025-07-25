@@ -6,6 +6,157 @@ Are you looking for NPTEL Introduction To Industry 4.0 And Industrial IIoT Week 
 
 **Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs43/course)**
 
+## _Introduction to Industry 4 and Industrial IoT Week 1 Assignment Answers_ _(__July-Dec 2025__)_
+
+**Question 1.** Which sensor system type is characterized by an output that oscillates before reaching steady state?\
+a) Zero order system\
+b) First order system\
+c) Second order system\
+d) Linear system
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 2.** Which of the following is NOT a correct example of a transducer?\
+a) Microphone\
+b) Wire\
+c) Speaker\
+d) Antenna
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 3.** The response of which of the following sensors depends on the magnitude of the direction and orientation of input parameter?\
+a) Scalar sensor\
+b) Passive sensor\
+c) Analog sensor\
+d) Vector sensor
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 4.** Which type of Zigbee node is responsible for network initialization and maintenance?\
+a) Router\
+b) End Device\
+c) Coordinator\
+d) Sensor
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 5.** Which two layers does IEEE 802.15.4 provide a framework for?\
+a) MAC and PHY\
+b) IP and TCP\
+c) HTTP and SSL\
+d) FTP and DNS
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 6.** How often are time slots allocated in Wireless HART?\
+a) 1 per second\
+b) 10ms per slot\
+c) 100ms per slot\
+d) 1 second per device
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 7.** How do passive RFID tags operate?\
+a) Use an internal battery\
+b) Use an external solar panel\
+c) Are powered by the reader inductively\
+d) Are manually activated
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 8.** Bluetooth technology is based on which type of networking?\
+a) Mesh\
+b) Piconet (Ad-hoc)\
+c) Star\
+d) Bus
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 9.** What process is used by Z-wave to bypass radio dead spots?\
+a) Network Slicing\
+b) Subnetting\
+c) Healing\
+d) Network Partitioning
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 10.** Which of the following best represents the ‘trunk’ in the IoT analogy?\
+a) ARM (Architectural Reference Model)\
+b) IoT applications\
+c) Communication protocols\
+d) End-user interfaces
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 11.** What is the function of the Registration Interface (RI) in CoRE?\
+a) Processes user login\
+b) Assigns MAC addresses\
+c) Encrypts transmitted data\
+d) Registers IoT resources to the directory
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 12.** Which of the following is not a message type in CoAP?\
+a) CON\
+b) NON\
+c) RST\
+d) ECHO
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 13.** Which of the following is an IP-based solution proposed by IETF for IoT?\
+a) Zigbee Alliance\
+b) Bluetooth SIG\
+c) CoRE\
+d) Wi-Fi Alliance
+
+[****See also**  **Nptel Introduction to Industry 4 and Industrial IoT Week 9 Assignment Answers****](https://progiez.com/introduction-to-industry-4-and-industrial-iot-week-9)
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 14.** State true or false. Sensor calibration is typically used for weeding-out repeatable errors in sensor readings.\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 15.** Which of the following is NOT true about WirelessHART?\
+a) It is a license-free protocol\
+b) It is not compatible with any legacy devices\
+c) WirelessHART uses the IEEE 802.15.4 standard for its protocols designing\
+d) WirelessHART makes device placements more accessible and cheaper
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+
 
 ## _NPTEL Introduction to Industry 4 Assignment 1 Week 1_ _(__Jan-Apr 2025__)_
 
