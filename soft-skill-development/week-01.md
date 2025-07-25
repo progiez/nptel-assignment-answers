@@ -4,6 +4,171 @@ Are you looking for NPTEL Soft Skill Development Week 01 Assignment Answers? Thi
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*B-yRqp4_MeO_hopxDWkR-g.jpeg)
 
+## _Soft Skill Development Week 1 Nptel Assignment Answers (July-Dec 2025)_
+
+***
+
+**Que.1 Ina coaching session, which listening approach best balances understanding both the speaker’s content and their emotional state?**\
+A) Discriminative listening only\
+B) Empathetic listening with periodic summarization\
+C) Therapeutic listening without feedback\
+D) Critical listening focused on argument quality
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+***
+
+**Que.2 Your colleague continually omits context when sharing project updates. Which statement best describes this filtering effect?**\
+A) It’s always harmful, since missing context leads to project failure.\
+B) It clarifies by removing irrelevant details.\
+C) It may improve efficiency but risks misalignment, depending on the situation.\
+D) It only occurs in informal chats, not formal reports.
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+***
+
+**Que.3 Which nonverbal cue is most likely to signal guardedness rather than openness?**\
+A) Unbroken eye contact\
+B) Open palms facing upward\
+C) Head tilted to one side\
+D) Arms crossed over the chest
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+***
+
+**Que.4 During a critical client meeting, which of the following is least effective for keeping the dialogue constructive?**\
+A) Summarizing the client’s main points to confirm understanding\
+B) Asking a series of closed yes/no questions to speed things up\
+C) Mirroring the client’s tone and pacing to build rapport\
+D) Offering reflective statements that validate the client’s concerns
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+***
+
+**Que.5 Covert communications take place when a third party cannot decipher the secret language in which communication is taking place between two parties that are communicating.**\
+A) True\
+B) False
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+These are Soft Skill Development Week 1 Nptel Assignment Answers
+
+***
+
+**Que.6 Which paralinguistic cue in a speaker’s tone most strongly conveys authority?**\
+A) Soft volume\
+B) Lowered pitch\
+C) Rapid speech rate\
+D) High breathiness
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+***
+
+**Que.7 To maintain politeness in the workplace, “white lies” are often used to**\
+A) Undermine peers covertly\
+B) Preserve face and smooth over social friction\
+C) Assert dominance\
+D) Clarify ambiguous instructions
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+***
+
+**Que.8 Consider the following statements:**\
+A: Pairing text with synchronized audio narration significantly improves recall.\
+B: Adding unrelated background chatter alongside text enhances memory retention.\
+A) Both A and B are correct\
+B) Both A and B are wrong\
+C) A is correct, but B is wrong\
+D) B is correct, but A is wrong
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+***
+
+**Que.9 Consider the following statements about effective listening in a committee meeting:**\
+A. Effective listeners attend to both the speaker’s explicit arguments and their underlying emotions.\
+B. Effective listening means concentrating solely on preparing your own response.\
+A) Both A and B\
+B) Only A\
+C) Only B\
+D) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+These are Soft Skill Development Week 1 Nptel Assignment Answers
+
+***
+
+**Que.10 Consider the following two statements.**\
+A: The intended meanings of communication are as important as the unintended meanings\
+B: Imperfect communication cannot have much utility in the real world.\
+A) Both A and B are correct\
+B) Both A and B are wrong\
+C) A is correct, but B is wrong\
+D) B is correct, but A is wrong
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+***
+
+**Que.11 A team member seeks advice on a personal challenge. The best listening style to adopt is:**\
+A) Discriminative listening to detect lies\
+B) Critical listening to evaluate their reasoning\
+C) Therapeutic listening to support and explore feelings\
+D) Comprehensive listening to summarize facts
+
+[****See also**  **SOFT SKILLS WEEK 0 ASSIGNMENT NPTEL****](https://progiez.com/soft-skills-week-0-assignment-nptel)
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+***
+
+**Que.12 From the perspective of power and teacher control, which classroom layout most clearly reinforces the instructor’s authority?**\
+A) Circular seating with no designated front\
+B) Movable clusters of desks arranged by students\
+C) Raised dais with a fixed podium at the room’s front\
+D) U-shaped seating at the same floor level
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+***
+
+**Que.13 Research suggests that retention is highest when learners process information through:**\
+A) A single dominant channel (e.g., text only)\
+B) Multiple complementary channels (e.g., audio + visual)\
+C) Rapid-fire delivery across many channels\
+D) Channels used sequentially rather than simultaneously
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+These are Soft Skill Development Week 1 Nptel Assignment Answers
+
+***
+
+**Que.14 Which gesture should you avoid in a formal panel to prevent signaling premature exit?**\
+A) Subtle nods to show agreement\
+B) Hand-raised to request the floor\
+C) Checking your watch repeatedly\
+D) Leaning slightly forward to listen
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+***
+
+**Que.15 In the context of a structured debate, which statement is correct?**\
+A) Fixed roles (e.g., proposer, challenger) must never change\
+B) Emotional appeals are strictly prohibited.\
+C) Speakers may adapt roles and occasionally use controlled emotion to persuade.\
+D) All participants should maintain a flat, neutral tone throughout.
+
+**[**View Answer**](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)**
+
+
 ## _Soft Skill Development Week 1 Nptel Assignment Answers (Jan-Apr 2025)_
 
 **Course Link: [**Click Here**](https://examform.nptel.ac.in/2025_01/exam_form/dashboard)**
