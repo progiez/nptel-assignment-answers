@@ -6,6 +6,222 @@ Are you looking for NPTEL Programming In Modern C Week 01 Assignment Answers? Th
 
 Programming in Modern C++ Week 1 Assignment Nptel Answers
 
+## _Programming in Modern C++ Week 1 Assignment Answers_ _(July-Dec 2025)_
+
+***
+
+**Question 1.** Consider the following code segment.
+
+    #include<iostream>
+    #include<string>
+    using namespace std;
+    int main() {
+        string greet = "Welcome Back";
+        // LINE-1
+        cout << greet;
+        return 0;
+    }
+
+Choose the correct option to fill in the blank at LINE-1 so that the output is Welcome.\
+a) greet.resize(7)\
+b) greet.shrink\_to\_fit()\
+c) greet.copy(“Welcome”, 7, 0)\
+d) strncpy(greet, “Welcome”, 7)
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 2.** Consider the following code segment.
+
+    #include<iostream>
+    #include<algorithm>
+    using namespace std;
+    bool descending(int i, int j) {
+        return (i > j);
+    }
+    int main() {
+        int arr[] = {8, 3, 5, 9, 6, 7};
+        sort(______________); // LINE-1
+        for(int i=0; i<6; i++)
+            cout << arr[i] <<" ";
+        return 0;
+    }
+
+Choose the correct option to fill in the blank at LINE-1 so that the output is 8 5 3 9 6 7.\
+a) arr, arr+3, descending\
+b) \&arr\[0], \&arr\[0]+4, descending\
+c) arr+1, arr+4, descending\
+d) \&arr, \&arr+3, descending
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 3.** Consider the following code and find the correct output.
+
+    #include<iostream>
+    #include<vector>
+    #include<algorithm>
+    using namespace std;
+    int main() {
+        vector<int> nums = {10, 20, 30, 40, 50, 60, 70};
+        rotate(nums.begin(), nums.begin()+2, nums.begin()+4);
+        for(auto i : nums)
+            cout << i <<" ";
+        return 0;
+    }
+
+a) 30 10 20 40 50 60 70\
+b) 30 40 10 20 50 60 70\
+c) 40 10 20 30 50 60 70\
+d) 10 30 20 40 50 60 70
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 4.** Consider the following code and find the correct output or error.
+
+    #include<iostream>
+    #include<stack>
+    using namespace std;
+    int main() {
+        int arr[5] = {6, 2, 5, 4, 1};
+        stack<int> s;
+        for(int i=0; i<5; i++) {
+            while(!s.empty() && s.top() >= arr[i])
+                s.pop();
+            if (s.empty())
+                cout << -1 <<" ";
+            else
+                cout << s.top() << " ";
+            s.push(arr[i]);
+        }
+        return 0;
+    }
+
+a) -1 6 2 2 1\
+b) -1 -1 6 2 2\
+c) -1 -1 2 2 -1\
+d) Compilation Error
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 5.** Consider the following code segment.
+
+    #include<iostream>
+    using namespace std;
+    int sumRows(_________) {
+        // returns the sum of first row
+    }
+    int main() {
+        int mat[3][3] = {{1,2,3}, {4,5,6}, {7,8,9}};
+        cout << sumRows(mat);
+        return 0;
+    }
+
+Choose the correct option to fill in the blank at LINE-1 so that the program does not generate any compilation error.\
+a) int mat\[10]\
+b) int mat\[]\[3]\
+c) int mat\[3]\[]\
+d) int mat\[3]\[3]
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 6.** Consider the following code and choose the correct output.
+
+    #include<iostream>
+    using namespace std;
+    int main() {
+        bool x = false, y = true, z = true;
+        cout << (x && y | 2);
+        return 0;
+    }
+
+a) 0\
+b) 1\
+c) false\
+d) true
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 7.** Consider the following code segment.
+
+    #include <iostream>
+    #include <string>
+    using namespace std;
+    int main() {
+        string word1 = "Good ";
+        string word2 = "Morning";
+        // LINE-1
+        cout << message;
+        return 0;
+    }
+
+Fill in the blank at LINE-1 so that the program generates output as Good Morning.\
+a) string message = word1 + word2;\
+b) string message = strcat(word1, word2);\
+c) string message = word1.insert(word2);\
+d) string message = word1.append(word2);
+
+[****See also**  **Programming in Modern C++ | Week 7****](https://progiez.com/nptel-programming-in-modern-c-assignment-7-answers)
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 8.** Consider the following code segment.
+
+    #include <iostream>
+    #include <algorithm>
+    int main() {
+        int data[] = {5, 10, 15, 20, 25};
+        int key = 20;
+        if (__________) // LINE-1
+            std::cout << "Found";
+        else
+            std::cout << "Not Found";
+        return 0;
+    }
+
+Fill in the blank at LINE-1 so that the program generates output as Found.\
+a) binary\_search(data, data+3, key)\
+b) std::binary\_search(data, data+5, key)\
+c) std::binary\_search(data, data+3, key)\
+d) binary\_search(data, data+5, key)
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 9.** Consider the following code and choose the correct output.
+
+    #include <iostream>
+    #include <algorithm>
+    using namespace std;
+    int main() {
+        int data[] = {2, 3, 3, 4, 5, 5, 6};
+        replace(data, data+7, 3, 5);
+        for (int i = 0; i < 4; ++i)
+            cout << data[i] << " ";
+        return 0;
+    }
+
+a) 2 4 6 5\
+b) 2 4 6 3\
+c) 2 5 5 4\
+d) 2 5 6 6
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+
 ## _Programming in Modern C++ Week 1 Assignment Answers_ _(Jan-Apr 2025)_
 
 **Course Link: [**Click Here**](https://examform.nptel.ac.in/2025_01/exam_form/dashboard)**
