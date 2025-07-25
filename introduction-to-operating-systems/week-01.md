@@ -6,6 +6,142 @@ Are you looking for NPTEL Introduction To Operating Systems Week 01 Assignment A
 
 Introduction To Operating Systems Week 1 Assignment 1 Answers
 
+## Introduction to Operating Systems Nptel Week 1 Answers (July-Dec 2025)
+
+***
+
+**Que.1 Which one of the following is false?**\
+A) Resource management needs to provide resource sharing.\
+B) Resource management should be transparent to applications.\
+C) Resource management hides the nitty gritty details of the program execution.\
+D) Resource management should improve the performance by efficient utilization.\
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)**
+
+***
+
+**Que.2 In the PC organization \_\_\_\_\_\_\_\_\_\_\_\_\_ interfaces memory and PCI Bus**\
+A) Front side Bus\
+B) South Bridge\
+C) Chipset\
+D) PCI-PCI Bridge\
+****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+***
+
+**Que.3 State True or False? Stack Pointer points to a frame present in the stack**\
+A) True\
+B) False\
+****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+***
+
+**Que.4 Which one of the following is the correct order of statements?**\
+(1) Read byte by byte from memory\
+(2) Graphics card displays string on the monitor\
+(3) printf(“%s”,str)\
+(4) Device driver takes care of setting attributes.\
+A) 3, 4, 1, 2\
+B) 3, 1, 4, 2\
+C) 1, 4, 2, 3\
+D) 1, 2, 4, 3\
+****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+***
+
+**Que.5 Which one of the following is false?**\
+A) Monolithic Kernel has direct communication with all the modules.\
+B) Monolithic Kernel is faster than microkernel.\
+C) Microkernel is faster than monolithic kernels\
+D) Monolithic Kernel is more crashable compared to microkernel.\
+**Answer: Answers will be updated soon**
+
+***
+
+**Que.6 State True or False? Resource abstraction and hardware management are important uses of an OS.**\
+A) True\
+B) False\
+****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+***
+
+**Que.7 Which one of the following is false?**\
+A) Multiprogramming will not cause starvation.\
+B) Time sharing improves performance.\
+C) Scheduler should able to prioritize some applications.\
+D) Kernel runs in a protected mode.\
+****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+***
+
+**Que.8 Match the following**
+
+1. Instructions — d. Text section
+2. Global and Static Data — c. Data section
+3. Function call invocation — b. Stack section
+4. Dynamic allocation — a. Heap section\
+   A) 1-b, 2-a, 3-d, 4-c\
+   B) 1-d, 2-c, 3-a, 4-b\
+   C) 1-c, 2-d, 3-b, 4-a\
+   D) 1-d, 2-c, 3-b, 4-a\
+   ****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+***
+
+**Que.9 Name the operating systems most suited for wireless sensor nodes.**\
+A) Linux\
+B) Windows\
+C) Contiki OS\
+D) Mac OS\
+****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+***
+
+**Que.10 State True or False? Access control and biometric are used to increase security of an operating system.**\
+A) True\
+B) False\
+****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+***
+
+**Que.11 State True or False. To extend the IO address range, we use the low memory region of the RAM as Memory mapped IO.**\
+A) True\
+B) False\
+****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+***
+
+**Que.12 Match the following**
+
+1. a. out — b. Stored in hard disk
+2. Process state — d. Hidden section of process maintained by OS
+3. gcc hello.c — a. compiles the program
+4. Process — c. executes from RAM\
+   A) 1-a, 2-b, 3-c, 4-d\
+   B) 1-b, 2-d, 3-a, 4-c\
+   C) 1-b, 2-a, 3-d, 4-c\
+   D) 1-a, 2-c, 3-d, 4-a\
+   ****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+[****See also**  **Introduction to Operating Systems Nptel Week 4 Answers****](https://progiez.com/introduction-to-operating-systems-nptel-week-4-answers)
+
+***
+
+**Que.13 State True or False? printf() is a system call that switches from user space to kernel space.**\
+A) True\
+B) False\
+****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+***
+
+**Que.14 MAX\_SIZE in a 32 bit Linux Kernel is fixed at\_\_\_\_\_\_\_\_\_\_\_\_\_.**\
+****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+***
+
+**Que.15 Synchronization mechanism is used to avoid \_\_\_\_\_\_\_\_\_\_\_\_\_.**\
+****[**View Answer**](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)****
+
+
 **Session: JULY-DEC 2024**
 
 **Course Name: Introduction to Operating Systems**
