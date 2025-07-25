@@ -4,6 +4,79 @@ Are you looking for NPTEL Soft Skills Week 01 Assignment Answers? This repositor
 
 ![Nptel Soft Skills Week 1 Assignment Answers July 2024](https://miro.medium.com/v2/resize:fit:875/1*_1W1t5B_7fEf0nxtP0aJlA.jpeg)
 
+## Soft Skills Nptel Week 1 Assignment Answers (July-Dec 2025)
+
+***
+
+**1. The term “Hard skills” and “Soft skills” are often used to signify the software and hardware of computers.**\
+A) True\
+B) False\
+[View Answer](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**2. Soft skills are the one-time learning process.**\
+A) True\
+B) False\
+[View Answer](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**3. A positive attitude at workplace seldom stimulates co-workers to achieve desired organizational goals.**\
+A) True\
+B) False\
+[View Answer](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**4. Commonality and cordiality are the hallmarks of effective communication.**\
+A) True\
+B) False\
+[View Answer](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**5. Information that comes through Grapevine communication is trustworthy.**\
+A) True\
+B) False\
+[View Answer](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**6. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ plays a vital role in communication.**\
+A) Ebullience\
+B) Environment\
+**Answer:** Answers will be updated soon
+
+***
+
+**7. \_\_\_\_\_\_\_\_\_\_\_\_\_\_ is the hallmark of communication.**\
+A) Conscription\
+B) Consciousness\
+[View Answer](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**8. Soliloquy is the example of \_\_\_\_\_\_\_\_\_\_\_\_\_ communication.**\
+A) Intrapersonal\
+B) Interpersonal\
+**Answer:** Answers will be updated soon
+
+***
+
+**9. Meta-communication is communication which allows people to extract \_\_\_\_\_\_\_\_\_\_\_\_ meaning of certain words.**\
+A) Multiple\
+B) Singular\
+[View Answer](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**10. It may be considered \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ if somebody is traveling at the cost of organizational funds and entertaining at an interview.**\
+A) Ethical\
+B) Unethical\
+[View Answer](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+
 Nptel Soft Skills Week 1 Assignment Answers July 2024
 
 Get NPTEL Nptel Soft Skills Week 1 Assignment Answers July 2024 in this post. Progiez provides you nptel assignment answers for soft skills and all other courses for free.
