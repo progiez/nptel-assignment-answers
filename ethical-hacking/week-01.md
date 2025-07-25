@@ -4,6 +4,108 @@ Are you looking for NPTEL Ethical Hacking Week 01 Assignment Answers? This repos
 
 ![Ethical Hacking Nptel Week 1 Assignment 1 Answers](https://miro.medium.com/v2/resize:fit:875/1*G5IfF_Bunq54kptexHn2eQ.jpeg)
 
+
+## Ethical Hacking Nptel Week 1 Assignment Answers (July-Dec 2025)
+
+***
+
+**Que.1 What is the main objective of ethical hacking?**\
+A) Deletes files from a system.\
+B) Inserts malwares in a system.\
+C) Legally Identify system vulnerabilities.\
+D) Steal sensitive information.
+
+**[**View Answer**](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)**
+
+***
+
+**Que.2 Which of the following are types of penetration testing methodologies?**\
+A) White Box\
+B) Black Box\
+C) Red Box\
+D) Trojan Horse
+
+****[**View Answer**](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)****
+
+***
+
+**Que.3 Which of the following switching techniques is more efficient for bursty data traffic?**\
+A) Circuit Switching\
+B) Message Switching\
+C) Packet Switching\
+D) None of these
+
+****[**View Answer**](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)****
+
+***
+
+**Que.4 Which protocol in TCP/IP is connectionless and does not provide reliability?**\
+A) TCP\
+B) UDP\
+C) FTP\
+D) TELNET
+
+****[**View Answer**](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)****
+
+***
+
+**Que.5 Which IP header field prevents infinite looping of packets?**\
+A) Header Checksum\
+B) Time to Live\
+C) Fragment offset\
+D) HLEN
+
+****[**View Answer**](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)****
+
+***
+
+**Que.6 What are the responsibilities of the IP layer?**\
+A) Framing\
+B) Route packets\
+C) Provide reliable transmission\
+D) None of these
+
+****[**View Answer**](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)****
+
+***
+
+**Que.7 Which of the following is/are not a valid field of IP header?**\
+A) TTL\
+B) Port Number\
+C) Protocols\
+D) MAC address
+
+****[**View Answer**](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)****
+
+***
+
+**Que.8 Which of the following statements is/are true about datagram packet switching?**\
+A) Requires prior route establishment.\
+B) Faster for fewer packets.\
+C) Uses dynamic routing.\
+D) All packets follow the same path.
+
+[****See also**  **Ethical Hacking | Week 1****](https://progiez.com/nptel-ethical-hacking-week-1-assignment-1-answers)
+
+****[**View Answer**](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)****
+
+***
+
+**Que.9 The max value (in decimal) for HLEN field (header length) is:**\
+_Fill in the blank_
+
+****[**View Answer**](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)****
+
+***
+
+**Que.10 The header checksum field in the IP header is \_\_\_ bits wide.**\
+_Fill in the blank_
+
+****[**View Answer**](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)****
+
+****
+
+
 Ethical Hacking Nptel Week 1 Assignment 1 Answers
 
 **Course name: Ethical Hacking**
