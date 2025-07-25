@@ -4,6 +4,157 @@ Are you looking for NPTEL Introduction To Internet Of Things Week 01 Assignment 
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*oCfYVT4V7soEfpAPb8Civg.jpeg)
 
+
+## Introduction to Internet of Things Week 1 Nptel Answers (July-Dec 2025)
+
+***
+
+**Que.1 Which of the following is/are not a thing as per IoT?**\
+A) Fan\
+B) Light\
+C) Refrigerator\
+D) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.2 State true or false.\
+Statement: The things in IoT consist of embedded systems.**\
+A) True\
+B) False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.3 State whether the following statement is True or False.\
+Statement: IoT is one of the technologies that enable smart farms.**\
+A) True\
+B) False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.4 State whether the following statement is True or False.\
+Statement: In M2M, it is mandatory that the interactions between the machines and devices happen through a cloud computing infrastructure.**\
+A) True\
+B) False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.5 Sometimes, when there is a need for the nodes to communicate directly to the Internet, \_\_\_\_\_\_\_\_ can be used.**\
+A) Sensors\
+B) Actuators\
+C) Tunneling\
+D) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.6 State whether the following statement is True or False.\
+Statement: In multi-homing, a node network is connected to only two networks for improved reliability.**\
+A) True\
+B) False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.7 Which of the following is/are not enablers of IoT?**\
+A) Advancement in gene sequencing\
+B) Nanotechnology\
+C) Sensors\
+D) RFID
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.8 State whether the following statement is True or False.\
+Statement: The decreasing number of devices in IoT is expected to result in an address crunch.**\
+A) True\
+B) False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.9 Why has IoT become so popular?**\
+A) It can provide advanced level of services to society\
+B) It can help reduce human effort\
+C) It can potentially make processes more efficient\
+D) All of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.10 State whether the following statement is True or False.\
+The resolution of a sensor is the maximum change it can detect in the quantity that it is measuring.**\
+A) False\
+B) True
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.11 Transducer is a \_\_\_\_\_\_\_ term and includes \_\_\_\_\_\_\_.**\
+A) special, only sensors\
+B) special, only actuators\
+C) collective, both sensors and actuators\
+D) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.12 Which of the following is/are features of sensors?**\
+A) It is only sensitive to the measured property.\
+B) It acts on the surrounding environment.\
+C) Both (A) and (B)\
+D) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+[****See also**  **Cloud Computing and Distributed Systems Week 1 Answers****](https://progiez.com/cloud-computing-and-distributed-systems-week-1-answers)
+
+***
+
+**Que.13 Which of the following technologies have unified and resulted in the evolution of IoT?**\
+A) Low-power embedded systems\
+B) Cloud Computing\
+C) Machine Learning\
+D) All of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.14 What is the full form of IoT?**\
+A) Internet of Tasks\
+B) Internet of Things\
+C) Internet of Tracks\
+D) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Que.15 A sensor node is not made up of which of the following?**\
+A) Sensor/Sensors\
+B) A processing unit\
+C) A power unit\
+D) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+
+
 Introduction To Internet Of Things Week 1 Nptel Answers
 
 **Course Name: Introduction To Internet Of Things**
