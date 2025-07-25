@@ -2,6 +2,162 @@
 
 Are you looking for NPTEL Data Structure and Algorithms Using Java Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the Data Structure and Algorithms Using Java course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Data Structure and Algorithms using Java Week 1 Nptel Answers (July-Dec 2025)
+
+***
+
+**Que.1 Which of the following statements is not true for non-linear data structures?**\
+A) They can represent hierarchical relationships.\
+B) They are always more complex than linear data structures\
+C) They can have multiple paths to access data.\
+D) They do not store data sequentially.
+
+**[**View Answer**](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)**
+
+***
+
+**Que.2 Which of the following operations can be performed on a stack?**\
+A) Push\
+B) Enqueue\
+C) Dequeue\
+D) Union
+
+****[**View Answer**](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)****
+
+***
+
+**Que.3 Which of the following applications necessitate the use of generic methods in Java?**\
+A) Performing arithmetic on primitive data types\
+B) Designing type-safe data structures\
+C) Writing utility libraries that work with any data type\
+D) Implementing reusable sorting algorithms
+
+****[**View Answer**](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)****
+
+***
+
+**Que.4 What will be the output of the following code snippet?**
+
+    public class Printer {
+        public static <T> void printElement(T element) {
+            System.out.println(element);
+        }
+        public static void main(String[] args) {
+            int x = 5;
+            printElement(x);
+        }
+    }
+
+A) Generic methods can’t be used with single arguments\
+B) Compilation error due to the use of primitive type\
+C) 5\
+D) Runtime error due to type mismatch
+
+****[**View Answer**](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)****
+
+***
+
+**Que.5 Which symbol is used to denote a generic type in Java?**\
+A) &\
+B) $\
+C) +\
+D) #
+
+****[**View Answer**](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)****
+
+**_**These are Data Structure and Algorithms using Java Week 1 Nptel **_**Assignment**_** Answers**_**
+
+***
+
+**Que.6 What will be the output of the following code snippet?**
+
+    public class Box<T> {
+        private T value;
+        public void set(T val) { value = val; }
+        public T get() { return value; }
+        public static void main(String[] args) {
+            Box<String> box = new Box<>();
+            box.set("NPTEL");
+            System.out.println(box.get());
+        }
+    }
+
+A) null\
+B) Compilation error due to generic instantiation\
+C) Runtime error due to an uninitialized value\
+D) NPTEL
+
+****[**View Answer**](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)****
+
+***
+
+**Que.7 Consider the following class:**
+
+    class Pair<K, V> {
+        K key;
+        V value;
+        public Pair(K k, V v) {
+            key = k;
+            value = v;
+        }
+    }
+
+Which of the following instantiations are valid?\
+A) new Pair<>(true, new Double(98.6))\
+B) new Pair<>(new LinkedList(), “Location”)\
+C) new Pair<>(123)\
+D) new Pair<>(“Grade”, new int\[]{85, 92, 78})
+
+[****See also**  **AI in Marketing Nptel Week 1 Assignment Answers****](https://progiez.com/ai-in-marketing-nptel-week-1-assignment-answers)
+
+****[**View Answer**](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)****
+
+***
+
+**Que.8 Can a parameterized class with a minimum number of distinct type parameters be used to store the grades of students in a course?**\
+_(Assume the following data is needed: name, roll, list of scores, and final letter grade)_\
+A) No, at least 4 parameters are necessary\
+B) No, parameterized classes can’t handle multiple data types\
+C) Yes, 2 parameters are sufficient\
+D) Yes, 3 parameters are sufficient
+
+****[**View Answer**](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)****
+
+***
+
+**Que.9 What is the primary advantage of using a bounded argument generic class in Java?**\
+A) It ensures type safety within a class hierarchy\
+B) It improves the memory usage of generic containers\
+C) It allows generics to work with primitive types\
+D) It increases runtime flexibility
+
+****[**View Answer**](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)****
+
+**_**These are Data Structure and Algorithms using Java Week 1 Nptel **_**Assignment**_** Answers**_**
+
+***
+
+**Que.10 Consider the following class:**
+
+    class DataContainer<T extends Number> {
+        private T value;
+        public DataContainer(T value) {
+            this.value = value;
+        }
+        public double getDoubleValue() {
+            return value.doubleValue();
+        }
+    }
+
+Which of the following objects can be passed as arguments to `DataContainer`?\
+A) new DataContainer<>(“NPTEL”)\
+B) new DataContainer<>(new Integer(5))\
+C) new DataContainer<>(3.14f)\
+D) new DataContainer<>(10)
+
+****[**View Answer**](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)****
+
+
 **Session: JUL-DEC 2024**
 
 **Course name: Data Structure and Algorithms using Java**
