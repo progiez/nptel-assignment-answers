@@ -4,6 +4,94 @@ Are you looking for NPTEL Problem Solving Through Programming In C Week 01 Assig
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*1PYFVzaX6LdTTIifa8pUNg.jpeg)
 
+Problem Solving Through Programming In C Week 1 Answers (July-Dec 2025)
+Question 1. Which of the following is a valid C variable name?
+a) 2variable
+b) variable_2
+c) variable-2
+d) variable.2
+
+View Answers
+
+Question 2. CPU comprises of
+a) ALU- Arithmetic and Logic Unit
+b) Registers
+c) Control unit
+d) All of the above
+
+View Answers
+
+Question 3. Choose the correct statements from the following
+i) In high-level language, testing and debugging a program is difficult than assembly language.
+ii) C programs are highly portable on any type of operating system platform.
+iii) A flowchart is a visual representation of the sequence of steps for solving a problem.
+iv) The role of a compiler is to translate source program statements to decimal codes.
+a) (i) and (ii)
+b) (ii) and (iii)
+c) (i), (ii), and (iii)
+d) (ii), (iii), and (iv)
+
+View Answers
+
+Question 4. Which of the following functions is used to read a single character from the keyboard in C?
+a) printf()
+b) scanf()
+c) getchar()
+d) puts()
+
+View Answers
+
+Question 5. What is the purpose of the #include directive in a C program?
+a) To include a library file.
+b) To define a library file.
+c) To define a constant.
+d) To start the main function.
+
+View Answers
+
+Question 6. An interpreter reads the source code of a program
+a) one line at a time
+b) two line at a time
+c) complete program in one stroke
+d) None of these
+
+View Answers
+
+Question 7. In C programming, what is the best way to comment multiple lines?
+a) Using // at the beginning of each line.
+b) Enclosing the comments between /* and */.
+c) Using # at the beginning of each line.
+d) Enclosing the comments between { and }.
+
+View Answers
+
+Question 8. Which of the following statements is true regarding variable declaration in C?
+a) Variables can be declared at any point in the program.
+b) Variables must be declared before they are used.
+c) Variables are automatically initialized to zero.
+d) Variable names can start with a digit.
+
+See also  Problem Solving Through Programming In C Week 10
+View Answers
+
+Question 9. What will be the output of the flowchart given below?
+START → Read Numbers a=3, b=2 → b=a*b+b/5 → print b → STOP
+a) 4
+b) 8
+c) 16
+d) 20
+
+View Answers
+
+Question 10. The print values of “a” and “b” of the flowchart below are:
+START → Declare variables and assign values a=4 & b=6 → a=a+b → b=a-b → a=a-b → print values of a & b → STOP
+a) a=4, b=6
+b) a=6, b=4
+c) a=10, b=2
+d) a=2, b=10
+
+View Answers
+
 ## Problem Solving Through Programming In C Week 1 Answers (Jan-Apr 2025)
 
 **Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs56/course)**
