@@ -4,6 +4,340 @@ Are you looking for NPTEL The Joy Of Computation Using Python Week 01 Assignment
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*GHFfNmxb2lCrZnitz81cGw.jpeg)
 
+## The Joy of Computing Using Python Week 1 Nptel Answers (July-Dec 2025)
+
+***
+
+**Questions 1-7:\
+Pixel the Cat’s Mysterious Journey**
+
+In the vibrant digital world of Scratchville, lives a clever little cat named Pixel who loves exploring new areas through coding adventures. One day, Pixel stumbles upon a glowing scroll in the Scratch Coding Club’s lab. The scroll contains a strange pattern — a set of step-by-step movement instructions. Curious and excited, Pixel decides to follow them precisely.
+
+Each instruction tells her to move a certain number of steps, wait patiently, and then rotate before continuing. The sequence seems repetitive, but Pixel senses that there’s a hidden purpose — maybe a message, a path, or a challenge.
+
+As Pixel begins her journey, students at the club gather around the screen, watching the curious pattern unfold. Where will she end up? What shape will her path take? Why these specific turns and pauses?
+
+Now, it’s up to you to analyze Pixel’s code-driven adventure and figure out the mysteries it holds… \
+\
+![W1Q1 7%20 %20JULY%202025](https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc25_cs103/W1Q1-7%20-%20JULY%202025.png "The Joy of Computing Using Python Week 1 Nptel Answers 2")
+
+**Question 1.** After following the sequence of movements from the glowing scroll, Pixel ends up back at the exact spot where she started.\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 2.** As Pixel follows the instructions from the mysterious scroll, she traces out a specific shape on the ground. What shape does her path form?\
+a) A square\
+b) A rectangle\
+c) A circle\
+d) A Triangle
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 3.** Based on the shape Pixel traces while following the scroll’s instructions, what is the area covered by her path? (in square units)\
+a)\
+b)\
+c)\
+d)
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 4.** Suppose Pixel had turned 120 degrees instead of 90 degrees at each turn while following the scroll’s instructions. What shape would her new path form?\
+a) Rectangle\
+b) An open figure\
+c) Hexagon\
+d) A regular polygon
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+These are The Joy of Computing Using Python Week 1 Nptel Answers
+
+***
+
+**Question 5.** Several students at the Scratch Coding Club try to recreate Pixel’s journey using different blocks. Which of the following Scratch code snippets would produce the same path that Pixel traced in her original adventure?
+
+![JULY%202025%20 %20W1Q3.1](https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc25_cs103/JULY%202025%20-%20W1Q3.1.png "The Joy of Computing Using Python Week 1 Nptel Answers 3")
+
+![JULY%202025%20 %20W1Q3.2](https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc25_cs103/JULY%202025%20-%20W1Q3.2.png "The Joy of Computing Using Python Week 1 Nptel Answers 4")
+
+![JULY%202025%20 %20W1Q3.3](https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc25_cs103/JULY%202025%20-%20W1Q3.3.png "The Joy of Computing Using Python Week 1 Nptel Answers 5")
+
+![JULY%202025%20 %20W1Q3.4](https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc25_cs103/JULY%202025%20-%20W1Q3.4.png "The Joy of Computing Using Python Week 1 Nptel Answers 6")
+
+***
+
+**Question 6.** If Pixel follows a new set of instructions written in the Scratch code below, will she return to the same spot where she started?\
+a) No\
+b) Yes
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)![JULY%202025%20 %20W1Q5](https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc25_cs103/JULY%202025%20-%20W1Q5.png "The Joy of Computing Using Python Week 1 Nptel Answers 7")
+
+**Question 7.** In the new scenario from the previous question, what shape would Pixel trace as she follows the updated instructions?\
+a) A Rectangle\
+b) A Hexagon\
+c) A Octagon\
+d) An open figure
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+**Questions 8-12**
+
+A man decides to jog and follow the directions given in the scratch code. Initial Position (x=0,y=0, Direction = 90)
+
+![W1Q8 12%20 %20JULY%202025](https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc25_cs103/W1Q8-12%20-%20JULY%202025.png "The Joy of Computing Using Python Week 1 Nptel Answers 8")
+
+**Question 8.** What is the total distance travelled by the man?\
+a) 40 units\
+b) 45 units\
+c) 50 units\
+d) 55 units
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 9.** What is the displacement of the man from the starting to the final position?\
+a) 20 units\
+b) 15 units\
+c) 24.5 units\
+d) 25.5 units
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+These are The Joy of Computing Using Python Week 1 Nptel Answers
+
+***
+
+**Question 10.** In which direction is the man from the initial position at the end?\
+a) South-East\
+b) South-West\
+c) North-West\
+d) East
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 11.** What is the position of the man after the second “move”?\
+a) (15, –15)\
+b) (0, –15)\
+c) (–10, –25)\
+d) (−15,−15)
+
+[****See also**  **The Joy of Computing Using Python | Week 2****](https://progiez.com/the-joy-of-computing-using-python-assignment-2-answers)
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 12.** How many turns did the man make, and how many of them were to the left?\
+a) 3 turns, 3 left\
+b) 4 turns, 2 left\
+c) 3 turns, 2 left\
+d) 2 turns, 1 left
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 13.** What are the first two values placed in the sequence variables?\
+a) x1=1, x2=0\
+b) x1=0, x2=1\
+c) x1=1, x2=1\
+d) x1=0, x2=0
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+These are The Joy of Computing Using Python Week 1 Nptel Answers
+
+***
+
+**Question 14.** How many times does the repeat loop run?\
+a) 3\
+b) 4\
+c) 5\
+d) It depends on user input
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 15.** Which operation is performed to obtain `y` inside the loop?\
+a) x1 + x2\
+b) x1² + x2²\
+c) (x1 + x2)²\
+d) x1 × x2
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 16.** What is the value of x2 after the first pass through the loop?\
+a) 0\
+b) 1\
+c) 2\
+d) None (it isn’t set yet)
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 17.** Why is the assignment `set x1 to x2` necessary?\
+a) It resets the loop counter\
+b) It keeps the two-term window sliding forward\
+c) Without it, the program would crash\
+d) It shortens the repeat count
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+These are The Joy of Computing Using Python Week 1 Nptel Answers
+
+***
+
+**Question 18.** After the loop finishes, which variable’s value is spoken by the sprite?\
+a) x1\
+b) x2\
+c) y\
+d) x
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 19.** What kind of control structure is demonstrated by the Repeat block?\
+a) Recursion\
+b) Selection\
+c) Iteration\
+d) Parallelism
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 20.** Which line makes the algorithm state-changing, rather than read-only?\
+a) set y to…\
+b) The repeat header\
+c) set x1 to x2\
+d) say x2
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 21.** Suppose the loop were changed to run 1 time instead of 5. What number would the sprite say?\
+a) 0\
+b) 1\
+c) 2\
+d) It would not speak at all.
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+These are The Joy of Computing Using Python Week 1 Nptel Answers
+
+***
+
+**Question 22.** What broad programming concept does this script best illustrate?\
+a) Sorting algorithms\
+b) State machines\
+c) Numerical iteration\
+d) Event broadcasting
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 23.** What is the initial value of `current` and `previous` when the program starts?\
+a) Both 1\
+b) current = 1, previous = 0\
+c) Both 0\
+d) They are uninitialized
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 24.** What does the `changedFlag` variable represent in the code?\
+a) Whether the value changed\
+b) The current value\
+c) The difference between numbers\
+d) Total changes counted
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+These are The Joy of Computing Using Python Week 1 Nptel Answers
+
+***
+
+**Question 25.** What is the role of the `previous` variable?\
+a) It counts how many times the loop ran\
+b) It stores the value from the last iteration\
+c) It acts like a flag\
+d) It adds to the score
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 26.** What kind of variable is `changedFlag`?\
+a) Loop variable\
+b) Copy variable\
+c) Arithmetic variable\
+d) Flag variable
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 27.** What is the purpose of setting `previous` to `current` at the end of the loop?\
+a) To reset the loop\
+b) To compare the new value with the last one in the next iteration\
+c) To pick a new random number\
+d) To display the current value
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+These are The Joy of Computing Using Python Week 1 Nptel Answers
+
+***
+
+**Question 28.** How many times does the repeat loop run?\
+a) Until flag = 1\
+b) 5\
+c) 10\
+d) It depends on the random value.
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 29.** Which block is used to simulate a changing value?\
+a) set current to 0\
+b) set current to pick random 1 to 5\
+c) set previous to current\
+d) say “Value changed!”
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 30.** When does the sprite say “Same value”?\
+a) If current is greater than previous.\
+b) If current is not equal to previous.\
+c) If current equals previous.\
+d) If flag is set to 1.
+
+[****See also**  **The Joy of Computing using Python | Week 4****](https://progiez.com/the-joy-of-computing-using-python-assignment-4-answers)
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+
 ## The Joy of Computing Using Python Week 1 Nptel Answers (Jan-Apr 2025)
 
 **Course Link: [**Click Here**](https://examform.nptel.ac.in/2025_01/exam_form/dashboard)**
