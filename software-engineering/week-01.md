@@ -6,6 +6,132 @@ Are you looking for NPTEL Software Engineering Week 01 Assignment Answers? This 
 
 Software Engineering Week 1 Assignment 1 Nptel Answers
 
+## Software Engineering Nptel Week 1 Assignment Answers (July-Dec 2025)
+
+***
+
+**Question 1.** In a software development project, which of the following is/are implied by the magical number 7 when applying the principle of abstraction during the development of the design model?\
+a) In the abstraction hierarchy, each node should have exactly seven children\
+b) In the abstraction hierarchy, each node should have more than seven children\
+c) In the abstraction hierarchy, each node should have at most seven children\
+d) The depth of the abstraction hierarchy should be seven\
+e) Number of nodes in the abstraction hierarchy should be seven
+
+**[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)**
+
+***
+
+**Question 2.** Which of the following are some of the important characteristics of a build-and-fix software development model?\
+a) Inadequate understanding of the requirements before writing the program\
+b) Inadequate designing before writing the code\
+c) Inadequate documentation of the code\
+d) Inadequate testing of the code\
+e) Poor quality of the developed code
+
+****[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)****
+
+***
+
+**Question 3.** While using the exploratory development style, why does the effort required to develop software grow exponentially with size?\
+a) Inadequate documentation of the code\
+b) Inadequate testing of the code\
+c) Lack of proper and adequate use of the principle of abstraction\
+d) Lack of proper and adequate use of the principle of decomposition\
+e) The complexity of the software increases beyond the capability of the programmers\
+f) Deployment of unqualified programmers
+
+****[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)****
+
+***
+
+**Question 4.** Which of the following are factors responsible for accelerated gravitation towards service-type projects in software development organizations?\
+a) A significant amount of code is available in development organizations from past projects\
+b) Customers are demanding drastic shortening of project durations\
+c) Many projects in a development organization have very similar requirements specifications, differing only in minor aspects\
+d) Software development techniques have evolved significantly with time through the incorporation of several innovative practices\
+e) Many new programming languages have become available\
+f) Increased availability of qualified manpower
+
+****[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)****
+
+***
+
+**Question 5.** Which of the followings are justifies the observation: “The more a software product is maintained, the less maintainable it becomes.”?\
+a) More instructions are added\
+b) The abstraction hierarchy is weakened\
+c) More decompositions of the design structure take place\
+d) Many code fixes often address symptomatic issues and may show a lack of proper understanding of the code\
+e) Modified code is never commented\
+f) The code becomes more unstructured
+
+****[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)****
+
+***
+
+**Question 6.** Why is it important to pay particular attention to the understandability aspects while writing a program?\
+a) Easily understandable code is more efficient and results in quicker run time\
+b) Easily understandable code is more compact, and therefore the code size reduces\
+c) Easily understandable code facilitates testing\
+d) Easily understandable code facilitates maintenance\
+e) Easily understandable code facilitates debugging
+
+[****See also**  **C Programming & Assembly Language Nptel Week 1 Answers****](https://progiez.com/c-programming-assembly-language-nptel-week-1-answers)
+
+****[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)****
+
+These are Software Engineering Nptel Week 1 Assignment Answers
+
+***
+
+**Question 7.** Which of the following projects undertaken by a software company can be inferred to be software service-type projects?\
+a) Undertaking maintenance of the academic automation software of an educational institute for five years\
+b) An academic automation software that was developed for one educational institute is to be customized for use by a different educational institute\
+c) Undertaking the development of an academic software solution for an educational institute\
+d) Development of an off-the-shelf academic automation software package\
+e) Development of an innovative embedded application for the mass market
+
+****[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)****
+
+***
+
+**Question 8.** Which of the following are implied by the restricted size of the short-term memory of human beings?\
+a) Difficulty in permanently remembering a large amount of information\
+b) Difficulty in developing a program with a large number of related variables\
+c) Difficulty in developing a program with a large number of unrelated variables\
+d) Difficulty in debugging a program with a large number of unrelated variables\
+e) Difficulty in understanding a program with a large number of related variables\
+f) Difficulty in adequately commenting program code
+
+****[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)****
+
+***
+
+**Question 9.** The development of software as a set of loosely coupled modules is an application of which one of the following principles?\
+a) Abstraction\
+b) Decomposition\
+c) Chunking\
+d) Simulating\
+e) Verifying\
+f) Testing
+
+****[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)****
+
+These are Software Engineering Nptel Week 1 Assignment Answers
+
+***
+
+**Question 10.** Depiction of a country’s map in terms of political, physical, climate, mineral, and elevation maps is an application of which one of the principles?\
+a) Abstraction\
+b) Decomposition\
+c) Chunking\
+d) Simulating\
+e) Verifying
+
+****[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)****
+
+****
+
+
 **Session: JULY-DEC 2024**
 
 **Course name: Software Engineering**
