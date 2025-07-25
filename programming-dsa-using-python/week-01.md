@@ -4,6 +4,83 @@ Are you looking for NPTEL Programming DSA Using Python Week 01 Assignment Answer
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*WOuAAdBeckuNfed6P_iKOQ.jpeg)
 
+## Programming Data Structures and Algorithms using Python Week 1 (July-Dec 2025)
+
+***
+
+**Question 1.** What is the value of g(728) for the function below?
+
+    def g(y):
+        b = 0
+        while y >= 3:
+            (y,b) = (y/3,b+1)
+        return(b)
+
+a) 5\
+b) 6\
+c) 7\
+d) 8
+
+[View Answers](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)
+
+***
+
+**Question 2.** What is f(90)-f(89), given the definition of f below?
+
+    def f(n):
+        s = 0
+        for i in range(2,n):
+            if n%i == 0 and i%2 == 1:
+                s = s+1
+        return(s)
+
+a) 0\
+b) 1\
+c) 2\
+d) 3
+
+[View Answers](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)
+
+***
+
+**Question 3.** Consider the following function h.
+
+    def h(n):
+        s = True
+        for i in range(1,n+1):
+            if i*i == n:
+                s = False
+        return(s)
+
+The function h(n) given above returns False for a positive number n if and only if:
+
+a) n is an odd number.\
+b) n is a prime number.\
+c) n is a perfect square.\
+d) n is a composite number.
+
+[View Answers](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)
+
+***
+
+**Question 4.** Consider the following function foo.
+
+    def foo(m):
+        if m == 0:
+          return(0)
+        else:
+          return(m+foo(m-1))
+
+Which of the following is correct?
+
+a) The function always terminates with foo(n) = factorial of n\
+b) The function always terminates with foo(n) = n(n+1)/2\
+c) The function terminates for non­negative n with foo(n) = factorial of n\
+d) The function terminates for non­negative n with foo(n) = n(n+1)/2
+
+[View Answers](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)
+
+
 ## Programming Data Structures and Algorithms using Python Week 1 (Jan-Apr 2025)
 
 **Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs59/course)**
