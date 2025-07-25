@@ -2,7 +2,6 @@
 
 Are you looking for NPTEL Soft Skills Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the Soft Skills course. We provide detailed solutions to help you complete your assignments efficiently.
 
-![Nptel Soft Skills Week 1 Assignment Answers July 2024](https://miro.medium.com/v2/resize:fit:875/1*_1W1t5B_7fEf0nxtP0aJlA.jpeg)
 
 ## Soft Skills Nptel Week 1 Assignment Answers (July-Dec 2025)
 
