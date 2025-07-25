@@ -4,6 +4,295 @@ Are you looking for NPTEL Deep Learning IIT Ropar Week 01 Assignment Answers? Th
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*QDWTnjcXhVrF7tiwqND6RA.jpeg)
 
+
+## Deep Learning IIT Ropar Week 1 Nptel Assignment Answers (July-Dec 2025)
+
+***
+
+**Que.1 For an MP neuron with input size 3 and threshold condition f(x) = 1 if x₁ + x₂ + x₃ > 1\
+Which of the following input-output pairs are correct?**\
+A) x = (1, 0, 0), y = 0\
+B) x = (0, 1, 1), y = 1\
+C) x = (0, 0, 0), y = 0\
+D) x = (1, 1, 0), y = 1\
+E) x = (1, 1, 1), y = 0
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.2 What is the minimum number of input values that must be 1 for the MP neuron to output 1?**\
+_(Fill in the blank)_
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.3 Which of the following sensor combinations would trigger the alert?**\
+A) x = (1, 1, 0)\
+B) x = (0, 1, 1)\
+C) x = (1, 1, 1)\
+D) x = (1, 0, 0)\
+E) x = (0, 0, 1)
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.4 For McCulloch-Pitts (MP) neuron model, which of the below thresholding functions describes the above scenario?**\
+A) f(x) = {1 if x₁+x₂+x₃ > 2, 0 otherwise}\
+B) f(x) = {1 if x₁+x₂+x₃ ≥ 2, 0 otherwise}\
+C) f(x) = {1 if x₁+x₂+x₃ > 1, 0 otherwise}\
+D) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.5 Which change will help the model fire (output 1) when at least two inputs are 1?**\
+A) Change the threshold from 2 to 1\
+B) Change the condition from “> 2” to “≥ 2”\
+C) Use weights instead of plain sums\
+D) Set threshold to 3\
+E) Make all inputs always 1
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.6 Which of the following threshold values will ensure that the neuron functions as a strict majority gate (for 7 inputs)?**\
+A) 3\
+B) 4\
+C) 5\
+D) 6
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.7 For how many input combinations does it output 1? (MP neuron, 4 binary inputs, threshold: x₁+x₂+x₃ ≥ 1)**\
+A) 8\
+B) 15\
+C) 1\
+D) 0
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+_**_**These are Deep Learning IIT Ropar Week 1 Nptel Assignment Answers**_**_
+
+***
+
+**Que.8 A security system has 4 sensors. An MP neuron triggers an alarm when at least 3 sensors are active.\
+How many unique input cases will lead to an alarm?**\
+_(Fill in the blank)_
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.9 An MP neuron with 4 binary inputs gives output 1 for 11 different input combinations. What is the likely threshold θ?**\
+A) 2\
+B) 3\
+C) 1\
+D) 4
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.10 You’re building a neural circuit using a perceptron to identify when both security switches are ON.\
+Which Boolean function would you implement?**\
+A) OR\
+B) XOR\
+C) AND\
+D) XNOR
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.11 You want the gate to output 1 only when exactly one input is 1.\
+Which function and can a single perceptron implement it?**\
+A) AND, Yes\
+B) XOR, No\
+C) OR, Yes\
+D) NOR, Yes
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+_**_**These are Deep Learning IIT Ropar Week 1 Nptel Assignment Answers**_**_
+
+***
+
+**Que.12 Gate opens only if exactly one user presses the button.\
+Which logic function and can it be modeled by a perceptron?**\
+A) XOR, Yes\
+B) XOR, No\
+C) AND, Yes\
+D) NOR, No
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.13 Why use the perceptron algorithm in tumor classification (malignant/benign)?**\
+A) To group tumors into clusters\
+B) To classify tumors\
+C) To compute the shortest path\
+D) To solve optimization
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.14 The weight vector w and decision boundary are observed to make an angle. What’s the relation?**\
+A) Weight vector is parallel\
+B) Weight vector lies on the boundary\
+C) Weight vector is perpendicular\
+D) Weight vector changes direction randomly
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.15 If initialized to w = \[0.0, 0.0], will the perceptron converge?**\
+A) Never converges\
+B) Converges after some iterations\
+C) Error remains non-zero\
+D) Error becomes zero eventually
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.16 If initialized randomly in range \[-0.5, 0.5], which is true?**\
+A) May fail to converge\
+B) Will always converge\
+C) Time may vary\
+D) Helps escape local minima
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.17 Given perceptron: w = \[1,1], b = -1, y = 1 if w·x + b > 0. Which inputs are correctly classified?**\
+A) (1,1,1)\
+B) (0,0,1)\
+C) (1,0,0)\
+D) (0,1,0)
+
+[****See also**  **Deep Learning Week 10 Nptel Assignment Answers****](https://progiez.com/nptel-deep-learning-week-10-assignment-10-answers)
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+_**_**These are Deep Learning IIT Ropar Week 1 Nptel Assignment Answers**_**_
+
+***
+
+**Que.18 Which threshold activates MP neuron only when all 7 inputs are ON?**\
+A) 5\
+B) 6\
+C) 7\
+D) 8
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.19 In 7-voter system, at least 5 YES required. What threshold value for MP neuron?**\
+_(Fill in the blank)_
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.20 If w = \[-1, -1] and y = 1, what must be true for x = (a, b)?**\
+A) a + b < 0\
+B) a + b = 0\
+C) a + b > 0\
+D) ab > 0
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.21 Which of the following points lie on decision boundary for w = \[-1, -1]?**\
+A) (2, 2)\
+B) (1, -1)\
+C) (3, -3)\
+D) (0.5, 0.5)
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+_**_**These are Deep Learning IIT Ropar Week 1 Nptel Assignment Answers**_**_
+
+***
+
+**Que.22 Given w = \[2, 3, -1], b = -2, input = \[1, 0, -1]. Output = ?**\
+_(Fill in the blank)_
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.23 How many updates will perceptron (w = \[3, 3]) perform in one pass over the dataset?**\
+_(Fill in the blank)_
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.24 Final weight vector after convergence (w = \[0, 0])?**\
+A) (1, 0)\
+B) (-1, -1)\
+C) (0, 1)\
+D) (1, 1)
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.25 What is the final weight vector after convergence?**\
+A) (1, 2)\
+B) (-2, -1)\
+C) (-1, -1)\
+D) None of these
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.26 Why does adding bias in perceptron help?**\
+A) Shifts boundary away from origin\
+B) Rotates decision boundary\
+C) Increases epochs\
+D) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+***
+
+**Que.27 For perceptron convergence guarantee, which condition must be true?**\
+A) Data must be linearly separable\
+B) Weights must be non-zero\
+C) Finite data points\
+D) Must include bias
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+_**_**These are Deep Learning IIT Ropar Week 1 Nptel Assignment Answers**_**_
+
+***
+
+**Que.28 What does “absolutely linearly separable” mean?**\
+A) There exists a hyperplane classifying all points correctly\
+B) Points lie on same coordinate axis\
+C) Equal number of points in each set\
+D) Points in P closer to origin than N
+
+**[**View Answer**](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)**
+
+
 ## Deep Learning IIT Ropar Week 1 Nptel Assignment Answers (Jan-Apr 2025)
 
 **Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs21/course)**
