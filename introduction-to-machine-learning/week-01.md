@@ -4,6 +4,111 @@ Are you looking for NPTEL Introduction To Machine Learning Week 01 Assignment An
 
 ![Introduction To Machine Learning Week 1 Nptel Answers](https://miro.medium.com/v2/resize:fit:875/1*YPcdconxtF1hpNouRC5TIw.jpeg)
 
+## _Introduction To Machine Learning Week 1 Nptel Answers_ (July-Dec 2025)
+
+***
+
+**Que.1 Which of the following are supervised learning problems (Multiple Correct)?**\
+A) Clustering Spotify users based on their listening history\
+B) Weather forecast using data collected by a satellite\
+C) Predicting tuberculosis using patient’s chest X-Ray\
+D) Training a humanoid to walk using a reward system
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.2 Which of the following are regression tasks?**\
+A) Predicting the outcome of an election\
+B) Predicting the weight of a giraffe based on its weight\
+C) Predicting the emotion conveyed by a sentence\
+D) Identifying abnormal data points
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.3 Which of the following are classification tasks (Multiple Correct)?**\
+A) Predicting the outcome of an election\
+B) Predicting the weight of a giraffe based on its weight\
+C) Predicting the emotion conveyed by a sentence\
+D) Identifying abnormal data points
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.4 Which of the two functions overfit the training data?**\
+A) Both functions F1 & F2\
+B) Function F1\
+C) Function F2\
+D) None of them
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.5 Which of the following 2 functions will yield higher training error?**\
+A) Function F1\
+B) Function F2\
+C) Both functions F1 & F2 will have the same training error\
+D) Can not be determined
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.6 What does the term ‘policy’ refer to in reinforcement learning?**\
+A) A set of rules governing the environment\
+B) The reward function\
+C) The initial state of the environment\
+D) The strategy the agent follows to choose actions
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.7 Given the following dataset, for k = 3, use KNN regression to find the prediction for a new data-point (2,3) (Use Euclidean distance measure for finding closest points)**\
+A) 2.0\
+B) 2.6\
+C) 2.8\
+D) 3.2
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.8 For any given dataset, comment on the bias of K-nearest classifiers upon increasing the value of K.**\
+A) The bias of the classifier decreases\
+B) The bias of the classifier does not change\
+C) The bias of the classifier increases\
+D) Can not be determined
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.9 Bias and variance are given by:**\
+A) E\[f^(x)]−f(x), E\[(E\[f^(x)]−f^(x))²]\
+B) E\[f^(x)]−f(x), E\[(E\[f^(x)]−f^(x))]²\
+C) (E\[f^(x)]−f(x))², E\[(E\[f^(x)]−f^(x))²]\
+D) (E\[f^(x)]−f(x))², E\[(E\[f^(x)]−f^(x))]²
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.10 Which of the following statements are FALSE regarding bias and variance?**\
+A) Models which overfit have a high bias\
+B) Models which overfit have a low bias\
+C) Models which underfit have a high variance\
+D) Models which underfit have a low variance
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+
 ## _Introduction To Machine Learning Week 1 Nptel Answers_ (Jan-Apr 2025)
 
 **Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs46/course)**
