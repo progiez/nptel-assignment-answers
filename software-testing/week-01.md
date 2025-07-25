@@ -4,6 +4,101 @@ Are you looking for NPTEL Software Testing Week 01 Assignment Answers? This repo
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*lOCp6Tj6P1Vi-rAAAMQBAg.jpeg)
 
+## _Software Testing NPTEL Week 1 Assignment Answers (July-Dec 2025)_
+
+***
+
+**Question 1.** **Choose the right option to fill in the blank: Suppose a method M1 calls a method M2, which in turn, calls another method M3. The level of testing that tests for the interface of calls from M1 to M2 and then to M3 is called as . . . . . . . . . . . ..**\
+a) Functional testing.\
+b) Unit testing.\
+c) Integration testing.\
+d) System testing.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 2.** **State true of false: A coverage criterion C1 is said to subsume another coverage criterion C2 if there is at least one test case that satisfies C1 which also satisfies C2.**\
+a) True.\
+b) False.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 3.** **State true or false: Testing can be used to find all the errors in code.**\
+a) True.\
+b) False.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 4.** **Which of the following are practised in level 3 thinking during testing?**\
+a) Testing is a mental discipline, everyone in an organization strives to test thoroughly.\
+b) Testing is done mainly by developers, to debug their code.\
+c) Testing is done to identify failures and reduce risks.\
+d) Testing is done to show absence of errors.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 5.** **Which of the following best defines usability testing?**\
+a) Testing done to ensure that the software looks nice.\
+b) Testing done to ensure that the software is usable by all the users.\
+c) Testing done to understand how users can use a software.\
+d) Testing done to ensure that the user interface of the software is as specified in the requirements.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 6.** **Which of the following is a list of white-box testing techniques?**\
+a) Unit testing, performance testing.\
+b) Integration testing, stress testing.\
+c) Unit testing, integration testing.\
+d) Usability testing, performance testing.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 7.** **As per the lectures, which of the following sentences best defines a test case?**\
+a) A test case contains only inputs to the software artifact.\
+b) A test case contains inputs to the software artifact along with the expected outputs.\
+c) A test case contains inputs to the software artifact and a decision on pass or fail.\
+d) A test case contains inputs to the software artifact, which is run and the actual output is also recorded as a part of the test case.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 8.** **When do we say that a set of test cases T satisfies the test requirements TR for a coverage criterion C?**\
+a) For every test requirement tr ∈ TR, there is exactly one test case t ∈ T such that t satisfies tr.\
+b) For some test requirement tr ∈ TR, there is some test case t ∈ T such that t satisfies tr.\
+c) For some test requirement tr ∈ TR, all the test cases t ∈ T are such that t satisfies tr.\
+d) For every test requirement tr ∈ TR, there is at least one test case t ∈ T such that t satisfies tr.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 9.** **When do we say that a coverage criterion C1 subsumes a coverage criterion C2?**\
+a) C1 subsumes C2 iff some test case that satisfies C1 also satisfies C2.\
+b) C1 subsumes C2 iff every test case that satisfies C1 also satisfies C2.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 10.** **What does the JUnit assertion assertFalse(val1 > val2) return when val1 is less than val2?**\
+a) True.\
+b) False.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+
 ## _Software Testing Week 1 Assignment 1 Nptel Answers (Jan-Apl 2025)_
 
 **Course Link: [**Click Here**](https://examform.nptel.ac.in/2025_01/exam_form/dashboard)**
