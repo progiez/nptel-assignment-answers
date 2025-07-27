@@ -4,11 +4,6 @@ Are you looking for NPTEL English Language for Competitive Exams Week 01 Assignm
 
 ## English Language for Competitive Exams Week 1 Answers (July-Dec 2025)
 
-## Table of Contents
-
-1. [English Language for Competitive Exams Week 1 Answers (July-Dec 2025)](https://progiez.com/english-language-for-competitive-exams-week-1-answers#block-26ee2258-b5e6-4914-bc52-b8867bc53a34)
-
-***
 
 Course link: [Click here to visit course on Nptel Website](https://onlinecourses.nptel.ac.in/noc25_hs137/preview)
 
