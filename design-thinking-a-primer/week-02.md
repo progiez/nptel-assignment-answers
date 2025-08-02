@@ -2,6 +2,115 @@
 
 Are you looking for NPTEL Design Thinking - A Primer Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the **Design Thinking - A Primer** course. We provide detailed solutions to help you complete your assignments efficiently.
 
+
+## _NPTEL Design Thinking A Primer Week 2 Quiz Answers (July-Dec 2025)_
+
+***
+
+**Q1.** **Which organization coined the concept and term of Multi-Whys?**\
+a) Tesla\
+b) Tata\
+c) Toyota\
+d) Toblerone
+
+[View Answers](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Q2.** **Which among the following sequence of thoughts and actions would a wise Design Thinking Expert is most likely to follow?**\
+a) Multi-Why Analysis → Identifying the Conflicts of Interest → Solving the problem\
+b) Identifying Conflicts of Interest → Selecting a How-Might-We Statement → Multi Why Analysis\
+c) Test Running a product → Seeking Feedback → Running a Multi Why analysis on problems related to the app.\
+d) Create EMV Model → Apply Multi-Why Analysis → Conflict of Interest → Prototyping
+
+[View Answers](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Q3.** **Which of the following would qualify as a Conflict of Interest? (Multi-Select)**\
+a) A supportive family having obedient children wise enough to spend money in the right places\
+b) Rebellious children want to go to expensive music festivals while the family struggles to make ends meet\
+c) Rebellious children applying for jobs to support their families in need\
+d) Children expressing their wishes to be music artists while the family wants them to continue their legacy of medical professionals
+
+[View Answers](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Q4.** **According to the video lectures by Dr. Bala Ramadurai, how should Conflict of Interest be dealt with?**\
+a) By implementing the EMV Model\
+b) By finding loopholes in the problem\
+c) By implementing the ENV Model\
+d) By having a meltdown and avoiding it
+
+[****See also**  **Body Language Key to Professional Success Week 2 Answers Nptel****](https://progiez.com/body-language-key-to-professional-success-week-2-answers)
+
+[View Answers](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Q5.** **A college student has recently started living alone for the first time. She has been falling sick quite often. Which of the following Multi-Why questions does not fit right here?**\
+a) Why is she falling sick?\
+b) Why is she eating improper food?\
+c) Why does poverty exist?\
+d) Why can’t she afford healthy food?
+
+[View Answers](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Q6.** **In Design Thinking terms, when we analyze the problem from both perspectives (customer and provider/manufacturer), what is the tool we are using?**\
+a) Conflict Of Interest\
+b) Bone of Contention\
+c) Argument of Understanding\
+d) Difference of Opinion
+
+[View Answers](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Q7.** **Spot the odd one out in Analyze phase:**\
+a) Multi-Why analysis\
+b) Conflict of interest\
+c) How-Might-We\
+d) Solution generation
+
+[View Answers](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Q8.** **Which of the following factors does not affect the number of levels for the Multi-Why analysis?**\
+a) Limits due to natural phenomenon\
+b) Mood of the subject facing the problems\
+c) Scope of domain expertise within the team\
+d) Administrative limitations
+
+[View Answers](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Q9.** **Which of the following enables a systematic analysis approach?**\
+a) Interviews\
+b) Customer Journey Mapping\
+c) Identifying Conflicts of Interest\
+d) Multi-Why Analysis
+
+[View Answers](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Q10.** **Portos’ tailor’s problem was:**\
+a) Portos loved fashionable clothes, but the tailor was not adept at making them\
+b) Portos wanted exact fitting clothes, but the tailor was not allowed to touch him\
+c) Portos’ love for food meant that the tailor had to stitch stain-free clothes\
+d) Portos’ popularity with women meant that the tailor had to stitch clothes for all tastes
+
+[****See also**  **Design Thinking A Primer Week 3 Nptel Quiz Answers****](https://progiez.com/design-thinking-a-primer-week-3-nptel-quiz-answers)
+
+[View Answers](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+
+
 ## _NPTEL Design Thinking A Primer Week 2 Quiz Answers_ _(Jan-Apr 2025)_
 
 ***
