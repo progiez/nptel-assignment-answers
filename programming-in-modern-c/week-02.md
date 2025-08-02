@@ -1,8 +1,214 @@
-# NPTEL Programming In Modern C Week 02 Assignment Answers
+# NPTEL Programming In Modern C++ Week 02 Assignment Answers
 
 Are you looking for NPTEL Programming In Modern C Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Programming In Modern C course. We provide detailed solutions to help you complete your assignments efficiently.
 
-![Programming in Modern C++ Week 2 Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*JUAJ-dpuw49liEDXhXE-VA.jpeg)
+![Programming in Modern C++ Week 2 Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*JUAJ-dpuw49liEDXhXE-VA.jpeg)
+
+## _Programming in Modern C++ Week 2 Assignment Answers (July-Dec 2025)_
+
+***
+
+**Question 1.** **Consider the following program.**
+
+    #include <iostream>
+    using namespace std;
+    int main(){
+        const int n = 20; // LINE-1
+        n = 30;           // LINE-2
+        cout << n;
+        return 0;
+    }
+
+**What will be the output/error?**\
+a) 20\
+b) 30\
+c) Compilation Error at LINE-1: const must be initialized\
+d) Compilation Error at LINE-2: assignment of read-only variable ’n’
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 2.** **Consider the following program.**
+
+    #include <iostream>
+    using namespace std;
+    int main(){
+        int n = 10;
+        int * const p = &n;
+        int m = 20;
+        p = &m; // LINE-1
+        cout << *p;
+        return 0;
+    }
+
+**What will be the output/error?**\
+a) 10\
+b) 20\
+c) Compilation Error at LINE-1: assignment of read-only variable ’p’\
+d) Segmentation fault
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 3.** **Consider the following code segment and find the output.**
+
+    #include <iostream>
+    #define SQUARE(x) (x + x)
+    using namespace std;
+    int main(){
+        int a = 4;
+        int b = SQUARE(a + 1);
+        cout << b;
+        return 0;
+    }
+
+**What will be the output/error?**\
+a) 10\
+b) 5\
+c) 13\
+d) 20
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 4.** **Consider the following code segment.**
+
+    #include <iostream>
+    using namespace std;
+    int main(){
+        ____ int z = x + y; // LINE-1
+        cout << z;
+        return 0;
+    }
+
+**Fill in the blank at LINE-1 such that the code compiles.**\
+a) const\
+b) static\
+c) inline\
+d) register
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 5.** **Consider the following code segment.**
+
+    #include <iostream>
+    using namespace std;
+    void modify(int x1, _______, _______){ //Line-1
+        x2 = x1 * 2;
+        *x3 = x1 + 5;
+    }
+    int main(){
+        int a = 2, b, c;
+        modify(a, b, &c);
+        cout << a <<" "<< b <<" "<< c;
+        return 0;
+    }
+
+**Choose the correct option for parameter list at LINE-1 such that the output is `2 4 7`.**\
+a) int \&x2, int \*x3\
+b) int x2, int \*x3\
+c) int \&x2, int \&x3\
+d) int \*x2, int \&x3
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 6.** **Consider the following code segment.**
+
+    #include <iostream>
+    using namespace std;
+    int max(int a, int b){
+        return (a > b) ? a : b;
+    }
+    float max(float a, float b){
+        return (a > b) ? a : b;
+    }
+    int main(){
+        cout << max(3, 4.5); // LINE-1
+        return 0;
+    }
+
+**What will be the output/error?**\
+a) 4.5\
+b) 3\
+c) Compilation Error at LINE-1: call to ’max’ is ambiguous\
+d) 4
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 7.** **Consider the following code segment.**
+
+    #include <iostream>
+    using namespace std;
+    void fun(int a, int b = 0){ cout << a + b << endl; }
+    void fun(double a, double b = 1.0){ cout << a * b << endl; }
+    int main(){
+        fun(2);    // LINE-1
+        fun(2.0);  // LINE-2
+        return 0;
+    }
+
+**Which line/s will give compilation error?**\
+a) LINE-1\
+b) LINE-2\
+c) Both LINE-1 and LINE-2\
+d) No error
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 8.** **Consider the following code segment.**
+
+    #include <iostream>
+    using namespace std;
+    enum class Color { Red = 1, Green, Blue };
+    int main(){
+        Color c = Color::Red;
+        cout << static_cast<int>(c + 1); // LINE-1
+        return 0;
+    }
+
+**What will be the output/error?**\
+a) 2\
+b) Compilation Error at LINE-1: invalid operands to binary +\
+c) 1\
+d) 3
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 9.** **Consider the following code segment.**
+
+    #include <iostream>
+    #include <stdlib.h>
+    using namespace std;
+    int main(){
+        int *p = new int[5]; // LINE-1
+        p[0] = 42;
+        cout << *p;
+        delete[] p;
+        return 0;
+    }
+
+**What will be the output?**\
+a) 0\
+b) 42\
+c) Compilation Error\
+d) Segmentation fault
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+
 **1) Consider the following function prototypes of function add().**
 
 ![image 20](https://progiez.com/wp-content/uploads/2024/08/image-20.png "Programming in Modern C++ Week 2 Assignment Answers 3")
