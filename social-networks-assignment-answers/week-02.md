@@ -2,7 +2,374 @@
 
 Are you looking for NPTEL Social Networks Assignment Answers Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Social Networks Assignment Answers course. We provide detailed solutions to help you complete your assignments efficiently.
 
-#### _These are Nptel Social Networks Week 2 Assignment 2 Answers ( Jan-Apr 2025 )_
+## _Nptel Social Networks Week 2 Assignment Answers_ _(July-Dec 2025)_
+
+***
+
+**Question 1. Which of the following could be used as an indicator of a central ingredient in the Ingredients Network?**\
+a) High degree centrality\
+b) Low clustering coefficient\
+c) High betweenness centrality\
+d) Minimum spanning tree membership
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 2. If the network is unweighted and undirected, which metric would best indicate an ingredient that connects various ingredient clusters?**\
+a) Degree centrality\
+b) Betweenness centrality\
+c) PageRank\
+d) Closeness centrality
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 3. Which of the following actions might increase the clustering coefficient of a node representing an ingredient?**\
+a) Adding edges among its neighbors\
+b) Using it in recipes that already share many other ingredients\
+c) Decreasing its degree\
+d) Connecting it to an isolated node
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 4. What is the best way to identify substitute ingredients in the network?**\
+a) Using PageRank\
+b) Using community detection to find clusters of similar-use ingredients\
+c) Finding the node with maximum degree\
+d) Running BFS from each node
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 5. Ingredients with high clustering coefficient are likely to:**\
+a) Appear in tightly-knit groups of recipes\
+b) Be used rarely\
+c) Be part of cultural or cuisine-specific subgroups\
+d) Form bridges between disparate recipes
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 6. The network of ingredients is most similar in structure to which type of network?**\
+a) Tree\
+b) Star\
+c) Small-world network\
+d) Linear chain
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 7. What graph property makes a word like “good” a hub?**\
+a) High degree\
+b) High centrality\
+c) Low clustering coefficient\
+d) High eigenvector falloff
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 8. What type of network model is most appropriate for modeling the synonymy network?**\
+a) Tree\
+b) Undirected unweighted graph\
+c) Directed weighted graph\
+d) Bipartite graph
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 9. Why might peripheral nodes in the synonym network be important?**\
+a) They add richness to language use\
+b) They might connect rarely used synonym groups\
+c) They have highest centrality\
+d) They always form cycles
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 10. What kind of analysis can help group together words with similar meanings?**\
+a) DFS traversal\
+b) Community detection\
+c) Shortest path algorithm\
+d) Bipartite projection
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Here is the continuation with the remaining questions in the same format:
+
+***
+
+**Question 11. In the synonymy network, a node with low degree but high betweenness might indicate:**\
+a) A bridge between two different meaning clusters\
+b) A context-specific synonym\
+c) A very frequent word\
+d) An isolated component
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 12. What type of network metric can help identify formal vs informal word usage patterns?**\
+a) PageRank\
+b) Clustering within sociolect subgraphs\
+c) Tree depth\
+d) Diameter of network
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 13. PageRank is influenced by:**\
+a) Number of incoming links\
+b) Quality (PageRank) of linking pages\
+c) Number of outgoing links\
+d) Number of total users
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 14. A page with many incoming links from low-ranked pages is likely to:**\
+a) Have very high PageRank\
+b) Never rank at all\
+c) Have modest PageRank depending on damping factor\
+d) Break the algorithm
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 15. In the web graph, a dangling node is:**\
+a) A node with no outgoing links\
+b) A node with no incoming links\
+c) A broken hyperlink\
+d) A self-looped node
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 16. Which graph algorithm is most appropriate to identify top influencers in the web graph?**\
+a) Dijkstra’s algorithm\
+b) PageRank\
+c) BFS\
+d) Kruskal’s algorithm
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 17. Which of these changes could improve a site’s PageRank?**\
+a) Getting linked from authoritative websites\
+b) Reducing number of outbound links on important pages\
+c) Removing internal links\
+d) Adding self-loops
+
+[****See also**  **Data Structure and Algorithms using Java Week 2 Nptel Answers****](https://progiez.com/data-structure-and-algorithms-using-java-week-2-nptel)
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 18. The Web Graph most resembles:**\
+a) Undirected graph\
+b) Balanced binary tree\
+c) Bipartite graph\
+d) Directed scale-free network
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 19. Which Python libraries are best suited for analyzing such social network graphs?**\
+a) NetworkX\
+b) Pandas (for data preprocessing)\
+c) TensorFlow\
+d) Seaborn
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 20. What metric would best identify a user who connects disparate groups?**\
+a) Closeness centrality\
+b) Betweenness centrality\
+c) Degree centrality\
+d) Eigenvector centrality
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 21. Community detection can help:**\
+a) Identify social circles\
+b) Predict content spread boundaries\
+c) Compute path lengths\
+d) Rank friends
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 22. A tightly-knit group of users with many mutual friends is likely to form:**\
+a) A PageRank cluster\
+b) A path component\
+c) A community\
+d) A bipartite set
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 23. Which of these plots would be helpful in visualizing the degree distribution?**\
+a) Histogram\
+b) Log-log plot\
+c) Heatmap\
+d) Confusion matrix
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 24. What does a power-law distribution in degree typically suggest?**\
+a) Uniform connectivity\
+b) Presence of hubs\
+c) Graph is bipartite\
+d) Random structure
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 25. The sudden emergence of a giant connected component is an example of:**\
+a) Phase transition in networks\
+b) Percolation theory in action\
+c) Clique formation\
+d) Graph diameter reduction
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 26. As new edges are added randomly, when is a giant component most likely to emerge?**\
+a) After adding 10% of edges\
+b) Near the critical threshold in Erdős–Rényi model\
+c) Immediately\
+d) When all nodes have same degree
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 27. Factors influencing the rate of connectedness emergence include:**\
+a) Average degree\
+b) Number of nodes\
+c) Time of day\
+d) Color of nodes
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 28. Which real-world phenomenon reflects the same principle?**\
+a) A virus mutating\
+b) A trending hashtag\
+c) A viral video suddenly reaching millions\
+d) Blockchain mining
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 29. Which of these methods can detect when a giant component has formed?**\
+a) Analyzing component sizes over time\
+b) Checking network diameter\
+c) BFS from random node\
+d) Comparing node colors
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 30. In graph theory, a component is:**\
+a) A central node\
+b) A directed edge\
+c) A maximal connected subgraph\
+d) A subgraph with cycles only
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 31. Which of the following network properties would best identify influential contributors?**\
+a) High in-degree (number of incoming replies/comments)\
+b) High eigenvector centrality\
+c) Low clustering coefficient\
+d) Membership in isolated components
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 32. Which metric would help detect tightly-knit learning groups?**\
+a) Degree centrality\
+b) Clustering coefficient\
+c) PageRank\
+d) Edge betweenness
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 33. A user with high betweenness centrality is likely to:**\
+a) Connect different learning communities\
+b) Facilitate knowledge transfer between groups\
+c) Be isolated from core discussions\
+d) Have the most followers
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 34. Which algorithm is most suitable for identifying natural study groups in the network?**\
+a) BFS\
+b) Dijkstra’s algorithm\
+c) Community detection (e.g., Girvan–Newman or Louvain)\
+d) Kruskal’s algorithm
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 35. Factors contributing to strong collaborative ties may include:**\
+a) Frequent co-participation in threads\
+b) Repeated peer review or feedback\
+c) Random logins\
+d) Degree of anonymity
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+**Question 36. In such a learning network, a node with high closeness centrality can:**\
+a) Disseminate information quickly to the whole network\
+b) Only influence its direct neighbors\
+c) Be easily removed without effect\
+d) Belong to disconnected components
+
+[View Answers](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
 
 **1. A graph has a diameter of 1. Which of the following statements must be true?**\
 (a) The graph is a complete graph.\
