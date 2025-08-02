@@ -4,7 +4,99 @@ Are you looking for NPTEL Soft Skills Week 02 Assignment Answers? This repositor
 
 ![Soft Skills Nptel Week 2 Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*epewAyxjWR02TGknO3rJlQ.jpeg)
 
-Soft Skills Nptel Week 2 Assignment Answers
+## Soft Skills Nptel Week 2 Assignment Answers (July-Dec 2025)
+
+***
+
+**Q1.** **Which one of the following forces does Communication function?**\
+a) Beaming force\
+b) Dividing force\
+c) Binding force\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Q2.** **In which book does Sigmund Freud talk about suppressed and repressed emotions?**\
+a) The Psychopathology of Everyday Life\
+b) The Ego and the Id\
+c) Totem and Taboo\
+d) Interpretations of Dreams
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Q3.** **Which of the following does Ego differentiate between?**\
+a) Image and Emotion\
+b) Memory and Image\
+c) Emotion and Memory\
+d) Image and Emotion
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Q4.** **Name the type of communication when one talks not to others but to himself:**\
+a) Extrapersonal\
+b) Mass Media & Communication\
+c) Intrapersonal\
+d) Interpersonal
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Q5.** **Which one among the following systems of personality is the internal representative of the good and evil?**\
+a) Id\
+b) Super Ego\
+c) Ego\
+d) B\&C
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Q6.** **Emphasis on facts and figures play a very crucial role in negotiation.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Q7.** **When we reach an agreement during the negotiation, we should emphasize the other party’s benefit.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+[****See also**  **Soft Skills Nptel Week 3 Assignment Answers****](https://progiez.com/soft-skills-nptel-week-3-assignment-answers)
+
+***
+
+**Q8.** **Phonetic sound of 8 is most fortuitous of numbers auguring prosperity.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Q9.** **NAFTA stands for North American Foreign Trade Agreement.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Q10.** **People of high context cultures seldom put more stress on non-verbal communication.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
 
 
 # Soft Skills Nptel Week 2 Assignment Answers<a id="c5fa"></a>
