@@ -4,7 +4,66 @@ Are you looking for NPTEL Programming DSA Using Python Week 02 Assignment Answer
 
 ![Programming DSA using Python Nptel Week 2 Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*lL1-zbnQj7XE2wkc188x4w.jpeg)
 
-Programming DSA using Python Week 2 Assignment Answers
+## _Programming DSA using Python Week 2 Assignment Answers (July-Dec 2025)_
+
+**Question 1.** **One of the following 10 statements generates an error. Which one? (Your answer should be a number between 1 and 10.)**
+
+x = \[“slithy”,\[7,10,12],2,”tove”,1] # Statement 1\
+y = x\[0:50] # Statement 2\
+z = y # Statement 3\
+w = x # Statement 4\
+x\[0] = x\[0]\[:5] + ‘ery’ # Statement 5\
+y\[2] = 4 # Statement 6\
+z\[4] = 42 # Statement 7\
+w\[0]\[:3] = ‘fea’ # Statement 8\
+x\[1]\[0] = 5555 # Statement 9\
+a = (x\[4]\[1] == 1) # Statement 10
+
+[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)
+
+***
+
+**Question 2.** **Consider the following lines of Python code.**
+
+    b = [23,44,87,100]
+    a = b[1:]
+    d = b[2:]
+    c = b
+    d[0] = 97
+    c[2] = 77
+
+**Which of the following holds at the end of this code?**
+
+- a\[1] == 77, b\[2] == 77, c\[2] == 77, d\[0] == 97
+- a\[1] == 87, b\[2] == 87, c\[2] == 77, d\[0] == 97
+- a\[1] == 87, b\[2] == 77, c\[2] == 77, d\[0] == 97
+- a\[1] == 97, b\[2] == 77, c\[2] == 77, d\[0] == 97
+
+[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)
+
+***
+
+**Question 3.** **What is the value of `endmsg` after executing the following lines?**
+
+    startmsg = "python"
+    endmsg = ""
+    for i in range(1,1+len(startmsg)):
+      endmsg = startmsg[-i] + endmsg
+
+[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)
+
+***
+
+**Question 4.** **What is the value of `mylist` after the following lines are executed?**
+
+    def mystery(l):
+      l = l[1:]
+      return()
+
+    mylist = [7,11,13]
+    mystery(mylist)
+
+[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)
 
 ***
 
