@@ -4,6 +4,111 @@ Are you looking for NPTEL Cyber Security and Privacy Week 02 Assignment Answers?
 
 ![Cyber Security And Privacy Week 2 Nptel Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*x8gTCOjjpTI68ZsjgE2P1g.jpeg)
 
+## _Cyber Security and Privacy Week 2 Nptel Answers (July-Dec 2025)_
+
+***
+
+**Question 1.** **What is the primary purpose of the McCumber Cube?**\
+a) To develop network security protocols\
+b) To create operating systems\
+c) To establish and evaluate information security programs\
+d) To analyze network traffic performance
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 2.** **Consider the following statements\
+a. The first dimension of the McCumber cube identifies the goals to protect the cyber world.\
+b. The second dimension of the McCumber cube focuses on the problems of protecting all of the states of data in the cyber world.\
+c. The third dimension of the McCumber cube defines the types of controls used to protect the cyber world.\
+Which of the above statements are True?**\
+a) Only a is true\
+b) a and b are true\
+c) b and c are true\
+d) a, b, and c are true
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 3.** **In a malware detection system, when legitimate business software is incorrectly identified as malicious, this represents:**\
+a) True Positive (TP)\
+b) False Positive (FP)\
+c) True Negative (TN)\
+d) False Negative (FN)
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 4.** **True or False: A False Negative in malware detection means the system correctly identifies a safe file as non-malicious.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 5.** **A vulnerability in cybersecurity is best defined as:**\
+a) A malicious program designed to damage systems\
+b) A security patch released by software vendors\
+c) A method used by attackers to gain unauthorized access\
+d) A weakness or flaw in technology, processes, or human behavior that leaves systems open to exploitation
+
+[****See also**  **Cyber Security and Privacy Week 4 Nptel Answers 2024****](https://progiez.com/cyber-security-and-privacy-week-4-nptel-answers)
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 6.** **An exploit is primarily:**\
+a) A weakness in system security that needs patching\
+b) A technique used to compromise a system\
+c) A novel self-protecting antivirus software\
+d) A security framework for risk assessment
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 7.** **True or False: Accuracy is an attribute of information that describes how data is genuine or original rather than reproduced or fabricated.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 8.** **What is a recommended defense against phishing emails?**\
+a) Always open attachments to check content\
+b) Click links only if the sender is familiar\
+c) Verify the source and avoid clicking suspicious links\
+d) Forward the email to colleagues
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 9.** **Which of the following are best practices for balancing information security and access? (Select all that apply. More than one answer may be possible)**\
+a) Regular review of user access rights\
+b) Implementing role-based access control\
+c) Granting blanket access to all employees\
+d) Monitoring and auditing access logs
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 10.** **In an information system, which component is responsible for enabling communication and data transfer between devices?**\
+a) Hardware\
+b) Software\
+c) Networks\
+d) Data
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+
 Cyber Security And Privacy Week 2 Nptel Assignment Answers
 
 
