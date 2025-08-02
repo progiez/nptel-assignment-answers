@@ -2,7 +2,160 @@
 
 Are you looking for NPTEL Soft Skill Development Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Soft Skill Development course. We provide detailed solutions to help you complete your assignments efficiently.
 
-![Soft Skill Development Week 2 Nptel Assignment Answers (JULY — DEC 2024)](https://miro.medium.com/v2/resize:fit:875/1*RBFOCbOYaSa_yg44Eurffg.jpeg)
+![Soft Skill Development Week 2 Nptel Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*RBFOCbOYaSa_yg44Eurffg.jpeg)
+
+## _Soft Skill Development Week 2 Nptel Assignment Answers (July-Dec 2025)_
+
+***
+
+**Q1.** **Which of the following words is communication derived from?**\
+a) Communicate\
+b) Common\
+c) Communis\
+d) Interact
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q2.** **Good relationship and proper communication within group members are the most important factors in functioning as a group.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q3.** **Reflective communicators are direct, straightforward and like to express their honest opinions.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q4.** **Assertion (A): Starting a presentation with the conclusion helps catch attention more effectively.\
+Reason (R): The audience is more likely to engage when given a clear roadmap.**\
+a) Both A and R are true, and R is the correct explanation of A\
+b) Both A and R are true, but R is not the correct explanation of A\
+c) A is true, but R is false\
+d) A is false, but R is true
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q5.** **Which of the following best explains why the same artwork or text may be interpreted differently by different groups of people?**\
+a) Interpretory silos\
+b) Visual perception thresholds\
+c) Audience mapping zones\
+d) Interpretive communities
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q6.** **Select the most accurate statement about body language and audience interaction during a presentation:**\
+a) All audiences react the same way to hand gestures if the speaker is confident\
+b) Some gestures carry ambiguous emotional weight, depending on context\
+c) Excessive hand gestures always signal assertiveness\
+d) Abstract gestures are universally meaningless
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q7.** **You notice a presenter using rapid flashing text and spinning words in their slides. This form of multimedia:**\
+a) A and B only\
+b) B and C only\
+c) A and C only\
+d) All of the above
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q8.** **Fill in the blank: The title of a painting often functions as**\
+a) An objective caption to avoid misinterpretation\
+b) A misleading narrative trap\
+c) A direct description of its central character(s)\
+d) A semiotic cue that opens interpretive possibilities
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q9.** **Which of the following is not a commonly recommended strategy for maintaining meaningful eye contact with a large audience?**\
+a) Focus only on a few familiar faces throughout\
+b) Mentally divide the room into spatial blocks\
+c) Sweep the room continuously without focus\
+d) Shift attention across different clusters over time
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q10.** **In visual-text presentations, the sequencing of images and textual content:**\
+a) Is secondary to content quality and does not affect perception\
+b) Can occasionally change meaning but is mostly stylistic\
+c) Influences interpretive framing and narrative emphasis\
+d) Has consistent effects across cultural and audience types
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q11.** **Consider the following statements:\
+A. An attentive audience with upright postures may indicate good comprehension\
+B. Observing fidgeting or restlessness may require adjusting pacing\
+C. Facial expressions rarely offer useful cues to the speaker**\
+a) A and C are true\
+b) A and B are true\
+c) Only B is true\
+d) All are true
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q12.** **Concrete poetry often merges poetic form with visual-spatial expression. Which of the following most accurately describes its aesthetic lineage?**\
+a) It engages with visual design principles, architecture, and typographic space\
+b) It prioritizes thematic depth over visual experimentation\
+c) It rejects linguistic materiality in favor of oral performance\
+d) It stems from classical metrics blended with performative realism
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q13.** **In Fisher’s model of group progression, in which stage do the group members get to know each other and come to grips with the problems they have convened to deal with.**\
+a) Conflicts\
+b) Emergence\
+c) Orientation\
+d) Reinforcement
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q14.** **The decision-making process in a group largely depends on the quality of information and**\
+a) Presentation skills\
+b) A good leader\
+c) Good relationships\
+d) Message transmission
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Q15.** **Which kind of communicators believe that the primary purpose of communication is the maintenance or advancement of the personal relationship?**\
+a) Socratic communicator\
+b) Noble communicator\
+c) Reflective communicator\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
 
 ## _Soft Skill Development Week 2 Nptel Assignment Answers (Jan-Apr 2025)_
 
