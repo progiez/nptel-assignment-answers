@@ -4,7 +4,177 @@ Are you looking for NPTEL Introduction To Operating Systems Week 02 Assignment A
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*dxjvLHcDq9_yjm74SG2UPg.jpeg)
 
-Introduction to Operating Systems Nptel Week 2 Answers (July-Dec 2024)
+## _Introduction to Operating Systems Nptel Week 2 Answers_ (July-Dec 2025)
+
+***
+
+**Q1.** **Match the following:**\
+a. CR0 –\
+b. CR3 –\
+c. kalloc() –\
+d. kfree() –
+
+1. Remove free pages from the list
+2. Enable paging
+3. Page table point register
+4. Add free pages to the list\
+   a) a-2, b-3, c-4, d-1\
+   b) a-2, b-3, c-1, d-4\
+   c) a-3, b-2, c-1, d-4\
+   d) a-3, b-2, c-4, d-1
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Q2.** **Match the following:**\
+a. First Instruction –\
+b. Real mode –\
+c. BIOS –\
+d. Startup IPI –
+
+1. Application Processor begins to boot
+2. Frequency at which DRAM is flushed and set
+3. 16 Byte below the 1 MB region of the RAM
+4. Backward compatible with 8088\
+   a) a-3, b-4, c-2, d-1\
+   b) a-2, b-1, c-3, d-4\
+   c) a-2, b-1, c-4, d-3\
+   d) a-1, b-3, c-4, d-2
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Q3.** **Protection bit indicates that a block corresponds to OS code or User code.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Q4.** **Master Boot Record allows the user to select which OS needs to be loaded.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Q5.** **In a 32-bit processor the virtual address is 22 bit : 12 bit (Table index : Offset). What is the size of the page frame and the process page table assuming that each entry in the page table is 4 Bytes?**\
+a) 4KB, 4MB\
+b) 4MB, 8MB\
+c) 4MB, 16KB\
+d) 4KB, 16MB
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Q6.** **The bootloader switches the OS from \_\_\_\_\_\_\_\_\_\_\_\_\_ to \_\_\_\_\_\_\_\_\_\_\_\_\_.**\
+a) Protected mode, real mode\
+b) User mode, kernel mode\
+c) User mode, protected mode\
+d) Real mode, Protected mode
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Q7.** **Match the following:**\
+a. Single contiguous model –\
+b. Best Fit –\
+c. First Fit –\
+d. Worst Fit –
+
+1. Scan through all the free blocks
+2. Program memory size is restricted to RAM size
+3. Fragmentation is worsened
+4. Allocates the largest free block\
+   a) a-2, b-1, c-3, d-4\
+   b) a-4, b-3, c-1, d-2\
+   c) a-2, b-1, c-4, d-3\
+   d) a-3, b-1, c-4, d-2
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Q8.** **walkpgdir function creates the page directory entry but will not create the table.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Q9.** **Let the number of bits required to address a memory word be 25. Each word is of 16 bits.**
+
+1. Number of words in the memory is \_\_\_\_\_\_\_\_
+2. Number of bytes in the memory denoted as \_\_\_\_\_\_\_\_\_\_\_\_
+3. Number of bits to address \_\_\_\_\_\_\_\_\_\_\
+   a) 32 KW, 64 KW, 29\
+   b) 32 MW, 64 MB, 26\
+   c) 64 KW, 32 MW, 29\
+   d) 64 MW, 32 MB, 26
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Q10.** **The `lgdt` instruction is used to \_\_\_\_\_\_\_\_\_\_\_\_\_**\
+a) Fill the segment descriptor in GDT\
+b) Fill the Data segment descriptor in the GDT\
+c) Fill the GDT in an MMU register\
+d) Fill the Kernel code segment in the GDT
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Q11.** **Which one of the following is true?**\
+a) Block size is not equal to the frame size\
+b) Need to allocate frames into the blocks of the RAM\
+c) Every memory access has an additional overhead, which can be reduced by using a TLB\
+d) Per process page table is stored in hard disk
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Q12.** **The number of bits for limit, segment base and type in a 32-bit segment descriptor is:**\
+a) 20, 32, 2\
+b) 32, 20, 2\
+c) 32, 20, 4\
+d) 20, 32, 4
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+[****See also**  **Introduction To Operating Systems NPTEL Week 5 Assignment****](https://progiez.com/introduction-to-operating-systems-nptel-assignment-5)
+
+***
+
+**Q13.** **PTPR (Page Table Point Register) is known as \_\_\_\_\_\_\_\_\_\_\_\_\_ register in Intel systems**\
+a) CR0\
+b) CR1\
+c) CR2\
+d) CR3
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Q14.** **Consider a system using 2-level paging and the virtual address is 38 bits. The most significant 12 bits are used to index the page directory and next 14 bits index the page table. Each entry in both levels is 4 Bytes.**
+
+1. How large are the page frames?
+2. Size of page tables?\
+   a) 4KB, 16KB\
+   b) 4B, 16KB\
+   c) 4KB, 64KB\
+   d) 4B, 32KB
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
 
 
 # Introduction to Operating Systems Nptel Week 2 Answers (July-Dec 2024)<a id="328d"></a>
