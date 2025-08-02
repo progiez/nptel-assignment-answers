@@ -4,7 +4,107 @@ Are you looking for NPTEL Ethical Hacking Week 02 Assignment Answers? This repos
 
 ![Ethical Hacking Nptel Week 2 Assignment Answers 2024](https://miro.medium.com/v2/resize:fit:875/1*0uvNEPXE8fJ-5c2lGbK1ow.jpeg)
 
-Ethical Hacking Nptel Week 2 Assignment Answers 2024
+## Ethical Hacking Nptel Week 2 Assignment Answers (July-Dec 2025)
+
+***
+
+**Question 1. Why do we need fragmentation?**\
+a) To increase transmission speed\
+b) Due to varying MTU across networks\
+c) To improve encryption\
+d) To compress packet
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 2. IP fragmentation is typically done by:**\
+a) Source Host\
+b) Destination Host\
+c) Intermediate Routers\
+d) Hubs
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 3. For reassembling the fragmented packets at the final destination, which of the following header field(s) is(are) used?**\
+a) Fragment offset\
+b) Flags\
+c) Port number\
+d) Checksum\
+e) Identification
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 4. An IP packet arrives at the final destination with the D flag set as 0, M flag set as 1 and offset is set to 0. Which of the following statements is true about the packet?**\
+a) The packet has not been fragmented\
+b) The packet has been fragmented and it is the first fragment\
+c) The packet has been fragmented and it is the last fragment\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 5. In an IP packet, the value of HLEN is 15, and the total size of IP packet is 2000 bytes. The number of data bytes in the packet will be**
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 6. Which address classes do the IP addresses 128.0.1.3 and 193.11.23.10 belong to?**\
+a) Class A and Class B\
+b) Class B and Class C\
+c) Class C and Class D\
+d) Class A and Class C
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 7. Which IP addresses are reserved for private use?**\
+a) 10.x.x.x\
+b) 172.32.x.x\
+c) 192.168.x.x\
+d) 128.x.x.x
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 8. What does a TCP segment with SYN = 1 and ACK = 0 indicate?**\
+a) Connection termination\
+b) Connection reset\
+c) Keep-alive signal\
+d) Initial connection request\
+e) Connection acknowledgement
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 9. What is the size of UDP header?**\
+a) 16 bits\
+b) 16 bytes\
+c) 8 bits\
+d) 8 bytes
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 10. What is the subnet address if the destination IP address is 192.168.77.213 and the subnet mask is 255.255.252.0?**\
+a) 192.168.76.0\
+b) 192.168.76.213\
+c) 192.168.77.0\
+d) 192.168.0.0
+
+[****See also**  **Practical Cyber Security for Cyber Security Practitioners Nptel Week 2 Answers****](https://progiez.com/nptel-week-2-answers-practical-cyber-security-for-cyber-security-practitioners)
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
 
 
 # Ethical Hacking Nptel Week 2 Assignment Answers 2024<a id="4528"></a>
