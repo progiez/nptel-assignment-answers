@@ -3,6 +3,158 @@
 Are you looking for NPTEL Introduction To Industry 4.0 And Industrial IIoT Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Introduction To Industry 4.0 And Industrial IIoT course. We provide detailed solutions to help you complete your assignments efficiently.
 
 ![Introduction to Industry 4 and Industrial IoT Week 2 Nptel Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*3x8ZQ3uvBSCZyHnRCInvNg.jpeg)
+
+## _Introduction to Industry 4 and Industrial IoT Week 2 Assignment Answers_ _(__July-Dec 2025__)_
+
+***
+
+**Question 1.** **Which technological innovation drove the First Industrial Revolution?**\
+a) Electricity and the assembly line\
+b) Invention of steam engine and construction of railways\
+c) Semiconductor fabrication techniques\
+d) Artificial Intelligence and Cyber-Physical Systems
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 2.** **Which of the following sectors is considered as the conventional application area for robots?**\
+a) Automotive industry\
+b) Precision agriculture\
+c) Nursing\
+d) Space exploration
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 3.** **Fill in the blanks. A depression, compared to a recession, is characterized by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.**\
+a) Increased investment in manufacturing\
+b) Shorter duration of economic hardship\
+c) Lower unemployment rates\
+d) Higher levels of economic damage and longer duration
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 4.** **In a manufacturing industry, which system is described as the “main nervous system”?**\
+a) Supply-Chain Management (SCM)\
+b) Information and Communication Technology (ICT)\
+c) Energy-price monitoring\
+d) Human-resources planning
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 5.** **Fill in the blanks. Emerging markets are expected to be found primarily in .**\
+a) Developed countries\
+b) Developing countries\
+c) Polar regions\
+d) Nations with zero population growth
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 6.** **Which of the following is a key feature of Lean production approach?**\
+a) It emphasizes automation over manual labor\
+b) It focuses solely on financial outcomes\
+c) It considers the customer’s perspective\
+d) It aims to increase inventory levels
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 7.** **Alongside Jidoka, Lean production is founded on which second pillar?**\
+a) Kaizen\
+b) Just-in-Time\
+c) Kanban\
+d) Total Productive Maintenance
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 8.** **What is the first step in the “5 steps of walking a value stream”?**\
+a) Build a leadership team\
+b) Walk it – discuss value and list ideas\
+c) Focus on a single value stream\
+d) Schedule follow-up
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 9.** **What is included among the fundamental building blocks of a smart business model?**\
+a) Marketing campaigns\
+b) Customer values and key processes\
+c) Warehouse locations\
+d) Stock exchange metrics
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 10.** **Which of the following represents the key attributes of a smart business model?**\
+a) Value proposition\
+b) Revenue streams\
+c) Technologies\
+d) All of these
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 11.** **Fill in the blanks. Big Data analytics in smart factories can help with\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.**\
+a) Generating knowledge\
+b) Reducing data storage\
+c) Eliminating sensors\
+d) Increasing manual paperwork
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 12.** **Why are smart factories increasingly necessary in today’s industry?**\
+a) They reduce the number of products needed\
+b) They support rigid, static manufacturing systems\
+c) They help achieve high production in less time with reduced risks of failure\
+d) They operate only in low-demand markets
+
+[****See also**  **Nptel Introduction to Industry 4 and Industrial IoT Week 8 Assignment Answers****](https://progiez.com/introduction-to-industry-4-and-industrial-iot-week-8)
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 13.** **State True or False. Smart Grid is considered as a supporting technology for Smart Factories.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 14.** **Timely delivery and reliability are highlighted within sustainability under which supply-related concept?**\
+a) Supply-Chain Management loop\
+b) Single-sourcing\
+c) Random demand generation\
+d) Personal mail delivery
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 15.** **State True or False. Industry 4.0 is commonly referred to as the fourth industrial revolution pertaining to digitization in the manufacturing industry.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+
 ## _Nptel Introduction to Industry 4 and Industrial IoT Week 2 Assignment Answers_ _(Jan-Apr 2025)_
 
 ***
