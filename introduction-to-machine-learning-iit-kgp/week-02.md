@@ -4,6 +4,110 @@ Are you looking for NPTEL Introduction To Machine Learning IIT KGP Week 02 Assig
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*nh2U8GRaYnyFlaeRQVDh6g.jpeg)
 
+## Introduction To Machine Learning IIT-KGP Week 1 Answers (July-Dec 2025)
+
+***
+
+**Que.1 Which of the following are classification tasks?**\
+A) Find the gender of a person by analyzing his writing style\
+B) Predict the price of a house based on floor area, number of rooms etc.\
+C) Predict the temperature for the next day\
+D) Predict the number of copies of a book that will be sold this month
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Que.2 Which of the following is not a categorical feature?**\
+A) Gender of a person\
+B) Height of a person\
+C) Types of Mountains\
+D) Nationality of a person
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Que.3 Which of the following tasks is NOT a suitable machine learning task?**\
+A) Finding the shortest path between a pair of nodes in a graph\
+B) Predicting if a stock price will rise or fall\
+C) Predicting the price of petroleum\
+D) Grouping mails as spams or non-spams
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Que.4 Suppose I have 10,000 emails in my mailbox out of which 200 are spams. The spam detection system detects 150 mails as spams, out of which 50 are actually spams. What is the precision and recall of my spam detection system?**\
+A) Precision = 33.333%, Recall = 25%\
+B) Precision = 25%, Recall = 33.33%\
+C) Precision = 33.33%, Recall = 75%\
+D) Precision = 75%, Recall = 33.33%
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Que.5 A feature F1 can take certain values: A, B, C, D, E, F and represents the grade of students from a college. Which of the following statements is true?**\
+A) Feature F1 is an example of a nominal variable.\
+B) Feature F1 is an example of ordinal variables.\
+C) It doesn’t belong to any of the above categories.\
+D) Both of these
+
+[****See also**  **Entrepreneurship Week 1 Nptel Assignment Answers****](https://progiez.com/entrepreneurship-week-1-nptel-assignment-answers)
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Que.6 Which learning paradigm is most suitable for training a robotic painting arm that must paint every corner while minimizing paint waste?**\
+A) Supervised learning\
+B) Unsupervised learning\
+C) Combination of supervised and unsupervised learning\
+D) Reinforcement learning
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Que.7 How many Boolean functions are possible with n features?**\
+A) 2^{2^N}\
+B) 2^N\
+C) N^2\
+D) 4^N
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Que.8 What is the use of Validation dataset in Machine Learning?**\
+A) To train the machine learning model\
+B) To evaluate the performance of the machine learning model\
+C) To tune the hyperparameters of the machine learning model\
+D) None of the above
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Que.9 Regarding bias and variance, which of the following statements are true?**\
+A) Models which overfit have a high bias.\
+B) Models which overfit have a low bias.\
+C) Models which underfit have a high variance.\
+D) Models which underfit have a low variance.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Que.10 Identify whether the following statement is true or false? “Occam’s Razor is an example of Inductive Bias”**\
+A) True\
+B) False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+
+
 Introduction To Machine Learning IIT-KGP Week 2 Answers (July-Dec 2024)
 
 
