@@ -2,7 +2,172 @@
 
 Are you looking for NPTEL Programming In Java Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Programming In Java course. We provide detailed solutions to help you complete your assignments efficiently.
 
-![Programming in Java Nptel Week 2 Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*05hNRJouYrI1XNRrtP0OrA.jpeg)
+![Programming in Java Nptel Week 2 Assignment Answers ](https://miro.medium.com/v2/resize:fit:875/1*05hNRJouYrI1XNRrtP0OrA.jpeg)
+
+## _Programming in Java Nptel Week 2 Assignment Answers (July-Dec 2025)_
+
+***
+
+**Question 1.** **Which of the following is the correct way to declare a class in Java?**\
+a. public class MyClass {}\
+b. class MyClass\[] {}\
+c. public MyClass class {}\
+d. MyClass public class {}
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 2.** **Consider the code given below.**
+
+    public class VarPrint {
+        int x = 30;
+        static int y = 20;
+        public static void main(String[] args) {
+            VarPrint t1 = new VarPrint();
+            t1.x = 88;
+            t1.y = 995;
+            int z1 = t1.x + t1.y;
+            VarPrint t2 = new VarPrint();
+            System.out.println(t1.y +" "+ t2.y +" "+ z1);
+        }
+    }
+
+**What will be the output of the above Java program?**\
+a. 3099178\
+b. 3088129\
+c. 3099187\
+d. 9999 187
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 3.** **Consider the code given below.**
+
+    public class ArgumenTest {
+        public static void main(String[] args) {
+            Test t = new Test();
+            t.start();
+        }
+        static class Test {
+            void start() {
+                int a = 43;
+                int b = 57;
+                System.out.print("" +8 +3 + "");
+                System.out.print(a + b);
+                System.out.print("" +a+b+"");
+                System.out.print(foo() +a +b+" ");
+                System.out.println(a + b + foo());
+                System.out.print(a + b);
+            }
+            String foo() {
+                return "foo";
+            }
+        }
+    }
+
+**What will be the output of the code given above?**\
+a. 977 f0034 34f00\
+b. 839 45f0045 Sfoo\
+c. 7234 34 f0034 34fo0\
+d. 839 45f0045 9f009
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 4.** **Which keyword is used in Java to refer to the current object?**\
+a. that\
+b. self\
+c. current\
+d. this
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 5.** **Which of the following is true about constructors in a class?**\
+a. Constructors do not have a return type.\
+b. Constructors aren’t used to initialize objects.\
+c. A class can have only one constructor.\
+d. Constructors cannot be overloaded.
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 6.** **Consider the following code snippet**
+
+    class NPTEL_W2 {
+        NPTEL_W2(int x) { }
+        void printx() {
+            System.out.println(this.x);
+        }
+        public static void main(String[] args) {
+            NPTEL_W2 obj = new NPTEL_W2(100);
+            obj.printx();
+        }
+    }
+
+**What will be the output of the code given above?**\
+a. 0\
+b. 10\
+c. 100\
+d. Runtime error
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 7.** **Consider the code snippet given below.**
+
+    public class Wain {
+        public static void main(String[] args) {
+            System.out.print ("Hello ");
+            System.out.println("World");
+        }
+    }
+
+**What will be the output of the code given above?**\
+a. Hello World\nNumber: 10\
+b. Hello WorldNumber: 10\
+c. Hello \nWorld\nNumber: 10\
+d. Hello World\nNumber: 10\n
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 8.** **Which class is used in Java to take runtime data input from the user?**\
+a. BufferReader\
+b. UserInputStreamReader\
+c. Scanner\
+d. DataInputStreamReader
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 9.** **How do you read a line of text from the console using the Scanner class in Java?**\
+a. scanner.readLine()\
+b. scanner.nextLine()\
+c. scanner.getLine()\
+d. scanner.fetchLine()
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 10.** **What is the correct signature of the main method in Java?**\
+a. public void main(String args\[])\
+b. public static void main(String\[] args)\
+c. void main(String\[] args)\
+d. public static void main(String args\[])
+
+[**View Answer**](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+
 ## _Programming in Java Nptel Week 2 Assignment Answers (Jan-Apr 2025)_
 
 ***
