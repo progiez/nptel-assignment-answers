@@ -4,6 +4,111 @@ Are you looking for NPTEL Digital Circuits Week 02 Assignment Answers? This repo
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*PuwVtD67Z5O7Em7dKWqnaQ.jpeg)
 
+
+## _Digital Circuits Week 2 Nptel Assignment Answers_ (July-Dec 2025)
+
+**Question 1.** **What is the 32-bit IEEE 754 single-precision floating-point binary representation of the decimal number 23?**\
+a) 0 10000011 01110000000000000000000\
+b) 0 11000011 01111000000000000000000\
+c) 1 10000011 01110000000000000000000\
+d) 0 11000011 01110000000000000000000
+
+[**View Answers**](https://my.progiez.com/courses/digital-circuits-nptel-assignment-answers/)
+
+***
+
+**Question 2.** **Express –45.75 in a 14-bit floating-point format (1 sign bit, 5-bit exponent with bias 15, 8-bit mantissa):**\
+a) 11010101111000\
+b) 11010001111000\
+c) 11011001111000\
+d) 11011100111000
+
+[**View Answers**](https://my.progiez.com/courses/digital-circuits-nptel-assignment-answers/)
+
+***
+
+**Question 3.** **Which of the following represents +0 and -0 distinctly?**\
+a) Both sign magnitude and 1’s complement representations\
+b) Both sign magnitude and 2’s complement representations\
+c) 1’s complement representations only\
+d) 2’s complement representations only
+
+[**View Answers**](https://my.progiez.com/courses/digital-circuits-nptel-assignment-answers/)
+
+***
+
+**Question 4.** **Given a 32-bit IEEE 754 number, the decimal value closest is:**\
+a) 5.25\
+b) 6.75\
+c) 5.75\
+d) 6.25
+
+[**View Answers**](https://my.progiez.com/courses/digital-circuits-nptel-assignment-answers/)
+
+***
+
+**Question 5.** **For F(A,B,C,D)= AB+ACD, which of the following contains all minterms?**\
+a) {m11, m12, m13, m14}\
+b) {m11, m12, m13, m14, m15}\
+c) {m12, m13, m14, m15}\
+d) {m8, m9, m11, m15}
+
+[**View Answers**](https://my.progiez.com/courses/digital-circuits-nptel-assignment-answers/)
+
+***
+
+**Question 6.** **Decimal equivalent of (11000000101000…) IEEE 754 single-precision:**\
+a) -5.05\
+b) -5.02\
+c) -5.0\
+d) -5.1
+
+[**View Answers**](https://my.progiez.com/courses/digital-circuits-nptel-assignment-answers/)
+
+***
+
+**Question 7.** **F(A,B,C)=Σ(1,2,4,6). Its Product of Maxterms form:**\
+a) Π(0, 3, 5, 7)\
+b) Π(1, 2, 4, 6)\
+c) Π(0, 1, 2, 3)\
+d) Π(3, 5, 7)
+
+[**View Answers**](https://my.progiez.com/courses/digital-circuits-nptel-assignment-answers/)
+
+***
+
+**Question 8.** **Sum of 12 + 1.25 in 14-bit floating-point (1 sign, 5-bit exponent, 8-bit mantissa):**\
+a) 01001010101000\
+b) 01001100000000\
+c) 01000111101000\
+d) 01001110101000
+
+[****See also**  **Digital Circuits Week 6 Nptel Assignment Answers****](https://progiez.com/digital-circuits-week-6-nptel-assignment-answers)
+
+[**View Answers**](https://my.progiez.com/courses/digital-circuits-nptel-assignment-answers/)
+
+***
+
+**Question 9.** **For F(x,y,z)=Σ(1,2,4,6), equivalent Product of Sums:**\
+a) (x + y + z)(x + ȳ + z)(x̄ + y + z)(x̄ + ȳ + z)\
+b) (x̄ + ȳ + z̄)(x̄ + y + z̄)(x + ȳ + z̄)(x + y + z̄)\
+c) (x + y + z̄)(x + ȳ + z̄)(x̄+ y + z̄)(x̄+ ȳ + z̄)\
+d) (x + y + z)(x + ȳ + z)(x̄ + y + z̄)(x̄ + ȳ + z)
+
+[**View Answers**](https://my.progiez.com/courses/digital-circuits-nptel-assignment-answers/)
+
+***
+
+**Question 10.** **Simplified Boolean function of F(A,B,C)=A B̄ C + A B C̄ + A B C + A B̄ C̄:**\
+a) A\
+b) A(B + C)\
+c) A(C + B)\
+d) A(B ⊕ C)
+
+[**View Answers**](https://my.progiez.com/courses/digital-circuits-nptel-assignment-answers/)
+
+
+
 Digital Circuits Week 2 Nptel Assignment Answers
 
 
