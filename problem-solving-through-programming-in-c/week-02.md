@@ -2,7 +2,124 @@
 
 Are you looking for NPTEL Problem Solving Through Programming In C Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Problem Solving Through Programming In C course. We provide detailed solutions to help you complete your assignments efficiently.
 
-![Problem Solving Through Programming In C Week 2 Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*KGKglJEVoCbX1CiTlASjMg.jpeg)
+![Problem Solving Through Programming In C Week 2 Answers](https://miro.medium.com/v2/resize:fit:875/1*KGKglJEVoCbX1CiTlASjMg.jpeg)
+
+## _Problem Solving Through Programming In C Week 2 Answers (July-Dec 2025)_
+
+***
+
+**Question 1.** **What is the correct way to declare a constant in C?**\
+(a) int const a;\
+(b) constant int a;\
+(c) #define a\
+(d) Both (a) and (c)
+
+[**View Answer**](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 2.** **What will be the output of the following code snippet? `printf("%d", 5 == 5);`**\
+(a) 5\
+(b) 0\
+(c) 1\
+(d) True
+
+[**View Answer**](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 3.** **What is the size of an ‘int’ data type in C?**\
+(a) 2 bytes\
+(b) Depends on the compiler\
+(c) 4 bytes\
+(d) 1 byte
+
+[**View Answer**](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 4.** **If an integer requires two bytes of storage, what is the maximum value of an unsigned integer in C?**\
+(a) 2¹⁵ – 1\
+(b) 2¹⁶ – 1\
+(c) 2¹⁵\
+(d) 2¹⁶
+
+[**View Answer**](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 5.** **What is typecasting in C?**\
+(a) Assigning a value to a variable\
+(b) Converting a variable from one data type to another\
+(c) Defining a new data type\
+(d) Initializing a variable with a constant value
+
+[**View Answer**](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 6.** _(Output-based question)_
+
+(a) 10 5\
+(b) 5 10\
+(c) 0 15\
+(d) Compilation error
+
+[**View Answer**](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 7.** _(Output-based question)_
+
+(a) 25\
+(b) 13\
+(c) 11\
+(d) Compilation error
+
+[**View Answer**](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 8.** **What is the purpose of the ‘return’ statement in C?**\
+(a) To terminate a loop\
+(b) To end a program\
+(c) To exit a function and return a value\
+(d) To declare a variable
+
+[**View Answer**](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 9.** **What will happen if you try to store a value beyond the range of the declared data type of a variable in C?**\
+(a) Compile-time error\
+(b) Run-time error\
+(c) Data loss or wrap around\
+(d) No error
+
+[**View Answer**](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 10.** **In the following C code, what will be the correct logical operator in the blanks provided to get the output as “True”?**
+
+    #include <stdio.h>
+    int main ()
+    {
+        int x = 4, y = 5;
+        if (x __ y)
+            printf("True");
+        else
+            printf("False");
+        return 0;
+    }
+
+(a) `== , !=`\
+(b) `&& , ==`\
+(c) `== =`\
+(d) `<>`
+
+[**View Answer**](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
 
 ## _Problem Solving Through Programming In C Week 2 Answers (Jan-Apr 2025)_
 
