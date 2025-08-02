@@ -4,6 +4,141 @@ Are you looking for NPTEL Software Engineering Week 02 Assignment Answers? This 
 
 ![Software Engineering Nptel Week 2 Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*efm8va2AlEISk2aO-YBQ3A.jpeg)
 
+## _Software Engineering Nptel Week 2 Assignment Answers_ (July-Dec 2025)
+
+***
+
+**Question 1.** **Which of the following are milestones in a project?**
+
+- a. Phase entry
+- b. Phase exit
+- c. Use of abstraction
+- d. Use of decomposition
+- e. Project completion
+
+[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)
+
+***
+
+**Question 2.** **Which one of the following correctly justifies the following fact: “The later the phase in which a defect gets detected, the more expensive is its removal.”?**
+
+- a. Early effort towards defect removal results in less interest outgo
+- b. Inflationary pressure on the economy amplifies the defect removal cost with time
+- c. A larger amount of rework is required for late error removal
+- d. Difficulty in understanding a work product that was completed some time back
+- e. Structure of software degrades with delayed correction
+
+[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)
+
+***
+
+**Question 3.** **Which of the following activities are typically carried out during the feasibility study of a software project that a software development organization intends to bid?**
+
+- a. Work out an overall understanding of the problem.
+- b. Formulate different solution strategies.
+- c. Determine the most acceptable solution strategies
+- d. Work out and complete the requirements specification document
+- e. Review the requirements specification document
+
+[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)
+
+***
+
+**Question 4.** **Which of the following are types of maintenance that are undertaken for a software product?**
+
+- a. Regression testing
+- b. Corrective maintenance
+- c. Perfective maintenance
+- d. Adaptive maintenance
+- e. Performance testing
+- f. Functional testing
+
+[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)
+
+**_**These are Software Engineering Nptel Week 2 Assignment Answers**_**
+
+***
+
+**Question 5.** **Which of the following can be expected when commercial software development is carried out using the build-and-fix model of software development?**
+
+- a. Effort increases exponentially with the size of the software being developed
+- b. The cost of development increases exponentially with the size of the software being developed
+- c. Time to develop the software increases exponentially with the size of the software being developed
+- d. Effort increases exponentially, whereas the cost increases linearly with the size of the software being developed
+- e. Effort increases exponentially, whereas the time to develop increases linearly with the size of the software being developed
+- f. The development project would suffer from “99% complete” syndrome
+
+[****See also**  **Software Engineering Nptel Week 4 Assignment Answers****](https://progiez.com/software-engineering-nptel-week-4-assignment-answers)
+
+[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)
+
+***
+
+**Question 6.** **The waterfall model does not possess which one of the following characteristics?**
+
+- a. Customer requirements change requests are easily accommodated.
+- b. Easy to understand the development process, and easy to use, especially by inexperienced project team members
+- c. Milestones are well understood by the team
+- d. Provides requirements stability during development
+- e. Facilitates strong management control
+
+[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)
+
+***
+
+**Question 7.** **Which of the following are major shortcomings of the waterfall model when used in present-day software development projects?**
+
+- a. Feasibility study conducted too early
+- b. An early and complete requirements specification is required
+- c. Testing conducted at three levels: unit, integration, and system levels
+- d. Review of documents required
+- e. Code review conducted before unit testing
+- f. One-shot software delivery is made to the customer at the end of the project
+
+[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)
+
+**_**These are Software Engineering Nptel Week 2 Assignment Answers**_**
+
+***
+
+**Question 8.** **In a waterfall model-based software development, when is code review carried out?**
+
+- a. After coding is complete and before the code is compiled.
+- b. After coding is complete and the code compiles.
+- c. After the code compiles and unit testing is completed
+- d. After coding as well as system testing are completed
+- e. Midway during code writing
+- f. After unit testing is complete
+
+[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)
+
+***
+
+**Question 9.** **Which of the following are usually part of the exit criteria for the coding phase in the iterative waterfall model of software development?**
+
+- a. Unit testing is complete
+- b. Code review is complete
+- c. Integration testing is complete
+- d. Code documentation is complete
+- e. System testing is complete
+- f. Module specification is complete
+
+[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)
+
+***
+
+**Question 10.** **In the V model of software development, in which phase of development are the integration test cases designed?**
+
+- a. Requirements Analysis and Specification
+- b. High-level Design
+- c. Detailed Design
+- d. Coding
+- e. Unit testing
+- f. Integration testing
+
+[**View Answer**](https://my.progiez.com/courses/software-engineering-nptel-answers/)
+
+
 Software Engineering Nptel Week 2 Assignment Answers
 
 
