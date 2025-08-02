@@ -4,7 +4,106 @@ Are you looking for NPTEL Introduction To Internet Of Things Week 02 Assignment 
 
 ![Introduction To Internet Of Things Week 2 Nptel Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*ICtzqCWKxCvRa-STsUlD4A.jpeg)
 
-Introduction To Internet Of Things Week 2 Nptel Assignment Answers
+## _Introduction To Internet Of Things Week 2 Nptel Answers (July-Dec 2025)_
+
+***
+
+**Question 1.** **The full form of MQTT is**\
+a. Message Queue Telephone Transmission\
+b. Message Query Telemetry Transport\
+c. Message Queue Telemedicine Transport\
+d. None of these
+
+[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 2.** **Which of the following is NOT a method in MQTT?**\
+a. Break\
+b. Stick\
+c. Run\
+d. All of these
+
+[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 3.** **Which of the following is/are component/components of MQTT?**\
+a. Publishers\
+b. Subscribers\
+c. Brokers\
+d. All of these
+
+[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 4.** **SMQTT is an extension of MQTT which uses lightweight attribute-based encryption. It has three main stages.**\
+a. True\
+b. False
+
+[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 5.** **The OSI model has layers.**\
+a. 6\
+b. 8\
+c. Both (a) and (b)\
+d. None of these
+
+[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 6.** **The two sub-layers of CoAP are –**\
+a. Messaging and Holding\
+b. Messaging and Backoff\
+c. Messaging and Teardown\
+d. None of these
+
+[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 7.** **The full form of AMQP in IoT protocol is:**\
+a. Another Message Queuing Protocol\
+b. Anchored Message Queuing Protocol\
+c. Adjoint Message Queuing Protocol\
+d. None of these
+
+[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 8.** **XMPP uses the architecture:**\
+a. Publish-subscribe\
+b. Client-server\
+c. Both (a) and (b)\
+d. Neither (a) nor (b)
+
+[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 9.** **How many message delivery guarantee modes are there in AMQP?**\
+a. 2\
+b. 3\
+c. 4\
+d. None of these
+
+[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 10.** **Which of the following is/are NOT an AMQP frame type?**\
+a. Open\
+b. Close\
+c. Random\
+d. None of these
+
+[**View Answer**](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
 
 ## _Introduction To Internet Of Things Week 2 Nptel Answers (Jan-Apr 2025)_
 
