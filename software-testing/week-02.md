@@ -3,6 +3,102 @@
 Are you looking for NPTEL Software Testing Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Software Testing course. We provide detailed solutions to help you complete your assignments efficiently.
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*WgIWET7k7gn7AK_nT5f9Tw.jpeg)
+
+## _Software Testing NPTEL Week 2 Assignment Answers (July-Dec 2025)_
+
+***
+
+**Question 1.** **Which of the following best defines an infeasible test path?**\
+a) An infeasible test path is one that does not exist in the graph.\
+b) An infeasible test path is one that can be executed by a failed test case.\
+c) **An infeasible test path is one that cannot be executed by any test case.**\
+d) An infeasible test path is one that does not start at an initial vertex or end at a final vertex.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 2.** **How are test requirements defined and met in graphs-based structural coverage criteria?**\
+a) Test requirements are basically the same as test paths, they are given as test paths.\
+b) **Test requirements are defined as properties of test paths and they are met by using test paths that satisfy each test requirement.**
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 3.** **In control flow graphs, which of the terms below represents a basic block?**\
+a) **A basic block is a sequence of statements such that there is no branching in the sequence.**\
+b) A basic block is any sequence of statements that occurs as a path in the control flow graph.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 4.** **Consider a control flow graph G corresponding to a method and a strongly connected component S in G. Which of the following does S represent in the code that G corresponds to?**\
+a) S represents the entire method in case the method does not have loops.\
+b) **S represents a loop in the method.**
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+**_**These are Software Testing NPTEL Week 2 Assignment Answers**_**
+
+***
+
+**Question 5.** **Which of the algorithms will return the shortest paths between two nodes in a control flow graph?**\
+a) **Breadth first search.**\
+b) Depth first search.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 6.** **State true or false: There are test paths that achieve node coverage but not edge coverage.**\
+a) **True.**\
+b) False.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 7.** **Which of the following test paths achieve edge coverage?**\
+a) Test path \[1, 2, 3, 2, 4].\
+b) Test paths \[1, 2, 4] and \[1, 2, 3, 2].\
+c) **Both the paths above achieve edge coverage.**\
+d) None of the above two paths achieve edge coverage.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+**_**These are Software Testing NPTEL Week 2 Assignment Answers**_**
+
+***
+
+**Question 8.** **State yes or no: In the graph above, the test path \[1, 2, 3, 2, 3, 2, 4] tours the pair of edges \[3, 2, 3].**\
+a) **Yes.**\
+b) No.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+**_**These are Software Testing NPTEL Week 2 Assignment Answers**_**
+
+***
+
+**Question 9.** **The test paths {\[1, 2, 4], \[1, 2, 3, 2, 3, 2, 4]} achieve which of the following coverage criteria?**\
+a) Node coverage only.\
+b) Edge coverage only.\
+c) Node and edge coverage only.\
+d) **Edge pair coverage**
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 10.** **State true or false: The test path \[1, 2, 3, 2, 4] achieves edge coverage.**\
+a) **True.**\
+b) False.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+
 ## _Software Testing NPTEL Week 2 Assignment Answers ( Jan-Apr 2025 )_
 
 ***
