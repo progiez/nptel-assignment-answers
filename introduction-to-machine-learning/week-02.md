@@ -2,7 +2,108 @@
 
 Are you looking for NPTEL Introduction To Machine Learning Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Introduction To Machine Learning course. We provide detailed solutions to help you complete your assignments efficiently.
 
-![Introduction to Machine Learning Nptel Week 2 Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*nh2U8GRaYnyFlaeRQVDh6g.jpeg)
+![Introduction to Machine Learning Nptel Week 2 Answers](https://miro.medium.com/v2/resize:fit:875/1*nh2U8GRaYnyFlaeRQVDh6g.jpeg)
+
+## __Introduction To Machine Learning Week 2 Nptel Answers__ (July-Dec 2025)
+
+***
+
+**Q1.** **Which of the following are supervised learning problems?** _(Multiple Correct)_\
+a) Clustering Spotify users based on their listening history\
+b) Weather forecast using data collected by a satellite\
+c) Predicting tuberculosis using patient’s chest X-Ray\
+d) Training a humanoid to walk using a reward system
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Q2.** **Which of the following are regression tasks?**\
+a) Predicting the outcome of an election\
+b) Predicting the weight of a giraffe based on its weight\
+c) Predicting the emotion conveyed by a sentence\
+d) Identifying abnormal data points
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Q3.** **Which of the following are classification tasks?** _(Multiple Correct)_\
+a) Predicting the outcome of an election\
+b) Predicting the weight of a giraffe based on its weight\
+c) Predicting the emotion conveyed by a sentence\
+d) Identifying abnormal data points
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Q4.** **Which of the two functions overfit the training data?**\
+a) Both functions F1 & F2\
+b) Function F1\
+c) Function F2\
+d) None of them
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Q5.** **Which of the following two functions will yield higher training error?**\
+a) Function F1\
+b) Function F2\
+c) Both functions F1 & F2 will have the same training error\
+d) Cannot be determined
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Q6.** **What does the term ‘policy’ refer to in reinforcement learning?**\
+a) A set of rules governing the environment\
+b) The reward function\
+c) The initial state of the environment\
+d) The strategy the agent follows to choose actions
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Q7.** **Given the dataset below, for k = 3, use KNN regression to predict a new data-point (2,3).**\
+(Data points: 2.0, 2.6, 2.8, 3.2)
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Q8.** **For any dataset, what happens to the bias of K-nearest classifiers when increasing K?**\
+a) The bias of the classifier decreases\
+b) The bias of the classifier does not change\
+c) The bias of the classifier increases\
+d) Cannot be determined
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Q9.** **Bias and variance are given by:**\
+a) E\[f̂(x)] − f(x), E\[(E\[f̂(x)] − f̂(x))²]\
+b) E\[f̂(x)] − f(x), E\[(E\[f̂(x)] − f̂(x))]²\
+c) (E\[f̂(x)] − f(x))², E\[(E\[f̂(x)] − f̂(x))²]\
+d) (E\[f̂(x)] − f(x))², E\[(E\[f̂(x)] − f̂(x))]²
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Q10.** **Which of the following statements are FALSE regarding bias and variance?**\
+a) Models which overfit have a high bias\
+b) Models which overfit have a low bias\
+c) Models which underfit have a high variance\
+d) Models which underfit have a low variance
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+
 ## _Introduction to Machine Learning Nptel Week 2 Answers (Jan-Apr 2025)_
 
 ***
