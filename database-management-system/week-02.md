@@ -3,6 +3,97 @@
 Are you looking for NPTEL Database Management System Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Database Management System course. We provide detailed solutions to help you complete your assignments efficiently.
 
 ![Nptel Database Management System Assignment 2 Answers](https://miro.medium.com/v2/resize:fit:875/1*nw-gOvlsQ1d6ph1xPn-prQ.jpeg)
+
+## _Nptel Database Management System Assignment 2 Answers( July-Dec 2025)_
+
+***
+
+**Question 1.** **Consider two relations StudentInfo and CourseEnrollment… Identify the operation ©.**\
+a) Natural join\
+b) Natural left outer join\
+c) Natural right outer join\
+d) Natural full outer join
+
+[**View Answers**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 2.** **How many tuples will be returned by the query on GameInventory?**\
+a) 1\
+b) 2\
+c) 3\
+d) 4
+
+[**View Answers**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 3.** **Which game\_id will not appear in the output of:\
+`SELECT MIN(game_id) FROM GameInventory GROUP BY rarity;`**\
+a) G101\
+b) G205\
+c) G307\
+d) G503
+
+[**View Answers**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 4.** **Which emp\_id will appear in the output of the first query but not in the second?**\
+a) E101\
+b) E205\
+c) E307\
+d) E412
+
+[**View Answers**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 5.** **Which course\_code appears in the output of both queries?**\
+a) MATH202\
+b) PHYS101\
+c) ECE209\
+d) CS101
+
+[**View Answers**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 6.** **Identify the correct `CREATE` statement for StudentRecords.**\
+a) `PRIMARY KEY (student_code)`\
+b) `PRIMARY KEY (course)`\
+c) `PRIMARY KEY (student_code, department)`\
+d) `PRIMARY KEY (department, year)`
+
+[**View Answers**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 7.** **Given RiverDetails relation, what will be the output of the max-length query?**\
+[**View Answers**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 8.** **Identify the correct SQL query to get rivers from China or Egypt.**\
+a) `WHERE Country = 'China' OR 'Egypt'`\
+b) `WHERE Country BETWEEN 'China' AND 'Egypt'`\
+c) `WHERE Country IN ('China', 'Egypt')`\
+d) `WHERE Country LIKE 'Ch%' OR 'Egh'`
+
+[**View Answers**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+**Question 9.** **Identify the correct SQL query to find RiverName and Country for rivers with length between 2500 and 3000.**\
+a) `WHERE Length IN (2500, 3000)`\
+b) `WHERE Length AS (2500, 3000)`\
+c) `WHERE Length BETWEEN 2500 AND 3000`\
+d) `WHERE Length BETWEEN (2500, 3000)`
+
+[**View Answers**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+
+
 ## _Nptel Database Management System Assignment 2 Answers( Jan-Apr 2025)_
 
 ***
