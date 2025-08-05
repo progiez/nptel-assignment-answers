@@ -8,100 +8,94 @@ Are you looking for NPTEL Introduction To Machine Learning Week 02 Assignment An
 
 ***
 
-**Q1.** **Which of the following are supervised learning problems?** _(Multiple Correct)_\
-a) Clustering Spotify users based on their listening history\
-b) Weather forecast using data collected by a satellite\
-c) Predicting tuberculosis using patient’s chest X-Ray\
-d) Training a humanoid to walk using a reward system
+**Question 1.**\
+Typically, linear regression tends to underperform compared to k-nearest neighbor algorithms when dealing with high-dimensional input spaces.
 
-[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+a) True\
+b) False
 
-***
-
-**Q2.** **Which of the following are regression tasks?**\
-a) Predicting the outcome of an election\
-b) Predicting the weight of a giraffe based on its weight\
-c) Predicting the emotion conveyed by a sentence\
-d) Identifying abnormal data points
-
-[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
 
 ***
 
-**Q3.** **Which of the following are classification tasks?** _(Multiple Correct)_\
-a) Predicting the outcome of an election\
-b) Predicting the weight of a giraffe based on its weight\
-c) Predicting the emotion conveyed by a sentence\
-d) Identifying abnormal data points
+**Question 2.**\
+Given the following dataset, find the uni-variate regression function that best fits the dataset.
 
-[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+a) f(x) = 1 × x + 4\
+b) f(x) = 1 × x + 5\
+c) f(x) = 1.5 × x + 3\
+d) f(x) = 2 × x + 1
 
-***
-
-**Q4.** **Which of the two functions overfit the training data?**\
-a) Both functions F1 & F2\
-b) Function F1\
-c) Function F2\
-d) None of them
-
-[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+Answer:
 
 ***
 
-**Q5.** **Which of the following two functions will yield higher training error?**\
-a) Function F1\
-b) Function F2\
-c) Both functions F1 & F2 will have the same training error\
-d) Cannot be determined
+**Question 3.**\
+Given a training data set of 500 instances, with each input instance having 6 dimensions and each output being a scalar value, the dimensions of the design matrix used in applying linear regression to this data is:
 
-[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+a) 500 × 6\
+b) 500 × 7\
+c) 500 × 62\
+d) None of the above
 
-***
-
-**Q6.** **What does the term ‘policy’ refer to in reinforcement learning?**\
-a) A set of rules governing the environment\
-b) The reward function\
-c) The initial state of the environment\
-d) The strategy the agent follows to choose actions
-
-[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
 
 ***
 
-**Q7.** **Given the dataset below, for k = 3, use KNN regression to predict a new data-point (2,3).**\
-(Data points: 2.0, 2.6, 2.8, 3.2)
+**Question 4.**\
+Assertion A: Binary encoding is usually preferred over One-hot encoding to represent categorical data (e.g., colors, gender etc).\
+Reason R: Binary encoding is more memory efficient when compared to One-hot encoding.
 
-[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+a) Both A and R are true and R is the correct explanation of A\
+b) Both A and R are true but R is not the correct explanation of A\
+c) A is true but R is false\
+d) A is false but R is true
 
-***
-
-**Q8.** **For any dataset, what happens to the bias of K-nearest classifiers when increasing K?**\
-a) The bias of the classifier decreases\
-b) The bias of the classifier does not change\
-c) The bias of the classifier increases\
-d) Cannot be determined
-
-[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
 
 ***
 
-**Q9.** **Bias and variance are given by:**\
-a) E\[f̂(x)] − f(x), E\[(E\[f̂(x)] − f̂(x))²]\
-b) E\[f̂(x)] − f(x), E\[(E\[f̂(x)] − f̂(x))]²\
-c) (E\[f̂(x)] − f(x))², E\[(E\[f̂(x)] − f̂(x))²]\
-d) (E\[f̂(x)] − f(x))², E\[(E\[f̂(x)] − f̂(x))]²
+**Question 5.**\
+Select the TRUE statement:
 
-[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+a) Subset selection methods are more likely to improve test error by only focussing on the most important features and by reducing variance in the fit.\
+b) Subset selection methods are more likely to improve train error by only focussing on the most important features and by reducing variance in the fit.\
+c) Subset selection methods are more likely to improve both test and train error by focussing on the most important features and by reducing variance in the fit.\
+d) Subset selection methods don’t help in performance gain in any way.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
 
 ***
 
-**Q10.** **Which of the following statements are FALSE regarding bias and variance?**\
-a) Models which overfit have a high bias\
-b) Models which overfit have a low bias\
-c) Models which underfit have a high variance\
-d) Models which underfit have a low variance
+**Question 6.**\
+Rank the 3 subset selection methods in terms of computational efficiency:
 
-[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+a) Forward stepwise selection, best subset selection, and forward stagewise regression.\
+b) Forward stepwise selection, forward stagewise regression and best subset selection.\
+c) Best subset selection, forward stagewise regression and forward stepwise selection.\
+d) Best subset selection, forward stepwise selection and forward stagewise regression.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Question 7.**\
+Choose the TRUE statements from the following: (Multiple correct choices)
+
+a) Ridge regression since it reduces the coefficients of all variables, makes the final fit a lot more interpretable.\
+b) Lasso regression since it doesn’t deal with a squared power is easier to optimize than ridge regression.\
+c) Ridge regression has a more stable optimization than lasso regression.\
+d) Lasso regression is better suited for interpretability than ridge regression.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Question 8.**\
+Which of the following statements are TRUE?\
+Let xix\_i be the i-th datapoint in a dataset of N points. Let vv represent the first principal component of the dataset. (Multiple answer questions)
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
 
 
 ## _Introduction to Machine Learning Nptel Week 2 Answers (Jan-Apr 2025)_
