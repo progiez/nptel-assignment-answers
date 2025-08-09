@@ -4,6 +4,117 @@ Are you looking for NPTEL Data Science For Engineers Week 03 Assignment Answers?
 
 ## _Nptel Data Science for Engineers Assignment 3 Answers (Jan-Apr 2025)_
 
+## _Nptel Data Science for Engineers Assignment 3 Answers (July-Dec 2025)_
+
+***
+
+**Question 1. Sumit wants to contact one of his friends, but he remembers only the first 9 of the 10 digits of the contact number. He is sure that the last digit of the contact number is an odd number. He selects an odd number randomly. If the random variable X denotes the last digit of the contact number, then calculate Var(X).**
+
+a) 5\
+b) 8\
+c) 33\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**Question 2. Suppose X ∼ Normal(µ, 4). For n = 20 iid samples of X, the observed sample mean is 5.2. What conclusion would a z-test reach if the null hypothesis assumes µ = 5 (against an alternative hypothesis µ ≠ 5) at a significance level of α = 0.05? Use F⁻¹z(0.025) = −1.9599**
+
+a) Accept H₀\
+b) Reject H₀
+
+[View Answers](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**Question 3. A box contains 8 items out of which 2 are defective. A sample of 5 items is to be selected randomly (without replacement) from the box. If the random variable X represents the number of defective items in a selection of 5 items, then find E(X). (Enter the answer correct to 2 decimal places)**
+
+a) 1.25\
+b) 5\
+c) 0.4\
+d) 1.3
+
+[View Answers](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**Question 4. Suppose X ∼ Normal(µ, 9). For n = 100 iid samples of X, the observed sample mean is 11.8. What conclusion would a z-test reach if the null hypothesis assumes µ = 10.5 (against an alternative hypothesis µ ≠ 10.5)?**
+
+a) Accept H₀ at a significance level of 0.10\
+b) Reject H₀ at a significance level of 0.10\
+c) Accept H₀ at a significance level of 0.05\
+d) Reject H₀ at a significance level of 0.05
+
+[View Answers](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**Question 5. Let X and Y be two independent random variables with Var(X) = 9 and Var(Y) = 3, find Var(4X − 2Y + 6).**
+
+a) 100\
+b) 140\
+c) 156\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**Question 6. The covariance between two random variables X and Y is −3.749, their variances are given by 3 and 5. Compute the correlation coefficient.**
+
+a) –0.854\
+b) 0.561\
+c) –0.968\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**Question 7. When will you reject the Null hypothesis?**
+
+a) p-value greater than α\
+b) p-value less than α\
+c) p-value equal to α\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**Question 8. A sample of N observations are independently drawn from a normal distribution. The sample variance follows**
+
+a) Normal distribution\
+b) Chi-square with N degrees of freedom\
+c) Chi-square with N − 1 degrees of freedom\
+d) t-distribution with N − 1 degrees of freedom
+
+[View Answers](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**Question 9. A car manufacturer purchases car batteries from two different suppliers. Supplier X provides 55% of the batteries and supplier Y provides the rest. 5% of all batteries from supplier X are defective and 4% of all batteries from supplier Y are defective. You select a battery from the bulk and you found it to be defective. What is the probability that it is from Supplier X?**
+
+a) 0.0455\
+b) 0.455\
+c) 0.604\
+d) 0.018
+
+[View Answers](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+**Question 10. Which one of the following is best measure of central tendency for categorical data?**
+
+a) Mean\
+b) Median\
+c) Mode\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+
 ***
 
 **1) Sumit wants to contact one of his friends, but he remembers only the first 9 of the 10 digits of the contact number. He is sure that the last digit of the contact number is an odd number. He selects an odd number randomly. If the random variable X denotes the last digit of the contact number, then calculate Var(X).**\
