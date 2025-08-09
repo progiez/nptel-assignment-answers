@@ -5,6 +5,159 @@ Are you looking for NPTEL Introduction To Industry 4.0 And Industrial IIoT Week 
 
 ![Introduction to Industry 4 and Industrial IoT Week 3 Assignment Answers (July-Dec 2025)](https://miro.medium.com/v2/resize:fit:875/1*px0olF6qs6lXY0AhXzcoSw.jpeg)
 
+## _Introduction to Industry 4 and Industrial IoT Week 3 Assignment Answers _(July-Dec 2025)
+
+***
+
+**Question 1. What distinguishes CPS from traditional embedded systems?**\
+a) CPS are always smaller in size\
+b) CPS have limited computational power\
+c) CPS are networked set of embedded systems and not resource-constrained\
+d) CPS rely solely on manual controls
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 2. Fill in the blanks. Reactive Computation, as a feature of Cyber-Physical Systems, primarily involves .**\
+a) Performing computations only when explicitly commanded by a user.\
+b) Interacting with the environment in an ongoing manner through observed inputs and outputs.\
+c) Executing a fixed set of operations without external influence.\
+d) Storing large amounts of data for later analysis.
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 3. A smart traffic management system that monitors traffic signals and cameras in real-time to optimize traffic flow and provide transit signal priority for emergency vehicles is an example of CPS application in which domain?**\
+a) Healthcare\
+b) Smart Grid\
+c) Transportation\
+d) Industry
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 4. Which of the following are the four key parts that enable collaboration productivity in Industry 4.0?**\
+a) IT Proliferation, Single Source of Truth, Industrialization, Coordination\
+b) Hardware, Software, Networks, People\
+c) Planning, Execution, Monitoring, Control\
+d) Design, Development, Testing, Deployment
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 5. What is identified as a major challenge for PLM in Industry 4.0?**\
+a) Lack of skilled workers\
+b) High energy consumption\
+c) Short product lifecycle and increasing outsourcing\
+d) Limited internet connectivity
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 6. How does Augmented Reality (AR) function in a user’s environment?**\
+a) Replaces the real world with a fictional setting\
+b) Adds digital elements into the actual environment\
+c) Creates a full simulation with no real-world connection\
+d) Only uses audio input
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 7. Which sensor modalities are supported by Augmented Reality?**\
+a) Auditory only\
+b) Tactile only\
+c) Visual, auditory, and haptic\
+d) Taste and smell
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 8. According to Patterson, what is Artificial Intelligence (AI)?**\
+a) Deals with studying and creation of computer systems exhibiting some form of intelligent behavior\
+b) A method of transmitting wireless data\
+c) A system that replicates human hardware\
+d) A mechanical replacement for programming languages
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 9. Which of the following is NOT listed as a scope of AI?**\
+a) Games\
+b) Data Entry\
+c) Natural Language Processing (NLP)\
+d) Robotics
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 10. Which of the following is listed as a challenge of AI in IIoT?**\
+a) Increasing efficiency\
+b) Saving costs\
+c) Understanding data\
+d) Boosting resources
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 11. The statement “Data whose meaning is constantly changing” best describes which characteristic of Big Data?**\
+a) Variety\
+b) Veracity\
+c) Variability\
+d) Visualization
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 12. Which of the following is a notable distributed file system derived from the open-source codes of GFS, mentioned in the context of Big Data storage?**\
+a) HDFS\
+b) NoSQL\
+c) SQL\
+d) RDBMS
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 13. Why are traditional Data Warehouse (DW) architectures generally not suitable for Big Data applications?**\
+a) They are designed for unstructured data.\
+b) They lack the ability to perform parallel processing.\
+c) They cannot handle the characteristics that Big Data possess, requiring distributed, parallel performing, scale-out frameworks\
+d) They are too expensive for Big Data.
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 14. Fill in the blanks. \_\_\_\_\_\_\_\_ acts as the interface for the different applications during the entire lifecycle management of the product.**\
+a) Product Lifecycle Management\
+b) Customer Relationship Management\
+c) Enterprise Resource Planning\
+d) Manufacturing Execution System
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+***
+
+**Question 15. Which of the following statements is incorrect about Big Data?**\
+a) Big data analytics can process real-time data from IoT devices and store them using various storage schemes.\
+b) Big data consists only of structured datasets generated by IoT applications.\
+c) The classification of data as big data depends on characteristics such as volume, variety, value, velocity, and veracity.\
+d) Big data can be used to analyze patterns in network behavior, customer experiences, and connectivity issues.
+
+[View Answers](https://my.progiez.com/courses/nptel-introduction-to-industry-4-0-and-industrial-internet-of-things-answers/)
+
+
 ## _Introduction to Industry 4 and Industrial IoT Week 3 Assignment Answers _(Jan-Apr 2025)
 
 ***
