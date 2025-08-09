@@ -2,6 +2,99 @@
 
 Are you looking for NPTEL Introduction To Machine Learning Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Introduction To Machine Learning course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## _Introduction to Machine Learning Nptel Week 3 Answers (July-Dec 2025)_
+
+***
+
+**Question 1. For a two-class problem using discriminant functions (δₖ – discriminant function for class k), where is the separating hyperplane located?**\
+a) Where δ₁ > δ₂\
+b) Where δ₁ < δ₂\
+c) Where δ₁ = δ₂\
+d) Where δ₁ + δ₂ = 1
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Question 2. Given the following dataset consisting of two classes, A and B, calculate the prior probability of each class. What are the prior probabilities of class A and class B?**\
+a) P(A) = 0.5, P(B) = 0.5\
+b) P(A) = 0.625, P(B) = 0.375\
+c) P(A) = 0.375, P(B) = 0.625\
+d) P(A) = 0.6, P(B) = 0.4
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Question 3. In a 3-class classification problem using linear regression, the output vectors for three data points are \[0.8, 0.3, -0.1], \[0.2, 0.6, 0.2], and \[-0.1, 0.4, 0.7]. To which classes would these points be assigned?**\
+a) 1, 2, 1\
+b) 1, 2, 2\
+c) 1, 3, 2\
+d) 1, 2, 3
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Question 4. If you have a 5-class classification problem and want to avoid masking using polynomial regression, what is the minimum degree of the polynomial you should use?**\
+a) 3\
+b) 4\
+c) 5\
+d) 6
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Question 5. Consider a logistic regression model where the predicted probability for a given data point is 0.4. If the actual label for this data point is 1, what is the contribution of this data point to the log-likelihood?**\
+a) -1.3219\
+b) -0.9163\
+c) +1.3219\
+d) +0.9163
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Question 6. What additional assumption does LDA make about the covariance matrix in comparison to the basic assumption of Gaussian class conditional density?**\
+a) The covariance matrix is diagonal\
+b) The covariance matrix is identity\
+c) The covariance matrix is the same for all classes\
+d) The covariance matrix is different for each class
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Question 7. What is the shape of the decision boundary in LDA?**\
+a) Quadratic\
+b) Linear\
+c) Circular\
+d) Can not be determined
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Question 8. For two classes C₁ and C₂ with within-class variances σ²w₁ = 1 and σ²w₂ = 4 respectively, if the projected means are µ′₁ = 1 and µ′₂ = 3, what is the Fisher criterion J(w)?**\
+a) 0.5\
+b) 0.8\
+c) 1.25\
+d) 1.5
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Question 9. Given two classes C₁ and C₂ with means µ₁ = \[2 3] and µ₂ = \[5 7] respectively, what is the direction vector w for LDA when the within-class covariance matrix Sw is the identity matrix I?**\
+a) \[4 3]\
+b) \[5 7]\
+c) \[0.7 0.7]\
+d) \[0.6 0.8]
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+
 
 ## _Introduction to Machine Learning Nptel Week 3 Answers (Jan-Apr 2025)_
 
