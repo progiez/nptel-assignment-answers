@@ -5,6 +5,99 @@ Are you looking for NPTEL Software Testing Week 03 Assignment Answers? This repo
 
 ![Software Testing NPTEL Week 3 Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*QgIciCusY_xaDsPl8b_JRQ.jpeg)
 
+## _Software Testing NPTEL Week 3 Assignment Answers ( July-Dec 2025 )_
+
+***
+
+**Question 1. Which of the following represents a basic block in a control flow graph?**\
+a) A basic block of statements is a set of all statements that are a part of a function that the control flow graph represents.\
+b) A basic block of statements is a sequence of statements such that if the first statement the sequence is executed then all the statements in the sequence will also be executed.\
+c) A basic block includes only conditional statements.\
+d) A basic block includes only loop constructs.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 2. Suppose there is a method that has a statement of the type `count++;`. Which of the following statements are correct regarding the data flow definition of `count`?**\
+a) The statement is a definition of count.\
+b) The statement is a use of count.\
+c) The statement is both a definition and use of count.\
+d) The statement is neither a definition nor a use of count.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 3. Consider a variable `x` of type `double` and suppose a method in Java has a statement `if(Math.log(x) >= 4.2)`. Will it be considered a definition of `x` or a use of `x`?**\
+a) The statement is a definition of x\
+b) The statement is a use of x
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 4. State true or false: Consider a variable `x` in a program. Not every definition of `x` will always reach a use.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 5. Which of the following best defines a du-path for a variable `x`?**\
+a) A du-path is a simple path from a definition of x to a use of x without any further definitions of x in-between.\
+b) A du-path is a path from a definition of x to a use of x without any further definitions of x in-between.\
+c) A du-path is a simple path from a definition of x to a use of x without any further uses of x in-between.\
+d) A du-path is a path from a definition of x to a use of x without any further uses of x in-between.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 6. State yes or no: We group du-paths with respect to a variable by their definitions.**\
+a) Yes\
+b) No
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 7. Is it true that the all-du-paths data flow coverage criterion subsumes prime path coverage?**\
+a) Yes\
+b) No
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 8. Which of the following statements are true when it comes to comparing traditional source code coverage criteria with graph-based coverage criteria?**\
+a) Node and statement coverage are the same, edge and branch coverage are the same.\
+b) Edge and decision coverage are the same.\
+c) Node coverage and branch coverage are the same.\
+d) Statement coverage and branch coverage are the same.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 9. Which of the following defines a linearly independent path of execution in a control flow graph?**\
+a) A path in which there are no branches.\
+b) A path which does not contain other paths within it.\
+c) A path that represents structural complexity of a program.\
+d) A path within a connected component.
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+***
+
+**Question 10. State true or false: Node and edge coverage, as test requirements for structural coverage over graphs, are given with the input graph itself.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/software-testing-nptel-assignment-answers/)
+
+
 ## _Software Testing NPTEL Week 3 Assignment Answers ( Jan-Apr 2025 )_
 
 ***
