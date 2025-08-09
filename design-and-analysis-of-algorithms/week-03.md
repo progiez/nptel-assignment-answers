@@ -2,6 +2,66 @@
 
 Are you looking for NPTEL Design and Analysis of Algorithms Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Design and Analysis of Algorithms course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Design and analysis of algorithms Week 3 Quiz Answers (July-Dec 2025)
+
+***
+
+**Question 1. A connected undirected graph G has 2775 edges. What can we say about n, the number of vertices in G?**
+
+a) 76 ≤ n ≤ 2775\
+b) 75 ≤ n ≤ 2775\
+c) 76 ≤ n ≤ 2776\
+d) 75 ≤ n ≤ 2776
+
+[View Answers](https://my.progiez.com/courses/design-and-analysis-of-algorithms-answers/)
+
+***
+
+**Question 2. An airline serves 1000 cities and runs 5500 direct flights each day between these cities. Which of the following is a good data structure to represent the collection of flights?**
+
+a) A 1000 × 1000 array A, where A\[i]\[j] = 1 if there is a direct flight from city i to city j and 0 otherwise.\
+b) A stack containing values (i, j) for each pair of cities i, j for which there is a direct flight from city i to city j.\
+c) A queue containing values (i, j) for each pair of cities i, j for which there is a direct flight from city i to city j.\
+d) A list containing values (i, j) for each pair of cities i, j for which there is a direct flight from city i to city j.
+
+[View Answers](https://my.progiez.com/courses/design-and-analysis-of-algorithms-answers/)
+
+***
+
+**Question 3. Suppose we obtain the following BFS tree rooted at node J for an undirected graph with vertices {A,B,C,D,E,F,G,H,I,J,K}. Which of the following cannot be an edge in the original graph?**
+
+a) (C, G)\
+b) (B, K)\
+c) (B, F)\
+d) (A, D)
+
+[****See also**  **Introduction to Operating Systems Nptel Week 3 Answers****](https://progiez.com/introduction-to-operating-systems-nptel-week-3-answers)
+
+[View Answers](https://my.progiez.com/courses/design-and-analysis-of-algorithms-answers/)
+
+***
+
+**Question 4. We are interested in topological orderings of the following DAG which satisfy the constraint that whenever 9 appears after 8, 2 must appear after 4. How many such orderings are there?**
+
+a) 12\
+b) 10\
+c) 9\
+d) 8
+
+[View Answers](https://my.progiez.com/courses/design-and-analysis-of-algorithms-answers/)
+
+***
+
+**Question 5. Applying for permits to put up a factory is an 11 step process with specific dependencies. Each step takes a week to complete. What is the minimum number of weeks required to get all the permits in place?**
+
+a) 4\
+b) 6\
+c) 8\
+d) 9
+
+[View Answers](https://my.progiez.com/courses/design-and-analysis-of-algorithms-answers/)
+
+
 ## Design and analysis of algorithms Week 3 Quiz Answers (Jan-Apr 2025)
 
 Course link: [Click here](https://onlinecourses.nptel.ac.in/noc25_cs23/course)
