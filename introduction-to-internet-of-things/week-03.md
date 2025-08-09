@@ -3,6 +3,153 @@
 Are you looking for NPTEL Introduction To Internet Of Things Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Introduction To Internet Of Things course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
+## _Introduction To Internet Of Things Week 3 Nptel Answers _(July-Dec 2025)
+
+***
+
+**Question 1. HART operates only in GHz ISM band.**\
+a) 23\
+b) 48\
+c) Both (a) and (b)\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 2. State whether the following statement is true or false.\
+Statement: The HART physical layer is derived from IEEE 802.15.4 protocol and operates only in 2.5 GHz ISM band.**\
+a) False\
+b) True
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 3. State whether the following statement is True or False.\
+Statement: Each node is supervised by the application manager and it guides them on when and where to send packets.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 4. \_\_\_\_\_\_\_ identifies channels consistently affected by interference and removes them from use.**\
+a) Channel hopping\
+b) Channel aggregating\
+c) Channel blacklisting\
+d) Frequency aggregating
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 5. State whether the following statement is true or false.\
+Statement: The Network Manager supervises each node in the network and guides them on when and where to send packets.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 6. Which layer of HART incorporates channel hopping and channel blacklisting?**\
+a) Surface Layer\
+b) Troposphere\
+c) Data Link Layer\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 7. Wireless HART relies on \_\_\_\_\_\_\_ for its communication.**\
+a) Star networking\
+b) Bus networking\
+c) Both (a) and (b)\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 8. State whether the following statement is true or false.\
+NFC devices work on the principle of magnetic induction.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 9. Bluetooth technology is based on Ad-hoc technology also known as \_\_\_\_\_\_\_.**\
+a) Ad-hoc meshnet\
+b) Ad-hoc Piconets\
+c) Ad-hoc stamet\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 10. State whether the following statement is true or false.\
+Statement: Booking in Bluetooth is the process of forming a connection between two Bluetooth devices.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 11. State whether the following statement is true or false.\
+Statement: Class 1 Bluetooth radios are used primarily in industrial use cases and have a range of 100 meters or 300 feet.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 12. Z-Wave uses \_\_\_\_\_\_\_ topology.**\
+a) Ring\
+b) Star\
+c) Mesh\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 13. Which of the following is an OS for sensor nodes?**\
+a) MicroOS\
+b) LiteOS\
+c) TinyOS\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 14. State whether the following statement is true or false.\
+Statement: Selfish nodes are typified by their unwillingness to cooperate, as the protocol requires whenever there is a personal cost involved.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+**Question 15. Dumb behavior of sensor nodes is \_\_\_\_\_\_\_ in nature (as it is dependent on the effects of the environmental conditions).**\
+a) Temporal\
+b) Spatial\
+c) Both (a) and (b)\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+
+
 ## _Introduction To Internet Of Things Week 3 Nptel Answers _(Jan-Apr 2025)
 
 ***
