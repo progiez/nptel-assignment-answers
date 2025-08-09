@@ -5,6 +5,126 @@ Are you looking for NPTEL The Joy Of Computation Using Python Week 03 Assignment
 
 ![The Joy of Computing Using Python NPTEL week 3 Answers](https://miro.medium.com/v2/resize:fit:875/1*qaJJxmgJLO7AckA8r5Z2Sw.jpeg)
 
+## _The Joy of Computing Using Python NPTEL week 3 Answers (July-Dec 2025)_
+
+***
+
+**Question 1. What is the correct way for Satish to start an empty list to record names?**\
+a) list = ()\
+b) list = {}\
+c) list = \[]\
+d) list = <>
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 2. Satish wants to add “Anya” to his homework list. Which method should he use?**\
+a) list.add(“Anya”)\
+b) list.push(“Anya”)\
+c) list.insert(“Anya”)\
+d) list.append(“Anya”)
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 3. If Satish’s list is \[“Ravi”, “Tina”, “Aman”], what will list\[0] return?**\
+a) “Tina”\
+b) “Aman”\
+c) “Ravi”\
+d) 0
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 4. To remove “Tina” from the list, Satish should use:**\
+a) list.delete(“Tina”)\
+b) list.remove(“Tina”)\
+c) list.pop(“Tina”)\
+d) list.cut(“Tina”)
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 5. Satish wants to correct a spelling mistake and replace “Ravi” with “Ravindra” at position 0 in the list `students`. Which of the following code snippets will accomplish this?**\
+a) students\[0] = “Ravindra”\
+b) students\[0:1] = \[“Ravindra”]\
+c) students.insert(0, “Ravindra”)\
+d) students.replace(“Ravi”, “Ravindra”)
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 6. If list1 = \[“Ravi”, “Anya”] and list2 = \[“Tina”], what does list1 + list2 return?**\
+a) \[“RaviAnyaTina”]\
+b) \[“Ravi”, “Anya”, “Tina”]\
+c) \[“Tina”, “Ravi”, “Anya”]\
+d) Error
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 7. What will be the result of \[“Aman”] \* 3?**\
+a) \[“Aman3”]\
+b) \[“Aman”, “Aman”, “Aman”]\
+c) \[“Aman3”, “Aman3”, “Aman3”]\
+d) Error
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 8. If students = \[“Ravi”, “Anya”, “Tina”, “Aman”, “Neha”], what does students\[1:4] return?**\
+a) \[“Ravi”, “Anya”, “Tina”, “Aman”]\
+b) \[“Anya”, “Tina”, “Aman”]\
+c) \[“Tina”, “Aman”, “Neha”]\
+d) \[“Anya”, “Tina”, “Aman”, “Neha”]
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 9. Given students = \[“Ravi”, “Anya”, “Tina”, “Aman”, “Neha”], what does students\[-2:] return?**\
+a) \[“Tina”, “Aman”]\
+b) \[“Aman”, “Neha”]\
+c) \[“Neha”]\
+d) Error
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 10. If students = \[“Ravi”, “Anya”, “Tina”, “Aman”, “Neha”, “Kabir”], what does students\[::2] return?**\
+a) \[“Ravi”, “Tina”, “Neha”]\
+b) \[“Anya”, “Aman”, “Kabir”]\
+c) \[“Ravi”, “Anya”, “Kabir”]\
+d) \[“Ravi”, “Tina”, “Aman”, “Kabir”]
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 11. Satish creates a backup like this: `backup = submissions` — What could explain why both `submissions` and `backup` seem to have 3 items now?**\
+a) Satish created a reference, not a real copy.\
+b) The backup was overwritten by append().\
+c) backup and submissions point to the same list in memory.\
+d) The append() affected only submissions, not backup.
+
+[View Answers](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Question 12. How does this change affect the original and backup lists?**\
+a) backup\[0] still holds “Ravi”.\
+b) Slicing created a new list with separate memory.\
+c) Changing submission
+
+
 ## _The Joy of Computing Using Python NPTEL week 3 Answers (Jan-Apr 2025)_
 
 ***
