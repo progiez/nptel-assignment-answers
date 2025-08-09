@@ -5,6 +5,120 @@ Are you looking for NPTEL Cyber Security and Privacy Week 03 Assignment Answers?
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*YZ2XJSEgUtTQe-GInI11JA.jpeg)
 
+## _Cyber Security and Privacy Week 3 Nptel Answers_ (July-Dec 2025)
+
+
+***
+
+**Question 1. A company’s risk register lists “third-party data breach” as a critical risk. Which GRC function is primarily responsible for ensuring ongoing monitoring and mitigation of this risk?**
+
+a) Governance\
+b) Reducible Breach\
+c) Compliance\
+d) Risk Management
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 2. Which of the following statements is correct regarding the implementation of a GRC framework?**
+
+a) Implementing a GRC framework guarantees that an organization has immunity from all cyber threats.\
+b) A GRC framework helps organizations identify, assess, and mitigate cyber risks, but does not make them fully immune to threats.\
+c) GRC frameworks are only relevant for financial compliance and do not address cybersecurity.\
+d) GRC frameworks eliminate the need for cybersecurity controls.
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 3. True or False: de facto standard refers to instructions that dictate certain standard behavior within an organization.**
+
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 4. Which of the following refers to a detailed statement of what must be done to comply with policy?**
+
+a) de jure practices\
+b) guidelines\
+c) standard\
+d) procedures
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 5. If an organization’s policy states “All confidential data must be protected,” which of the following would be the most appropriate standard to support this policy?**
+
+a) Employees should consider using strong passwords\
+b) Confidential data must be encrypted using AES-256\
+c) Steps for reporting a data breach\
+d) Encouraging staff to attend security training
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 6. True or False: Compliance activities in a GRC framework are limited to following internal company policies and do not involve external laws or regulations.**
+
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 7. MSQ: Which of the following are examples of preventive controls in IT security? (Select all that apply. More than one answer may be possible.)**
+
+a) Firewall configuration blocking unauthorized ports\
+b) Security awareness training for employees\
+c) Daily review of audit logs\
+d) Multi-factor authentication (MFA) for system access\
+e) Data backup and recovery solutions
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 8. Which framework, developed by the IT community, prioritizes IT control objectives and is specified by ISACA (Information Systems Audit and Control Association)?**
+
+a) COBIT\
+b) COSO\
+c) ISO/IEC 27001\
+d) NIST Cybersecurity Framework
+
+[****See also**  **Deep Learning IIT Ropar Week 3 Nptel Answers****](https://progiez.com/deep-learning-iit-ropar-week-3-nptel-assignment-answers)
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 9. Which of the following statements about the NIST Cybersecurity Framework are NOT correct? (Select all that apply. More than one answer may be possible.)**
+
+a) It guarantees complete protection against all cyber threats.\
+b) Only large organizations can benefit from it.\
+c) The framework is rigid and cannot be customized to fit an organization’s needs.\
+d) Implementing it is a one-time activity and does not require ongoing updates.\
+e) It deals only with technology and does not consider employee training or policies.
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+***
+
+**Question 10. Which of the following statements is correct regarding ISO 27001 certification?**
+
+a) ISO 27001 certification is only relevant for government agencies.\
+b) ISO 27001 certification can be issued to both organizations and individuals.\
+c) ISO 27001 certification can only be issued to organizations.\
+d) ISO 27001 certification is only available to individuals, not organizations.
+
+[View Answers](https://my.progiez.com/courses/cyber-security-and-privacy-nptel-answers/)
+
+
 Cyber Security and Privacy Week 3 Nptel Answers (July-Dec 2024)
 
 
