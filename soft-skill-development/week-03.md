@@ -3,7 +3,169 @@
 Are you looking for NPTEL Soft Skill Development Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Soft Skill Development course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
-![Soft Skill Development Week 3 Nptel Assignment Answers (July-Dec 2025)](https://miro.medium.com/v2/resize:fit:875/1*k-Vp0sxrxvBKaDyalVxpMA.jpeg)
+![Soft Skill Development Week 3 Nptel Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*k-Vp0sxrxvBKaDyalVxpMA.jpeg)
+
+## _Soft Skill Development Week 3 Nptel Assignment Answers (July-Dec 2025)_
+
+***
+
+**Question 1. A quick flash of disgust when someone says they’re happy is an example of:**\
+a) faked expression\
+b) masking\
+c) leakage\
+d) neutralization
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 2. The famous “Rubin’s vase” illusion (faces/vase image) demonstrates which perceptual phenomenon?**\
+a) Motion aftereffect\
+b) Reversible figure—ground perception\
+c) Size constancy\
+d) Peripheral drift illusion
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 3. Which gesture is most universally recognized as a sign of agreement or “yes” in many cultures?**\
+a) Thumbs-up\
+b) Head nodding\
+c) Handshake\
+d) Clenched fist
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 4. Harmony is not associated with**\
+a) Unity\
+b) Balance\
+c) Rhythm\
+d) Line
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 5. Assertion (A): Spoken words carry very little of the emotional content in face-to-face communication.**\
+**Reason (R): Non-verbal cues (such as facial expressions and tone of voice) convey the majority of the emotional meaning.**\
+a) Both A and R are true, and R correctly explains A.\
+b) Both A and R are true, but R does not explain A.\
+c) A is true, R is false.\
+d) A is false.
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 6. Consider the following statements about facial expressions of anger:**\
+A: Anger often results in a clenched jaw and furrowed eyebrows.\
+B: Anger usually causes a person to smile or relax their facial muscles.\
+a) Both A and B are correct\
+b) A is correct, B is false\
+c) B is correct, A is false\
+d) Both A and B are false
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 7. Music with an irregular, syncopated rhythm typically evokes a feeling of \_\_\_\_ in the listener.**\
+a) Calmness\
+b) Excitement\
+c) Anxiety\
+d) Joy
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 8. Consider the following statements:**\
+A: Harmony can be achieved by combining musical notes or visual colors in a pleasing, orderly way.\
+B: Harmony pertains only to music: visual arrangements cannot be “harmonious.”\
+a) Both A and B are true\
+b) A is true, B is false\
+c) B is true, A is false\
+d) Both A and B are false
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 9. According to Gestalt psychology, which principle explains why we perceive an incomplete circle (with a small gap) as a complete circle?**\
+a) Closure\
+b) Similarity\
+c) Proximity\
+d) Continuity
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 10. In cultures with right-to-left writing systems (e.g. Arabic), viewers typically begin scanning an image from which edge of the page?**\
+a) Left edge\
+b) Right edge\
+c) Top edge\
+d) Bottom edge
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 11. In linear perspective drawing, parallel lines appear to converge at a point on the horizon. What is this point called?**\
+a) Focal point\
+b) Vanishing point\
+c) Horizon point\
+d) Center of projection
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 12. Consider the following statements.**\
+A: Intense sadness often causes the mouth corners to droop downward.\
+B: Intense sadness typically causes the eyebrows to rise dramatically.\
+a) Both A and B are correct\
+b) A is correct but B is false\
+c) B is correct but A is false\
+d) Both A and B are false
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 13. Visual representation is not possible for**\
+a) light\
+b) sound\
+c) smell\
+d) temperature
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 14. Consider the following statements:**\
+A: Visual images can communicate cultural values and messages just as effectively as written words\
+B: Only textual (word-based) content can convey clear meaning in communication, not images.\
+a) Both A and B are true\
+b) A is true, B is false\
+c) Only B is true\
+d) Both A and B are false
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+**Question 15. When negotiating in a boardroom, seating arrangements (e.g. who sits at the head of the table) are an example of:**\
+a) Kinesics\
+b) Chronemics\
+c) Haptics\
+d) Proxemics
+
+[View Answers](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
 
 ## _Soft Skill Development Week 3 Nptel Assignment Answers (Jan-Apr 2025)_
 
