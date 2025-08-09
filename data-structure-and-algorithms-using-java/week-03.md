@@ -5,6 +5,164 @@ Are you looking for NPTEL Data Structure and Algorithms Using Java Week 03 Assig
 
 ![Data Structure and Algorithms using Java Week 3 Nptel Answers](https://miro.medium.com/v2/resize:fit:875/1*E_F1VeFy4rKJ2x6nrdjPeA.jpeg)
 
+## Data Structure and Algorithms using Java Week 3 Nptel (July-Dec 2025)
+
+***
+
+**Question 1. Which of the following best describes an array in Java?**
+
+a) A collection that stores elements of different data types and resizes dynamically.\
+b) A fixed-size data structure that stores elements of the same data type in contiguous memory locations.\
+c) A predefined class in Java that allows dynamic insertion and deletion of elements.\
+d) A data structure that automatically sorts its elements during insertion.
+
+[View Answers](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)
+
+***
+
+**Question 2. Consider a 2D array in Java declared as: `int[][] matrix = new int[3][3];`\
+Which of the following statements is true regarding the memory layout and access order of this array?**
+
+a) Java stores 2D arrays in column-major order, where elements in the same column are stored contiguously.\
+b) Java stores 2D arrays in row-major order, where elements in the same row are stored contiguously.\
+c) Java guarantees contiguous memory for the entire 2D array in either row-major or column-major order.\
+d) Java 2D arrays are not stored in any order since they are implemented as a list of linked lists.
+
+[View Answers](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)
+
+***
+
+**Question 3. Which of the following is a valid way to declare and initialize an integer array in Java?**
+
+a) `int array = new int(5];`\
+b) `int[5] array = new int[];`\
+c) `int[] array = new int[5];`\
+d) `array int[5] = new int[];`
+
+[View Answers](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)
+
+***
+
+**Question 4. Which of the following statements about the declaration and initialization of a 2D integer array in Java is true?**
+
+a) `int[][] arr = new int[2][ ];` creates a 2D array with 2 rows and undefined column sizes\
+b) `int[][ ] arr = new int[][3];` is valid and creates a 2D array with 3 columns and undefined row size.\
+c) `int[][] arr = new int[2][3] { {1, 2, 3}, {4, 5, 6} };` correctly initializes a 2D array with values.\
+d) In Java, all multidimensional arrays must be rectangular (i.e., all rows must have the same number of columns).
+
+[View Answers](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)
+
+**_**These are Data Structure and Algorithms using Java Week 3 Nptel Answers**_**
+
+***
+
+**Question 5. Which of the following statements about Java’s Spliterator interface is true?**
+
+[****See also**  **Computer Architecture and Organization Week 3 Answers Nptel****](https://progiez.com/computer-architecture-and-organization-week-3-answers-nptel)
+
+a) A Spliterator can only be used for sequential iteration and does not support parallel processing.\
+b) A Spliterator allows splitting of data sources to enable parallel processing using `trySplit()`.\
+c) The Spliterator interface is a subclass of Iterator and inherits all of its methods.\
+d) A Spliterator must always return the same size estimate regardless of the split.
+
+[View Answers](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)
+
+***
+
+**Question 6. What will be the output of the following Java program?**
+
+    public class ArrayTest {
+      public static void main(String[] args) {
+        int[] numbers = new int[5];
+        for(int i = 0; i < numbers.length; i++) {
+          numbers[i] = i * 2;
+        }
+        System.out.println(numbers[5]);
+      }
+    }
+
+a) 10\
+b) ArrayIndexOutOfBoundsException\
+c) 0\
+d) Compilation Error
+
+[View Answers](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)
+
+***
+
+**Question 7. Which of the following statements about the Vector class in Java is true?**
+
+a) Vector is not synchronized and is suitable only for single-threaded environments.\
+b) Vector automatically shrinks in size when elements are removed.\
+c) Vector is synchronized and allows dynamic resizing with thread-safe operations.\
+d) Vector is a subclass of Set and does not allow duplicate elements.
+
+[View Answers](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)
+
+**_**These are Data Structure and Algorithms using Java Week 3 Nptel Answers**_**
+
+***
+
+**Question 8. What will be the output of the following Java program?**
+
+    public class ArrayMystery {
+      public static void main(String[] args) {
+        int[] arr = {1, 2, 3, 4, 5};
+        int result = 0;
+        for (int i = 0; i < arr.length; i++) {
+          arr[i] = arr[i] + i;
+        }
+        for (int i = arr.length - 1; i >= 0; i -= 2) {
+          result += arr[i];
+        }
+        System.out.println(result);
+      }
+    }
+
+a) 13\
+b) 15\
+c) 17\
+d) 19
+
+[View Answers](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)
+
+***
+
+**Question 9. Which of the following statements about ArrayList in Java is true?**
+
+a) ArrayList is synchronized by default and suitable for multithreaded access.\
+b) ArrayList allows primitive types like `int` and `double` without boxing.\
+c) ArrayList provides constant-time performance for adding or removing elements anywhere in the list.\
+d) ArrayList maintains the insertion order and allows random access to elements in constant time.
+
+[View Answers](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)
+
+***
+
+**Question 10. What will be the output of the following Java program?**
+
+    import java.util.ArrayList;
+
+    public class ArrayListTest {
+      public static void main(String[] args) {
+        ArrayList<String> list = new ArrayList<>();
+        list.add("A");
+        list.add("B");
+        list.add("C");
+        list.remove("B");
+        list.add(1, "D");
+        System.out.println(list);
+      }
+    }
+
+a) \[A, B, C]\
+b) \[A, D, C]\
+c) \[A, C, D]\
+d) \[A, D, B, C]
+
+[View Answers](https://my.progiez.com/courses/data-structure-and-algorithms-using-java-nptel-answers/)
+
+
 Data Structure and Algorithms using Java Week 3 Nptel Answers
 
 
