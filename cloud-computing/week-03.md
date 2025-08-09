@@ -3,7 +3,120 @@
 Are you looking for NPTEL Cloud Computing Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Cloud Computing course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
-![Cloud Computing Nptel Week 3 Assignment Answers (July-Dec 2024)](https://miro.medium.com/v2/resize:fit:875/1*KN4DQMSc6n7S3Cu57yamPQ.jpeg)
+![Cloud Computing Nptel Week 3 Assignment Answers ](https://miro.medium.com/v2/resize:fit:875/1*KN4DQMSc6n7S3Cu57yamPQ.jpeg)
+
+## _Cloud Computing Nptel Week 3 Assignment Answers_ (July-Dec 2025)
+
+***
+
+**Question 1. What does a cloud SLA typically NOT include?**
+
+a) Availability guarantee\
+b) Encryption algorithm details\
+c) Performance metrics\
+d) Penalty clauses
+
+[View Answers](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Question 2. A multilevel SLA includes which of the following?**
+
+a) Only service-specific agreements\
+b) Multiple SLAs signed by different providers\
+c) Corporate, customer, and service levels\
+d) Only client-specific requirements
+
+[View Answers](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Question 3. Which of the following is a typical metric included in a cloud SLA?**
+
+a) Customer’s project schedule\
+b) Developer salary\
+c) Uptime percentage\
+d) IP address of the cloud provider
+
+[View Answers](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Question 4. Which of the following statements is TRUE regarding Cloud and Web Service SLAs?**
+
+a) Cloud SLAs cannot apply to SaaS applications\
+b) Web Service SLAs are only applicable to internal systems\
+c) Web Service SLAs are narrower in scope than Cloud SLAs\
+d) Cloud SLAs are always written by customers, not providers
+
+[View Answers](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Question 5. A cloud service is guaranteed to handle 10,000 requests/hour with 99.5% success. How many failed requests per hour are acceptable under SLA?**
+
+a) 5\
+b) 10\
+c) 50\
+d) 500
+
+[View Answers](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Question 6. Which characteristic is most unique to parallel databases and not shared with traditional relational databases in cloud environments?**
+
+a) Support for SQL\
+b) Multi-node distributed query execution\
+c) Transaction rollback\
+d) Normalized schema usage
+
+[View Answers](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Question 7. You are designing a big data pipeline that processes video files using a cloud-native distributed file system. Which of the following choices is most suitable for scalable storage and parallel processing?**
+
+a) Amazon Aurora\
+b) Google Cloud Storage (with Hadoop connector)\
+c) AWS Lambda\
+d) Azure SQL Database
+
+[View Answers](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Question 8. Which of the following is not supported in MapReduce-based systems for iterative algorithms like machine learning or graph processing?**
+
+a) Data must be reloaded from disk in each iteration\
+b) Mappers and reducers cannot share memory between iterations\
+c) It supports pipelined execution between stages\
+d) High overhead due to repeated job initialization
+
+[View Answers](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Question 9. A MapReduce job is processing 1 TB of input data. The “map” output is 500 GB, and the final “reduce” output is 50 GB. If the shuffle and sort phase fails due to insufficient disk I/O, which phase is affected and why?**
+
+a) Map phase, because it processes raw data\
+b) Reduce phase, because it merges map outputs\
+c) Input split phase, because files are not split\
+d) Combiner phase, because data isn’t reduced locally
+
+[View Answers](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Question 10. In an OpenStack deployment, if a compute node can support up to 100 virtual CPUs (vCPUs), and the overcommit ratio for CPU is set to 1.5:1, what is the total number of vCPUs that can be allocated?**
+
+a) 100\
+b) 150\
+c) 66\
+d) 200
+
+[View Answers](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
 
 Cloud Computing Nptel Week 3 Assignment Answers (July-Dec 2024)
 
