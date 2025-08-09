@@ -3,7 +3,104 @@
 Are you looking for NPTEL Programming In Modern C++ Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Programming In Modern C course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
-![Programming in Modern C++ Week 3 Assignment Answers (July-Dec 2025)](https://miro.medium.com/v2/resize:fit:875/1*gwxfui9an54R5hLJGT5B-A.jpeg)
+![Programming in Modern C++ Week 3 Assignment Answers ](https://miro.medium.com/v2/resize:fit:875/1*gwxfui9an54R5hLJGT5B-A.jpeg)
+
+## Programming in Modern C++ Week 3 Assignment Answers (July-Dec 2025)
+
+***
+
+**Question 1. Consider the following snippet. What type(s) correctly represent the `this` pointer for object `mgrObj`?**\
+a) `Manager + const this`\
+b) `Manager const * this`\
+c) `Manager const * const this`\
+d) `const Manager * const this`
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 2. Which methods change the object’s state?**\
+a) `moveX()`, `moveY()`, `display()`\
+b) `moveX()`, `moveY()`, `shiftY()`\
+c) `moveX()`, `moveY()`, `shiftX()`, `shiftY()`\
+d) `moveX()`, `moveY()`, `shiftX()`
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 3. Predict the output of the constructor/destructor sequence.**\
+a) ctor:1 ctor:2 ctor:3 ctor:4 dtor:4 dtor:3 dtor:2 dtor:1\
+b) ctor:2 ctor:1 ctor:3 ctor:4 dtor:4 dtor:3 dtor:1 dtor:2\
+c) ctor:1 ctor:2 ctor:4 ctor:3 dtor:3 dtor:4 dtor:2 dtor:1\
+d) ctor:1 ctor:2 ctor:3 ctor:4 dtor:2 dtor:4 dtor:3 dtor:1
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 4. What is the output of the queue logic code?**\
+a) C D E F\
+b) B C D\
+c) C D\
+d) C D E
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 5. Which data members are read-only, write-only, or invisible?**\
+a) `id` is readonly\
+b) `email` is readonly\
+c) `phone` is write-only\
+d) `balance` is invisible
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 6. What will be the output of the counter and local logic?**\
+a) local = 1, counter = 6\
+local = 1, counter = 5\
+b) local = 1, counter = 7\
+local = 1, counter = 6\
+c) local = 1, counter = 6\
+local = 1, counter = 6\
+d) local = 2, counter = 5\
+local = 2, counter = 5
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 7. What is the output of the following constructor order logic?**\
+a) 6, 6, 7\
+b) 6, 6, 7\
+c) 6, 6, 5\
+d) 7, 6, 6
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 8. Analyze and predict the error in the constructor logic.**\
+a) Error at LINE-A: constructor inaccessible\
+b) Error at LINE-B: cannot assign to `this`\
+c) Output: no error\
+d) Undefined behavior at runtime
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Question 9. What will be the output of the copy and assignment logic?**\
+a) ctor copy\_ctor ctor copy\_ctor assign\
+b) ctor copy\_ctor ctor assign\
+c) ctor copy\_ctor ctor\
+d) ctor assign copy\_ctor
+
+[View Answers](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
 
 ## Programming in Modern C++ Week 3 Assignment Answers (Jan-Apr 2025)
 
