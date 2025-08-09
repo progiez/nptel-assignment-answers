@@ -5,6 +5,191 @@ Are you looking for NPTEL Introduction To Operating Systems Week 03 Assignment A
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*DRkbdwM0MQ1jK04naaSrBw.jpeg)
 
+
+## _Introduction to Operating Systems Nptel Week 3 Answers_ (July-Dec 2025)
+
+***
+
+**Question 1. Match the following**\
+a. Inode → 3) Stores metadata\
+b. New state → 1) The pid is assigned to a process\
+c. Trapframe → 4) For restarting a process after a context switch\
+d. Init → 2) Never exits\
+a) a-4, b-2, c-3, d-1\
+b) a-3, b-4, c-2, d-1\
+c) a-4, b-1, c-2, d-3\
+d) a-3, b-1, c-4, d-2
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 2. We have n number of fork system calls, denoted as nXfork(). What is the total number of processes created?**\
+a) n\
+b) 2ⁿ\
+c) 2ⁿ⁻¹\
+d) (2ⁿ) − 1
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 3. State True/False: The process whose parent exited before the child is an orphan process. Can a process be Zombie and Orphan at the same time.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 4. What is the output of the following program for any value of `a`**
+
+    int main() {
+        int a, pid;
+        pid = fork();
+        if(pid == 0) {
+            a = a + 5;
+            printf("u = %d\n", a);
+        } else {
+            a = a - 5;
+            printf("x = %d\n", a);
+        }
+    }
+
+a) u = x + 5\
+b) x = u + 5\
+c) x = u + 10\
+d) u = x + 10
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 5. Which of the below statements is false?**\
+a) Init is the first process created using booting\
+b) Init process is a daemon process\
+c) Init process has process identifier as 1\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 6. A student has written a program and used `pid = fork()` function call in it. The pid returned by the fork was 5119. Which of the following is true about the process invoking fork?**\
+a) Process is a parent process with pid = 5119\
+b) Process is a child process. Its Parent’s pid is 5119\
+c) The process is a parent process. Its Child’s pid is 5119\
+d) Process is a child process with pid = 5119
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 7. Which of the following is false?**\
+a) Process: Contains code + data + heap + stack + process state\
+b) Program: One program can be used to create many processes\
+c) Process: Process is not a unique isolated entity\
+d) Program: Code + Static and Global data
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 8. The state transition that occurs due to the `scanf` system call in the program is \_\_\_\_\_\_.**
+
+    int main() {
+        int a;
+        scanf("%d \n", &a);
+        exit(0);
+    }
+
+a) NEW → READY\
+b) READY → RUNNING\
+c) RUNNING → BLOCKED\
+d) BLOCKED → READY
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 9. Which one of the following is the property of Operating System that helps to prevent attacks?**\
+a) i) Rings\
+b) i), ii)\
+c) i), ii), iii)\
+d) i), ii), iii), iv)
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 10. Match the following**
+
+1. If the parent and the child process share the same page table. Does this mean they share the same page frames in the RAM? COW creates a copy of the shared pages if it changes.
+2. All further changes are made in this new page.\
+   a) True, False\
+   b) False, True\
+   c) False, False\
+   d) True, True
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 11. Match the following**\
+a. Init.d → 3) Created by kernel while booting\
+b. Zombie → 4) Allows a parent process to read the status of child\
+c. Child process → 2) The %eax register is cleared when this is created\
+d. Trapframe → 1) Created when system call occurs\
+a) a-1, b-2, c-3, d-4\
+b) a-3, b-4, c-2, d-1\
+c) a-2, b-1, c-4, d-3\
+d) a-4, b-3, c-1, d-2
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 12. State True/False: In memory mapping, the entire kernel is mapped into the process’ address space, which helps the user process to easily access the kernel data.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 13. Arrange the following in order**\
+a. Change state to runnable\
+b. Copy page directory contents from parent to child process\
+c. Copy the trapframe from the parent process\
+d. Change state to embryo\
+a) a, c, b, d\
+b) c, d, a, b\
+c) d, b, c, a\
+d) a, c, b, d
+
+[****See also**  **Introduction to Operating Systems Nptel Week 6 Answers****](https://progiez.com/introduction-to-operating-systems-nptel-week-6-answers)
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 14. `wait()` system call inside the parent process returns the status of the child. What does it return when it is called inside the child?**\
+a) Returns -1 , when it is not the parent of any other process\
+b) Returns its own process id\
+c) Returns the exit status of the parent currently exited\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+***
+
+**Question 15. State True/False: `execlp()` system call replaces the child process with a new program file, but the process ID will not change.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/introduction-to-operating-systems-nptel-answers/)
+
+
 Introduction to Operating Systems Nptel Week 3 Answers (July-Dec 2024)
 
 
