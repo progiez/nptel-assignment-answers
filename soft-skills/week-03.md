@@ -5,6 +5,109 @@ Are you looking for NPTEL Soft Skills Week 03 Assignment Answers? This repositor
 
 ![Soft Skills Nptel Week 3 Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*kWokj30RlgRJ8r2cDJyrPA.jpeg)
 
+## _Soft Skills Nptel Week 3 Assignment Answers_ (July-Dec 2025)
+
+***
+
+**Question 1. Allowing the discussion to go long is one of the critical factors in negotiation.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Question 2. As a negotiator, one must be aggressive throughout without bothering about the other party’s interests.**\
+a) True\
+b) False
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Question 3. Which of the following is not an ingredient of self-actualization needs according to Maslow’s theory of human needs?**\
+a) Morality\
+b) Creativity\
+c) Shelter\
+d) Property
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Question 4. Which of the following is the proper way to say “NO” in Japan?**\
+a) Shaking heads back and forth\
+b) Nodding up and down\
+c) Raising their chin\
+d) Moving their right hands
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Question 5. Which of the following is not accurate about the characteristics of culture?**\
+a) Culture norms are logical\
+b) Cultures are static\
+c) Culture represents identity and community\
+d) Culture can be learned
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Question 6. “Let us never try to negotiate out of fear, but let us also not fear to negotiate.” A quote by which famous personality?**\
+a) Winston Churchill\
+b) John F Kennedy\
+c) Theodore Roosevelt\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+**Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc24_hs124/)**
+
+[****See also**  **Fundamentals of Artificial Intelligence Week 3 Answers****](https://progiez.com/fundamentals-of-artificial-intelligence-week-3-answers)
+
+***
+
+**Question 7. Which of the following is the full form of GATT?**\
+a) General Association of Trade and Tokens\
+b) Geneva Agreement on Technology and Trade\
+c) General Agreement on Tariff and Trade\
+d) General Association on Trades and Traffic
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Question 8. What is the meaning of “You Attitude” style in business?**\
+a) To believe more in the welfare of the organization.\
+b) To believe in your own welfare.\
+c) To convince other parties how they will be benefitted from a deal.\
+d) None of the above.
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Question 9. Which of the following is not a strategy to resolve deadlock?**\
+a) To point out no further concessions to be made.\
+b) To use unethical aspects of the agreement.\
+c) To explain and emphasize consequences\
+d) To show sunny side to the other party
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+***
+
+**Question 10. Which of the following works significantly while using Persuasion as a critical factor in Negotiation?**\
+a) Agreeing instantly\
+b) Talking and listening\
+c) Intimidating throughout\
+d) Whispering and noting points
+
+[View Answers](https://my.progiez.com/courses/soft-skills-nptel-assignment-answers/)
+
+
 Soft Skills Nptel Week 3 Assignment Answers
 
 
