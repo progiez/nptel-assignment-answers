@@ -4,7 +4,6 @@ Are you looking for NPTEL Data Science For Engineers Week 03 Assignment Answers?
 
 ## _Nptel Data Science for Engineers Assignment 3 Answers (Jan-Apr 2025)_
 
-## _Nptel Data Science for Engineers Assignment 3 Answers (July-Dec 2025)_
 
 ***
 
@@ -114,6 +113,7 @@ d) None of the above
 
 [View Answers](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
 
+## _Nptel Data Science for Engineers Assignment 3 Answers (July-Dec 2025)_
 
 ***
 
