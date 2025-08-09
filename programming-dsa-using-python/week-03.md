@@ -2,6 +2,23 @@
 
 Are you looking for NPTEL Programming DSA Using Python Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Programming DSA Using Python course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Programming Data Structure And Algorithms Assignment 3 (July-Dec 2025)
+
+***
+
+- Write a function expanding(l) that takes as input a list of integer l and returns True if the absolute difference between each adjacent pair of elements strictly increases.Here are some examples of how your function should work. >>> expanding(\[1,3,7,2,9]) True _Explanation:_ Differences between adjacent elements are 3-1 = 2, 7-3 = 4, 7-2 = 5, 9-2 = 7. >>> expanding(\[1,3,7,2,-3]) False _Explanation:_ Differences between adjacent elements are 3-1 = 2, 7-3 = 4, 7-2 = 5, 2-(-3) = 5, so not strictly increasing. >>> expanding(\[1,3,7,10]) False _Explanation:_ Differences between adjacent elements are 3-1 = 2, 7-3 = 4, 10-7 = 3, so not increasing.
+
+[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)
+
+- Write a Python function sumsquare(l) that takes a nonempty list of integers and returns a list \[odd,even], where odd is the sum of squares all the odd numbers in l and even is the sum of squares of all the even numbers in l.Here are some examples to show how your function should work.>>> sumsquare(\[1,3,5]) \[35, 0] >>> sumsquare(\[2,4,6]) \[0, 56] >>> sumsquare(\[-1,-2,3,7]) \[59, 4]
+
+[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)
+
+- A two dimensional matrix can be represented in Python row-wise, as a list of lists: each inner list represents one row of the matrix. For instance, the matrix1 2 3 4 5 6 7 8 would be represented as \[\[1, 2, 3, 4], \[5, 6, 7, 8]].The transpose of a matrix converts each row into a column. The transpose of the matrix above is:1 5 2 6 3 7 4 8 which would be represented as \[\[1, 5], \[2, 6], \[3, 7], \[4, 8]].Write a Python function transpose(m) that takes as input a two dimensional matrix m and returns the transpose of m. **The argument m should remain undisturbed by the function**.Here are some examples to show how your function should work. You may assume that the input to the function is always a non-empty matrix.>>> transpose(\[\[1,2,3],\[4,5,6]]) \[\[1, 4], \[2, 5], \[3, 6]] >>> transpose(\[\[1],\[2],\[3]]) \[\[1, 2, 3]] >>> transpose(\[\[3]]) \[\[3]]
+
+[**View Answer**](https://my.progiez.com/courses/programming-data-structures-and-algorithms-using-python-nptel-answers/)
+
+
 ## Programming Data Structures and Algorithms using Python (Jan-Apr 2025)
 
 ***
