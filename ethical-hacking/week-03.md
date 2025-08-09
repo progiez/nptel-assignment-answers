@@ -3,7 +3,115 @@
 Are you looking for NPTEL Ethical Hacking Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Ethical Hacking course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
-![Ethical Hacking Nptel Week 3 Assignment Answers 2024](https://miro.medium.com/v2/resize:fit:875/1*4VApJlROB9mOO0hOn1tGGg.jpeg)
+![Ethical Hacking Nptel Week 3 Assignment Answers ](https://miro.medium.com/v2/resize:fit:875/1*4VApJlROB9mOO0hOn1tGGg.jpeg)
+
+## _Ethical Hacking Nptel Week 3 Assignment Answers_ (July-Dec 2025)
+
+***
+
+**Question 1. Which of the following statement(s) is/are false?**\
+a) IP protocol uses connection-oriented routing.\
+b) IP protocol uses connection-less routing.\
+c) In connection-less routing, each packet is treated as an independent packet.\
+d) None of these.
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 2. A routing table entry that is manually configured remains unchanged unless manually modified is called a \_\_\_\_\_\_ routing table entry.**\
+a) Automatic\
+b) Static\
+c) Dynamic\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 3. Which of the following statements is/are false about direct and indirect packet delivery?**\
+a) Direct delivery happens within the same network.\
+b) Indirect delivery is used for different networks.\
+c) In indirect delivery, packets travel through multiple routers.\
+d) None of these.
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 4. Which of the following statements correctly describe features of dynamic routing?**\
+a) All routers are manually configured by the network administrator.\
+b) Routing table updates periodically depending on the network condition.\
+c) Routers exchange control information, which consumes network resources.\
+d) It can automatically find alternate paths during link failures.\
+e) It never changes the routing table once initialized.
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 5. In the routing table, which of the following flags indicates that the route uses a gateway to reach the destination?**\
+a) U\
+b) G\
+c) H\
+d) D\
+e) M
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 6. Which of the following statements about the default route is incorrect?**\
+a) It is specified by an address 0.0.0.0.\
+b) It is specified by an address 127.0.0.1.\
+c) It is used for forwarding packets to unknown destinations.\
+d) None of these.
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 7. Which of the following routing protocols suffers from the count-to-infinity problem?**\
+a) OSFP\
+b) BGP\
+c) RIP\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 8. Which of the following routing protocols is used for routing between different autonomous systems?**\
+a) RIP\
+b) OSFP\
+c) BGP\
+d) ICMP
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 9. In Open Shortest Path First (OSPF) routing protocol, which of the following packets is used to check if the neighbor router is up (active)?**\
+a) Link State Request\
+b) Hello Packet\
+c) Link State Acknowledgement\
+d) TCP 3-way handshake\
+e) None of these
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
+***
+
+**Question 10. Which of the following statement(s) is/are false for IPv6?**\
+a) IPv6 supports address class like A, B, and C.\
+b) IPv6 addresses are 128-bit long.\
+c) The base header size in IPv6 is 40 bytes.\
+d) None of these.
+
+[****See also**  **Ethical Hacking Nptel Week 7 Assignment Answers****](https://progiez.com/ethical-hacking-nptel-week-7-assignment-answers)
+
+[View Answers](https://my.progiez.com/courses/ethical-hacking-nptel-assignment-answers/)
+
 
 Ethical Hacking Nptel Week 3 Assignment Answers 2024
 
