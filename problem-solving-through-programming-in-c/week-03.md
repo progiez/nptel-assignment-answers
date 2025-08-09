@@ -3,7 +3,206 @@
 Are you looking for NPTEL Problem Solving Through Programming In C Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Problem Solving Through Programming In C course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
-![Problem Solving Through Programming In C Week 3 Answers (July-Dec 2025)](https://miro.medium.com/v2/resize:fit:875/1*Lj8poyR-0G7eqbC3-LXCvQ.jpeg)
+![Problem Solving Through Programming In C Week 3 Answers](https://miro.medium.com/v2/resize:fit:875/1*Lj8poyR-0G7eqbC3-LXCvQ.jpeg)
+
+## _Problem Solving Through Programming In C Week 3 Answers (July-Dec 2025)_
+
+***
+
+**Question 1. Which of the following statement is correct?**\
+a) Operator precedence determines which operator is performed first in an expression with more than one operator with different precedence. Associativity is used when two operators of same precedence appear in an expression\
+b) Operator associativity determines which operator is performed first in an expression with more than one operator with different associativity. Precedence is used when two operators of same precedence appear in an expression\
+c) Operator precedence and associativity are same.\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 2. C modulo division operator ‘%’ can be applied on**\
+a) only float variables\
+b) only int variables\
+c) int and float combination\
+d) any data types in C
+
+[View Answers](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 3. The output of the following program will be**
+
+    #include<stdio.h>
+
+    int main()
+    {
+        if(0)
+            printf("C programming\n");
+        if(0.5)
+            printf("Java \n");
+        if(-0.5)
+            printf("Python \n");
+        return 0;
+    }
+
+a) C programming\
+b) Java\
+c) Java\
+Python\
+d) Python
+
+[View Answers](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 4. Which of the following statements are correct?**\
+I. The ‘else’ block is executed when condition inside ‘if’ statement is false.\
+II. One ‘if’ statement can have multiple ‘else’ statements.\
+a) Only I\
+b) Only II\
+c) Both I and II\
+d) Neither I nor II
+
+[View Answers](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 5. What is the output of the following C code?**
+
+    #include <stdio.h>
+
+    int main()
+    {
+        int h = 8;
+        int b = 4*6 + 3*4 < h*5 - 24 / 3;
+        printf("%d\n", b);
+        return 0;
+    }
+
+a) 1\
+b) 0\
+c) 24\
+d) Compilation Error
+
+[View Answers](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 6. What is the output of the following program?**
+
+    #include <stdio.h>
+    int main()
+    {
+        float i = -3.0;
+        int k = i % 2;
+        printf("%d", k);
+        return 0;
+    }
+
+a) -1\
+b) 1\
+c) Compilation Error\
+d) 0
+
+[View Answers](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 7. What is the output of the following C code?**
+
+    #include <stdio.h>
+    int main()
+    {
+        int y = 10;
+        int z = (y == 10);
+        printf("%d\n", z);
+        return 0;
+    }
+
+a) 0\
+b) 1\
+c) 10\
+d) Compilation Error
+
+[View Answers](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 8. Find the output of the following C code**
+
+    #include <stdio.h>
+    int main()
+    {
+        int x = 1;
+        if ((5 || 2 != 3))
+            printf("ITKGP\n");
+        else if (x &= 0)
+            printf("IITD\n");
+        else
+            printf("IITM\n");
+        return 0;
+    }
+
+a) ITKGP\
+b) IITD\
+c) IITM\
+d) Compilation Error
+
+[View Answers](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 9. What is the output of the C program given below?**
+
+    #include <stdio.h>
+    int main()
+    {
+        int x = 0;
+        if (x)
+            printf("true\n");
+        else if (x = 1)
+            printf("false\n");
+        return 0;
+    }
+
+a) true\
+b) false\
+c) Compilation Error\
+d) No Output
+
+[View Answers](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
+***
+
+**Question 10. Find the output of the following code.**
+
+    #include <stdio.h>
+    int main()
+    {
+        int p = 6, q = 4, r = 10;
+        if (p > q)
+        {
+            if (p > r)
+                printf("%d", p);
+            else
+                printf("%d", 0);
+        }
+        else
+        {
+            if (q > r)
+                printf("%d", q);
+            else
+                printf("%d", 9);
+        }
+        return 0;
+    }
+
+a) 6\
+b) 9\
+c) 0\
+d) 14
+
+[View Answers](https://my.progiez.com/courses/problem-solving-through-programming-in-c/)
+
 
 ## _Problem Solving Through Programming In C Week 3 Answers (Jan-Apr 2025)_
 
