@@ -2,6 +2,109 @@
 
 Are you looking for NPTEL Introduction To Machine Learning IIT KGP Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Introduction To Machine Learning IIT KGP course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## _Introduction To Machine Learning IIT-KGP Week 3 Answers_ (July-Dec 2025)
+
+***
+
+**Question 1. Suppose, you have given the following data where x and y are the 2 input variables and Class is the dependent variable. Suppose, you want to predict the class of new data point x=1 and y=1 using euclidean distance in 3-NN. To which class the new data point belongs to?**\
+a) +Class\
+b) –Class\
+c) Can’t say\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Question 2. Imagine you are dealing with a 10 class classification problem. What is the maximum number of discriminant vectors that can be produced by LDA?**\
+a) 20\
+b) 14\
+c) 9\
+d) 10
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Question 3. Fill in the blanks: K-Nearest Neighbor is a \_\_\_\_\_\_\_\_\_\_ algorithm**\
+a) Non-parametric, eager\
+b) Parametric, eager\
+c) Non-parametric, lazy\
+d) Parametric, lazy
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Question 4. Which of the following statements is True about the KNN algorithm?**\
+a) KNN algorithm does more computation on test time rather than train time.\
+b) KNN algorithm does lesser computation on test time rather than train time.\
+c) KNN algorithm does an equal amount of computation on test time and train time\
+d) None of these.
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Question 5. Which of the following necessitates feature reduction in machine learning?**\
+a) Irrelevant and redundant features\
+b) Curse of dimensionality\
+c) Limited computational resources.\
+d) All of the above
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Question 6. When there is noise in data, which of the following options would improve the performance of the KNN algorithm?**\
+a) Increase the value of k\
+b) Decrease the value of k\
+c) Changing value of k will not change the effect of the noise\
+d) None of these
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Question 7. Find the value of the Pearson’s correlation coefficient of X and Y from the data in the following table.**\
+a) 0.47\
+b) 0.68\
+c) 1\
+d) 0.33
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Question 8. Which of the following is false about PCA?**\
+a) PCA is a supervised method\
+b) It identifies the directions that data have the largest variance\
+c) Maximum number of principal components ≤ number of features\
+d) All principal components are orthogonal to each other
+
+[****See also**  **Practical Cyber Security for Cyber Security Practitioners Nptel Week 3 Answers****](https://progiez.com/practical-cyber-security-for-cyber-security-practitioners-nptel-week-3-answers)
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Question 9. In user-based collaborative filtering based recommendation, the items are recommended based on:**\
+a) Similar users\
+b) Similar items\
+c) Both of the above\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+***
+
+**Question 10. Identify whether the following statement is true or false? “PCA can be used for projecting and visualizing data in lower dimensions.”**\
+a) TRUE\
+b) FALSE
+
+[View Answers](https://my.progiez.com/courses/introduction-to-machine-learning-iitkgp-nptel-answers/)
+
+
 
 ## _Introduction to Machine Learning Nptel Week 3 Answers (Jan-Apr 2025)_
 
