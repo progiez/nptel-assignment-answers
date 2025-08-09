@@ -3,9 +3,132 @@
 Are you looking for NPTEL Python For Data Science Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Python For Data Science course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
-![Python for Data Science Nptel Week 3 Assignment Answers (July-Dec 2025)](https://miro.medium.com/v2/resize:fit:875/1*b3Psklc_XLBl1BbDFzXHNQ.jpeg)
+![Python for Data Science Nptel Week 3 Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*b3Psklc_XLBl1BbDFzXHNQ.jpeg)
 
-## _Python for Data Science Nptel Week 3 Assignment Answers (JAN-Apr 2025)_
+## _Python for Data Science Nptel Week 3 Assignment Answers (July-Dec 2025)_
+
+***
+
+**Question 1. Which of the following is the correct approach to fill missing values in case of categorical variable?**\
+a) Mean\
+b) Median\
+c) Mode\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Question 2. Of the following set of statements, which of them can be used to extract the column Type as a separate dataframe?**\
+a) df\_cars\[\[‘Type’]]\
+b) df\_cars.iloc\[\[:, 1]\
+c) df\_cars.loc\[:, \[‘Type’]]\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Question 3. The method df\_cars.describe() will give description of which of the following column?**\
+a) Car name\
+b) Brand\
+c) Price (in lakhs)\
+d) All of the above
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Question 4. Which pandas function is used to stack the dataframes vertically?**\
+a) pd.merge()\
+b) pd.concat()\
+c) join()\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Question 5. Which of the following are libraries in Python?**\
+a) Pandas\
+b) Matplotlib\
+c) NumPy\
+d) All of the above
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Question 6. Which of the following variable have null values?**\
+a) ID\
+b) Company\
+c) Review Date\
+d) Rating
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Question 7. Which of the following countries have maximum locations of cocoa manufacturing companies?**\
+a) U.K.\
+b) U.S.A.\
+c) Canada\
+d) France
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Question 8. After checking the data summary, which feature requires a data conversion considering the data values held?**\
+a) Rating\
+b) Review date\
+c) Company\
+d) Bean origin
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Question 9. What is the maximum rating of chocolates?**\
+a) 1.00\
+b) 5.00\
+c) 3.18\
+d) 4.00
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Question 10. What will be the output of the following code?**\
+a) \[bool, int, float, float, str]\
+b) \[str, int, float, float, str]\
+c) \[bool, int, float, int, str]\
+d) \[bool, int, int, float, str]
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Question 11. What does df.info() provide?**\
+a) Summary of the DataFrame, including the number of non-null entries.\
+b) The first 5 rows of the DataFrame\
+c) The data types of the columns\
+d) The correlation matrix of the DataFrame
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Question 12. What will be the output of the following code?**\
+a) \[1, 2]\
+b) \[1, 3, 5]\
+c) \[1, 2, 3, 4, 5]\
+d) \[5, 4, 3, 2, 1]
+
+[View Answers](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+
+## _Python for Data Science Nptel Week 3 Assignment Answers (JAN-Apr 2025)
 
 ***
 
