@@ -3,7 +3,209 @@
 Are you looking for NPTEL Programming In Java Week 03 Assignment Answers? This repository will help you find your answers and solutions for Week 03 of the Programming In Java course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
-![Programming in Java Nptel Week 3 Assignment Answers (July-Dec 2025)](https://miro.medium.com/v2/resize:fit:875/1*1c55dWd4KnPINHUgVKaspg.jpeg)
+![Programming in Java Nptel Week 3 Assignment Answers ](https://miro.medium.com/v2/resize:fit:875/1*1c55dWd4KnPINHUgVKaspg.jpeg)
+
+## Programming in Java Nptel Week 3 Assignment Answers (July-Dec 2025)
+
+***
+
+**Question 1. In Java, what is the role of the `public static void main(String[] args)` method?**\
+a) Initialization method\
+b) Execution entry point\
+c) Constructor\
+d) Destructor
+
+[View Answers](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 2. Consider the following code:**
+
+    class First {
+        static void staticMethod() {
+            System.out.println("Static Method");
+        }
+    }
+
+    class MainClass {
+        public static void main(String[] args) {
+            First first = null;
+            First.staticMethod();
+        }
+    }
+
+What is the output of the above code?\
+a) Static Method\
+b) Throws a NullPointerException\
+c) Compile-time error\
+d) Run time error
+
+[View Answers](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 3. What is the output of the following code?**
+
+    class access {
+        public int x;
+        private int y;
+        void cal(int a, int b) {
+            x = a + 1;
+            y = b;
+        }
+        void print() {
+            System.out.println(" " + y);
+        }
+    }
+
+    public class accessSpecifier {
+        public static void main(String args[]) {
+            access obj = new access();
+            obj.cal(2, 3);
+            System.out.print(obj.x);
+            obj.print();
+        }
+    }
+
+a) 23\
+b) 33\
+c) Runtime Error\
+d) Compilation Error
+
+[View Answers](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 4. Members which are not intended to be inherited are declared as**\
+a) Public members\
+b) Protected members\
+c) Private members\
+d) Private or Protected members
+
+[View Answers](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 5. Which type of inheritance leads to diamond problem?**\
+a) Single level\
+b) Multi-level\
+c) Multiple\
+d) Hierarchical
+
+[View Answers](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 6. Consider the following code:**
+
+    class superDemoClass {
+        final void func() {
+            int a = 20;
+            System.out.println("value of a = " + a);
+        }
+    }
+
+    class subDemoClass extends superDemoClass {
+        void func() {
+            int b = 60;
+            System.out.println("value of b = " + b);
+        }
+    }
+
+What is the output of the above code?\
+a) error: func() in subDemoClass cannot override func() in superDemoClass\
+b) value of b = 60\
+c) value of a = 20\
+d) None of the above
+
+[View Answers](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 7. Consider the following code:**
+
+    class StaticDemo {
+        static int x = 5;
+        public static void main(String[] args) {
+            int x = 10;
+            int x = 15;
+            System.out.println(x);
+        }
+    }
+
+What is the output of the above code?\
+a) 15\
+b) Compilation Error\
+c) 5\
+d) 10
+
+[View Answers](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 8. What is the output of the following code?**
+
+    public class NptelExample {
+        public static int fun(int n) {
+            if (n == 0) {
+                return 1;
+            }
+            return n * fun(n - 1);
+        }
+
+        public static void main(String[] args) {
+            System.out.println(fun(5));
+        }
+    }
+
+a) 5\
+b) 24\
+c) 120\
+d) Runtime Error
+
+[View Answers](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 9. If a variable of primitive datatype in Java is declared as final, then**\
+a) It cannot get inherited\
+b) Its value cannot be changed\
+c) It cannot be accessed in the subclass\
+d) All of the above
+
+[View Answers](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Question 10. What is the output of the following code?**
+
+    class StaticOut {
+        static int x;
+        static int y;
+        void add(int a, int b) {
+            x = a + b;
+            y = x + b;
+        }
+    }
+
+    public class StaticUse {
+        public static void main(String args[]) {
+            StaticOut obj1 = new StaticOut();
+            StaticOut obj2 = new StaticOut();
+            int a = 2;
+            obj1.add(a, a + 1);
+            obj2.add(5, a);
+            System.out.println(obj1.x + " " + obj2.y);
+        }
+    }
+
+a) 7 4\
+b) 6 6.4\
+c) 7 9\
+d) 9 7
+
+[View Answers](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
 
 ## Programming in Java Nptel Week 3 Assignment Answers (Jan-Apr 2025)
 
