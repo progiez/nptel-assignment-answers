@@ -1,10 +1,10 @@
-# NPTEL Assignment Answers 2025 with Solutions (July–Dec)
+# NPTEL Assignment Answers 2026 with Solutions (Jan-Apr)
 
-NPTEL Assignment Answers and Solutions 2025 (July–Dec). Get answers for Week 1 to Week 12 for all courses. This guide offers clear and accurate NPTEL assignment answers across various NPTEL courses to help you complete your assignments efficiently.
+NPTEL Assignment Answers and Solutions 2026 (Jan–Apr). Get answers for Week 1 to Week 12 for all courses. This guide offers clear and accurate NPTEL assignment answers across various NPTEL courses to help you complete your assignments efficiently.
 
 ---
 
-## 📘 How to Use This Repo to See NPTEL Assignment Answers and Solutions 2025
+## 📘 How to Use This Repo to See NPTEL Assignment Answers and Solutions 2026
 
 If you're here to find answers for specific NPTEL courses, follow these steps:
 
