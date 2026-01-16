@@ -6,6 +6,174 @@ Are you looking for NPTEL Social Networks Assignment Answers Week 01 Assignment 
 
 Nptel Social Networks Week 1 Assignment Answers
 
+## _Nptel Social Networks Week 1 Assignment Answers_ _(Jan-Apr 2026)_
+
+***
+
+Que1. The communication system described is most appropriately represented as:
+
+a) A table of contacts\
+b) A graph of users and connections\
+c) A loop-based structure\
+d) A sorted list
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que2. The main reason some students never received the notice was that:
+
+a) The message was sent too late\
+b) The coordinators did not forward it\
+c) There were no communication paths to them\
+d) The system deleted messages
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que3. Ignoring self-messaging and duplicate connections makes the structure:
+
+a) Random\
+b) Directed\
+c) Simple\
+d) Cyclic
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que4. Tracing the spread of the message step by step from the hostel office is best described as:
+
+a) Sorting users\
+b) Searching through connections\
+c) Counting messages\
+d) Reversing data
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que5. If every student could directly message every other student, the notice would:
+
+a) Still spread slowly\
+b) Reach only coordinators\
+c) Reach everyone immediately\
+d) Fail due to overload
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que6. Which Python structure is most suitable for storing hourly data in sequence?
+
+a) Set\
+b) Dictionary\
+c) List\
+d) Tuple
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que7. Reversing the list helped the coordinator mainly to:
+
+a) Change the values\
+b) Analyze recent activity first\
+c) Increase the data size\
+d) Remove older data
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que8. If three numbers between 0 and 1 are added, which outcome is impossible?
+
+a) 0.9\
+b) 1.6\
+c) 2.7\
+d) 3.8
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que9. The random number experiment showed that randomness:
+
+a) Has no limits\
+b) Always gives large values\
+c) Produces varying results within bounds\
+d) Removes all patterns
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que10. Creating more connections between users mainly helps to:
+
+a) Reduce data storage\
+b) Improve message reach\
+c) Decrease user count\
+d) Control randomness
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que11. A system with 500 guards and 499 links where everyone is reachable suggests that:
+
+a) The system is inefficient\
+b) The system has the minimum required connections\
+c) The system is overloaded\
+d) The system is disconnected
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que12. Passing alerts from one guard to another step by step represents:
+
+a) Searching\
+b) Sorting\
+c) Printing\
+d) Deleting
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que13. Adding extra random links mainly resulted in:
+
+a) Faster alerts\
+b) Fewer message paths\
+c) Repeated alerts\
+d) Message loss
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que14. Communication that works equally in both directions means the system is:
+
+a) One-way\
+b) Two-way\
+c) Circular\
+d) Isolated
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+***
+
+Que15. This case study mainly shows that increasing connections always:
+
+a) Improves performance\
+b) Simplifies communication\
+c) Helps only up to a point\
+d) Eliminates confusion
+
+[View Answer](https://my.progiez.com/courses/nptel-social-networks-assignment-answers/)
+
+
 ## _Nptel Social Networks Week 1 Assignment Answers_ _(July-Dec 2025)_
 
 **Question 1.** **Which property of the peripheral nodes likely contributed to rapid spread?**\
