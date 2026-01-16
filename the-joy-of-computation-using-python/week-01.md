@@ -1,8 +1,177 @@
-# NPTEL The Joy Of Computation Using Python Week 01 Assignment Answers
+# NPTEL The Joy Of Computing Using Python Week 01 Assignment Answers
 
 Are you looking for NPTEL The Joy Of Computation Using Python Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the The Joy Of Computation Using Python course. We provide detailed solutions to help you complete your assignments efficiently.
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*GHFfNmxb2lCrZnitz81cGw.jpeg)
+
+
+## The Joy of Computing Using Python Week 1 Nptel Answers (Jan-Apr 2026)
+
+***
+
+Que1. What will be the final value of counter after the program finishes execution?
+
+a) 8\
+b) 5\
+c) 3\
+d) 10
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que2. What will be the value of score after the first repeat loop ends?
+
+a) 20\
+b) 24\
+c) 40\
+d) 44
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que3. What is the final value of score that the sprite will say?
+
+a) 22\
+b) 28\
+c) 34\
+d) 40
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que4. How many times in total is the **change counter by 1** block executed?
+
+a) 3\
+b) 5\
+c) 6\
+d) 8
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que5. Which statement is TRUE about the execution of this Scratch program?
+
+a) The value of score is reset before the second loop\
+b) The second loop runs before the first loop\
+c) The sprite says the value of score only once\
+d) The variable counter is updated only in one loop
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que6. What will be the final value of counter after the program finishes execution?
+
+a) 5\
+b) 6\
+c) 8\
+d) 12
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que7. What will be the value of score immediately after the repeat loop ends (before adding bonus)?
+
+a) 30\
+b) 36\
+c) 42\
+d) 54
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que8. What will be the final value of bonus after the loop completes?
+
+a) 6\
+b) 9\
+c) 12\
+d) 15
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que9. What is the final value of score after the bonus is added?
+
+a) 42\
+b) 48\
+c) 50\
+d) 54
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que10. What message will the sprite display at the end of the program?
+
+a) Excellent!\
+b) Level Cleared!\
+c) Try Again!\
+d) No message
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que11. What will be the final value of battery when the loop stops?
+
+a) 18\
+b) 14\
+c) 10\
+d) 6
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que12. How many times does the **repeat until** loop execute?
+
+a) 4\
+b) 5\
+c) 6\
+d) 7
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que13. What will be the final value of cycles after the program finishes?
+
+a) 5\
+b) 4\
+c) 6\
+d) 8
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que14. Which statement about the **repeat until** block is TRUE in Scratch?
+
+a) The loop always runs at least once\
+b) The loop checks the condition after executing the body\
+c) The loop behaves exactly like repeat n times\
+d) The loop stops immediately if the condition is already true
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+Que15. What message will the sprite display at the end of the program?
+
+a) Battery Low\
+b) System Shutdown\
+c) Recharge Needed\
+d) No message
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
 
 ## The Joy of Computing Using Python Week 1 Nptel Answers (July-Dec 2025)
 
