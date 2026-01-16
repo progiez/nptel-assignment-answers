@@ -2,6 +2,121 @@
 
 Are you looking for NPTEL Design Thinking - A Primer Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the **Design Thinking - A Primer** course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## _NPTEL Design Thinking A Primer Week 1 Quiz Answers (Jan-Apr 2026)_
+
+***
+
+Que1. Which of the following stage is described as the most important piece of the 4-stage Karmic Design Thinking process?
+
+a) Analyze\
+b) Empathize\
+c) Test\
+d) Solve
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+Que2. What does Empathize phase in Design Thinking (DT) entail the practitioner to do?
+
+a) Buy a pair of shoes for your customer\
+b) Perform a psychological analysis of your customer\
+c) Experience the problem that your customer is facing as if it were your own\
+d) Go on a journey with your customer
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+Que3. In trying to empathize with patients who were brought into the Emergency Room of a hospital, which of the following did the IDEO (Design Thinking Company) team do?
+
+a) Attached a video camera and pretended he was one of the patients\
+b) Interviewed patients who were admitted to the Emergency Room\
+c) Documented their own accident experiences\
+d) Stopped the hospital from attending to patients
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+Que4. What was the key insight the IDEO team observed when they pretended to be a patient admitted to the emergency room of a hospital?
+
+a) Patients mostly saw the roof of the hospital when admitted\
+b) Patients were provided excessive medication\
+c) Patients were treated badly by the hospital\
+d) Patients were unconscious the whole time
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+Que5. Empathy through observation allows Design Thinkers to
+
+a) Identify diseases in older adults\
+b) Identify inherent problems people are facing, even when they are not completely aware of them\
+c) Create child-proof medicine bottles\
+d) Assist older adults with having medicines
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+Que6. What is customer journey mapping?
+
+a) Providing a map to customer\
+b) Understanding the sequence of events that a customer goes through in a given scenario\
+c) Testing customer problems\
+d) Going on a journey with the customer
+
+[****See also**  **Marketing Management-I Nptel Week 1 Answers****](https://progiez.com/marketing-management-i-nptel-week-1-answers)
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+Que7. Customer Journey Mapping (CJM) is a process based on
+
+a) Sticky notes\
+b) Excel sheets\
+c) PDF documents\
+d) Mobile Apps
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+Que8. What are the important phases that one needs to analyze while conducting a CJM?
+
+a) When, Where, Why\
+b) Before, During, After\
+c) Why, How, When\
+d) Who, What, When
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+Que9. One important activity to perform during the CJM process is to
+
+a) Conduct a survey to validate your process\
+b) Assign an emotion to each of the activities performed\
+c) Sit still and meditate on the problem\
+d) Go on a journey with the customer
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+Que10. How many steps does each block (Before, During, or After) of the CJM need to have at a minimum?
+
+a) Three\
+b) Two\
+c) Four\
+d) One
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+
 ## _NPTEL Design Thinking A Primer Week 1 Quiz Answers (July-Dec 2025)_
 
 ***
