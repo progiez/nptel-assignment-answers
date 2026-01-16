@@ -2,6 +2,133 @@
 
 Are you looking for NPTEL Air Pollution and Control Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the **Air Pollution and Control** course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## _Air Pollution and Control Week 1 Nptel Quiz Answers (Jan-Apr 2026)_
+
+Que1. Match List-I (Air pollution events/accidents) with List-II (Year) and select the correct answer using the codes given below:\
+List I (Air pollution events/accidents) – List II (Year)\
+A. Great London Smog\
+B. Los Angeles smog\
+C. Bhopal Gas Tragedy\
+D. Vapour Cloud Explosion
+
+a) A-4, B-1, C-3, D-2\
+b) A-2, B-3, C-1, D-4\
+c) A-4, B-3, C-2, D-1\
+d) A-2, B-1, C-4, D-3
+
+[View Answer](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)
+
+***
+
+Que2. The lithosphere includes:
+
+1. Crust
+2. Uppermost mantle
+3. Water over the earth
+4. Water beneath the earth
+
+Select the correct combination:
+
+a) 1, 2, 3\
+b) 1, 2\
+c) 2, 3\
+d) 1, 4
+
+[View Answer](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)
+
+***
+
+Que3. Which of the following factors are responsible for the susceptibility of urban areas towards health issues related to air pollution?
+
+a) Abundance of green spaces\
+b) Limited exposure to indoor air pollution\
+c) Overpopulation, uncontrolled urbanization, and industrialization\
+d) Strict pollution control measures
+
+[View Answer](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)
+
+***
+
+Que4. Chemical name of dioxin is
+
+a) Tetrachloromethane para dioxin\
+b) Tetrachlorodibenzo para dioxin\
+c) Tetrachloroethane para dioxin\
+d) Tetrachloroethylene para dioxin
+
+[View Answer](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)
+
+***
+
+Que5. What is a major stressor to biodiversity caused by air pollution?
+
+a) Carbon dioxide emissions\
+b) Excess deposition of airborne nitrogen in the form of ammonia\
+c) Ozone layer depletion\
+d) Acid rain
+
+[****See also**  **Air Pollution and Control Week 11 Nptel Quiz Answers****](https://progiez.com/air-pollution-and-control-week-11-nptel-quiz-answers)
+
+[View Answer](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)
+
+***
+
+Que6. What property of stone materials makes them vulnerable to frost damage and salt weathering?
+
+a) Porosity\
+b) Low density\
+c) High elasticity\
+d) Thermal conductivity
+
+[View Answer](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)
+
+***
+
+Que7. In coastal regions chlorides play a significant role as it accelerates the corrosion of metals, the percentage of chlorides in the sea salt is upto
+
+a) 35%\
+b) 55%\
+c) 45%\
+d) 65%
+
+[View Answer](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)
+
+***
+
+Que8. What phenomenon is mainly responsible for the erosion of building stones?
+
+a) Oxidation\
+b) Hydration\
+c) Sulphation\
+d) Thermal expansion
+
+[View Answer](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)
+
+***
+
+Que9. As a preservative coating on the building surface, materials used like acrylic copolymers and siloxanes because of their \_\_\_\_\_\_\_\_\_ film forming properties.
+
+a) Good cohesion\
+b) Weak cohesion\
+c) Good adhesion\
+d) Weak adhesion
+
+[View Answer](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)
+
+***
+
+Que10. Which materials are recommended for preservative coating due to their adhesion and film-forming properties?
+
+a) Glass and ceramics\
+b) Steel and iron\
+c) Acrylic copolymers and siloxanes\
+d) Wood and plastic
+
+[View Answer](https://my.progiez.com/courses/air-pollution-and-control-nptel-answers/)
+
+***
+
+
 ## _Air Pollution and Control Week 1 Nptel Quiz Answers (Jan-Apr 2025)_
 
 Course link: [Click here](https://onlinecourses.nptel.ac.in/noc25_ce04/course)
