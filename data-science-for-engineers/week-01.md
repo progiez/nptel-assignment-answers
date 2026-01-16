@@ -2,6 +2,120 @@
 
 Are you looking for NPTEL Data Science For Engineers Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the Data Science For Engineers course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Nptel Data Science for Engineers Assignment 1 Answers (Jan-Apr 2026)
+
+***
+
+Que1. Which of the following variable names are INVALID in R?
+
+a) 1\_variable\
+b) variable\_1\
+c) \_variable\
+d) variable@
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que2. The function `ls()` in R will
+
+a) set a new working directory path\
+b) list all objects in our working environment\
+c) display the path to our working directory\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que3. Consider the following code snippet. Based on this, answer the question below.\
+Which of the following command is used to access the value “Shyam”?
+
+a) print(patient\_list\[3]\[2])\
+b) print(patient\_list\[\[3]]\[1])\
+c) print(patient\_list\[\[3]]\[2])\
+d) print(patient\_list\[\[2]]\[2])
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que4. The output of the code given below is
+
+a) Code will throw an error
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que5. What is the output of following code?
+
+a) double\
+b) integer\
+c) list\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que6. State whether the given statement is True or False.\
+The library `reshape2` is based around two key functions named melt and cast.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que7. What is the output of following code?
+
+a) 6\
+b) 4\
+c) 2\
+d) 8
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que8. Create the data frame using the code given below and answer the question.
+
+    student_data = data.frame(student_id=c(1:4), student_name=c('Ram','Harish','Pradeep','Rajesh'))
+
+Choose the correct command to add a column named `student_dept` to the dataframe `student_data`.
+
+a) student\_datastudent\_dept = c(“Commerce”, “Biology”, “English”, “Tamil”)\
+b) student\_data\[“student\_dept”] = c(“Commerce”, “Biology”, “English”, “Tamil”)\
+c) student\_dept = student\_data\[c(“Commerce”, “Biology”, “English”, “Tamil”)]\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que9. Choose the correct command to access the element **Tamil** in the dataframe `student_data`.
+
+a) student\_data\[\[4]]\
+b) student\_data\[\[4]]\[3]\
+c) student\_data\[\[3]]\[4]\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que10. The command to check if a value is of numeric data type is \_\_\_\_.
+
+a) typeof()\
+b) is.numeric()\
+c) as.numeric()\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+
 ## Nptel Data Science for Engineers Assignment 1 Answers (July-Dec 2025)
 
 ***
