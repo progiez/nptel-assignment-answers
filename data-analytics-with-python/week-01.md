@@ -6,6 +6,128 @@ Are you looking for NPTEL Data Analytics with Python Week 01 Assignment Answers?
 
 Data Analytics with Python Nptel Week 1 Quiz Answers
 
+## Data Analytics with Python Nptel Week 1 Quiz Answers (Jan-Apr 2026)
+
+***
+
+Que1. Data analytics is best defined as:
+
+a) Collection of large volumes of data\
+b) Storage of structured and unstructured data\
+c) Scientific process of transforming data into insights for decision-making\
+d) Visualization of data using graphs
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+Que2. Which of the following represents the correct order of data analytics types based on workflow?
+
+a) Predictive → Descriptive → Prescriptive → Diagnostic\
+b) Descriptive → Diagnostic → Predictive → Prescriptive\
+c) Diagnostic → Descriptive → Prescriptive → Predictive\
+d) Descriptive → Predictive → Diagnostic → Prescriptive
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+Que3. Under which level of measurement does the variable “height of a person” fall?
+
+a) Nominal\
+b) Ordinal\
+c) Interval\
+d) Ratio
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+Que4. In Python (Pandas), which command is used to select rows by integer position?
+
+a) df.loc\[]\
+b) df.select()\
+c) df.iloc\[]\
+d) df.index\[]
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+Que5. Which of the following is NOT a benefit of using Jupyter Notebook?
+
+a) Easy documentation\
+b) User-friendly interface\
+c) Faster hardware execution\
+d) Web-based code editing
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+Que6. The arithmetic mean is NOT appropriate for which type of data?
+
+a) Interval\
+b) Ratio\
+c) Ordinal\
+d) Nominal
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+Que7. If a distribution is positively skewed, which relationship holds true?
+
+[****See also**  **Data Analytics with Python Nptel Week 4 Assignment Answers****](https://progiez.com/data-analytics-with-python-nptel-week-4-quiz-answers)
+
+a) Mean < Median < Mode\
+b) Mode < Median < Mean\
+c) Mean = Median = Mode\
+d) Median < Mean < Mode
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+Que8. Which measure is used to compare relative dispersion between two datasets?
+
+a) Variance\
+b) Standard deviation\
+c) Range\
+d) Coefficient of variation
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+Que9. A dataset has a mean of 50 and a standard deviation of 10. According to the Empirical Rule, approximately what percentage of observations lie between 30 and 70?
+
+a) 68%\
+b) 75%\
+c) 95%\
+d) 99.7%
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+Que10. Consider the following Python code:
+
+x = \[10, 20, 30]\
+y = x\
+y.append(40)\
+print(len(x))
+
+What will be the output?
+
+a) 3\
+b) 4\
+c) Error\
+d) 1
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+
 
 ## Data Analytics with Python Nptel Week 1 Quiz Answers (Jan-Apr 2025
 
