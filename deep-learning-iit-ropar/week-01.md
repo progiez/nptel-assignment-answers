@@ -4,6 +4,181 @@ Are you looking for NPTEL Deep Learning IIT Ropar Week 01 Assignment Answers? Th
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*QDWTnjcXhVrF7tiwqND6RA.jpeg)
 
+## Deep Learning IIT Ropar Week 1 Nptel Assignment Answers (July-Dec 2026)
+
+***
+
+Que1. What value of 𝜃 correctly implements the specified alarm behavior?
+
+a) 1\
+b) 2\
+c) 3\
+d) 4
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que2. Which of the following sensor activation patterns will result in an alarm signal?\
+Select all that apply.
+
+a) (1, 1, 1, 0)\
+b) (0, 1, 1, 1)\
+c) (1, 0, 0, 1)\
+d) (1, 1, 1, 1)\
+e) (0, 0, 1, 1)
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que3. Fill in the blank.\
+The total number of sensor input combinations that trigger the alarm is: \_\_\_\_\_\_\_\_\_\_
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que4. Which of the following statements about the alarm logic are correct?\
+Select all that apply.
+
+a) The set of alarm-triggering input patterns is linearly separable\
+b) The alarm behavior can be implemented using a single threshold unit\
+c) Exactly half of all possible input combinations result in an alarm\
+d) Increasing the threshold beyond the chosen value increases resistance to isolated sensor noise\
+e) The alarm output depends on the sequence in which sensor inputs arrive
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que5. If the threshold were incorrectly set to 𝜃 = 2, which outcome would most likely occur?
+
+a) The alarm would never activate\
+b) The alarm would activate only when all sensors are active\
+c) The alarm would activate more frequently, increasing false positives\
+d) The alarm behavior would become undefined
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que6. The anchor-pattern mapping in the table corresponds to which logical behavior of (𝑥1, 𝑥2) (treating 1 as “high” and 0 as “low”)?
+
+a) AND\
+b) OR\
+c) XOR\
+d) XNOR
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que7. Can a single linear-threshold classifier of the form 𝑤1𝑥1 + 𝑤2𝑥2 + 𝑏 ≥ 0 correctly classify all four anchor patterns shown?
+
+a) Yes, always\
+b) Yes, but only if b = 0\
+c) No\
+d) Yes, but only if 𝑤1 = 𝑤2
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que8. Suppose the team insists on using a single linear-threshold model and chooses parameters 𝑤1 = 1, 𝑤2 = 1 and 𝑏 = −1. Which anchor groups will be predicted as ŷ = 1?
+
+a) Only G4\
+b) G2 and G3\
+c) Only G2\
+d) G2, G3, and G4
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que9. Fill in the blank.\
+For the model in the previous question (𝑤1 = 1, 𝑤2 = 1 and 𝑏 = −1), how many of the four anchor patterns are classified correctly? \_\_\_\_\_\_\_\_\_\_
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que10. A two-unit deterministic system is proposed:\
+Unit U1 outputs 1 if 𝑥1 + 𝑥2 ≥ 1,\
+Unit U2 outputs 1 if 𝑥1 + 𝑥2 ≥ 2.\
+Final output is 𝑦 = 1 if U1 = 1 and U2 = 0, else 𝑦 = 0.
+
+Which anchor inputs will this system classify as 𝑦 = 1?\
+Select all that apply.
+
+a) (0,0)\
+b) (0,1)\
+c) (1,0)\
+d) (1,1)
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que11. Which logical condition best describes the accept decision specified in the policy?
+
+a) 𝑥3 ∧ (𝑥1 ∨ 𝑥2 ∨ 𝑥4)\
+b) (𝑥1 ∧ 𝑥2) ∨ (𝑥3 ∧ 𝑥4)\
+c) 𝑥3 ⊕ (𝑥1 ∨ 𝑥2 ∨ 𝑥4)\
+d) (𝑥1 ∨ 𝑥2 ∨ 𝑥3 ∨ 𝑥4)
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que12. Why does a single linear-threshold rule fail to implement the specified policy for all inputs?
+
+a) The input dimension is too high\
+b) The policy induces non-linearly separable input patterns\
+c) The features are binary\
+d) The bias term is missing
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que13. Which of the following input patterns must result in 𝑦 = 1 under the policy?\
+Select all that apply.\
+(Inputs listed as (𝑥1, 𝑥2, 𝑥3, 𝑥4))
+
+a) (0,0,1,1)\
+b) (1,0,1,0)\
+c) (0,0,0,1)\
+d) (0,1,0,0)\
+e) (0,0,1,0)
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que14. How many distinct input combinations produce 𝑦 = 1 under the stated policy?
+
+a) 3\
+b) 5\
+c) 7\
+d) 9
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+Que15. Which of the following statements about the hierarchical design are correct?\
+Select all that apply.
+
+a) It decomposes the decision into linearly separable subproblems\
+b) It can be collapsed into a single equivalent linear-threshold rule\
+c) It correctly implements the specified policy\
+d) It increases representational capacity compared to a single stage\
+e) It requires continuous-valued features
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+
 
 ## Deep Learning IIT Ropar Week 1 Nptel Assignment Answers (July-Dec 2025)
 
