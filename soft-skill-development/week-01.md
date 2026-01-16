@@ -4,6 +4,176 @@ Are you looking for NPTEL Soft Skill Development Week 01 Assignment Answers? Thi
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*B-yRqp4_MeO_hopxDWkR-g.jpeg)
 
+## _Soft Skill Development Week 1 Nptel Assignment Answers (Jan-Apr 2026)_
+
+***
+
+Que1. Which of the following best explains the difference between hard skills and soft skills?
+
+a) Hard skills are personal traits, while soft skills are technical abilities\
+b) Hard skills are easily measurable and quantifiable, whereas soft skills are more difficult to define and assess\
+c) Hard skills are learned through experience, while soft skills are learned through formal education\
+d) Hard skills are less important than soft skills in the workplace
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que2. In communication, the idea that different people may interpret the same message differently is best illustrated by which concept?
+
+a) Noise in communication\
+b) Encoding and decoding\
+c) Selective perception\
+d) Interpretation based on individual experiences
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que3. Which of the following best describes dogma as a barrier to communication?
+
+a) Lack of feedback from the receiver\
+b) Use of complex technical language\
+c) Rigid beliefs that prevent acceptance of new ideas\
+d) Physical distance between sender and receiver
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que4. In a formal group discussion, the principle “Use non-verbal gestures to intervene and then to continue” mainly emphasizes which of the following?
+
+a) Relying only on written communication\
+b) Interrupting speakers verbally to gain attention\
+c) Using appropriate body language to signal participation without disrupting the flow\
+d) Avoiding participation until invited by the leader
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que5. Tenseness in a male voice often signals:
+
+a) Friendliness\
+b) Confidence\
+c) Quarrelsomeness\
+d) Indifference
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que6. The frequent use of the “I” habit in conversation primarily reflects which communication behavior?
+
+a) Mutual understanding\
+b) Conversational dominance\
+c) Supportive listening\
+d) Group harmony
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que7. The story of the man struck by an arrow, to whom Buddha responds with silence, primarily teaches that communication should focus on:
+
+a) Debating metaphysical questions before addressing reality\
+b) Seeking the source of suffering rather than its immediate solution\
+c) Solving practical problems instead of indulging in unnecessary speculation\
+d) Maintaining silence as the highest form of communication
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que8. In communication, the concept of territory refers to personal or social space, which keeps changing mainly due to:
+
+a) Fixed cultural rules that never vary\
+b) Individual status, context, and relationships\
+c) Biological differences among people\
+d) Permanent personality traits
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que9. In Japanese communication, pauses in conversation are generally interpreted as a sign of:
+
+a) Lack of knowledge or confusion\
+b) Disinterest in the discussion\
+c) Thoughtfulness and respect for the listener\
+d) Communication breakdown
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que10. In the process of listening, the term _foreground_ refers to:
+
+a) Background noise that interferes with listening\
+b) Information that the listener deliberately focuses on\
+c) Unconscious interpretation of messages\
+d) Physical setting of the communication
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que11. Thoughts and beliefs of a speaker can be perceived by a listener through effective listening.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que12. In a professional conversation, the guideline “don’t interrupt unless necessary” is best applied when the listener aims to:
+
+a) Control the direction of the discussion\
+b) Demonstrate authority over the speaker\
+c) Ensure accurate understanding before responding\
+d) Avoid participating in the conversation
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que13. In social transactions, a “white lie” is most commonly used to:
+
+a) Gain unfair advantage over others\
+b) Deliberately mislead for personal benefit\
+c) Conceal serious ethical violations\
+d) Maintain social harmony and avoid hurting feelings
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que14. When visuals are used as a supplement in communication, their primary function is to:
+
+a) Support and enhance understanding of the message\
+b) Substitute spoken or written content\
+c) Distract the audience from the main message\
+d) Limit audience interpretation
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+***
+
+Que15.\
+Statement I: Gestures and postures play a significant role in conveying attitudes and emotions during communication.\
+Statement II: Gestures and postures always have the same meaning across different cultures.
+
+a) Both Statement I and Statement II are true\
+b) Both Statement I and Statement II are false\
+c) Statement I is true and Statement II is false\
+d) Statement I is false and Statement II is true
+
+[****See also**  **Soft Skill Development Week 5 Nptel Assignment Answers****](https://progiez.com/soft-skill-development-week-5-nptel-assignment-answers)
+
+[View Answer](https://my.progiez.com/courses/soft-skill-development-nptel-answers/)
+
+
 ## _Soft Skill Development Week 1 Nptel Assignment Answers (July-Dec 2025)_
 
 ***
