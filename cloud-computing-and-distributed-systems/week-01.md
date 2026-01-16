@@ -2,6 +2,121 @@
 
 Are you looking for NPTEL Cloud Computing and Distributed Systems Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the **Cloud Computing and Distributed Systems** course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Cloud Computing and Distributed Systems Week 1 Answers (Jan-Apr 2026)
+
+***
+
+Que1. A single-site cloud (datacenter) typically includes:
+
+a) Compute nodes, switches, network topology, storage nodes, and a front-end for jobs/requests\
+b) Only end-user laptops\
+c) Only a single database server\
+d) Only Wi-Fi routers and mobile devices
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+Que2. We describe today’s clouds as having all EXCEPT:
+
+a) Massive scale\
+b) On-demand access\
+c) Data-intensive nature\
+d) Guaranteed single-thread execution
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+Que3. Which as-a-service model is “flexible compute + storage infrastructure”, often enabled by virtualization?
+
+a) SaaS\
+b) PaaS\
+c) IaaS\
+d) DaaS
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+Que4. PaaS most closely provides:
+
+a) Bare metal hardware access only\
+b) A platform/runtime framework to develop and deploy apps\
+c) Only office productivity software\
+d) Only network cables and switches
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+Que5. Virtualization allows:
+
+a) One OS only per machine\
+b) Concurrent execution of multiple OSs on the same physical machine\
+c) Eliminating the need for operating systems\
+d) Only running applications without OS
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+Que6. The “virtualization layer” is also called the:
+
+a) Compiler\
+b) Hypervisor / Virtual Machine Monitor (VMM)\
+c) Cache controller\
+d) DNS resolver
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+Que7. Which is true about a Type 1 (bare-metal) hypervisor model?
+
+a) It runs on top of a full host OS\
+b) It directly manages hardware resources and runs guest VMs above it\
+c) It cannot support VMs\
+d) It is only a user-space application
+
+[****See also**  **Cloud Computing and Distributed Systems Week 5 Answers****](https://progiez.com/cloud-computing-and-distributed-systems-week-5-answers)
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+Que8. In x86 hardware without virtualization, the OS must execute privileged instructions in:
+
+a) Ring 3\
+b) Ring 2\
+c) Ring 1\
+d) Ring 0
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+Que9. In hotspot mitigation for VM migration, a black-box approach is described as:
+
+a) Using OS and application-level statistics\
+b) Fully OS- and application-agnostic\
+c) Requiring source-code changes to applications\
+d) Possible only with para-virtualized guests
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+Que10. Para-virtualization typically requires modifying approximately:
+
+a) 30% of guest OS code\
+b) 10% of guest OS code\
+c) Less than 2% of guest OS code\
+d) 50% of guest OS code
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+
 ## Cloud Computing and Distributed Systems Week 1 Answers (Jan-Apr 2025)
 
 Course link: [Click here](https://onlinecourses.nptel.ac.in/noc25_cs12/course)
