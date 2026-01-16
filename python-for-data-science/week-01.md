@@ -4,6 +4,151 @@ Are you looking for NPTEL Python For Data Science Week 01 Assignment Answers? Th
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*COmpT0kgY09Nv7ixYpCdRQ.jpeg)
 
+## _Python for Data Science NPTEL Week 1 Assignment Answers_ _(Jan-Apr 2026)_
+
+***
+
+Que1. Which of the following variable names are INVALID in Python?
+
+a) 1\_variable\
+b) variable\_1\
+c) variable1\
+d) variable#
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+Que2. Which of the following operators have lower precedence than “not” in Python?
+
+a) +\
+b) and\
+c) ==\
+d) |
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+Que3. What will be the output of the following code?
+
+    a = 10
+    b = 5
+    print(a ** b % 3)
+
+a) 0\
+b) 100\
+c) 1\
+d) 2
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+Que4. What will be the output of the following code snippet?
+
+    greetings = "Namaste"
+    greetings_1 = float(greetings)
+    print(type(greetings_1))
+
+a) int\
+b) float\
+c) str\
+d) Code will throw an error
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+Que5. Given two variables, j = 6 and g = 3.3. If both normal division and floor division operators were used to divide j by g, what would be the data type of the value obtained from the operations?
+
+a) int, int\
+b) float, float\
+c) float, int\
+d) int, float
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+Que6. What will be the output of the following code snippet?
+
+    a = "10"
+    b = float(a) + 5
+    result = str(b) + "123"
+    print(type(result))
+
+a) \<class ‘float’>\
+b) \<class ‘str’>\
+c) \<class ‘int’>\
+d) The code will give an error
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+Que7. What will be the output of the following code snippet?
+
+    a = 15
+    b = 3
+    c = 4
+    result = a + b * c // (c % b) - 5
+    print(result)
+
+a) 20\
+b) 1\
+c) 22\
+d) 0
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+Que8. What is the output of the following code snippet?
+
+    a = 4
+    b = 5
+    a *= b * 2
+    print(a)
+
+a) 10\
+b) 20\
+c) 25\
+d) 40
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+Que9. What is the output of the following code snippet?
+
+    a = 3
+    b = 5
+    c = (a == 3) and (b == 5) or (a != 3)
+    print(c)
+
+a) True\
+b) False\
+c) Error
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+Que10. Let a = 5 (101 in binary) and b = 3 (011 in binary). What is the result of the following operation?
+
+    a = 5
+    b = 3
+    print(a & b)
+
+a) 3\
+b) 7\
+c) 5\
+d) 1
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+
 ## _Python for Data Science NPTEL Week 1 Assignment Answers_ _(July-Dec 2025)_
 
 ***
