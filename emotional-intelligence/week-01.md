@@ -6,6 +6,166 @@ Are you looking for NPTEL Emotional Intelligence Week 01 Assignment Answers? Thi
 
 __Nptel Emotional Intelligence Week 1 Assignment Answers__
 
+## Nptel Emotional Intelligence Week 1 Assignment Answers (Jan-Apr 2026)
+
+***
+
+Que1. Which one of the following is not the theory of emotion?
+
+a) James-Lange Theory\
+b) Cannon-Bard theory\
+c) Schachter and Singer theory\
+d) Coding theory
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que2. Wisdom deals with important or difficult matters of life and the human condition.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que3. William Stern gave the concept of
+
+a) EQ\
+b) CAS\
+c) IQ\
+d) Both EQ and IQ
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que4. In the full form of “CAS”, “S” stands for
+
+a) Successive\
+b) System\
+c) Simultaneous\
+d) Social
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que5. Robert Sternberg gave the process model
+
+a) Triarchic\
+b) Bi-factor\
+c) Multifactor\
+d) Two-factor
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que6. Processing is pragmatic intelligence.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que7. Wisdom is expressed in terms of care, concern, and commitment.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que8. “Arithmetic facts” is an example of
+
+a) Crystallized Intelligence\
+b) Broad Visual Perception\
+c) Broad retrieval ability\
+d) Fluid Intelligence
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que9. The ability to think on the spot and solve novel problems is Crystallized Intelligence.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que10. Baltes and Staudinger describe the four characteristics of wisdom in
+
+a) 1990\
+b) 2000\
+c) 1993\
+d) 1880
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+[****See also**  **Learning Analytics Tools Nptel Week 1 Answers****](https://progiez.com/learning-analytics-tools-nptel-week-1-answers)
+
+***
+
+Que11. \_\_\_\_\_\_\_\_\_ intelligence is the factual knowledge about the world.
+
+a) Crystallized\
+b) Fluid\
+c) Emotional\
+d) Social
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que12. We can practice creativity to reach at a stage of wisdom.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que13. Sacrifice is the highest level of
+
+a) Wisdom\
+b) Criticism\
+c) Neurosis\
+d) Apathy
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que14. The concept of emotional intelligence was popularized in mainstream society by
+
+a) Paul Ekman\
+b) Howard Gardner\
+c) Daniel Goleman\
+d) John Mayer
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+***
+
+Que15. \_\_\_\_\_\_\_\_\_ specialized in measuring psychological characteristics for intelligence and personality.
+
+a) Psychometricians\
+b) Pediatricians\
+c) Neurologists\
+d) Cardiologist
+
+[View Answer](https://my.progiez.com/courses/nptel-emotional-intelligence-answers/)
+
+
 
 ## Nptel Emotional Intelligence Week 1 Assignment Answers (Jan-Apr 2025)
 
