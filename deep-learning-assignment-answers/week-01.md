@@ -6,6 +6,125 @@ Are you looking for NPTEL Deep Learning Assignment Answers Week 01 Assignment An
 
 __NPTEL Deep Learning Week 1 Assignment Answers__
 
+## NPTEL Deep Learning Week 1 Assignment Answers (Jan-Apr 2026)
+
+***
+
+Que1. In the context of a signature descriptor, how is the “signature” of a shape generated?
+
+a) By calculating the Fourier coefficients of the boundary points\
+b) By plotting the distance of boundary points from the centroid in various orientations\
+c) By recursively subdividing a shape into polygonal segments\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
+
+***
+
+Que2. Why is a logarithmic transformation used in the computation of Mel Frequency Cepstral Coefficients (MFCC) for audio signals?
+
+a) To normalize the frequency spectrum\
+b) Because the human auditory system is more sensitive to signals that are not very loud\
+c) To remove high-frequency noise from the microphone\
+d) To convert the signal into a two-dimensional matrix
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
+
+***
+
+Que3. Which of the following is a region descriptor?
+
+a) Polygonal Representation\
+b) Fourier descriptor\
+c) Signature\
+d) Intensity histogram
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
+
+***
+
+Que4. What is the primary difference between Traditional Machine Learning and Deep Learning regarding feature extraction?
+
+a) Traditional machine learning ignores the raw signal\
+b) Deep learning requires the user to manually define and extract features before training\
+c) In deep learning, the machine learns to extract relevant features directly from the raw signal\
+d) Deep learning cannot process audio signals whereas traditional machine learning can
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
+
+***
+
+Que5. In statistical moment calculation for a normalized histogram h(ri), what does the second-order moment (k = 2) represent?
+
+a) The mean intensity\
+b) The skewness of the distribution\
+c) The maximum probability of the distribution\
+d) The variance (spread) of the histogram
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
+
+***
+
+Que6. Signature descriptor of an unknown shape is given in the figure. Can you identify the unknown shape?
+
+a) Circle\
+b) Square\
+c) Straight line\
+d) Rectangle
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
+
+***
+
+Que7. Under what condition are the Bayes Minimum Risk Classifier and the Bayes Minimum Error Classifier mathematically identical?
+
+a) When the loss function is a one-zero (or zero-one) loss function\
+b) When the prior probabilities of all classes are equal\
+c) When the feature space is exactly two-dimensional\
+d) When the likelihood ratio is close to 1
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
+
+***
+
+Que8. Given an image I (Fig. 1), the gray co-occurrence matrix C (Fig. 2) can be constructed by specifying the displacement vector d = (dx, dy). Let the position operator be specified as (1,1), which has the interpretation: one pixel to the right and one pixel below. (Both the image and the partial gray co-occurrence matrix are given in the figures. Blank values and X in the gray co-occurrence matrix are unknown.) What is the value of X?
+
+[****See also**  **Deep Learning Week 10 Nptel Assignment Answers****](https://progiez.com/nptel-deep-learning-week-10-assignment-10-answers)
+
+a) 0\
+b) 1\
+c) 2\
+d) 3
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
+
+***
+
+Que9. A sub-segment of an arbitrary object boundary is represented by a discrete boundary function g(ri) after normalization. The distribution of boundary points relative to the centroid is characterized by the following discrete probability mass function:\
+Discrete radial distances: ri ∈ {2, 4, 6}\
+Corresponding probabilities: p(2) = 0.25, p(4) = 0.50, p(6) = 0.25
+
+Calculate the second-order statistical moment of this boundary segment.
+
+a) 2\
+b) 4\
+c) 4.5\
+d) 3
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
+
+***
+
+Que10. When using Fourier Descriptors to reconstruct a square shape, what is the effect of using only low-order coefficients (P ≪ N)?
+
+a) The reconstructed shape will have sharper corners\
+b) The reconstructed shape will lose detailed information (corners) and appear circular\
+c) The reconstruction will be identical to the original shape\
+d) The reconstruction will result in a single point
+
+[View Answer](https://my.progiez.com/courses/nptel-deep-learning-assignment-answers/)
+
+
 
 ## NPTEL Deep Learning Week 1 Assignment Answers (Jan-Apr 2025)
 
