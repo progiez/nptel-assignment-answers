@@ -2,6 +2,130 @@
 
 Are you looking for NPTEL Principles of Management Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the **Principles of Management** course. We provide detailed solutions to help you complete your assignments efficiently.
 
+
+## _Principles of Management Week 1 Assignment 1 Answers (Jan-Apr 2026)_
+
+Que1. Which of these is NOT an impact of changing technology (digitization) in the contemporary workplace?
+
+a) Virtual Workplace\
+b) Flexible work arrangements\
+c) Worklife personal balance\
+d) Increased accountability
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que2. Which of the following level of managers need “Human skills” the most?
+
+a) Top Managers\
+b) Middle Managers\
+c) Lower-level managers\
+d) All of these
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que3. Consider these statements:
+
+i) Mainstream approach of management is high on materialism and individualism\
+ii) Multi-stream approach of management is low on materialism and individualism
+
+a) Both i) and ii) are true\
+b) Only i) is true\
+c) Only ii) is true\
+d) Neither i) nor ii) is true
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que4. True or False:
+
+“Enterprises need to either be totally centralized or decentralized depending on the type of industry”
+
+a) False, because there should be an equal balance between centralization and decentralization\
+b) True, because the appropriateness of centralization or decentralization depends on the type of industry\
+c) False, because centralization or decentralization do not play an important role in enterprise\
+d) Neither true nor false
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que5. Which of the following is NOT a stage of the organizational life cycle?
+
+a) Transformation\
+b) Decline\
+c) Initiation\
+d) Maturity
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que6. Why did Xerox adopt the model of knowledge management?
+
+a) To survive in a competitive business environment\
+b) Because it had reached its maturity phase\
+c) It was a part of their sustainable business model\
+d) All of these
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que7. Why did the concepts such as “Customer is the King” and “Innovation” emerge in management?
+
+a) Because of the shift of business environment from stability to competition\
+b) Because of the shift of business environment from being localized to being liberalized, privatized and globalized\
+c) Because of the shift of business environment from manually managing industries towards digitization of industries\
+d) Because of the shift of business environment from small scale operations to large scale operations
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que8. What are the two most important qualities which organizations require to survive in a turbulent and dynamic business environment?
+
+a) Innovation and Creativity\
+b) Competitiveness and Creativity\
+c) Competitiveness and Agility\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que9. Which of the following statements are correct:
+
+i) Planning function of management is concerned with identifying and fine-tuning goals and strategies at the time of strategic change, among other things\
+ii) Organizing function of management is concerned with HR planning and organizing employee recreational activities, among other things\
+iii) Leading function of management is concerned with liaisons and networking with competitors, suppliers and customers, among other things\
+iv) Controlling function of management ensures that members’ actions are consistent with organizational values and standards
+
+a) Only i) and ii)\
+b) Only ii), iii) and iv)\
+c) Only i), iii) and iv)\
+d) Only iv)
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que10. There is no direct correlation between productive workers and customer satisfaction.
+
+a) True, because there is no correlation between productive workers and customer satisfaction\
+b) False, because there is a direct correlation between productive workers and customer satisfaction\
+c) Neither true nor false\
+d) Either true or false
+
+[****See also**  **Principles of Management | Week 12****](https://progiez.com/principles-of-management-week-12-assignment-12-answers)
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+
 ## _Principles of Management Week 1 Assignment 1 Answers (Jan-Apr 2025)_
 
 ***
