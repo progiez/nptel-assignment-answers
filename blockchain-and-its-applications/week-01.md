@@ -7,7 +7,122 @@ Are you looking for NPTEL Blockchain and its Applications Week 01 Assignment Ans
 **__**_Blockchain and its Applications Assignment 1 Answers_**__**
 
 
-## __Blockchain and its Applications Assignment 1 Answers_ (JAN-APR 202_5)
+## __Blockchain and its Applications Assignment 1 Answers_ (JAN-APR 202_6)
+
+***
+
+Que1. Which of the following statements is true regarding the foundational concepts of blockchain and cryptography?
+
+a) Decentralization in blockchain ensures that a single authority controls the network for higher efficiency\
+b) SHA-256 is a cryptographic hash function widely used in blockchain due to its fixed output size and collision resistance\
+c) A hash chain is a sequence of cryptographic keys used to decode blockchain data\
+d) Cryptographic hash ensures that the blockchain data cannot be read by anyone outside the network
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que2. Consider the following input string: **“Hello World”**. You apply SHA-256 to this string. Then, you change the input to **“Hello World!”** (added an exclamation mark) and apply SHA-256 again. Which statement describes the relationship between the two output hashes?
+
+a) The two hashes will be identical\
+b) The second hash will be the same as the first, plus a few extra bits at the end\
+c) The two hashes will be completely different and uncorrelated\
+d) The second hash will be exactly 8 bits longer than the first
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que3. A blockchain network uses SHA-256 for its hashing process. If it takes 10 seconds to compute a single SHA-256 hash, how long would it take (approximately) to compute 2⁷⁰ hashes for a collision attack?
+
+a) 10¹ years\
+b) 10¹⁰ years\
+c) 10²¹ years\
+d) 10⁵ years
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que4. In a decentralized distributed system with 100 participants, which of the following statements is true regarding trust and communication?
+
+a) At least 50 participants must trust each other for the system to function\
+b) A central body governing communication among all 100 participants is mandatory\
+c) Participants may or may not trust each other, as the system ensures integrity using cryptographic protocols and agreement through consensus protocols\
+d) All the 100 participants must trust each other
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que5. A blockchain network achieves an average block generation time of 5 minutes under normal conditions. However, due to scheduled maintenance, the network’s hash rate is reduced by 50% for 4 hours daily. If the network operates for 12 hours in total (including the maintenance period), how many blocks will be added to the blockchain?
+
+a) 120\
+b) 200\
+c) 216\
+d) 240
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que6. Where are the transaction logs stored in a blockchain network?
+
+a) In a centralized SQL database\
+b) On an immutable ledger controlled by a central authority\
+c) In metadata tables on each peer\
+d) In the distributed ledger of each peer across the network
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que7. An attacker wants to find a collision in a cryptographic hash function with a 128-bit output. What is the approximate number of hash operations required to succeed?
+
+a) 2⁶⁴\
+b) 2²⁸⁸\
+c) 2¹²⁸\
+d) 0.5 × 2⁸
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que8. Which of the following statements accurately describes a blockchain?
+
+a) A centralized database where data is stored on a single server\
+b) A distributed ledger where data is stored across multiple nodes and is immutable\
+c) A system that only stores cryptocurrency transaction data on a single node\
+d) A network that uses a single user to control access and updates to the data
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que9. A centralized database processes transactions at 10,000 TPS (Transactions Per Second). You decide to move this system to a decentralized blockchain to increase trust. Which of the following is the most likely outcome regarding performance and control?
+
+[****See also**  **Blockchain and its Applications | Week 9****](https://progiez.com/blockchain-and-its-applications-assignment-9-answers)
+
+a) Throughput increases, and a single authority retains control\
+b) Throughput decreases, and control is distributed among peers\
+c) Throughput remains the same, but data becomes mutable\
+d) Throughput increases, and data becomes encrypted
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que10. Which of the following describes the avalanche effect in a cryptographic hash function?
+
+a) Given the same input, the hash function returns a different hash 99.99% of the time\
+b) It takes 10⁶ attempts to reverse-engineer the original message from the hash\
+c) A small change in the input causes a drastic change in the hash, flipping nearly all the bits\
+d) The hash function always returns the same hash for the same input
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+
+## __Blockchain and its Applications Assignment 1 Answers_ (JAN-APR 2025)
 
 ***
 
