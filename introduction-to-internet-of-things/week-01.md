@@ -4,6 +4,170 @@ Are you looking for NPTEL Introduction To Internet Of Things Week 01 Assignment 
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*oCfYVT4V7soEfpAPb8Civg.jpeg)
 
+## Introduction to Internet of Things Week 1 Nptel Answers (Jan-Apr 2026)
+
+***
+
+Que1. What is the full form of IoT?
+
+a) Internet of Tasks\
+b) Internet of Articles\
+c) Internet of Taps\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que2. The “Source Address” field in the IPv6 header is of \_\_\_\_\_\_\_\_ bits in length.
+
+a) 32\
+b) 64\
+c) 128\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que3. Which of the following is/are not an enabler of IoT?
+
+a) RFID\
+b) Sensors and Actuators\
+c) Cloud Computing\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que4. The gateway is tasked with assigning a unique address to each of the field devices or sensors within its jurisdiction.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que5. State whether the following statement is True or False.\
+Statement: The increasing number of devices in IoT is expected to result in an address crunch.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que6. In \_\_\_\_\_\_\_\_\_\_ a node/network is connected to multiple networks for improved reliability.
+
+a) Transparent roaming\
+b) Multi-clouding\
+c) None of these\
+d) Both (a) and (b)
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que7. Which of the following is NOT a function of an IoT Gateway?
+
+a) Connects the IoT LAN to a WAN\
+b) Can implement several LAN and WAN\
+c) Both (a) and (b)\
+d) Neither (a) nor (b)
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que8. Which of the following statements is/are incorrect?
+
+Statement I: An actuator is a component of a machine or system that moves or controls the mechanism or the system.\
+Statement II: An actuator requires a control signal and a source of energy.
+
+a) Statement I is incorrect\
+b) Statement II is incorrect\
+c) Both statements are incorrect\
+d) Both statements are correct
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que9. Which of the following is NOT a function of an IoT LAN?
+
+a) Long range communication, global\
+b) World wide connections\
+c) Both (a) and (b)\
+d) Neither (a) nor (b)
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que10. State whether the following statement is True or False.\
+Statement: The word “Transducer” is a collective term used for both Sensors and Actuators.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que11. Analog Sensors produce a discontinuous output signal or voltage, which is generally proportional to the quantity being measured.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que12. If the output signal differs from the correct value by a constant, the sensor has an \_\_\_\_\_\_\_\_\_\_.
+
+a) Offset error\
+b) Bias\
+c) Both (a) and (b)\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que13. State True or False.\
+Pneumatic actuators enable the production of large forces from relatively larger pressure changes.
+
+a) False\
+b) True
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que14. A sensor node is made up of which of the following?
+
+a) Sensor/Sensors\
+b) A processing unit\
+c) A power unit\
+d) All of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que15. What is the full form of SMP in the context of IoT actuators?
+
+a) Shape Memory Polymers\
+b) Shape Master Polymers\
+c) Switch Mode Power\
+d) Sensor Making Polymer
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+
 
 ## Introduction to Internet of Things Week 1 Nptel Answers (July-Dec 2025)
 
