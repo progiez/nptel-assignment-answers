@@ -7,6 +7,138 @@ Are you looking for NPTEL Cloud Computing Week 01 Assignment Answers? This repos
 
 **For answers or latest updates join our telegram channel:** [**Click here to join**](https://telegram.me/nptel_assignments)
 
+## Cloud Computing Nptel Week 1 Assignment Answers (Jan-Apr 2026)
+
+**Que.1**\
+Which one of the following statements least aligns with the NIST defined essential characteristics of cloud computing?
+
+a) On-demand self-service\
+b) Rapid elasticity\
+c) Guaranteed zero downtime for all services\
+d) Measured service
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Que.2**\
+A user accesses Google Docs through a web browser and collaborates in real-time with others. The user never manages servers, operating systems, or runtime environments. However, Google Docs internally relies on Google Cloud’s infrastructure and platforms. From the user’s perspective, Google Docs is best classified as:
+
+a) PaaS\
+b) IaaS\
+c) SaaS\
+d) FaaS
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Que.3**\
+Which of the following is a public cloud platform in typical commercial cloud computing?
+
+a) Windows Server with Hyper-V installed on an organization’s on-premise hardware\
+b) Google Cloud Platform services accessible over the public Internet\
+c) A private OpenStack cloud running inside a company’s own data center\
+d) VMware vSphere used for internal virtualization
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Que.4**\
+Virtualization technology allows multiple virtual machines (VMs) to run on a single physical system or on a cluster of physical systems. Which of the following statements is the MOST accurate?
+
+a) Each VM always shares the same operating system kernel with the host OS\
+b) Multiple VMs can run different operating systems on the same physical machine simultaneously\
+c) Virtualization is only possible in cloud computing environments\
+d) Virtualization prevents resource overcommitment on the host system
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Que.5**\
+A distributed system is typically preferred when the task is:
+
+(i) Data-intensive (large volumes of data distributed across locations)\
+(ii) Compute-intensive (requires heavy parallel processing)\
+(iii) Latency-sensitive but confined to a single machine
+
+Choose the BEST option:
+
+a) Only (i)\
+b) Only (ii)\
+c) (i) and (ii)\
+d) (i), (ii), and (iii)
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Que.6**\
+The combination of Service-Oriented Architecture (SOA) and Cloud Computing led to a paradigm where almost any IT capability can be delivered as a network-accessible service. This is often referred to as:
+
+a) FTP\
+b) SNTP\
+c) XaaS\
+d) FaaS
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Que.7**\
+PaaS (Platform as a Service) brings several benefits to application developers. Which of the following statements about PaaS are CORRECT?
+
+(i) It abstracts away infrastructure management, allowing focus on application logic\
+(ii) It can provide integrated services such as databases, web services, and messaging\
+(iii) It always gives full root-level access to underlying virtual machines\
+(iv) It supports rapid creation and deployment of software applications
+
+a) (i), (ii), and (iv) only\
+b) (ii) and (iii) only\
+c) (i) and (iii) only\
+d) (i), (ii), (iii), and (iv)
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Que.8**\
+In the context of virtualization, which statement best distinguishes a Type-1 (bare-metal) hypervisor from a Type-2 hypervisor?
+
+a) Type-1 runs on top of an OS; Type-2 runs directly on hardware\
+b) Type-1 typically gives lower virtualization overhead because it runs directly on hardware\
+c) Type-2 can run multiple OSs; Type-1 cannot\
+d) Type-1 is only used for desktop virtualization
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Que.9**\
+Which of the following is a valid example of Platform as a Service (PaaS)?
+
+a) A server image you configure and manage yourself on a rented VM\
+b) A managed relational database instance with automatic backups and scaling\
+c) A virtual machine where you install your own operating system\
+d) A bare-metal server managed entirely by your organization
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+***
+
+**Que.10**\
+A \_\_\_\_\_\_ is a distributed computer system that consists of a collection of interconnected stand-alone computers working together as an integrated computing resource, typically located in close proximity and managed as a single system.
+
+a) Grid\
+b) Cluster\
+c) Cloud\
+d) Node
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-nptel-assignment-answers/)
+
+
 ## Cloud Computing Nptel Week 1 Assignment Answers (July-Dec 2025)
 
 ***
