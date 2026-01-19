@@ -2,7 +2,132 @@
 
 Are you looking for NPTEL Natural Language Processing Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the **Natural Language Processing** course. We provide detailed solutions to help you complete your assignments efficiently.
 
-## _Natural Language Processing Nptel Week 1 Quiz Answers (Jan-Apr 2025)_
+## _Natural Language Processing Nptel Week 1 Quiz Answers (Jan-Apr 2026)
+
+**Que.1**\
+If Zipf’s Law holds and the most frequent word (r = 1) appears 10,000 times, how many times should the word at rank 50 appear?
+
+a) 500\
+b) 200\
+c) 100\
+d) 50
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.2**\
+Consider a system employing the standard Porter Stemming algorithm for text normalization. If the token “computational” is processed, what is the final stemmed output?
+
+a) compute\
+b) comput\
+c) computa\
+d) computate
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.3**\
+Consider the sentence:\
+“Rose rose to put rose roes on her rows of roses.”\
+Ignoring case and punctuation (i.e., after normalization), what are the Word Token (N) and Word Type (|V|) counts?
+
+a) Tokens: 11, Types: 9\
+b) Tokens: 11, Types: 8\
+c) Tokens: 10, Types: 8\
+d) Tokens: 11, Types: 10
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.4**\
+Using Heaps’ Law (k = 50, β = 0.5), how does the estimated vocabulary size change if the corpus size (N) increases from 1 million tokens to 4 million tokens?
+
+a) It doubles\
+b) It quadruples\
+c) It increases by a factor of 50\
+d) It remains roughly the same
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.5**\
+Calculate the TTR (Type-token Ratio) for the sentence:\
+“the cat sat on the mat”\
+(Treat the sentence as lower-case and tokenized by space.)
+
+a) 0.69\
+b) 0.83\
+c) 1.20\
+d) 1.00
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.6**\
+Assuming a corpus follows Heaps’ Law |V| = kN^β, derive the relationship describing how TTR changes as a function of corpus size N.
+
+a) TTR(N) = kN^β\
+b) TTR(N) = kN^(β−1)\
+c) TTR(N) = k log(N)\
+d) TTR(N) = N^β / k
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.7**\
+Given that the 10th most frequent word in a corpus (which closely follows Zipf’s Law) has a probability of occurrence of 0.012, what is the frequency of the most frequent word if the total size of the corpus is 10,000 words?
+
+a) 120\
+b) 1,000\
+c) 1,200\
+d) 12,000
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.8**\
+Two words, w₁ and w₂, have ranks r₁ = 100 and r₂ = 10,000 respectively. According to the empirical correlation between rank and number of meanings (m), what is the expected ratio of their meanings m₁ : m₂?
+
+a) 10 : 1\
+b) 100 : 1\
+c) 1 : 10\
+d) 1 : 100
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.9**\
+Identify the category of affix represented by **re-** in the context of the word _reboot_.
+
+a) Suffix\
+b) Prefix\
+c) Stem\
+d) Infix
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.10**\
+Heaps’ Law models the growth of vocabulary size |V| as a function of the collection size N, given by |V| = kN^β. In a typical English corpus, the parameter β usually falls in the range 0.4–0.6. What does the condition β < 1 imply about the nature of language scaling?
+
+a) The vocabulary size grows exponentially relative to the corpus size\
+b) The rate of discovering new words increases as the corpus gets larger\
+c) There are diminishing returns; fewer new words are discovered as more text is processed\
+d) The vocabulary size is fixed and does not change after a certain threshold T
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+
+## _Natural Language Processing Nptel Week 1 Quiz Answers (Jan-Apr 2025)
 
 **Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs51/course)**
 
