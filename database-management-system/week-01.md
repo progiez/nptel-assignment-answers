@@ -2,6 +2,109 @@
 
 Are you looking for NPTEL Database Management System Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the Database Management System course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Data Base Management System Nptel Assignment 1 Answers (Jan-Apr 2026)
+
+***
+
+**Que.1** Which of the following statements is (are) incorrect?\
+a) The physical level specifies how data is actually stored on disk.\
+b) The logical level focuses on user-specific views of the data.\
+c) The view level conceals details of data representation from applications.\
+d) The logical level defines relationships among stored data.
+
+**[**View Answer**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)**
+
+***
+
+**Que.2** Consider the following relations and relational algebra expressions. Which of the following is correct?\
+a) RA₁ ⊂ RA₂\
+b) RA₂ ⊂ RA₁\
+c) RA₁ ⊆ RA₂\
+d) RA₁ = RA₂
+
+**[**View Answer**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)**
+
+***
+
+**Que.3** Given the relation Library(BookID, MemberID, BorrowDate, ReturnDate), which tuple cannot be inserted if one tuple already exists?\
+a) B101, M303, 01-Jan-2026, 10-Jan-2026\
+b) B101, M202, 15-Jan-2026, 20-Jan-2026\
+c) B202, M202, 05-Jan-2026, 12-Jan-2026\
+d) B202, M303, 05-Jan-2026, 12-Jan-2026
+
+**[**View Answer**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)**
+
+***
+
+**Que.4** In the relation ConferenceAttendee(AttendeeID, Email, Name, SessionID), which attribute set cannot be a super key?\
+a) {AttendeeID}\
+b) {Email, SessionID}\
+c) {AttendeeID, Name}\
+d) {Email, Name}
+
+**[**View Answer**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)**
+
+***
+
+**Que.5** Identify the correct selection operation that produces the given output from the MovieDetails table.\
+a) σ(Genre=’Action’ ∧ Rating=9)\
+b) σ(Genre=’Action’ ∨ Rating=9)\
+c) σ(Genre=’Drama’)\
+d) σ(Rating ≥ 9)
+
+**[**View Answer**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)**
+
+***
+
+**Que.6** From MovieDetails₁ and MovieDetails₂, which relational algebra operation produces only the common rows?\
+a) MovieDetails₁ − MovieDetails₂\
+b) MovieDetails₂ − MovieDetails₁\
+c) (MovieDetails₁ ∪ MovieDetails₂) ∩ (MovieDetails₁ ∩ MovieDetails₂)\
+d) (MovieDetails₁ − MovieDetails₂) ∪ (MovieDetails₂ − MovieDetails₁)
+
+**[**View Answer**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)**
+
+***
+
+**Que.7** Which of the following can serve as a candidate key for the MovieDetails relation?\
+a) {Rating}\
+b) {MovieTitle}\
+c) {Genre}\
+d) {MovieTitle, Rating}
+
+**[**View Answer**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)**
+
+***
+
+**Que.8** Which relational algebra operation extracts only MovieTitle and Rating from MovieDetails?\
+a) σ(Rating > 8)\
+b) MovieDetails × MovieDetails\
+c) MovieDetails ⋈ Genre=’Drama’ MovieDetails\
+d) π(MovieTitle, Rating)(MovieDetails)
+
+**[**View Answer**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)**
+
+***
+
+**Que.9** Identify the correct classification of the SQL statements shown.\
+a) S1 is DDL and S2 is DML\
+b) Both are DDL\
+c) S1 is DCL and S2 is DDL\
+d) Both are DML
+
+**[**View Answer**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)**
+
+***
+
+**Que.10** Identify the correct statement regarding database schemas and instances.\
+a) Employee(emp\_id, emp\_name, salary) is a database instance\
+b) (E101, Amit, 45000) is a relation schema\
+c) Department(dept\_id, dept\_name) defines a logical schema\
+d) (‘D10’, ‘Accounts’) represents a physical schema
+
+**[**View Answer**](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)**
+
+
 ## Data Base Management System Nptel Assignment 1 Answers (July-Dec 2025)
 
 ***
