@@ -2,7 +2,7 @@
 
 Are you looking for NPTEL Compiler Design Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the **Compiler Design** course. We provide detailed solutions to help you complete your assignments efficiently.
 
-## _Compiler Design Week 1 Nptel Assignment Answers (Jan-Apr 2026_)__
+## _Compiler Design Week 1 Nptel Assignment Answers (Jan-Apr 2026_)
 
 **Que.1**\
 Which phase of the compiler generates target machine code?
