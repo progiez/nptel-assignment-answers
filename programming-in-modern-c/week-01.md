@@ -4,6 +4,115 @@ Are you looking for NPTEL Programming In Modern C Week 01 Assignment Answers? Th
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*BWdKgwW5z0uF7VsYO4jcwQ.jpeg)
 
+## _Programming in Modern C++ Week 1 Assignment Answers_ _(Jan-Apr 2026)_
+
+**Que.1**\
+Consider the following code segment. What will be the output/error?
+
+a) 1\
+b) 0\
+c) -1\
+d) Compilation Error: bad declaration
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Que.2**\
+Fill in the blank at LINE-1 so that the program will print **“not found”**.
+
+a) \&array\[0], \&array\[5], key\
+b) array, array+5, key\
+c) \&array\[0], \&array\[4], key\
+d) array, array+4, key
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Que.3**\
+Consider the following code and find the correct output.
+
+a) 3 1 2 4 5 6 7\
+b) 3 4 1 2 5 6 7\
+c) 4 1 2 3 5 6 7\
+d) 1 3 2 4 5 6 7
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Que.4**\
+Consider the following code segment. What will be the output?
+
+a) 10 20 30 40 50\
+b) 50 30 10 40 20\
+c) 50 10 30 40 20\
+d) 50 10 20 30 40
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Que.5**\
+Choose the correct option to fill in the blank at LINE-1 so that the program does not generate any compilation error.
+
+a) A A A B C Z Z Z\
+b) A A B B C Z Z Z\
+c) A A A B C Z Z\
+d) A A A B C Z Z Z
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Que.6**\
+Consider the following code and choose the correct output.
+
+a) 0\
+b) 1\
+c) false\
+d) true
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Que.7**\
+Fill in the blank at LINE-1 so that the program generates output as **CPP is fun.**
+
+a) word1 + word2\
+b) strcat(word1, word2)\
+c) word1.insert(word2)\
+d) word1.append(word2)
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Que.8**\
+Fill in the blank at LINE-1 so that the program generates output as shown.
+
+a) arr + 4 − i\
+b) arr + 5 − i\
+c) arr + i − 4\
+d) arr + i − 5
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+***
+
+**Que.9**\
+Consider the following code segment. What will be the output?
+
+a) 1234987654\
+b) 123498765\
+c) 1234897654\
+d) 123459876
+
+[View Answer](https://my.progiez.com/courses/programming-in-modern-cpp-nptel-answers/)
+
+
 Programming in Modern C++ Week 1 Assignment Nptel Answers
 
 ## _Programming in Modern C++ Week 1 Assignment Answers_ _(July-Dec 2025)_
