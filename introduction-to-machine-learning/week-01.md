@@ -4,6 +4,124 @@ Are you looking for NPTEL Introduction To Machine Learning Week 01 Assignment An
 
 ![Introduction To Machine Learning Week 1 Nptel Answers](https://miro.medium.com/v2/resize:fit:875/1*YPcdconxtF1hpNouRC5TIw.jpeg)
 
+## _Introduction To Machine Learning Week 1 Nptel Answers_ (Jan-Apr 2026)
+
+Que1. Which of the following is a supervised learning problem?
+
+a) Grouping people in a social network\
+b) Predicting credit approval based on historical data\
+c) Predicting rainfall based on historical data\
+d) All of the above
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Que2. Which of the following are classification problems? (Multiple options may be correct)
+
+a) Predicting the temperature (in Celsius) of a room from other environmental features (such as atmospheric pressure, humidity, etc.)\
+b) Predicting if a cricket player is a batsman or bowler given his playing records\
+c) Predicting if a particular route between two points has traffic jam or not based on the travel time of vehicles\
+d) Filtering of spam messages
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Que3. Which of the following is a regression task? (Multiple options may be correct)
+
+a) Predicting the monthly sales of a cloth store in rupees\
+b) Predicting if a user would like to listen to a newly released song or not based on historical data\
+c) Predicting the confirmation probability (in fraction) of your train ticket whose current status is waiting list based on historical data\
+d) Predicting if a patient has diabetes or not based on historical medical records\
+e) Predicting the gender of a human based on facial features
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Que4. Which of the following is an unsupervised task?
+
+a) Learning to play chess\
+b) Predicting if a new edible item is sweet or spicy based on the information of the ingredients, their quantities, and labels (sweet or spicy) for many other similar dishes\
+c) Grouping related documents from an unannotated corpus\
+d) All of the above
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Que5. Which of the following is a categorical feature?
+
+a) Number of legs of an animal\
+b) Number of hours you study in a day\
+c) Your weekly expenditure in rupees\
+d) Branch of an engineering student\
+e) Ethnicity of a person\
+f) Height of a person in inches
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Que6. Let X and Y be uniformly distributed random variables over the interval \[0, 4] and \[0, 6] respectively. If X and Y are independent events, then compute the probability ℙ(max(X, Y) > 2).
+
+a) 1/6\
+b) 5/6\
+c) 2/3\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Que7. Let the trace and determinant of a matrix\
+A = \[\[a, c], \[b, d]]\
+be 4 and 3 respectively. The eigenvalues of A are
+
+a) (3 + √7 i)/2 , (3 − √7 i)/2 where i = √−1\
+b) 1, 3\
+c) None of the above\
+d) Can be computed only if A is a symmetric matrix\
+e) Cannot be computed as the entries of the matrix A are not given
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Que8. What happens when your model complexity increases? (Multiple options may be correct)
+
+a) Model Bias decreases\
+b) Model Bias increases\
+c) Variance of the model decreases\
+d) Variance of the model increases
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Que9. Based on a survey, it was found that the probability that a student likes to play football was 0.25 and the probability that a student likes to play cricket is 0.43. It was also found that the probability that a student likes to play both football and cricket is 0.12. What is the probability that a student does not like to play either?
+
+a) 0.32\
+b) 0.20\
+c) 0.44\
+d) 0.56
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+Que10. Which of the following are true about bias and variance of overfitted and underfitted models? (Multiple options may be correct)
+
+a) Underfitted models have high bias\
+b) Underfitted models have low bias\
+c) Overfitted models have low variance\
+d) Overfitted models have high variance\
+e) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+
 ## _Introduction To Machine Learning Week 1 Nptel Answers_ (July-Dec 2025)
 
 ***
