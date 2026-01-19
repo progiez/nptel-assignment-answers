@@ -2,6 +2,127 @@
 
 Are you looking for NPTEL Programming In Java Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the Programming In Java course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Programming in Java Nptel Week 1 Assignment Answers (Jan-Apr 2026)
+
+**Que.1**\
+Which of the following is true regarding how Java handles code execution?
+
+a) Java uses only interpreter\
+b) Java uses only compiler\
+c) Java uses both interpreter and compiler\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.2**\
+A Java file with extension `.class` contains:
+
+a) Java source code\
+b) HTML tags\
+c) Java byte code\
+d) A program file written in Java programming language
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.3**\
+Which of the following is NOT an object-oriented programming paradigm?
+
+a) Encapsulation\
+b) Inheritance\
+c) Polymorphism\
+d) Dynamic memory allocation
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.4**\
+What is the correct sequence of steps to execute a Java program?
+
+a) Run → Edit → Compile\
+b) Edit → Run → Compile\
+c) Compile → Edit → Run\
+d) Edit → Compile → Run
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.5**\
+Which program is used to compile Java source code into bytecode?
+
+a) javap\
+b) javac\
+c) java\
+d) javad
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.6**\
+In Java, what is the role of the `public static void main(String[] args)` method?
+
+a) Initialization method\
+b) Execution entry point\
+c) Constructor\
+d) Destructor
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.7**\
+Which of the following is not a feature of Java?
+
+a) Platform Independence\
+b) Object-Oriented Programming\
+c) Supports Explicit Pointers\
+d) Supports Polymorphism
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.8**\
+What is the primary purpose of the Java Virtual Machine (JVM) in the Java programming language?
+
+a) Graphical User Interface\
+b) Platform independence\
+c) Code Debugging\
+d) Game Engine
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.9**\
+Consider the following program. What is the output of the above code?
+
+a) 50\
+b) 10\
+c) Compiler error\
+d) 5
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.10**\
+Consider the following program. What is the output of the above code?
+
+a) Hello, World!\
+b) HelloWorld!\
+c) Compilation Error\
+d) Runtime Error
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+
 
 **Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs57/course)**
 
