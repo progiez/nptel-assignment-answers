@@ -6,6 +6,141 @@ Are you looking for NPTEL Computer Networks and Internet Protocol Week 01 Assign
 
 Nptel __Computer Networks And Internet Protocol Week 1 Answers__
 
+## Nptel Computer Networks And Internet Protocol Week 1 Answers (Jan-Apr 2026)
+
+***
+
+**Que.1**\
+Map the devices with their associated layer in the TCP/IP model.
+
+A. NIC  1. Physical Layer\
+B. Router 2. Data Link Layer\
+C. Bridge 3. Network Layer\
+D. Hub  4. Transport Layer
+
+a) A-2, B-3, C-2, and D-1\
+b) A-3, B-3, C-2, and D-1\
+c) A-3, B-3, C-1, and D-2\
+d) A-2, B-3, C-2, and D-2
+
+[View Answer](https://my.progiez.com/courses/computer-networks-and-internet-protocol-nptel-answers/)
+
+***
+
+**Que.2**\
+Which of the following is/are true with respect to Bridge?
+
+(i) Also called “smarter hub”\
+(ii) It filters network traffic based on MAC address
+
+a) Only (i)\
+b) Only (ii)\
+c) Both (i) and (ii)\
+d) Either (i) or (ii)
+
+[View Answer](https://my.progiez.com/courses/computer-networks-and-internet-protocol-nptel-answers/)
+
+***
+
+**Que.3**\
+Which of the following statement(s) are concerned with encapsulation in computer networks?
+
+I. It involves an addition of a header and trailer to the actual data as it moves down in the TCP/IP protocol stack.\
+II. At the transport layer, encapsulation includes port numbers and at the network layer, encapsulation includes IP addresses
+
+a) Only (I)\
+b) Only (II)\
+c) Both (I) and (II)\
+d) Neither (I) nor (II)
+
+[View Answer](https://my.progiez.com/courses/computer-networks-and-internet-protocol-nptel-answers/)
+
+***
+
+**Que.4**\
+Which of the following is NOT a disadvantage of the circuit switching technique over the packet switching technique in computer networks?
+
+a) Delay in the establishment of a dedicated connection between two hosts\
+b) Inefficient utilization of the resources\
+c) Less scalable\
+d) Provides a dedicated communication path between two end hosts
+
+[View Answer](https://my.progiez.com/courses/computer-networks-and-internet-protocol-nptel-answers/)
+
+***
+
+**Que.5**\
+What is socket address?
+
+a) Combination of port and IP address\
+b) Combination of MAC and IP address\
+c) IP address only\
+d) None of this
+
+[View Answer](https://my.progiez.com/courses/computer-networks-and-internet-protocol-nptel-answers/)
+
+***
+
+**Que.6**\
+Which layer collects a stream of bits into a frame?
+
+a) Physical Layer\
+b) Network Layer\
+c) Data Link Layer\
+d) Session Layer
+
+[View Answer](https://my.progiez.com/courses/computer-networks-and-internet-protocol-nptel-answers/)
+
+***
+
+**Que.7**\
+Which transport layer protocol will be chosen by an application that does not require any reliability?
+
+a) TCP\
+b) UDP
+
+[View Answer](https://my.progiez.com/courses/computer-networks-and-internet-protocol-nptel-answers/)
+
+***
+
+**Que.8**\
+What is the first search engine?
+
+a) Chrome\
+b) Internet Explorer\
+c) HotBot\
+d) Archie
+
+[View Answer](https://my.progiez.com/courses/computer-networks-and-internet-protocol-nptel-answers/)
+
+***
+
+**Que.9**\
+Choose the statement(s) that correctly describe(s) the roles and responsibilities of the Network Interface Card (NIC) in computer networks.
+
+I. NIC takes over the responsibility of segmenting large chunks of data into smaller packets that can be transmitted over the networks.\
+II. It converts digital data from the computer’s processor to an analog signal.
+
+a) Only (I)\
+b) Only (II)\
+c) Both (I) and (II)\
+d) Neither (I) nor (II)
+
+[View Answer](https://my.progiez.com/courses/computer-networks-and-internet-protocol-nptel-answers/)
+
+***
+
+**Que.10**\
+What is the size of IP address (IPv4) in bytes?
+
+a) 4\
+b) 32\
+c) 16\
+d) 10
+
+[View Answer](https://my.progiez.com/courses/computer-networks-and-internet-protocol-nptel-answers/)
+
+
 
 ## Nptel Computer Networks And Internet Protocol Week 1 Answers (Jan-Apr 2025)
 
