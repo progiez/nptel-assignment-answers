@@ -2,7 +2,7 @@
 
 Are you looking for NPTEL Natural Language Processing Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the **Natural Language Processing** course. We provide detailed solutions to help you complete your assignments efficiently.
 
-## _Natural Language Processing Nptel Week 1 Quiz Answers (Jan-Apr 2026)
+## Natural Language Processing Nptel Week 1 Quiz Answers (Jan-Apr 2026)
 
 **Que.1**\
 If Zipf’s Law holds and the most frequent word (r = 1) appears 10,000 times, how many times should the word at rank 50 appear?
