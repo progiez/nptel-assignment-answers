@@ -3,6 +3,149 @@
 Are you looking for NPTEL Introduction to Large Language Models Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the Introduction to Large Language Models course. We provide detailed solutions to help you complete your assignments efficiently.
 
 
+## Introduction to Large Language Models Week 1 Answers (Jan-Apr 2026)
+
+**Que.1**\
+Consider the word “paper” in the following sentences:
+
+She submitted her research paper.\
+He wrapped the gift in paper.
+
+The word “paper” is an example of:
+
+a) Homonymy\
+b) Synonymy\
+c) Polysemy\
+d) Antonymy
+
+[View Answer](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)
+
+***
+
+**Que.2**\
+Based on Distributional Semantics, which of the following statements is/are true?
+
+(i) The meaning of a word is defined by its relationship to other words.\
+(ii) The meaning of a word does not rely on its surrounding context.
+
+a) Both (i) and (ii) are correct\
+b) Only (ii) is correct\
+c) Only (i) is correct\
+d) Neither (i) nor (ii) is correct
+
+[View Answer](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)
+
+***
+
+**Que.3**\
+The sentence “Ravi saw the man with the binoculars.” is ambiguous because of:
+
+a) Lexical ambiguity\
+b) Morphological ambiguity\
+c) Syntactic ambiguity\
+d) Pragmatic ambiguity
+
+[View Answer](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)
+
+***
+
+**Que.4**\
+Consider the sentences:
+
+Anita met Kavya after work. She was tired.
+
+Who does “she” most likely refer to?
+
+a) Anita\
+b) Kavya\
+c) Both equally\
+d) Cannot be determined
+
+[View Answer](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)
+
+***
+
+**Que.5**\
+What is the correct morpheme breakdown of the word “unhappiness”?
+
+a) un + happy + ness\
+b) unhappi + ness\
+c) un + happi + ness\
+d) unhappiness
+
+[View Answer](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)
+
+***
+
+**Que.6**\
+In the sentence:
+
+“The chef cooked pasta for the guests.”
+
+What is the semantic role of “the guests”?
+
+a) Agent\
+b) Patient\
+c) Beneficiary\
+d) Instrument
+
+[View Answer](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)
+
+***
+
+**Que.7**\
+Below is a sentence with lexical ambiguity:
+
+Rose rose to put rose roes on her rows of roses.
+
+How many senses of _rose_ are present in the sentence?
+
+a) 2\
+b) 3\
+c) 1\
+d) 4
+
+[View Answer](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)
+
+***
+
+**Que.8**\
+What issues can be observed in the following text?
+
+_On a much-needed #workcation in beautiful Goa. Workin & chillin by d waves!_
+
+a) Idioms\
+b) Non-standard English\
+c) Tricky Entity Names\
+d) Neologisms
+
+[View Answer](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)
+
+***
+
+**Que.9**\
+Sentence 1: Arjun bought a brand-new laptop.\
+Sentence 2: Arjun owns a laptop.
+
+a) Entailed\
+b) Contradicted\
+c) Neutral
+
+[View Answer](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)
+
+***
+
+**Que.10**\
+Which relation holds between “engine” and “car”?
+
+a) Synonymy\
+b) Antonymy\
+c) Meronymy\
+d) Hyponymy
+
+[View Answer](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)
+
+
 ## Introduction to Large Language Models Week 1 Answers (July-Dec 2025)
 
 Course link: [Click here](https://onlinecourses.nptel.ac.in/noc25_cs161/preview)
@@ -119,3 +262,4 @@ D) Adjunct
 ***
 
 [Click here for all nptel assignment answers](https://progiez.com/nptel-assignment-answers)
+
