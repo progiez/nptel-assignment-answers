@@ -2,7 +2,129 @@
 
 Are you looking for NPTEL Compiler Design Week 01 Assignment Answers? This repository will help you find your answers and solutions for Week 01 of the **Compiler Design** course. We provide detailed solutions to help you complete your assignments efficiently.
 
-## _Compiler Design Week 1 Nptel Assignment Answers (Jan-Apr 2025_)__
+## _Compiler Design Week 1 Nptel Assignment Answers (Jan-Apr 2026_)__
+
+**Que.1**\
+Which phase of the compiler generates target machine code?
+
+a) Lexical Analysis\
+b) Syntax Analysis\
+c) Semantic Analysis\
+d) Code Generation
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que.2**\
+Which phase of a compiler checks syntax errors?
+
+a) Lexical Analysis\
+b) Syntax Analysis\
+c) Semantic Analysis\
+d) Code Generation
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que.3**\
+The number of tokens in the following C statement\
+`printf("%d", 5 + 3 * 2);` is
+
+a) 8\
+b) 11\
+c) 12\
+d) 14
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que.4**\
+During semantic analysis, which of the following checks are typically performed?
+
+a) Syntax errors like missing semicolons\
+b) Type compatibility in expressions, undeclared identifiers, and function call arguments\
+c) Register allocation for machine code\
+d) Linking object modules
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que.5**\
+The frontend of a compiler generates Intermediate Code (IC). This Intermediate Code can be executed on
+
+a) Any machine\
+b) Only a specific machine\
+c) Only the compiler’s host machine\
+d) Cannot be executed on any machine
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que.6**\
+The main objective of code optimization in a compiler is to:
+
+a) Reduce program execution time\
+b) Reduce memory usage\
+c) Reduce both execution time and memory usage\
+d) Reduce compilation time
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que.7**\
+The symbol table in a compiler primarily stores:
+
+a) Identifier names and their types\
+b) Identifier names, types, and memory locations\
+c) Identifier names, types, memory locations, and scope information\
+d) Only memory locations of identifiers
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que.8**\
+Which of the following is a key difference between CISC and RISC architectures?
+
+a) CISC has more instructions than RISC\
+b) RISC instructions are generally simpler than CISC instructions\
+c) CISC instructions may take multiple cycles; RISC instructions usually take a single cycle\
+d) All of the above
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que.9**\
+Which of the following is not a part of the Syntax Analysis phase of a compiler?
+
+a) Parse Tree\
+b) Context-Free Grammar\
+c) Parsing\
+d) Lexeme
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que.10**\
+Which of the following is a part of Code Optimization in a compiler?
+
+a) Constant folding\
+b) Dead code elimination\
+c) Strength reduction\
+d) All of the above
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+
+## _Compiler Design Week 1 Nptel Assignment Answers (Jan-Apr 2025_)_
 
 ***
 
