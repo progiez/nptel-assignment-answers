@@ -2,7 +2,138 @@
 
 Are you looking for NPTEL AI in Human Resource Management Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the AI in Human Resource Management course. We provide detailed solutions to help you complete your assignments efficiently.
 
-## _AI in Human Resource Management Nptel Week 2 Answers (Jan-Apr 2025)_
+## _AI in Human Resource Management Nptel Week 2 Answers (Jan-Apr 2026)_
+
+**Que.1**\
+Hybrid decision-making models emphasize:
+
+a) Fully automated AI decisions\
+b) Human intuition only\
+c) Collaboration between humans and AI\
+d) Removal of ethical frameworks\
+e) Manual data processing
+
+[View Answer](https://my.progiez.com/courses/ai-in-human-resource-management-nptel-answers/)
+
+***
+
+**Que.2**\
+Which AI aspect allows identification of hidden trends in large datasets?
+
+a) Automation\
+b) Pattern recognition\
+c) Workflow optimization\
+d) Data visualization\
+e) Sentiment scoring
+
+[View Answer](https://my.progiez.com/courses/ai-in-human-resource-management-nptel-answers/)
+
+***
+
+**Que.3**\
+AI-based systems that suggest products based on user behavior are called:
+
+a) Recommender systems\
+b) Optimization systems\
+c) Expert systems\
+d) Simulation tools\
+e) DSS platforms
+
+[View Answer](https://my.progiez.com/courses/ai-in-human-resource-management-nptel-answers/)
+
+***
+
+**Que.4**\
+Which AI feature helps organizations evaluate multiple outcomes before deciding?
+
+a) Workflow automation\
+b) Cognitive computing\
+c) Sentiment analysis\
+d) Descriptive analytics\
+e) Scenario analysis
+
+[View Answer](https://my.progiez.com/courses/ai-in-human-resource-management-nptel-answers/)
+
+***
+
+**Que.5**\
+Which benefit of AI ensures decisions can be made continuously without fatigue?
+
+a) Scalability\
+b) Enhanced accuracy\
+c) Cost savings\
+d) 24/7 availability\
+e) Consistent decision-making
+
+[View Answer](https://my.progiez.com/courses/ai-in-human-resource-management-nptel-answers/)
+
+***
+
+**Que.6**\
+Which HR metric reflects employee retention and satisfaction?
+
+a) Time to hire\
+b) Turnover rate\
+c) HR to employee ratio\
+d) Training cost per employee\
+e) Productivity ratio
+
+[View Answer](https://my.progiez.com/courses/ai-in-human-resource-management-nptel-answers/)
+
+***
+
+**Que.7**\
+What is the primary purpose of HR metrics in an organization?
+
+a) Monitoring employee attendance only\
+b) Measuring legal compliance\
+c) Evaluating HR efficiency and effectiveness\
+d) Reducing employee salaries\
+e) Replacing managerial judgment
+
+[View Answer](https://my.progiez.com/courses/ai-in-human-resource-management-nptel-answers/)
+
+***
+
+**Que.8**\
+Which HR metric measures the average time required to fill a job vacancy?
+
+a) Turnover rate\
+b) Absenteeism rate\
+c) Cost per hire\
+d) Time to hire\
+e) Promotion rate
+
+[View Answer](https://my.progiez.com/courses/ai-in-human-resource-management-nptel-answers/)
+
+***
+
+**Que.9**\
+Which HR metric helps assess an organization’s commitment to diversity and inclusion?
+
+a) Diversity ratio\
+b) HR to employee ratio\
+c) Training cost per employee\
+d) Employee engagement score\
+e) Employee productivity
+
+[View Answer](https://my.progiez.com/courses/ai-in-human-resource-management-nptel-answers/)
+
+***
+
+**Que.10**\
+Which future trend emphasizes transparency in AI decisions?
+
+a) Autonomous agents\
+b) Edge computing\
+c) Explainable AI (XAI)\
+d) IoT integration\
+e) Adaptive learning
+
+[View Answer](https://my.progiez.com/courses/ai-in-human-resource-management-nptel-answers/)
+
+
+## _AI in Human Resource Management Nptel Week 2 Answers (Jan-Apr 2025)
 
 ***
 
