@@ -2,6 +2,127 @@
 
 Are you looking for NPTEL Cloud Computing and Distributed Systems Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the **Cloud Computing and Distributed Systems** course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## _Cloud Computing and Distributed Systems Week 2 Answers (Jan-Apr 2026)_
+
+**Que.1**\
+In server virtualization, which component directly manages the physical hardware and exposes virtualized resources to VMs?
+
+a) Guest OS\
+b) Hypervisor\
+c) Open vSwitch\
+d) Docker Engine
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+**Que.2**\
+Docker containers are described as isolated processes that primarily share what with other containers?
+
+a) Hypervisor\
+b) Host kernel\
+c) Guest kernel\
+d) Physical NIC firmware
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+**Que.3**\
+In Docker networking, external network connectivity is commonly provided using:
+
+a) MPLS label switching\
+b) NAT\
+c) iBGP\
+d) VLAN flooding
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+**Que.4**\
+In SR-IOV, what is a “virtual function” on the NIC?
+
+a) A full physical Ethernet port\
+b) A software bridge inside the hypervisor\
+c) A VLAN tag applied by the controller\
+d) A simple queue with transmit/receive functionality mapped to a VM
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+**Que.5**\
+In Open vSwitch design, where do the “smarts” (rule/policy decisions) primarily reside?
+
+a) User space\
+b) NIC hardware pipeline\
+c) Physical switch firmware\
+d) VM guest OS
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+**Que.6**\
+In Open vSwitch, what is primarily handled in the kernel?
+
+a) Fast/common-case packet forwarding\
+b) High-level policy computation\
+c) Tenant topology design\
+d) Directory-server lookups
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+**Que.7**\
+Mininet is best described as:
+
+a) A WAN traffic engineering optimizer\
+b) A hardware NIC virtualization standard\
+c) A network emulator that can create realistic virtual networks on one machine\
+d) A proprietary router configuration platform
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+**Que.8**\
+In SDN, the “logically centralized controller” is primarily intended to:
+
+a) Replace all physical links with wireless\
+b) Keep distributed switching devices simple while centralizing intelligence\
+c) Eliminate the need for data planes\
+d) Run only inside NIC firmware
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+**Que.9**\
+VL2 uses “oblivious routing,” meaning that a flow’s path:
+
+a) Always follows the shortest path only\
+b) Depends on current traffic matrix measurements\
+c) Does not depend on the current traffic matrix\
+d) Changes per-packet based on CPU load
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+***
+
+**Que.10**\
+Google’s B4 is characterized as:
+
+a) A public Internet peering solution\
+b) A private WAN connecting Google data centers globally using SDN ideas\
+c) A hypervisor for VMs\
+d) A Linux container runtime
+
+[View Answer](https://my.progiez.com/courses/cloud-computing-and-distributed-systems/)
+
+
 ## _Cloud Computing and Distributed Systems Week 2 Answers (Jan-Apr 2025)_
 
 **Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs12/course)**
