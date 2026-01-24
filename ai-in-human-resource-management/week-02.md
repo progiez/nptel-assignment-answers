@@ -2,6 +2,191 @@
 
 Are you looking for NPTEL AI in Human Resource Management Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the AI in Human Resource Management course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Deep Learning IIT Ropar Week 2 Nptel Assignment Answers (Jan-Apr 2026)
+
+**Que.1**\
+Which property of the sigmoid function makes it suitable for modeling fraud probability?
+
+a) It produces only binary outputs\
+b) It is non-monotonic\
+c) It is continuous and differentiable\
+d) It does not depend on model parameters
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.2**\
+For transaction T2, compute the value of _z_.
+
+a) Option a\
+b) Option b\
+c) Option c\
+d) Option d
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.3**\
+The decision rule _p̂ ≥ 0.5_ is equivalent to which condition?
+
+a) _z ≥ 1_\
+b) _z ≥ 0_\
+c) _z ≤ 0_\
+d) _z ≤ −1_
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.4**\
+Which transactions trigger step-up authentication?\
+(Select all that apply.)
+
+a) T1\
+b) T2\
+c) T3\
+d) T4
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.5**\
+Holding _x₂_ constant, increasing _b_ shifts the sigmoid activation curve along the _x₁_-axis in which direction?
+
+a) Right\
+b) Left\
+c) Up\
+d) Down
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.6**\
+What is the objective of training this model?
+
+a) Maximize the loss\
+b) Minimize the loss\
+c) Keep the loss constant\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.7**\
+If _y = 1_ and _p̂ = 0.2_, what is the loss?
+
+a) 0.4\
+b) 0.5\
+c) 0.32\
+d) 0.8
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.8**\
+Which statement about the sigmoid output is correct?
+
+a) It can be interpreted as a probability\
+b) It always equals 0 or 1\
+c) It is undefined for negative inputs\
+d) It is non-differentiable
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.9**\
+Fill in the blank:\
+If _wᵀx + b = 0_, then _p̂ = \_\_\_\_\_\__.
+
+a) Option a\
+b) Option b\
+c) Option c\
+d) Option d
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.10**\
+Which statements are correct for this learning setup?
+
+a) Model parameters are learned from labeled data\
+b) Gradient descent can be used\
+c) Sigmoid activation is differentiable\
+d) Outputs are always binary\
+e) Loss is minimized during training
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.11**\
+How many trainable weights connect the input layer to the hidden layer (excluding biases)?
+
+a) 9\
+b) 20\
+c) 25\
+d) 10
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.12**\
+How many bias parameters exist in the hidden layer?
+
+a) 1\
+b) 4\
+c) 5\
+d) 0
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.13**\
+How many trainable weights connect the hidden layer to the output neuron (excluding bias)?
+
+a) 1\
+b) 4\
+c) 5\
+d) 20
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.14**\
+Why is a sigmoid activation function used in the hidden layer?
+
+a) It produces binary outputs\
+b) It guarantees exact rank prediction\
+c) It is differentiable and supports gradient-based learning\
+d) It removes the need for a loss function
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+***
+
+**Que.15**\
+Which statements about representational capacity are correct?
+
+a) A perceptron network with one hidden layer can represent any Boolean function\
+b) A single sigmoid neuron can represent XOR exactly\
+c) A sigmoid network with one hidden layer can approximate any continuous function (given enough neurons)\
+d) The approximation guarantee holds with a fixed small number of neurons\
+e) Increasing hidden neurons can increase approximation accuracy
+
+[View Answer](https://my.progiez.com/courses/deep-learning-iit-ropar-nptel-answers/)
+
+
 ## _AI in Human Resource Management Nptel Week 2 Answers (Jan-Apr 2026)_
 
 **Que.1**\
