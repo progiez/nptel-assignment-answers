@@ -2,6 +2,135 @@
 
 Are you looking for NPTEL Principles of Management Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the **Principles of Management** course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## _Principles of Management Week 2 Assignment 2 Answers (Jan-Apr 2026)_
+
+Que.1\
+Who is the father of “scientific management”?\
+a) Frederick Winslow Taylor\
+b) Henri Fayol\
+c) Peter Drucker\
+d) Abraham Maslow
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que.2\
+Which of the following is **NOT** an example of early management?\
+a) Egyptian Pyramids and the Great Wall of China\
+b) Industrial Revolution\
+c) Division of Labor\
+d) Moving towards the Renaissance
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que.3\
+Fill in the blank:\
+“Queue management such as in Whole Foods, a US-based supermarket, which led to shorter waiting time for the customers is an example of \_\_\_\_\_\_\_\_\_\_.”\
+a) Scientific Management\
+b) Quantitative Management\
+c) Both of these\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que.4\
+Which of the following is one of the PESTLE factors?\
+a) Personnel factors\
+b) Transformational factors\
+c) Legal factors\
+d) Structural factors
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que.5\
+Which of the following is **NOT** a criticism for the classical management perspective?\
+a) Unappreciative of the social context of work and higher needs of the workers\
+b) Not demonstrating the importance of personnel selection and training\
+c) Not acknowledging the variance among individuals\
+d) Regarding workers as uninformed and ignoring their ideas and suggestions
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que.6\
+Match the features of bureaucracy with their correct attributes:
+
+i) Career orientation\
+ii) Division of labor\
+iii) Authority hierarchy\
+iv) Formal selection
+
+A) Simple, routine and well-defined tasks\
+B) Selection on basis of technical qualification\
+C) Clean chain of command\
+D) Managers are not owners of the units they manage
+
+a) i-D; ii-A; iii-C; iv-B\
+b) i-B; ii-A; iii-D; iv-C\
+c) i-A; ii-B; iii-C; iv-D\
+d) i-D; ii-B; iii-D; iv-C
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que.7\
+Rank the needs from bottom to top in Maslow’s Needs Hierarchy:
+
+i) Safety\
+ii) Physiological\
+iii) Belongingness\
+iv) Esteem
+
+a) ii → i → iii → iv\
+b) i → ii → iii → iv\
+c) iv → iii → ii → i\
+d) iii → iv → ii → i
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que.8\
+Which of the following statements about Theory X and Theory Y is **NOT** true?\
+a) Theory X assumes that bright people’s potential remains unutilized under most organizational conditions\
+b) Theory X assumes that people prefer to be directed\
+c) Theory Y assumes that people seek and accept responsibility under favorable conditions\
+d) Theory Y assumes that people do not dislike work
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que.9\
+In case of a business organization, if the system does not receive fresh inputs and energy from the environment, what would happen?\
+a) Entropy\
+b) Maturity\
+c) Synergy\
+d) Synthesis
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+***
+
+Que.10\
+Which contributions did Frank and Lillian Gilbreth make towards scientific management?\
+a) Time and motion studies\
+b) Micro chronometer\
+c) Elimination of hand and body motions\
+d) All of these
+
+[View Answer](https://my.progiez.com/courses/principles-of-management-nptel-answers/)
+
+
 ## _Principles of Management Week 2 Assignment 2 Answers (Jan-Apr 2025)_
 
 ***
