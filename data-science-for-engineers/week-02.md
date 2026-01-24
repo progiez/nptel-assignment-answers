@@ -4,6 +4,180 @@ Are you looking for NPTEL Data Science For Engineers Week 02 Assignment Answers?
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*sv57SO0ysLOC19jHrpd_tw.jpeg)
 
+## _Nptel Data Science for Engineers Week 2 Assignment Answers_ 2026
+
+Que.1\
+Are the vectors\
+\[−2\
+4],\
+\[7\
+−2],\
+and\
+\[3\
+−6]\
+linearly independent?\
+a) Yes\
+b) No
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que.2\
+Does the set S = {(1,1), (1,2)} span ℝ²?\
+a) Yes\
+b) No
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que.3\
+Consider the following system of linear equations of the form Ax = b:
+
+2x − 3y + 6z = 14\
+x + y − 2z = −3
+
+Which among the following are correct?\
+a) ⎡1 −4 0⎤ is a solution to Ax = b\
+b) ⎡0 2 1⎤ is a solution to Ax = b\
+c) ⎡1 −4 0⎤ is a solution to Ax = 0\
+d) ⎡0 2 1⎤ is a solution to Ax = 0
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que.4\
+Consider the following system of linear equations:
+
+x + y + z = −2\
+x + 2y − z = 1\
+2x + ay + bz = 2
+
+Find the conditions on a and b for which the above system has **no solution**.\
+a) 2a + b − 6 = 0\
+b) a ≠ 4, 2a + b − 6 = 0\
+c) a = 4, b = −2\
+d) 2a + b − 6 ≠ 0
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que.5\
+Find the conditions on a and b for which the above system has a **unique solution**.\
+a) 2a + b − 6 = 0\
+b) a ≠ 4, 2a + b − 6 = 0\
+c) a = 4, b = −2\
+d) 2a + b − 6 ≠ 0
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que.6\
+Find the conditions on a and b for which the above system has **infinite number of solutions**.\
+a) 2a + b − 6 = 0\
+b) a ≠ 4, 2a + b − 6 = 0\
+c) a = 4, b = −2\
+d) 2a + b − 6 ≠ 0
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que.7\
+In solving the system Ax = b with variables x₁, x₂, x₃, and x₄, Gaussian elimination on the augmented matrix \[A | b] led to a row echelon form.\
+Identify the number of **free variables** from the above row echelon matrix.\
+a) 0\
+b) 1\
+c) 2\
+d) 3
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que.8\
+Which among the following is correct for the above system Ax = b?\
+a) It has infinite number of solutions\
+b) It has a unique solution\
+c) It has no solution
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que.9\
+For what values of a are matrix\
+A = \[ a −2\
+1 a+3 ]\
+not invertible?\
+a) a = 1\
+b) a = −2\
+c) a = −1\
+d) a = 2
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que.10\
+Which among the following is true for the determinant of a matrix?\
+a) The determinant of a diagonal matrix is the product of its diagonal entries\
+b) If one row of a matrix is a scalar multiple of another, the determinant is 1\
+c) If one row of a matrix is a scalar multiple of another, the determinant is 0\
+d) The determinant of a permutation matrix can only be 1
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que.11\
+Which among the following are the eigenvalues of the matrix
+
+A = ⎛\
+5 4 −4\
+8 1 −4\
+16 8 −11\
+⎞ ?
+
+a) 1, 3, −3\
+b) 1, 3, 3\
+c) −1, 3, 3\
+d) 1, −3, −3
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que.12\
+Find the **nullity** of the matrix
+
+A = ⎡\
+1 1 0 −3\
+−3 0 −2 1\
+1 4 1 −1\
+⎤
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+***
+
+Que.13\
+Let\
+A = ⎡ −1 2\
+2 2 ⎤.\
+Suppose the eigenvalues corresponding to A Aᵀ are a, b, and c. Find the value of ab + bc + ca.\
+a) 9\
+b) 0\
+c) 81\
+d) 18
+
+[View Answer](https://my.progiez.com/courses/data-science-for-engineers-nptel-answers/)
+
+
 ## Nptel Data Science for Engineers Assignment 2 Answers (July-Dec 2025)
 
 ***
