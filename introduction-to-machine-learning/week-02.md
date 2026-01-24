@@ -4,6 +4,128 @@ Are you looking for NPTEL Introduction To Machine Learning Week 02 Assignment An
 
 ![Introduction to Machine Learning Nptel Week 2 Answers](https://miro.medium.com/v2/resize:fit:875/1*nh2U8GRaYnyFlaeRQVDh6g.jpeg)
 
+
+## __Introduction To Machine Learning Week 2 Nptel Answers__ (Jan-Apr 2026)
+
+**Que.1**\
+In building a linear regression model for a particular data set, you observe the coefficient of one of the features having a relatively high negative value. This suggests that:
+
+a) This feature has a strong effect on the model (should be retained)\
+b) This feature does not have a strong effect on the model (should be ignored)\
+c) It is not possible to comment on the importance of this feature without additional information
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.2**\
+We have seen methods like ridge and lasso to reduce variance among the coefficients. We can use these methods to do feature selection also. Which one of them is more appropriate?
+
+a) Ridge\
+b) Lasso
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.3**\
+Given a set of _n_ data points, ((x\_1, y\_1), (x\_2, y\_2), \ldots, (x\_n, y\_n)), the best least squares fit (f(x)) is obtained by minimization of:
+
+a) (\sum\_{i=1}^{n}\[y\_i – f(x\_i)])\
+b) (\min (y\_i – f(x\_i)))\
+c) (\sum\_{i=1}^{n}\[y\_i – f(x\_i)]^2)\
+d) (\max (y\_i – f(x\_i)))
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.4**\
+During linear regression, with regards to residuals, which among the following is true?
+
+a) Lower is better\
+b) Higher is better\
+c) Depends upon the data\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.5**\
+In the lecture on Multivariate Regression, you learn about using orthogonalization iteratively to obtain regression coefficients. This method is generally referred to as Multiple Regression using Successive Orthogonalization.\
+In the formulation of the method, we observe that in iteration _k_, we regress the entire dataset on (z\_0, z\_1, \ldots, z\_{k-1}). It seems like a waste of computation to recompute the coefficients repeatedly. Can we reuse the coefficients computed in iteration _j_ for iteration _j + 1_ for (z\_{j-1})?
+
+a) No. Doing so will result in the wrong (\gamma) matrix and hence the wrong (\beta\_i)’s.\
+b) Yes. Since (z\_{j-1}) is orthogonal to (z\_{j-l}) for all (l \le j-1), the regression coefficients do not change and can be reused.
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.6**\
+You decide to reduce the dimensionality of your data ((N \times p)) using Best Subset Selection. The library you’re using has a function `regress(X, Y)` that regresses _Y_ on _X_. What is the expected number of times `regress(·, ·)` will be called during dimensionality reduction?
+
+a) (O(2^N))\
+b) (O(2^p))\
+c) (O(Np))\
+d) (O(p^2))
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.7**\
+If the number of features is larger than the number of training data points, to identify a suitable subset of the features for use with linear regression, we would prefer:
+
+a) Forward stepwise selection\
+b) Backward stepwise selection
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.8**\
+Assume you have a five-dimensional input data for a three-class classification problem. Further assume that all five dimensions of the input are independent of each other. In this scenario, is it possible for linear regression using lasso to result in one or more coefficients becoming zero?
+
+a) Yes\
+b) No
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.9**\
+You are given the following five three-dimensional training data instances (along with one-dimensional output):
+
+• (x\_1 = 5, x\_2 = 7, x\_3 = 3, y = 4)\
+• (x\_1 = 2, x\_2 = 4, x\_3 = 9, y = 8)\
+• (x\_1 = 3, x\_2 = 8, x\_3 = 1, y = 2)\
+• (x\_1 = 7, x\_2 = 7, x\_3 = 2, y = 3)\
+• (x\_1 = 1, x\_2 = 9, x\_3 = 7, y = 8)
+
+Using the K-nearest neighbour technique for performing regression, what will be the predicted _y_ value corresponding to the query point ((x\_1 = 5, x\_2 = 3, x\_3 = 4)), for (K = 2)?
+
+a) 3\
+b) 2.5\
+c) 3.5\
+d) 2
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+***
+
+**Que.10**\
+For the dataset given in the previous question, what will be the predicted _y_ value corresponding to the query point ((x\_1 = 5, x\_2 = 3, x\_3 = 4)), for (K = 3)?
+
+a) 4.66\
+b) 5\
+c) 3\
+d) 3.5
+
+[View Answer](https://my.progiez.com/courses/introduction-to-machine-learning-answers/)
+
+
 ## __Introduction To Machine Learning Week 2 Nptel Answers__ (July-Dec 2025)
 
 ***
