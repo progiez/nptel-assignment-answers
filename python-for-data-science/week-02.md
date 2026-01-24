@@ -4,6 +4,185 @@ Are you looking for NPTEL Python For Data Science Week 02 Assignment Answers? Th
 
 ![Python for Data Science Nptel Week 2 Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*Nq1P8NZDOAsm_ySIWaSHsw.jpeg)
 
+## _Python for Data Science NPTEL Week 1 Assignment Answers_ _(Jan-Apr 2026)_
+
+**Que.1**\
+Which of the following object does not support indexing?
+
+a) tuple\
+b) list\
+c) dictionary\
+d) set
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Que.2**\
+How can you concatenate the strings “data” and “science” with a hyphen (-) between them?
+
+a) `"data".join("science")`\
+b) `"-".join(["data", "science"])`\
+c) `"data" + "-" + "science"`\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Que.3**\
+What will be the output of the following code snippet?
+
+a)
+
+    [[ 5 12]
+     [21 32]]
+
+b)
+
+    [[19 22]
+     [43 50]]
+
+c)
+
+    [[3 8]
+     [35 56]]
+
+d)
+
+    [[ 5 21]
+     [12 32]]
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Que.4**\
+What will be the output of the following code snippet?
+
+a) `[1 10 3 4 5 6 7 8 9 10]`\
+b) `[10 1 2 3 4 5 6 7 8 9]`\
+c) `[0 10 2 3 4 5 6 7 8 9]`\
+d) `[10 2 3 4 5 6 7 8 9]`
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Que.5**\
+What is the output of the following code?
+
+a) `[2, 3, 4, 5]`\
+b) `[0, 1, 2, 3]`\
+c) `[1, 2, 3, 4]`\
+d) Will throw an error: Set objects are not iterable
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Que.6**\
+What will be the output of the following code snippet?
+
+a) `{27.5}`\
+b) `{1, 'four ', 3.0, 3, 5, 'two ', 10, 27.5}`\
+c) `{1, 'four ', 3.0, 5, 'two ', 10, 27.5}`\
+d) `{1, 'four ', 3.0, 5, 'two ', 3}`
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Que.7**\
+Let `t1 = (1, 2, "tuple", 4)` and `t2 = (5, 6, 7)`. Which of the following will not give any error after execution?
+
+a) `t1.append(5)`\
+b) `x = t2[t1[1]]`\
+c) `t3 = t1 + t2`\
+d) `t3 = (t1, t2)`\
+e) `t3 = (list(t1), list(t2))`
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Que.8**\
+Let `d = {1 : "Python", 2 : [1, 2, 3]}`. Which among the following will not give an error after execution?
+
+a) `d[2].append(4)`\
+b) `x = d[0]`\
+c) `d["one"] = 1`\
+d) `d.update({'one' : 2})`
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Que.9**\
+Which of the following data type is immutable?
+
+a) list\
+b) set\
+c) tuple\
+d) dictionary
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Que.10**\
+`student = {'name': 'Jane', 'age': 25, 'courses': ['Math', 'Statistics']}`\
+Which among the following will return\
+`{'name': 'Jane', 'age': 26, 'courses': ['Math', 'Statistics'], 'phone': '123-456'}`
+
+a) `student.update({'age' : 26})`\
+b) `student.update({'age' : 26, 'phone': '123-456'})`\
+c) `student['phone'] = '123-456'`\
+d) `student.update({'age' : 26})`\
+e) None of the above
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Que.11**\
+What is the output of the following code?
+
+a) `['M', 'A', 'H', 'E', 'S', 'H']`\
+b) `['m', 'a', 'h', 'e', 's', 'h']`\
+c) `['M', 'a', 'h', 'e', 's', 'h']`\
+d) `['m', 'A', 'H', 'E', 'S', 'H']`
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+***
+
+**Que.12**\
+What will be the output of the following code snippet?
+
+a)
+
+    [[1 2 3 4 5]
+     [3 4 5 6 7]
+     [5 6 7 8 9]]
+
+b)
+
+    [[1 2 3 4]
+     [3 4 5 6]
+     [5 6 7 8]]
+
+c)
+
+    [[2 3 4]
+     [4 5 6]
+     [6 7 8]]
+
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/python-for-data-science-nptel-answers/)
+
+
 ## _Python for Data Science NPTEL Week 1 Assignment Answers_ _(July-Dec 2025)_
 
 ***
