@@ -4,6 +4,127 @@ Are you looking for NPTEL Programming In Java Week 02 Assignment Answers? This r
 
 ![Programming in Java Nptel Week 2 Assignment Answers ](https://miro.medium.com/v2/resize:fit:875/1*05hNRJouYrI1XNRrtP0OrA.jpeg)
 
+## _Programming in Java Nptel Week 2 Assignment Answers (Jan-Apr 2026)_
+
+**Que.1**\
+How do you read a line of text from the console using the Scanner class in Java?
+
+a) scanner.readLine()\
+b) scanner.nextLine()\
+c) scanner.getLine()\
+d) scanner.fetchLine()
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.2**\
+What will be the output of the following Java program?
+
+a) 30 99 178\
+b) 30 88 129\
+c) 30 99 187\
+d) 30 88 187
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.3**\
+What will be the output of the following Java program?
+
+a) 9 77 foo34 34foo\
+b) 839 45foo45 9foo\
+c) 839 459foo45 9foo\
+d) 9 77 foo 77foo
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.4**\
+What is encapsulation in object-oriented programming?
+
+a) Hiding implementation details and exposing only functionality\
+b) The process of creating multiple objects in a program\
+c) Writing multiple methods in a single class\
+d) Using the `this` keyword to reference an object
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.5**\
+Consider the following code snippet. What will be the output of the code given above?
+
+a) 0\
+b) 101\
+c) 100\
+d) Runtime error
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.6**\
+What does the `this` keyword in Java help to achieve?
+
+a) Avoiding namespace collision between instance variables and method parameters\
+b) Overloading methods in a class\
+c) Accessing private methods in another class\
+d) Creating multiple objects in a program
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.7**\
+Which method is used as the starting point of execution in a Java program?
+
+a) init method\
+b) start method\
+c) main method\
+d) run method
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.8**\
+Which of the following is used to display output in Java?
+
+a) input\
+b) display\
+c) print\
+d) System
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.9**\
+Which symbol is used to end a statement in Java?
+
+a) .\
+b) ,\
+c) ;\
+d) :
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+***
+
+**Que.10**\
+Which of the following is a valid Java keyword?
+
+a) number\
+b) class\
+c) include\
+d) define
+
+[View Answer](https://my.progiez.com/courses/programming-in-java-nptel-answers/)
+
+
 ## _Programming in Java Nptel Week 2 Assignment Answers (July-Dec 2025)_
 
 ***
