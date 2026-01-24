@@ -2,7 +2,7 @@
 
 Are you looking for NPTEL Data Analytics with Python Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Data Analytics with Python course. We provide detailed solutions to help you complete your assignments efficiently.
 
-## _Data Analytics with Python Nptel Week 2 Quiz Answers (Jan-Apr 202_6 )
+## Data Analytics with Python Nptel Week 2 Quiz Answers (Jan-Apr 2026 )
 
 **Que.1**\
 Which distribution is most appropriate for rare events occurring over a fixed interval?
