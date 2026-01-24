@@ -2,6 +2,131 @@
 
 Are you looking for NPTEL Intellectual Property Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the **Intellectual Property** course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## _Intellectual Property Week 2 Nptel Assignment Answers (Jan-Apr 2026)_
+
+**Que.1**\
+The turnover of a startup should not exceed:
+
+a) 25 crores within the 5 year period\
+b) 25 crores within the 7 year period\
+c) 20 crores within the 5 year period\
+d) 20 crores within the 7 year period
+
+[View Answer](https://my.progiez.com/courses/intellectual-property-nptel-quiz-answers/)
+
+***
+
+**Que.2**\
+A Patent for a new form of a known substance can be granted only:
+
+a) When new substance is an isomorphic form of the known substance\
+b) When the new substance is a new salt of the known substance\
+c) When the new substance shows enhanced efficacy\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/intellectual-property-nptel-quiz-answers/)
+
+***
+
+**Que.3**\
+The ability of mass duplication in intangible assets exists because of the trait:
+
+a) Sunkenness\
+b) Scalability\
+c) Liquidity\
+d) None of the above
+
+[View Answer](https://my.progiez.com/courses/intellectual-property-nptel-quiz-answers/)
+
+***
+
+**Que.4**\
+Startup is considered as an entity if:
+
+a) It is working towards innovation, development, improvement of product or process or services\
+b) It is working towards commercialization or marketing of product or process or services\
+c) It is working only towards a particular technology\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/intellectual-property-nptel-quiz-answers/)
+
+***
+
+**Que.5**\
+Statement 1: An entity shall cease to be a startup on completion of 7 years from the date of its incorporation/registration.\
+Statement 2: In respect of Startups in the biotechnology sector, an entity shall cease to be a Startup on completion of 10 years from the date of its incorporation/registration.
+
+a) Statement 1 is True and Statement 2 is False\
+b) Statement 1 is False and Statement 2 is True\
+c) Both Statement 1 and 2 are True\
+d) Both Statement 1 and 2 are False
+
+[View Answer](https://my.progiez.com/courses/intellectual-property-nptel-quiz-answers/)
+
+***
+
+**Que.6**\
+Statement 1: “Synergies” in intangibility refers to the fact that the benefit of an intangible asset may accrue on others.\
+Statement 2: Strong IP rights increase investment.
+
+a) Statement 1 is True and Statement 2 is False\
+b) Statement 1 is False and Statement 2 is True\
+c) Both Statement 1 and 2 are True\
+d) Both Statement 1 and 2 are False
+
+[View Answer](https://my.progiez.com/courses/intellectual-property-nptel-quiz-answers/)
+
+***
+
+**Que.7**\
+Some of the grounds pertaining to the rejection of the Novartis patent are:
+
+a) Not an invention under section 3(d)\
+b) Non-disclosure of biological material\
+c) Anticipation\
+d) Lack of inventive step
+
+[View Answer](https://my.progiez.com/courses/intellectual-property-nptel-quiz-answers/)
+
+***
+
+**Que.8**\
+The traits of intangibility include:
+
+a) Volatile\
+b) Spillovers\
+c) Sunkenness\
+d) Scalability
+
+[View Answer](https://my.progiez.com/courses/intellectual-property-nptel-quiz-answers/)
+
+***
+
+**Que.9**\
+Which of the following falls under intangible investments?
+
+a) New technological ideas\
+b) New Product designs\
+c) New Business Models\
+d) Codified information
+
+[View Answer](https://my.progiez.com/courses/intellectual-property-nptel-quiz-answers/)
+
+***
+
+**Que.10**\
+In the Novartis case, the Patent was rejected on the following grounds:
+
+a) Anticipation\
+b) Non-obviousness\
+c) Not an invention\
+d) Wrongful Priority
+
+[View Answer](https://my.progiez.com/courses/intellectual-property-nptel-quiz-answers/)
+
+***
+
+
 ## _Intellectual Property Week 2 Nptel Assignment Answers 2025 (Jan-Apr 2025)_
 
 ***
