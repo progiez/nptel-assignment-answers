@@ -2,7 +2,141 @@
 
 Are you looking for NPTEL Data Analytics with Python Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Data Analytics with Python course. We provide detailed solutions to help you complete your assignments efficiently.
 
-## _Data Analytics with Python Nptel Week 2 Quiz Answers (Jan-Apr 2025_
+## _Data Analytics with Python Nptel Week 2 Quiz Answers (Jan-Apr 202_6 )
+
+**Que.1**\
+Which distribution is most appropriate for rare events occurring over a fixed interval?
+
+a) Binomial\
+b) Normal\
+c) Poisson\
+d) Uniform
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+**Que.2**\
+A fair coin is tossed twice. What is the probability of getting exactly one head?
+
+a) 0.25\
+b) 0.5\
+c) 0.75\
+d) 1.0
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+**Que.3**\
+Which distribution is commonly used to model the time between events in a Poisson process?
+
+a) Binomial distribution\
+b) Exponential distribution\
+c) Uniform distribution\
+d) Chi-square distribution
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+**Que.4**\
+Which of the following is a discrete probability distribution?
+
+a) Normal distribution\
+b) Poisson distribution\
+c) Exponential distribution\
+d) Gamma distribution
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+**Que.5**\
+If a binomial distribution has ( n = 10 ) and ( p = 0.4 ), what is the mean?
+
+a) 2.0\
+b) 4.0\
+c) 6.0\
+d) 10.0
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+**Que.6**\
+In a hypergeometric distribution, sampling is done:
+
+a) Without replacement\
+b) With replacement\
+c) With constant probability\
+d) From infinite population
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+**Que.7**\
+What will be the output of the following code?
+
+    from scipy.stats import poisson
+    print(poisson.var(4))
+
+a) 2.0\
+b) 4.0\
+c) 8.0\
+d) 16.0
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+**Que.8**\
+The mean and variance of a Poisson distribution are:
+
+a) μ and μ²\
+b) √λ and λ\
+c) λ and √λ\
+d) λ and λ
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+**Que.9**\
+Consider the following Python code:
+
+    from scipy.stats import norm
+    print(norm.pdf(0))
+
+What will be the output?
+
+a) 0.0\
+b) 0.25\
+c) 0.399\
+d) 1.0
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+***
+
+**Que.10**\
+Consider the following Python code:
+
+    import scipy.stats as stats
+    print(round(stats.norm.cdf(0), 2))
+
+What will be the output?
+
+a) 0.0\
+b) 0.25\
+c) 0.5\
+d) 1.0
+
+[View Answer](https://my.progiez.com/courses/data-analytics-with-python-nptel-answers/)
+
+
+## _Data Analytics with Python Nptel Week 2 Quiz Answers (Jan-Apr 2025)
 
 Course link: [Click here](https://onlinecourses.nptel.ac.in/noc25_cs17/course)
 
