@@ -4,6 +4,193 @@ Are you looking for NPTEL The Joy Of Computation Using Python Week 02 Assignment
 
 ![The Joy of Computing Using Python NPTEL week 2 Answers](https://miro.medium.com/v2/resize:fit:875/1*tg7DtWES7sTeiFexp7i1jw.jpeg)
 
+## The Joy of Computing Using Python Week 2 Nptel Answers(Jan-Apr 2026)
+
+**Que.1**\
+How many times does the outer loop execute?
+
+a) 4\
+b) 5\
+c) 6\
+d) Depends on the inner loop
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.2**\
+Why does Ravi’s code print each number on a new line instead of the same line?
+
+a) Because `print()` moves the cursor to the next line by default\
+b) Because `range()` creates new lines\
+c) Because the inner loop executes first\
+d) Because nested loops cannot print patterns
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.3**\
+Ravi’s program executes without errors but fails to produce the required pattern. Which of the following best explains the cause?
+
+a) The outer loop does not include the final value required for printing the last line\
+b) The inner loop variable is declared but not explicitly used in the print statement\
+c) The print statement is placed inside the inner loop instead of after it\
+d) The inner loop executes one fewer iteration than required for each value of `i`
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.4**\
+After correcting the inner loop to execute the required number of times, Ravi observes that the digits are still printed on separate lines. Which change is necessary to ensure that each digit appears on the same line before moving to the next line?
+
+a) Replace `print(i)` with `print()` inside the inner loop\
+b) Move the `print(i)` statement outside the inner loop\
+c) Add an empty `print()` statement at the beginning of the outer loop\
+d) Modify the `print` statement to suppress the default newline character
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.5**\
+In the corrected nested-loop program, why is an additional `print()` statement required immediately after the inner loop completes?
+
+a) To move the cursor to the next line after printing all digits for the current value of `i`\
+b) To reset the value of the loop variable before the next iteration begins\
+c) To ensure the inner loop terminates before the outer loop continues\
+d) To prevent the digits printed in different iterations from overlapping
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.6**\
+Which of the following Python code snippets correctly produces the required output?
+
+    1
+    22
+    333
+    4444
+    55555
+
+a) Option a\
+b) Option b\
+c) Option c\
+d) Option d
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.7**\
+What is the final value of `reverse` when the function is called as `is_palindrome(210)`?
+
+a) 210\
+b) 120\
+c) 21\
+d) 12
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.8**\
+What will the function return for the input `is_palindrome(210)`?
+
+a) Error because loop runs only once\
+b) True\
+c) False\
+d) None
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.9**\
+How many times does the `while` loop execute when the function is called as `is_palindrome(121)`?
+
+a) 2\
+b) 4\
+c) 3\
+d) 1
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.10**\
+Suppose the loop condition is changed. What will happen when the function is called with `is_palindrome(5)`?
+
+a) It enters an infinite loop\
+b) It returns False after one iteration\
+c) It correctly returns True\
+d) It raises a runtime error
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.11**\
+A customer is a regular customer and makes a purchase of ₹850. Which code fragment correctly represents the discount logic applied by the calculator?
+
+a) Option a\
+b) Option b\
+c) Option c\
+d) Option d
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.12**\
+A premium customer makes a purchase of ₹1,500. Which discount will the system finally apply?
+
+a) 5% premium discount\
+b) No discount\
+c) 10% purchase-based discount\
+d) Both 10% and 5% discounts
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.13**\
+A premium customer makes a purchase of ₹2,500. Which logic ensures that only one discount is applied?
+
+a) Option a\
+b) Option b\
+c) Option c\
+d) Option d
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.14**\
+A premium customer makes a purchase of ₹2,000 exactly. Which discount amount is applied?
+
+a) ₹100\
+b) ₹200\
+c) ₹300\
+d) ₹0
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+***
+
+**Que.15**\
+A premium customer makes a purchase of ₹1,800. Which of the following code fragments correctly produces the discount applied by the Smart Discount Calculator?
+
+a) Option a\
+b) Option b\
+c) Option c\
+d) Option d
+
+[View Answer](https://my.progiez.com/courses/the-joy-of-computing-using-python-answers/)
+
+
 ## The Joy of Computing Using Python Week 2 Nptel Answers (July-Dec 2025)
 
 ***
