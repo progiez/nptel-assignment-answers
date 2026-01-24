@@ -2,6 +2,126 @@
 
 Are you looking for NPTEL Design Thinking - A Primer Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the **Design Thinking - A Primer** course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## _NPTEL Design Thinking A Primer Week 2 Quiz Answers (Jan-Apr 2026)_
+
+**Que.1**\
+Why do we use the Multi-Whys method in Design Thinking?
+
+a) To create a better customer journey map\
+b) To add another step in Design Thinking process\
+c) To collect user data as it is highly valuable\
+d) To understand the root cause of a given problem
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Que.2**\
+Which famous automobile brand came up with the 5-Whys method?
+
+a) Toyota\
+b) BMW\
+c) Audi\
+d) Volkswagen
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Que.3**\
+What does a Design Thinker do when they find it difficult to choose between two favourable options?
+
+a) Do a 5-Why analysis\
+b) Apply Conflict of Interest\
+c) Seek advice from family & friends\
+d) Post it on social media for suggestions
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Que.4**\
+From the Three Musketeers story referred by Prof. Bala in his videos, what was the desired result for Porthos and his tailor?
+
+a) Porthos wanted an extra hook in his trouser for his scabbard\
+b) Porthos wanted the exact same dress as Aramis\
+c) The tailor wanted to give Porthos a perfect fitting, whereas Porthos wanted his clothes to be slightly oversized\
+d) No touching and measurements should be perfect
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Que.5**\
+What is the graphical representation used in Conflict of Interest called?
+
+a) Element Name Value\
+b) Histogram\
+c) Parabola\
+d) Pie Chart
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Que.6**\
+According to Prof. Bala’s correlation between Buddhist principles and Design Thinking, which one of the four noble truths is mapped to the Analyze phase in Design Thinking?
+
+a) Nirodha\
+b) Marga\
+c) Samudaya\
+d) Dukkha
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Que.7**\
+When Conflict of Interest is applied to resolve an issue, how do we arrive at the desired result?
+
+a) Consider the two negatives from both ends of the conflict\
+b) Consider the two positives from both ends of the conflict\
+c) Consider the positive & negative from the 1st end of the conflict\
+d) Consider the positive & negative from the 2nd end of the conflict
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Que.8**\
+What was the creative methodology used by Disney in their animated series to create a conflict between the protagonist and bad guys?
+
+a) Replace “and” in the story script with “but”\
+b) Replace “Mickey M” with “Donald D”\
+c) Replace “Tarzan” with “Cinderella”\
+d) Replace “Princess Jasmine” with “Hercules”
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Que.9**\
+Which one of the following options best concurs with the Analyze phase of Design Thinking?
+
+a) Persona, Emotions, Geography\
+b) Wireframing, Minimum Viable Product, Prototype\
+c) Test, Feedback, Iterate\
+d) 5-Whys, Conflict of Interest, Root Cause
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
+***
+
+**Que.10**\
+As a Design Thinker, what is the next step after the Empathize phase?
+
+a) Create a rapid prototype and sell it to your customers\
+b) Ask your customer about what kind of aesthetics they prefer in the product\
+c) Draw out inferences from customer journey map and get to the root cause of the problem\
+d) Hire a product developer to create a solution
+
+[View Answer](https://my.progiez.com/courses/design-thinking-a-primer-nptel-answers/)
+
 
 ## _NPTEL Design Thinking A Primer Week 2 Quiz Answers (July-Dec 2025)_
 
