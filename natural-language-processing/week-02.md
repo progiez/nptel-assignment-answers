@@ -2,6 +2,137 @@
 
 Are you looking for NPTEL Natural Language Processing Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the **Natural Language Processing** course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Natural Language Processing Nptel Week 2 Quiz Answers (Jan-Apr 2026)
+
+**Que.1**\
+When computing the Minimum Edit Distance between two strings of length _n_ and _m_ using Dynamic Programming, what are the time and space complexities required for the standard algorithm?
+
+a) Time: O(n + m), Space: O(n)\
+b) Time: O(n²), Space: O(1)\
+c) Time: O(m), Space: O(n)\
+d) Time: O(nm), Space: O(nm)
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.2**\
+Consider a Bigram model with a vocabulary size _V = 10,000_. You encounter a bigram **“smart phone”** which appeared 0 times in the training data. The word **“smart”** appeared 500 times. Using Add-One (Laplace) Smoothing, what is the smoothed probability ( P\_{\text{Add-1}}(\text{phone} \mid \text{smart}) )?
+
+a) 1 / 500\
+b) 0 / 500\
+c) 1 / 10,500\
+d) 1 / 501
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.3**\
+In the context of spelling correction, how are **Non-word errors** distinguished from **Real-word errors**?
+
+a) Non-word errors are grammatical mistakes; Real-word errors are typos\
+b) Non-word errors result in a string not found in the dictionary; Real-word errors result in a valid dictionary word\
+c) Non-word errors only occur in names; Real-word errors occur in verbs\
+d) Non-word errors are handled by N-grams; Real-word errors are handled by Edit Distance only
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.4**\
+For the string **“bread”**, identify which of the following sets of strings has a Levenshtein distance of exactly 1.
+
+a) bead, break, breed, beard, tread\
+b) read, broad, dread, bred, spread\
+c) read, broad, dread, bred, bead\
+d) brand, braid, bead, break, bred
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.5**\
+You are building a Trigram Language Model (_N = 3_). Applying the Markov Assumption, how is the probability of the word ( w\_n ) approximated?
+
+a) ( P(w\_n \mid w\_1, w\_2, \ldots, w\_{n-1}) \approx P(w\_n) )\
+b) ( P(w\_n \mid w\_1, w\_2, \ldots, w\_{n-1}) \approx P(w\_n \mid w\_{n-1}) )\
+c) ( P(w\_n \mid w\_1, w\_2, \ldots, w\_{n-1}) \approx P(w\_n \mid w\_{n-2}, w\_{n-1}) )\
+d) ( P(w\_n \mid w\_1, w\_2, \ldots, w\_{n-1}) \approx P(w\_n \mid w\_{n-3}, w\_{n-2}, w\_{n-1}) )
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.6**\
+Calculate the Levenshtein edit distance between the strings\
+S₁ = **“brisk”** and S₂ = **“brick”**, assuming a cost of 1 for insertion, deletion, and substitution. What is the minimum cost and the operation?
+
+a) Cost 1: Substitution\
+b) Cost 2: Deletion, Insertion\
+c) Cost 1: Transposition\
+d) Cost 0: They are identical
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.7**\
+What is the primary motivation for applying Laplace (Add-One) Smoothing to N-gram models?
+
+a) To reduce the perplexity of the training data to zero\
+b) To handle the “zero probability” problem\
+c) To increase the weight of high-frequency words\
+d) To remove stop words from the corpus
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.8**\
+Consider the following training corpus ( C\_1 ) consisting of three sentences (all text lowercased):
+
+S1: “the cat sat on the mat”\
+S2: “the dog sat on the log”\
+S3: “the cat jumped on the log”
+
+Using Maximum Likelihood Estimation (MLE), calculate the bigram probability ( P(\text{log} \mid \text{the}) ).
+
+a) 2 / 3\
+b) 1 / 3\
+c) 2 / 5\
+d) 1 / 6
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.9**\
+Using the same corpus ( C\_1 ), calculate the **Perplexity** of the bigram model on the test sentence:\
+“the cat sat”.
+
+a) √6\
+b) 6\
+c) √3\
+d) 1 / √6
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+***
+
+**Que.10**\
+In the Dynamic Programming algorithm for Minimum Edit Distance, consider a specific cell where _i > 0_ and _j > 0_. The neighboring cells have values:\
+D(i−1, j) = 5, D(i, j−1) = 5, and D(i−1, j−1) = 4.\
+If the characters X\[i] and Y\[j] are identical (match), and the costs are: insertion = 1, deletion = 1, substitution = 2, match = 0, what is the value of D(i, j)?
+
+a) 4\
+b) 5\
+c) 6\
+d) 3
+
+[View Answer](https://my.progiez.com/courses/natural-language-processing-nptel-answers/)
+
+
 ## Natural Language Processing Nptel Week 2 Quiz Answers (Jan-Apr 2025)
 
 **Course Link: [**Click Here**](https://onlinecourses.nptel.ac.in/noc25_cs51/course)**
