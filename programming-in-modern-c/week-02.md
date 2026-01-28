@@ -4,6 +4,139 @@ Are you looking for NPTEL Programming In Modern C Week 02 Assignment Answers? Th
 
 ![Programming in Modern C++ Week 2 Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*JUAJ-dpuw49liEDXhXE-VA.jpeg)
 
+**Que1.**\
+Assume that letter\_ → \[A-Za-z\_] and digit → \[0-9]. What is the correct regular expression to define a valid identifier in C programming language?
+
+a) letter\_(letter\_| digit)\*\
+b) _(letter_| digit)\*\
+c) letter\_(letter| digit)\*\
+d) letter(letter | digit)\*
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que2.**\
+Consider the alphabet Σ = {a, b}. Which of the following is a correct regular expression that represents even number of a?
+
+a) (b_ab_ab\*)\* + (bb\*)\
+b) (ab_a)_ + (bb\*)\
+c) (b_ab_ab\*)\*\
+d) (a_ba_ba\*)\* + (bb\*)
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que3.**\
+What is the regular expression over Σ = {a, b} for the language that includes the strings containing **ab** as substring?
+
+a) (a+b)ab(a+b)\
+b) (a+b)_ab(a+b)_\
+c) (ab)_ab(ab)_\
+d) ab(a+b)\*
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que4.**\
+Consider the following Deterministic Finite Automata (DFA). It represents:
+
+a) A DFA that accepts all the strings that end with **ba**\
+b) A DFA that accepts all the strings that end with **a**\
+c) A DFA that accepts all the strings that end with **b**\
+d) An NFA that accepts all the strings that end with **ab**
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que5.**\
+Which of the following statements about ε-moves (epsilon transitions) in finite automata is correct?
+
+a) An ε-move consumes one input symbol\
+b) ε-moves are allowed only in DFA\
+c) ε-moves allow the automaton to change states without consuming any input symbol\
+d) An automaton with ε-moves always accepts all strings
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que6.**\
+Assume that the token set is {+, −, \*, ++, –, \*\*, >, <=, >=}. How many tokens can be generated for the input\
+`>=>++><=">>--`?
+
+a) 10\
+b) 11\
+c) 12\
+d) 14
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que7.**\
+What is the regular expression accepted by the following DFA?
+
+a) 0(10)\*\
+b) (01)\*0\
+c) Both (A) and (B)\
+d) Neither (A) nor (B)
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que8.**\
+Consider the grammar G with productions\
+S → aSb and S → ab, where S is the non-terminal and a and b are terminal symbols.\
+G represents which language?
+
+a) L(G) = {aⁿbⁿ : n ≥ 1}\
+b) L(G) = {aᵐbⁿ : m, n ≥ 1}\
+c) L(G) = {aⁿ : n ≥ 1}\
+d) L(G) = {aᵐbⁿ : n ≥ 1, m < n}
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que9.**\
+Consider the following C program segment:
+
+    void main()
+    {
+     int 1x, y;
+     x = 10;
+     y = 5;
+     if x > y
+       y = y + x;
+    }
+
+This program suffers from:
+
+a) One syntax error\
+b) One lexical error\
+c) Both (A) and (B)\
+d) Neither (A) nor (B)
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+***
+
+**Que10.**\
+How many states will the DFA equivalent to an NFA with **n** states have in the worst case?
+
+a) n\
+b) 2n\
+c) 2ⁿ\
+d) n²
+
+[View Answer](https://my.progiez.com/courses/compiler-design-nptel-assignment-answers/)
+
+
 ## _Programming in Modern C++ Week 2 Assignment Answers (July-Dec 2025)_
 
 ***
