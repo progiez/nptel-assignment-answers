@@ -2,7 +2,126 @@
 
 Are you looking for NPTEL Blockchain and its Applications Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Blockchain and its Applications course. We provide detailed solutions to help you complete your assignments efficiently.
 
-## These are Blockchain and its Applications Assignment 2 Answers( JAN-APR 2025)
+Que1.\
+Alice employs the RSA cryptosystem with the prime numbers p = 11 and q = 17 to derive her public and private keys. Given that her public key is e = 13, what is her corresponding private key d?
+
+a) 7\
+b) 155\
+c) 37\
+d) 129
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que2.\
+Bob receives a secure package from Alice, which was encrypted for confidentiality and digitally signed for integrity. To read the message and verify its origin, which keys must Bob use, and in what capacity?
+
+a) Bob uses Alice’s Public Key to decrypt the message and Bob’s Private Key to verify the signature.\
+b) Bob uses Bob’s Private Key to decrypt the message and Alice’s Public Key to verify the signature.\
+c) Bob uses Bob’s Public Key to decrypt the message and Alice’s Private Key to verify the signature.\
+d) Bob uses Alice’s Private Key to decrypt the message and Bob’s Public Key to verify the signature.
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que3.\
+Which statement best captures non-repudiation in blockchain transactions enabled by digital signatures?
+
+a) Anyone can change a signed transaction without detection.\
+b) The sender can later deny authoring the transaction even if it’s signed.\
+c) The sender cannot plausibly deny authoring the transaction, and others can verify the origin.\
+d) Digital signatures hide the transaction contents from all nodes.
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que4.\
+In a typical blockchain transaction flow, what does verifying Alice’s signature using Alice’s public key ensure?
+
+a) The message is encrypted for Alice only\
+b) The message definitely remained confidential on the network\
+c) The transaction was authorized by Alice and was not altered after signing\
+d) The miners will include the transaction in the next block for sure
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que5.\
+Consider 8 data points labeled 1 to 8. The post-order traversal of the Merkle Tree is provided as follows (where 1 represents the hash of data point 1, 56 denotes the combined hash of 5 and 6, and so on):
+
+a) (12345678, 1234, 12, 1, 2, 34, 3, 4, 5678, 56, 5, 6, 78, 7, 8)\
+b) {1, 2, 12, 3, 4, 34, 1234, 5, 6, 56, 7, 8, 78, 5678, 12345678}\
+c) {1, 12, 2, 3, 34, 4, 1234, 5, 56, 6, 7, 78, 8, 5678, 12345678}\
+d) {12, 1, 2, 34, 3, 4, 1234, 56, 5, 6, 78, 7, 8, 5678, 12345678}
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que6.\
+In the Bitcoin Proof of Work (PoW) system, which field in the block header do miners constantly modify to find a hash that meets the difficulty target?
+
+a) Previous Block Hash\
+b) Merkle Root\
+c) Nonce\
+d) Timestamp
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que7.\
+Which option most clearly conflicts with the typical design goals of public cryptocurrencies?
+
+a) Open participation with peer-to-peer propagation\
+b) Tamper-evident append-only ledger\
+c) Central authority that can unilaterally reverse valid transactions\
+d) Distributed validation through consensus
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que8.\
+Which of the following accurately describes the role of Miners in the Bitcoin network?
+
+a) They are central authorities appointed by the Bitcoin Foundation to issue currency.\
+b) They use Proof of Stake (PoS) to vote on valid transactions based on their coin wealth.\
+c) They solve computational puzzles (Proof of Work) to validate transactions and secure the network in exchange for rewards.\
+d) They primarily focus on encrypting user passwords to prevent hacking.
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que9.\
+In the context of the Bitcoin network, how do nodes resolve a temporary ‘fork’ (where two different valid blocks are found at roughly the same time)?
+
+a) They choose the block that contains the most transactions.\
+b) They follow the “Longest Chain” rule (the chain with the most cumulative work).\
+c) A central server decides which block is valid.\
+d) Both blocks are discarded, and miners restart.
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+***
+
+Que10.\
+In the context of blockchain distributed systems, what specific problem does the consensus algorithm (like Proof of Work) attempt to solve?
+
+a) The Data Storage Problem: Ensuring all nodes have infinite storage capacity.\
+b) The Byzantine Generals Problem: Reaching agreement even when some participants may act maliciously or send conflicting information.\
+c) The Latency Problem: Ensuring data travels at the speed of light between nodes.\
+d) The Encryption Problem: Making sure no one can read the transaction details.
+
+[View Answer](https://my.progiez.com/courses/blockchain-and-its-applications-answers/)
+
+
+## Blockchain and its Applications Assignment 2 Answers( JAN-APR 2025)
 
 ***
 
