@@ -2,6 +2,110 @@
 
 Are you looking for NPTEL Entrepreneurship Essentials Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the **Entrepreneurship Essentials** course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## _Entrepreneurship Essentials Nptel Week 2 Quiz Answers (Jan-Apr 2026_)__
+
+***
+
+**Que.1** Which of the following CANNOT be concluded from the story of Dhirubhai Ambani?\
+a) Entrepreneurs identify opportunities in adversities.\
+b) Entrepreneurs start it big to be successful.\
+c) Entrepreneurs are knowledge seekers.\
+d) Entrepreneurs have a compelling vision and a comprehensive plan to execute it.
+
+[View Answer](https://my.progiez.com/courses/entrepreneurship-essentials-nptel-answers/)
+
+***
+
+**Que.2** Which of the following represents the five forces of competition as espoused by Porter?\
+a) Core competency, Competitive rivalry, government policy, threat of new entrant, threat of substitution\
+b) Competitive rivalry, government policy, buyer power, threat of substitution, threat of new entry\
+c) Competitive rivalry, supplier power, buyer power, threat of substitution, international competition\
+d) Competitive rivalry, supplier power, buyer power, threat of substitution, threat of new entrant
+
+[View Answer](https://my.progiez.com/courses/entrepreneurship-essentials-nptel-answers/)
+
+***
+
+**Que.3** Which of the following helps startups gain the LEAST amount of competitive advantage?\
+a) Innovative technology and protecting intellectual property rights (IPR).\
+b) Efficient cost management to ensure price advantage.\
+c) Building trusted brands with increasing loyal followers.\
+d) To achieve first-mover advantage through great execution.
+
+[View Answer](https://my.progiez.com/courses/entrepreneurship-essentials-nptel-answers/)
+
+***
+
+**Que.4** Identify the correct statement from the following:\
+What is meant by the construct “limited liability” in the context of a limited liability form of legal entity?\
+a) The liability of the company is limited to its resources.\
+b) The liability of any owner is limited to his/her share of the business at any point in time.\
+c) The liability of any owner is limited to his/her proportional shareholding in the company.\
+d) The liability of a company is limited to the market value of its assets.
+
+[View Answer](https://my.progiez.com/courses/entrepreneurship-essentials-nptel-answers/)
+
+***
+
+**Que.5** In partnership form of business, the written agreement duly stamped and registered is known as \_\_\_\_\_.\
+a) Partnership MOU\
+b) Memorandum of partnership\
+c) Partnership deed\
+d) Partnership agreement
+
+[View Answer](https://my.progiez.com/courses/entrepreneurship-essentials-nptel-answers/)
+
+***
+
+**Que.6** Which form of business has a limited life?\
+a) Limited liability partnership\
+b) Proprietorship\
+c) Private limited company\
+d) Public limited company
+
+[View Answer](https://my.progiez.com/courses/entrepreneurship-essentials-nptel-answers/)
+
+***
+
+**Que.7** Investors prefer which form of the legal structure of an enterprise and why? Choose the most appropriate statement from the following:\
+a) Proprietorship because it gives absolute liberty to the proprietor for execution and the personal assets of the proprietor can be attached in case of default.\
+b) Partnership because it has all attributes of proprietorships and more than one founders.\
+c) Private limited company because the personal assets of shareholders cannot be attached to meet company obligations and it can induct new investors as shareholders.\
+d) Public limited company since it can issue shares to the public, list its shares to stock exchanges, and the shares are easily transferable, thus offering easy exit to the investors.
+
+[View Answer](https://my.progiez.com/courses/entrepreneurship-essentials-nptel-answers/)
+
+***
+
+**Que.8** When should a startup convert its venture into a limited liability company?\
+a) At the idea stage\
+b) When the prototype is ready and customer validation is in the process\
+c) When the business demands such as approaching investors or incubators\
+d) When applying for patent or trademark or GST registration, whichever is earlier
+
+[View Answer](https://my.progiez.com/courses/entrepreneurship-essentials-nptel-answers/)
+
+***
+
+**Que.9** What was the main reason for the failure of Iridium? Choose the best answer.\
+a) Over-pricing\
+b) Excessive capital cost\
+c) The technology was ahead of time\
+d) Lack of product-market fit
+
+[View Answer](https://my.progiez.com/courses/entrepreneurship-essentials-nptel-answers/)
+
+***
+
+**Que.10** Which of the following can create the least of Entry Barriers?\
+a) Brand loyalty\
+b) Business process management at the shop floor\
+c) Ownership of intellectual property\
+d) Logistic advantage
+
+[View Answer](https://my.progiez.com/courses/entrepreneurship-essentials-nptel-answers/)
+
+
 ## _Entrepreneurship Essentials Nptel Week 2 Quiz Answers (Jan-Apr 2025_)__
 
 ***
