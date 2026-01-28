@@ -4,6 +4,232 @@ Are you looking for NPTEL Database Management System Week 02 Assignment Answers?
 
 ![Nptel Database Management System Assignment 2 Answers](https://miro.medium.com/v2/resize:fit:875/1*nw-gOvlsQ1d6ph1xPn-prQ.jpeg)
 
+## _Nptel Database Management System Assignment 2 Answers( Jan-Apr 2026)_
+
+Que1. Consider two relations EmployeeDept and EmployeeProject as follows.\
+An operation Θ between EmployeeDept and EmployeeProject will generate the given output. Identify the operation Θ.
+
+a) natural join\
+b) natural left outer join\
+c) natural right outer join\
+d) natural full outer join
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+Que2. Consider the following CREATE statements for tables `department` and `employee`.\
+Identify the correct statement(s) from the following options.
+
+a) If a dept\_id value is deleted from the department table, the corresponding records in the employee table that use this dept\_id will also be deleted.\
+b) If a dept\_id value is deleted from the department table, the foreign key constraint will become invalid.\
+c) If a dept\_id value is deleted from the department table, the corresponding records in the employee table that use this dept\_id will be deleted and the foreign key constraint will become invalid.\
+d) If a dept\_id value is deleted from the department table, the corresponding records in the employee table that use this dept\_id will not be deleted.
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+Que3. Consider the following table Products.\
+How many tuples will be returned by the following query?
+
+    SELECT product, cost
+    FROM Products
+    WHERE cost > (SELECT MIN(cost) FROM Products);
+
+a) 2\
+b) 3\
+c) 4\
+d) 5
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+Que4. Consider the following table Library.\
+Which of the following options will NOT be present in the output produced by:
+
+    SELECT MAX(book_id) FROM Library GROUP BY category;
+
+a) 3\
+b) 8\
+c) 15\
+d) 21
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+Que5. Consider the following table Library.\
+What will be the output of the following SQL query?
+
+    SELECT COUNT(book_id)
+    FROM Library
+    WHERE category LIKE 'S%' OR category LIKE 'F%';
+
+a) 2\
+b) 3\
+c) 4\
+d) 5
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+Que6. Consider the following instance of the table Library.\
+Identify the correct CREATE statement for this table.
+
+a) CREATE TABLE Library (\
+    book\_id INT NOT NULL,\
+    category VARCHAR(50),\
+    copies INT,\
+    PRIMARY KEY (book\_id)\
+);
+
+b) CREATE TABLE Library (\
+    book\_id INT NOT NULL,\
+    category VARCHAR(50) NOT NULL,\
+    copies INT,\
+    PRIMARY KEY (category)\
+);
+
+c) CREATE TABLE Library (\
+    book\_id INT,\
+    category VARCHAR(50) NOT NULL,\
+    copies DATE,\
+    PRIMARY KEY (category, copies)\
+);
+
+d) CREATE TABLE Library (\
+    book\_id INT NOT NULL,\
+    category VARCHAR(50),\
+    copies INT,\
+    PRIMARY KEY (copies)\
+);
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+Que7. Suppose a library wants to create a view consisting of the book\_id of books in the ‘Science’ category with the number of copies being greater than or equal to 25 but less than or equal to 40.\
+Identify the correct query from the following.
+
+a)
+
+    CREATE VIEW v1 AS
+    SELECT book_id
+    FROM Library
+    WHERE category = 'Science'
+    AND copies >= 25 AND copies <= 40;
+
+b)
+
+    CREATE VIEW v1 AS
+    SELECT book_id
+    FROM Library
+    WHERE category = 'Science'
+    AND copies BETWEEN 25 AND 40;
+
+c)
+
+    CREATE VIEW v1 AS
+    SELECT book_id
+    FROM Library
+    WHERE category = 'Science'
+    AND copies > 25 AND copies < 40;
+
+d)
+
+    CREATE VIEW v1 AS
+    SELECT book_id
+    FROM Library
+    WHERE category = 'Science'
+    AND copies >= 25, copies <= 40;
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+Que8. Consider the following instance of the table Library.\
+Identify the correct SQL statement(s) to produce the given output.
+
+a)
+
+    SELECT * FROM Library
+    WHERE copies >= 30;
+
+b)
+
+    SELECT * FROM Library
+    WHERE category = 'Science';
+
+c)
+
+    SELECT * FROM Library
+    WHERE copies >= 30 AND category = 'Science';
+
+d)
+
+    SELECT * FROM Library
+    WHERE copies >= 30 OR category = 'Science';
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+Que9. Consider the following instance of the table Library.\
+Identify the correct SQL command to find the average number of copies of books in the ‘Science’ category.
+
+a)
+
+    SELECT avg(copies) FROM Library;
+
+b)
+
+    SELECT * FROM Library WHERE category='Science' AND avg(copies);
+
+c)
+
+    SELECT * FROM Library WHERE category='Science' OR avg(copies);
+
+d)
+
+    SELECT avg(copies) FROM Library WHERE category='Science';
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+***
+
+Que10. Consider the following instance of the table Library.\
+Identify the correct SQL statement(s) to find the book\_id and copies of books whose number of copies is greater than all books in the ‘Fiction’ category.
+
+a)
+
+    SELECT book_id, copies
+    FROM Library
+    WHERE copies > (SELECT copies FROM Library WHERE category='Fiction');
+
+b)
+
+    SELECT book_id, copies
+    FROM Library
+    WHERE copies > ALL (SELECT copies FROM Library WHERE category='Fiction');
+
+c)
+
+    SELECT book_id, copies
+    FROM Library
+    WHERE copies > (SELECT MAX(copies) FROM Library WHERE category='Fiction');
+
+d)
+
+    SELECT book_id, copies
+    FROM Library
+    WHERE copies > FOR (SELECT copies FROM Library WHERE category='Fiction');
+
+[View Answer](https://my.progiez.com/courses/data-base-management-system-nptel-answers/)
+
+
 ## _Nptel Database Management System Assignment 2 Answers( July-Dec 2025)_
 
 ***
