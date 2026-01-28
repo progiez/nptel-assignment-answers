@@ -4,6 +4,170 @@ Are you looking for NPTEL Introduction To Internet Of Things Week 02 Assignment 
 
 ![Introduction To Internet Of Things Week 2 Nptel Assignment Answers](https://miro.medium.com/v2/resize:fit:875/1*ICtzqCWKxCvRa-STsUlD4A.jpeg)
 
+## _Introduction To Internet Of Things Week 2 Nptel Answers (Jan-Apr 2026)_
+
+Que1. The full form of MQTT is
+
+a) Message Query Telemetry Transport\
+b) Message Queue Telemetry Transport\
+c) Message Queue Telemedicine Transport\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que2. XMPP uses the \_\_\_\_\_\_\_\_\_\_ architecture.
+
+a) Publish-subscribe\
+b) Client-server\
+c) Both (a) and (b)\
+d) Neither (a) nor (b)
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que3. With respect to AMQP, which of the following message delivery guarantees allow a message to be delivered certainly but also may be delivered multiple times?
+
+a) At-least-once\
+b) At-most-once\
+c) Exactly-once\
+d) Both (a) and (b)
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que4. In MQTT for IoT, the Publishers are \_\_\_\_\_\_\_\_\_\_.
+
+a) Lightweight sensors\
+b) Actuators\
+c) Processing units\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que5. Which of the following is NOT a method in MQTT?
+
+a) Publish\
+b) Connect\
+c) Disconnect\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que6. CoAP has \_\_\_\_\_\_ modes for messaging.
+
+a) 2\
+b) 4\
+c) 8\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que7. State True or False.\
+CoAP architecture is divided into three sub-layers. The messaging sub-layer is responsible for reliability and duplication of messages, while the request-response sub-layer is responsible for communication. The last layer, which is optional, is responsible for user registration.
+
+a) True\
+b) False
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que8. What is the full form of XMPP in IoT?
+
+a) Extensible Markup Page Processing\
+b) Extensible Messaging and Presence Protocol\
+c) Both (a) and (b)\
+d) Neither (a) nor (b)
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que9. State whether the following statement is True or False.\
+Statement: XMPP is not an open standard protocol.
+
+a) False\
+b) True
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que10. What is/are not frame type of the AMQP protocol?
+
+a) Origin\
+b) Destination\
+c) Advance\
+d) All of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que11. What is the basic unit of data in the AMQP protocol?
+
+a) Chunk\
+b) Byte\
+c) Packet\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que12. Which of the following is/are exchange types in AMQP?
+
+a) Direct\
+b) Fan-out\
+c) Topic\
+d) All of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que13. Which of the following is/are not an application of 6LoWPAN?
+
+a) IoT\
+b) IIoT\
+c) Both (a) and (b)\
+d) Neither (a) nor (b)
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que14. The OSI model has \_\_\_\_\_\_\_\_\_\_ layers.
+
+a) 6\
+b) 9\
+c) 4\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+***
+
+Que15. The “Destination Address” in the IPv4 packet represents which of the following?
+
+a) The destination node address of the packet\
+b) The intermediate hop in the network\
+c) Both (a) and (b)\
+d) None of these
+
+[View Answer](https://my.progiez.com/courses/introduction-to-internet-of-things-answers/)
+
+
 ## _Introduction To Internet Of Things Week 2 Nptel Answers (July-Dec 2025)_
 
 ***
