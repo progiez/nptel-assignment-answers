@@ -2,6 +2,62 @@
 
 Are you looking for NPTEL Introduction to Large Language Models Week 02 Assignment Answers? This repository will help you find your answers and solutions for Week 02 of the Introduction to Large Language Models course. We provide detailed solutions to help you complete your assignments efficiently.
 
+## Introduction to Large Language Models Week 2 Answers (Jan-Apr 2026)
+
+Que1. A language model that conditions each word on the previous three words is equivalent to which Markov model?\
+a) First-order\
+b) Second-order\
+c) Third-order\
+d) Fourth-order
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)**
+
+Que2. Which smoothing technique leverages the number of unique contexts a word appears in?\
+a) Good-Turing\
+b) Add-k\
+c) Kneser-Ney\
+d) Absolute Discounting
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)**
+
+Que3. Using a language model inside a machine translation system to measure BLEU score is an example of:\
+a) Intrinsic evaluation\
+b) Extrinsic evaluation\
+c) Perplexity evaluation\
+d) Likelihood estimation
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)**
+
+Que4. Assuming a bi-gram language model, calculate the probability of the sentence:\
+`<s> the dragon casts fire </s>`\
+Ignore the unigram probability of P(`<s>`) in your calculation.\
+a) 2/37\
+b) 1/27\
+c) 1/36\
+d) None of the above
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)**
+
+Que5. Using add-one smoothing, compute the probability of the sentence:\
+`<s> the dragon casts fire </s>`\
+Assume vocabulary size V includes all unique words (excluding `<s>`, `</s>`).\
+a) 1/7150\
+b) 1/35\
+c) 1/67\
+d) 1/9900
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)**
+
+Que6. Using the smoothed probability, compute the perplexity of:\
+`<s> the dragon casts fire </s>`\
+(Exclude `<s>` and `</s>` from word count.)\
+a) 90001/5\
+b) 71501/4\
+c) 351/5\
+d) 99001/4
+
+**[**View Answer**](https://my.progiez.com/courses/introduction-to-large-language-models-nptel-answers/)**
+
 
 ## Introduction to Large Language Models Week 2 Answers (July-Dec 2025)
 
@@ -92,3 +148,4 @@ d) None of these
 [Click here for all nptel assignment answers](https://progiez.com/nptel-assignment-answers)
 
 These are Introduction to Large Language Models Week 2 Answers
+
